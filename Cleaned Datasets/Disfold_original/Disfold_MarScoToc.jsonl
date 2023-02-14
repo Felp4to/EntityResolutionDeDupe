@@ -1,0 +1,960 @@
+{"Name":"shell plc","MasterCap":"2076000000000","Country":"united kingdom","Industry":"oil  gas integrated","Sector":"energy"}
+{"Name":"astrazeneca plc","MasterCap":"2017000000000","Country":"united kingdom","Industry":"drug manufacturersgeneral","Sector":"healthcare"}
+{"Name":"linde plc","MasterCap":"1660000000000","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"hsbc holdings plc","MasterCap":"1401000000000","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"rio tinto group","MasterCap":"1258000000000","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"unilever plc","MasterCap":"1178000000000","Country":"united kingdom","Industry":"household  personal products","Sector":"consumer staples"}
+{"Name":"diageo plc","MasterCap":"1155000000000","Country":"united kingdom","Industry":"beverageswineries  distilleries","Sector":"consumer staples"}
+{"Name":"glaxosmithkline plc","MasterCap":"1099000000000","Country":"united kingdom","Industry":"drug manufacturersgeneral","Sector":"healthcare"}
+{"Name":"british american tobacco plc","MasterCap":"1014000000000","Country":"united kingdom","Industry":"tobacco","Sector":"consumer staples"}
+{"Name":"bp plc","MasterCap":"962000000000","Country":"united kingdom","Industry":"oil  gas integrated","Sector":"energy"}
+{"Name":"aon plc","MasterCap":"733000000000","Country":"united kingdom","Industry":"insurance brokers","Sector":"financials"}
+{"Name":"anglo american plc","MasterCap":"714000000000","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"reckitt benckiser group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"household  personal products","Sector":"consumer staples"}
+{"Name":"relx plc","MasterCap":"585000000000","Country":"united kingdom","Industry":"publishing","Sector":"communication services"}
+{"Name":"ihs markit ltd","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"national grid plc","MasterCap":"558000000000","Country":"united kingdom","Industry":"utilitiesdiversified","Sector":"utilities"}
+{"Name":"london stock exchange group plc","MasterCap":"533000000000","Country":"united kingdom","Industry":"financial data  stock exchanges","Sector":"financials"}
+{"Name":"general accident plc","MasterCap":"514000000000","Country":"united kingdom","Industry":"insuranceproperty  casualty","Sector":"financials"}
+{"Name":"vodafone group plc","MasterCap":"457000000000","Country":"united kingdom","Industry":"telecom services","Sector":"communication services"}
+{"Name":"lloyds banking group plc","MasterCap":"437000000000","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"prudential plc","MasterCap":"390000000000","Country":"united kingdom","Industry":"insurancelife","Sector":"financials"}
+{"Name":"compass group plc","MasterCap":"377000000000","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"natwest group plc","MasterCap":"327000000000","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"barclays plc","MasterCap":"321000000000","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"ferguson plc","MasterCap":"305000000000","Country":"united kingdom","Industry":"industrial distribution","Sector":"industrials"}
+{"Name":"bae syste plc","MasterCap":"305000000000","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"willis towers watson plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"insurance brokers","Sector":"financials"}
+{"Name":"ashtead group plc","MasterCap":"282000000000","Country":"united kingdom","Industry":"rental  leasing services","Sector":"industrials"}
+{"Name":"tesco plc","MasterCap":"281000000000","Country":"united kingdom","Industry":"grocery stores","Sector":"consumer staples"}
+{"Name":"bt group plc","MasterCap":"240000000000","Country":"united kingdom","Industry":"telecom services","Sector":"communication services"}
+{"Name":"sse plc","MasterCap":"237000000000","Country":"united kingdom","Industry":"utilitiesdiversified","Sector":"utilities"}
+{"Name":"cocacola europacific partners plc","MasterCap":"225000000000","Country":"united kingdom","Industry":"beveragesnonalcoholic","Sector":"consumer staples"}
+{"Name":"cnh industrial nv","MasterCap":"219000000000","Country":"united kingdom","Industry":"farm  heavy construction machinery","Sector":"industrials"}
+{"Name":"legal  general group plc","MasterCap":"213000000000","Country":"united kingdom","Industry":"insurancelife","Sector":"financials"}
+{"Name":"segro plc","MasterCap":"210000000000","Country":"united kingdom","Industry":"reitindustrial","Sector":"real estate"}
+{"Name":"standard chartered plc","MasterCap":"207000000000","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"imperial brands plc","MasterCap":"201000000000","Country":"united kingdom","Industry":"tobacco","Sector":"consumer staples"}
+{"Name":"aviva plc","MasterCap":"198000000000","Country":"united kingdom","Industry":"insurancediversified","Sector":"financials"}
+{"Name":"croda international plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"scottish mortgage investment trust plc","MasterCap":"187000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"antofagasta plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"copper","Sector":"basic materials"}
+{"Name":"3i group plc","MasterCap":"176000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"associated british foods plc","MasterCap":"174000000000","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"wpp plc","MasterCap":"157000000000","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"smith  nephew plc","MasterCap":"140000000000","Country":"united kingdom","Industry":"medical devices","Sector":"healthcare"}
+{"Name":"liberty global plc","MasterCap":"136000000000","Country":"united kingdom","Industry":"entertainment","Sector":"communication services"}
+{"Name":"bunzl plc","MasterCap":"130000000000","Country":"united kingdom","Industry":"food distribution","Sector":"consumer staples"}
+{"Name":"rentokil initial plc","MasterCap":"127000000000","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"intercontinental hotels group plc","MasterCap":"122000000000","Country":"united kingdom","Industry":"lodging","Sector":"consumer discretionary"}
+{"Name":"evraz plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"steel","Sector":"basic materials"}
+{"Name":"spiraxsarco engineering plc","MasterCap":"121000000000","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"informa plc","MasterCap":"118000000000","Country":"united kingdom","Industry":"publishing","Sector":"communication services"}
+{"Name":"ocado group plc","MasterCap":"115000000000","Country":"united kingdom","Industry":"grocery stores","Sector":"consumer staples"}
+{"Name":"intertek group plc","MasterCap":"110000000000","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"rollsroyce holdings plc","MasterCap":"109000000000","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"schroders plc","MasterCap":"104000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"next plc","MasterCap":"104000000000","Country":"united kingdom","Industry":"apparel retail","Sector":"consumer discretionary"}
+{"Name":"united utilities group plc","MasterCap":"103000000000","Country":"united kingdom","Industry":"utilitiesregulated water","Sector":"utilities"}
+{"Name":"st jamess place plc","MasterCap":"102000000000","Country":"united kingdom","Industry":"financial conglomerates","Sector":"financials"}
+{"Name":"severn trent plc","MasterCap":"101000000000","Country":"united kingdom","Industry":"utilitiesregulated water","Sector":"utilities"}
+{"Name":"jd sports fashion plc","MasterCap":"100000000000","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"admiral group plc","MasterCap":"99000000000","Country":"united kingdom","Industry":"insuranceproperty  casualty","Sector":"financials"}
+{"Name":"the sage group plc","MasterCap":"98000000000","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"wm morrison supermarkets plc","MasterCap":"oct 1 2021","Country":"united kingdom","Industry":"grocery stores","Sector":"consumer staples"}
+{"Name":"aveva group plc","MasterCap":"96000000000","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"mondi plc","MasterCap":"95000000000","Country":"united kingdom","Industry":"paper  paper products","Sector":"basic materials"}
+{"Name":"standard life aberdeen plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"pentair plc","MasterCap":"93000000000","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"persimmon plc","MasterCap":"90000000000","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"burberry group plc","MasterCap":"89000000000","Country":"united kingdom","Industry":"luxury goods","Sector":"consumer discretionary"}
+{"Name":"novocure limited","MasterCap":"85000000000","Country":"united kingdom","Industry":"medical instruments  supplies","Sector":"healthcare"}
+{"Name":"endava plc","MasterCap":"81000000000","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"phoenix group holdings plc","MasterCap":"81000000000","Country":"united kingdom","Industry":"insurancelife","Sector":"financials"}
+{"Name":"auto trader group plc","MasterCap":"80000000000","Country":"united kingdom","Industry":"internet content  information","Sector":"communication services"}
+{"Name":"nepi rockcastle plc","MasterCap":"79000000000","Country":"united kingdom","Industry":"real estatediversified","Sector":"real estate"}
+{"Name":"melrose industries plc","MasterCap":"79000000000","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"pershing square holdings ord","MasterCap":"78000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"capri holdings limited","MasterCap":"77000000000","Country":"united kingdom","Industry":"apparel manufacturing","Sector":"consumer discretionary"}
+{"Name":"meggitt plc","MasterCap":"77000000000","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"land securities group plc","MasterCap":"77000000000","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"mg plc","MasterCap":"75000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"smiths group plc","MasterCap":"75000000000","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"whitbread plc","MasterCap":"75000000000","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"pearson plc","MasterCap":"75000000000","Country":"united kingdom","Industry":"publishing","Sector":"communication services"}
+{"Name":"j sainsbury plc","MasterCap":"74000000000","Country":"united kingdom","Industry":"grocery stores","Sector":"consumer staples"}
+{"Name":"allfunds group plc","MasterCap":"72000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"kingfisher plc","MasterCap":"71000000000","Country":"united kingdom","Industry":"home improvement retail","Sector":"consumer discretionary"}
+{"Name":"rightmove plc","MasterCap":"70000000000","Country":"united kingdom","Industry":"internet content  information","Sector":"communication services"}
+{"Name":"airtel africa plc","MasterCap":"70000000000","Country":"united kingdom","Industry":"telecom services","Sector":"communication services"}
+{"Name":"barratt developments plc","MasterCap":"70000000000","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"intermediate capital group plc","MasterCap":"67000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"electrocomponents plc","MasterCap":"66000000000","Country":"united kingdom","Industry":"industrial distribution","Sector":"industrials"}
+{"Name":"british land company plc","MasterCap":"65000000000","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"endeavour mining corporation","MasterCap":"63000000000","Country":"united kingdom","Industry":"gold","Sector":"basic materials"}
+{"Name":"taylor wimpey plc","MasterCap":"62000000000","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"hargreaves lansdown plc","MasterCap":"62000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"the unite group plc","MasterCap":"61000000000","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"janus henderson group plc","MasterCap":"61000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"the berkeley group holdings plc","MasterCap":"60000000000","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"fc investment trust plc","MasterCap":"60000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"pepco group nv","MasterCap":"60000000000","Country":"united kingdom","Industry":"discount stores","Sector":"consumer staples"}
+{"Name":"howden joinery group plc","MasterCap":"59000000000","Country":"united kingdom","Industry":"furnishings fixtures  appliances","Sector":"consumer discretionary"}
+{"Name":"nvent electric plc","MasterCap":"59000000000","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"investec plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"pennon group plc","MasterCap":"59000000000","Country":"united kingdom","Industry":"utilitiesregulated water","Sector":"utilities"}
+{"Name":"ds smith plc","MasterCap":"57000000000","Country":"united kingdom","Industry":"packaging  containers","Sector":"consumer discretionary"}
+{"Name":"the weir group plc","MasterCap":"57000000000","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"dechra pharmaceuticals plc","MasterCap":"57000000000","Country":"united kingdom","Industry":"drug manufacturersgeneral","Sector":"healthcare"}
+{"Name":"sareum holdings plc","MasterCap":"56000000000","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"convatec group plc","MasterCap":"54000000000","Country":"united kingdom","Industry":"medical instruments  supplies","Sector":"healthcare"}
+{"Name":"tritax big box reit plc","MasterCap":"54000000000","Country":"united kingdom","Industry":"reitretail","Sector":"real estate"}
+{"Name":"farfetch limited","MasterCap":"52000000000","Country":"united kingdom","Industry":"internet retail","Sector":"consumer discretionary"}
+{"Name":"rit capital partners","MasterCap":"52000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"mimecast limited","MasterCap":"51000000000","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"international game technology plc","MasterCap":"50000000000","Country":"united kingdom","Industry":"gambling","Sector":"consumer discretionary"}
+{"Name":"direct line insurance group plc","MasterCap":"49000000000","Country":"united kingdom","Industry":"insurancediversified","Sector":"financials"}
+{"Name":"derwent london plc","MasterCap":"48000000000","Country":"united kingdom","Industry":"reitoffice","Sector":"real estate"}
+{"Name":"imi plc","MasterCap":"47000000000","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"johnson matthey plc","MasterCap":"47000000000","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"hicl infrastructure plc","MasterCap":"45000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"wizz air holdings plc","MasterCap":"45000000000","Country":"united kingdom","Industry":"airlines","Sector":"industrials"}
+{"Name":"atotech ltd","MasterCap":"44000000000","Country":"united kingdom","Industry":"electronic components","Sector":"technology"}
+{"Name":"computacenter plc","MasterCap":"44000000000","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"frasers group plc","MasterCap":"43000000000","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"man group plc","MasterCap":"43000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"royal mail plc","MasterCap":"43000000000","Country":"united kingdom","Industry":"integrated freight  logistics","Sector":"industrials"}
+{"Name":"softcat plc","MasterCap":"43000000000","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"itv plc","MasterCap":"43000000000","Country":"united kingdom","Industry":"broadcasting","Sector":"communication services"}
+{"Name":"diploma plc","MasterCap":"42000000000","Country":"united kingdom","Industry":"industrial distribution","Sector":"industrials"}
+{"Name":"rotork plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"abcam plc","MasterCap":"42000000000","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"future plc","MasterCap":"42000000000","Country":"united kingdom","Industry":"publishing","Sector":"communication services"}
+{"Name":"darktrace plc","MasterCap":"41000000000","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"3i infrastructure plc","MasterCap":"41000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"drax group plc","MasterCap":"41000000000","Country":"united kingdom","Industry":"utilitiesrenewable","Sector":"utilities"}
+{"Name":"ig group holdings plc","MasterCap":"40000000000","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"polar capital technology trust","MasterCap":"40000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"nomad foods limited","MasterCap":"40000000000","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"tate  lyle plc","MasterCap":"40000000000","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"livanova plc","MasterCap":"39000000000","Country":"united kingdom","Industry":"medical devices","Sector":"healthcare"}
+{"Name":"william hill plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"gambling","Sector":"consumer discretionary"}
+{"Name":"bellway plc","MasterCap":"39000000000","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"alliance trust plc","MasterCap":"39000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"greencoat uk wind plc","MasterCap":"39000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"atlantica sustainable infrastructure plc","MasterCap":"38000000000","Country":"united kingdom","Industry":"utilitiesrenewable","Sector":"utilities"}
+{"Name":"safestore holdings plc","MasterCap":"37000000000","Country":"united kingdom","Industry":"reitindustrial","Sector":"real estate"}
+{"Name":"homeserve plc","MasterCap":"37000000000","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"the renewables infrastructure group limited","MasterCap":"37000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"international public partnerships ld","MasterCap":"37000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"renishaw plc","MasterCap":"36000000000","Country":"united kingdom","Industry":"scientific  technical instruments","Sector":"technology"}
+{"Name":"travis perkins plc","MasterCap":"36000000000","Country":"united kingdom","Industry":"building products  equipment","Sector":"industrials"}
+{"Name":"technipfmc plc","MasterCap":"35000000000","Country":"united kingdom","Industry":"oil  gas equipment  services","Sector":"energy"}
+{"Name":"watches of switzerland group plc","MasterCap":"35000000000","Country":"united kingdom","Industry":"luxury goods","Sector":"consumer discretionary"}
+{"Name":"big yellow group plc","MasterCap":"35000000000","Country":"united kingdom","Industry":"reitindustrial","Sector":"real estate"}
+{"Name":"beazley plc","MasterCap":"34000000000","Country":"united kingdom","Industry":"insuranceproperty  casualty","Sector":"financials"}
+{"Name":"smithson investment trust plc","MasterCap":"34000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"monks investment trust","MasterCap":"34000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"inchcape plc","MasterCap":"34000000000","Country":"united kingdom","Industry":"auto  truck dealerships","Sector":"consumer discretionary"}
+{"Name":"jet2 plc","MasterCap":"33000000000","Country":"united kingdom","Industry":"travel services","Sector":"consumer discretionary"}
+{"Name":"osb group plc","MasterCap":"33000000000","Country":"united kingdom","Industry":"mortgage finance","Sector":"financials"}
+{"Name":"greggs plc","MasterCap":"33000000000","Country":"united kingdom","Industry":"grocery stores","Sector":"consumer staples"}
+{"Name":"easyjet plc","MasterCap":"33000000000","Country":"united kingdom","Industry":"airlines","Sector":"industrials"}
+{"Name":"virgin money uk plc","MasterCap":"33000000000","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"londonmetric property plc","MasterCap":"33000000000","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"dr martens plc","MasterCap":"31000000000","Country":"united kingdom","Industry":"footwear  accessories","Sector":"consumer discretionary"}
+{"Name":"quilter plc","MasterCap":"31000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"games workshop group plc","MasterCap":"31000000000","Country":"united kingdom","Industry":"leisure","Sector":"consumer discretionary"}
+{"Name":"shaftesbury plc","MasterCap":"31000000000","Country":"united kingdom","Industry":"reitretail","Sector":"real estate"}
+{"Name":"ultra electronics holdings plc","MasterCap":"31000000000","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"britvic plc","MasterCap":"29000000000","Country":"united kingdom","Industry":"beveragesnonalcoholic","Sector":"consumer staples"}
+{"Name":"dunelm group plc","MasterCap":"29000000000","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"energean plc","MasterCap":"28000000000","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"worldwide healthcare","MasterCap":"27000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"fevertree drinks plc","MasterCap":"27000000000","Country":"united kingdom","Industry":"beveragesnonalcoholic","Sector":"consumer staples"}
+{"Name":"vistry group plc","MasterCap":"27000000000","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"hays plc","MasterCap":"26000000000","Country":"united kingdom","Industry":"staffing  employment services","Sector":"industrials"}
+{"Name":"grainger plc","MasterCap":"26000000000","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"itm power plc","MasterCap":"26000000000","Country":"united kingdom","Industry":"electronic components","Sector":"technology"}
+{"Name":"primary health properties plc","MasterCap":"26000000000","Country":"united kingdom","Industry":"reithealthcare facilities","Sector":"real estate"}
+{"Name":"witan investment trust plc","MasterCap":"26000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"caledonia investments plc","MasterCap":"25000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"pershing square holdings ltd","MasterCap":"sept 1 2018","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"deliveroo plc","MasterCap":"25000000000","Country":"united kingdom","Industry":"internet retail","Sector":"consumer discretionary"}
+{"Name":"cranswick plc","MasterCap":"25000000000","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"great portland estates plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"reitoffice","Sector":"real estate"}
+{"Name":"hgcapital trust plc","MasterCap":"24000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"zimplats holdings limited","MasterCap":"24000000000","Country":"united kingdom","Industry":"other precious metals  mining","Sector":"basic materials"}
+{"Name":"wh smith plc","MasterCap":"24000000000","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"finsbury growth  income trust plc","MasterCap":"24000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"redrow plc","MasterCap":"24000000000","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"playtech plc","MasterCap":"24000000000","Country":"united kingdom","Industry":"gambling","Sector":"consumer discretionary"}
+{"Name":"close brothers group plc","MasterCap":"24000000000","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"pets at home group plc","MasterCap":"23000000000","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"ssp group plc","MasterCap":"23000000000","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"assura plc","MasterCap":"23000000000","Country":"united kingdom","Industry":"reithealthcare facilities","Sector":"real estate"}
+{"Name":"diversey holdings ltd","MasterCap":"23000000000","Country":"united kingdom","Industry":"personal services","Sector":"consumer discretionary"}
+{"Name":"the city of london investment trust plc","MasterCap":"23000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"serco group plc","MasterCap":"23000000000","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"manchester united plc","MasterCap":"23000000000","Country":"united kingdom","Industry":"leisure","Sector":"consumer discretionary"}
+{"Name":"dominos pizza group plc","MasterCap":"23000000000","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"vivo energy plc","MasterCap":"22000000000","Country":"united kingdom","Industry":"oil  gas refining  marketing","Sector":"energy"}
+{"Name":"qinetiq group plc","MasterCap":"22000000000","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"mercantile investment trust the plc","MasterCap":"22000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"sequoia economic infrastructure inc ord","MasterCap":"22000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"balfour beatty plc","MasterCap":"22000000000","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"kainos group plc","MasterCap":"22000000000","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"aggreko plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"rental  leasing services","Sector":"industrials"}
+{"Name":"personal assets trust","MasterCap":"21000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"babcock international group plc","MasterCap":"21000000000","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"ashmore group plc","MasterCap":"21000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"murray international trust plc","MasterCap":"21000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"pagegroup plc","MasterCap":"21000000000","Country":"united kingdom","Industry":"staffing  employment services","Sector":"industrials"}
+{"Name":"harbourvest global private equity limited","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"gamesys group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"gambling","Sector":"consumer discretionary"}
+{"Name":"john laing group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"dixons carphone plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"victrex plc","MasterCap":"20000000000","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"s4 capital plc","MasterCap":"20000000000","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"savills plc","MasterCap":"20000000000","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"asos plc","MasterCap":"20000000000","Country":"united kingdom","Industry":"internet retail","Sector":"consumer discretionary"}
+{"Name":"brewin dolphin holdings plc","MasterCap":"20000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"calisen plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"jpmorgan american investment trust plc","MasterCap":"19000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"burford capital limited","MasterCap":"19000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"yougov plc","MasterCap":"19000000000","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"capital  counties properties plc","MasterCap":"19000000000","Country":"united kingdom","Industry":"reitretail","Sector":"real estate"}
+{"Name":"sanne group plc","MasterCap":"19000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"secure income reit ord","MasterCap":"19000000000","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"national express group plc","MasterCap":"19000000000","Country":"united kingdom","Industry":"railroads","Sector":"industrials"}
+{"Name":"globaldata plc","MasterCap":"19000000000","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"polypipe group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"building products  equipment","Sector":"industrials"}
+{"Name":"tr property investment trust","MasterCap":"18000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"countryside properties plc","MasterCap":"18000000000","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"spirent communications plc","MasterCap":"18000000000","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"rws holdings plc","MasterCap":"18000000000","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"integrafin holdings plc","MasterCap":"18000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"mitchells  butlers plc","MasterCap":"18000000000","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"the bankers investment trust plc","MasterCap":"18000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"ascential plc","MasterCap":"18000000000","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"micro focus international plc","MasterCap":"18000000000","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"hammerson plc","MasterCap":"17000000000","Country":"united kingdom","Industry":"reitretail","Sector":"real estate"}
+{"Name":"sirius real estate limited","MasterCap":"17000000000","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"marshalls plc","MasterCap":"17000000000","Country":"united kingdom","Industry":"building materials","Sector":"basic materials"}
+{"Name":"jpmorgan emerging markets investment trust plc","MasterCap":"17000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"ceres power holdings plc","MasterCap":"17000000000","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"blackrock world mining trust plc","MasterCap":"17000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"impax environmental markets trust plc","MasterCap":"17000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"james halstead plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"building products  equipment","Sector":"industrials"}
+{"Name":"hipgnosis songs fund limited","MasterCap":"17000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"alphawave ip group plc","MasterCap":"17000000000","Country":"united kingdom","Industry":"semiconductors","Sector":"technology"}
+{"Name":"impax asset management group plc","MasterCap":"17000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"paragon banking group plc","MasterCap":"17000000000","Country":"united kingdom","Industry":"mortgage finance","Sector":"financials"}
+{"Name":"contourglobal plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"utilitiesrenewable","Sector":"utilities"}
+{"Name":"synthomer plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"oxford instruments plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"semiconductor equipment  materials","Sector":"technology"}
+{"Name":"aj bell plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"gamma communications plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"telecom services","Sector":"communication services"}
+{"Name":"cvs group plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"personal services","Sector":"consumer discretionary"}
+{"Name":"workspace group plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"reitoffice","Sector":"real estate"}
+{"Name":"rsa insurance group plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"insuranceproperty  casualty","Sector":"financials"}
+{"Name":"auction technology group plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"daily mail and general trust plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"publishing","Sector":"communication services"}
+{"Name":"blue prism group plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"fidelity european values plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"helios towers plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"telecom services","Sector":"communication services"}
+{"Name":"next fifteen communications group plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"clinigen group plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"medical distribution","Sector":"healthcare"}
+{"Name":"trainline plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"travel services","Sector":"consumer discretionary"}
+{"Name":"aberforth smaller companies trust plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"fdm group holdings plc","MasterCap":"16000000000","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"herald investment trust","MasterCap":"15000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"learning technologies group plc","MasterCap":"15000000000","Country":"united kingdom","Industry":"education  training services","Sector":"consumer staples"}
+{"Name":"bodycote plc","MasterCap":"15000000000","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"atrium european real estate ltd","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"telecom plus plc","MasterCap":"15000000000","Country":"united kingdom","Industry":"utilitiesdiversified","Sector":"utilities"}
+{"Name":"draper esprit plc","MasterCap":"15000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"tp icap plc","MasterCap":"15000000000","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"hill  smith holdings plc","MasterCap":"15000000000","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"bytes technology group plc","MasterCap":"15000000000","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"talktalk telecom group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"telecom services","Sector":"communication services"}
+{"Name":"globalworth real estate investments limited","MasterCap":"15000000000","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"rathbone brothers plc","MasterCap":"15000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"uk commercial property reit limited","MasterCap":"15000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"bbgi global infrastructure sa","MasterCap":"15000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"jupiter fund management plc","MasterCap":"15000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"octopus titan vct plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"jtc plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"aston martin lagonda global holdings plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"auto manufacturers","Sector":"consumer discretionary"}
+{"Name":"coats group plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"textile manufacturing","Sector":"consumer discretionary"}
+{"Name":"john wood group plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"oil  gas integrated","Sector":"energy"}
+{"Name":"cairn energy plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"clarkson plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"marine shipping","Sector":"industrials"}
+{"Name":"edinburgh investment trust plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"serica energy plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"morgan sindall group plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"avi global trust plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"syncona limited","MasterCap":"14000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"euromoney institutional investor plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"financial data  stock exchanges","Sector":"financials"}
+{"Name":"redde northgate plc","MasterCap":"14000000000","Country":"united kingdom","Industry":"rental  leasing services","Sector":"industrials"}
+{"Name":"ferroglobe plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"victoria plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"furnishings fixtures  appliances","Sector":"consumer discretionary"}
+{"Name":"murray income trust plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"moneysupermarketcom group plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"internet content  information","Sector":"communication services"}
+{"Name":"centamin plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"gold","Sector":"basic materials"}
+{"Name":"vectura group plc","MasterCap":"oct 1 2021","Country":"united kingdom","Industry":"drug manufacturersgeneral","Sector":"healthcare"}
+{"Name":"gb group plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"supermarket income reit plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"reitretail","Sector":"real estate"}
+{"Name":"currys plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"immunocore holdings plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"apax global alpha limited","MasterCap":"13000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"premier foods plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"thg plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"hilton food group plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"jd wetherspoon plc","MasterCap":"13000000000","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"biffa plc","MasterCap":"12000000000","Country":"united kingdom","Industry":"waste management","Sector":"industrials"}
+{"Name":"gcp student living plc","MasterCap":"dec 1 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"gcp infrastructure investments","MasterCap":"12000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"ti fluid syste plc","MasterCap":"12000000000","Country":"united kingdom","Industry":"auto parts","Sector":"consumer discretionary"}
+{"Name":"merian chrysalis investment co ltd","MasterCap":"12000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"spire healthcare group plc","MasterCap":"12000000000","Country":"united kingdom","Industry":"medical care facilities","Sector":"healthcare"}
+{"Name":"essentra plc","MasterCap":"12000000000","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"law debenture corporation plc","MasterCap":"12000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"clipper logistics plc","MasterCap":"12000000000","Country":"united kingdom","Industry":"integrated freight  logistics","Sector":"industrials"}
+{"Name":"ip group plc","MasterCap":"12000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"vesuvius plc","MasterCap":"12000000000","Country":"united kingdom","Industry":"steel","Sector":"basic materials"}
+{"Name":"st modwen properties plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"real estatedevelopment","Sector":"real estate"}
+{"Name":"stoltnielsen ltd","MasterCap":"12000000000","Country":"united kingdom","Industry":"marine shipping","Sector":"industrials"}
+{"Name":"european opportunities trust plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"lxi reit","MasterCap":"12000000000","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"bmo commercial property trust","MasterCap":"12000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"bb healthcare trust plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"just group plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"insurancespecialty","Sector":"financials"}
+{"Name":"schroder asiapacific fund plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"sumo group plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"electronic gaming  multimedia","Sector":"communication services"}
+{"Name":"myovant sciences ltd","MasterCap":"11000000000","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"morgan advanced materials plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"smart metering syste plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"edinburgh worldwide investment trust plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"emis group plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"health information services","Sector":"healthcare"}
+{"Name":"vinacapital vietnam opportunity fund limited","MasterCap":"11000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"kape technologies plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"jpmorgan euro small co trust plc","MasterCap":"dec 1 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"alpha fx group plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"cheing group plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"cls holdings plc","MasterCap":"11000000000","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"volution group plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"building products  equipment","Sector":"industrials"}
+{"Name":"scottish american investment company plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"pz cussons plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"household  personal products","Sector":"consumer staples"}
+{"Name":"blackrock smaller companies trust","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"jpmorgan japanese investment trust plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"digital 9 infrastructure plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"aberdeen total dynamic dividend fund","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"standard life private equity trust plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"mitie group plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"icg enterprise trust plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"4imprint group plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"sdcl energy efficiency income trust plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"caretech holdings plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"medical care facilities","Sector":"healthcare"}
+{"Name":"global ship lease inc","MasterCap":"10000000000","Country":"united kingdom","Industry":"marine shipping","Sector":"industrials"}
+{"Name":"capital gearing trust plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"liontrust asset management plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"bicycle therapeutics plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"stock spirits group plc","MasterCap":"nov 1 2021","Country":"united kingdom","Industry":"beverageswineries  distilleries","Sector":"consumer staples"}
+{"Name":"provident financial plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"credit services","Sector":"financials"}
+{"Name":"baillie gifford japan trust plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"focusrite plc","MasterCap":"10000000000","Country":"united kingdom","Industry":"leisure","Sector":"consumer discretionary"}
+{"Name":"temple bar investment trust plc","MasterCap":"9987 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"pantheon resources plc","MasterCap":"9970 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"cmc markets plc","MasterCap":"9852 m","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"tullow oil plc","MasterCap":"9835 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"tr european growth trust plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"henderson smaller companies investment trust","MasterCap":"9606 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"ienergizer limited","MasterCap":"9575 m","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"baillie gifford us growth trust plc","MasterCap":"9554 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"standard life uk smaller companies trust plc","MasterCap":"dec 1 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"warehouse reit plc","MasterCap":"9469 m","Country":"united kingdom","Industry":"reitindustrial","Sector":"real estate"}
+{"Name":"the merchants trust plc","MasterCap":"9464 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"schroder oriental income fund limited","MasterCap":"9456 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"nb private equity partners limited","MasterCap":"9372 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"jpmorgan global growth  income plc","MasterCap":"9316 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"elementis plc","MasterCap":"9285 m","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"ibstock plc","MasterCap":"9255 m","Country":"united kingdom","Industry":"building materials","Sector":"basic materials"}
+{"Name":"team17 group plc","MasterCap":"9207 m","Country":"united kingdom","Industry":"electronic gaming  multimedia","Sector":"communication services"}
+{"Name":"crest nicholson holdings plc","MasterCap":"9150 m","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"marlowe plc","MasterCap":"9063 m","Country":"united kingdom","Industry":"security  protection services","Sector":"industrials"}
+{"Name":"yellow cake plc","MasterCap":"9058 m","Country":"united kingdom","Industry":"uranium","Sector":"energy"}
+{"Name":"bh macro limited gbp","MasterCap":"9045 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"blackrock throgmorton trust plc","MasterCap":"9040 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"discoverie group plc","MasterCap":"9039 m","Country":"united kingdom","Industry":"electronic components","Sector":"technology"}
+{"Name":"treatt plc","MasterCap":"9034 m","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"mccarthy  stone plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"medical care facilities","Sector":"healthcare"}
+{"Name":"equiniti group plc","MasterCap":"dec 1 2021","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"young  cos brewery plc","MasterCap":"8914 m","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"alternative credit investments plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"watkin jones plc","MasterCap":"8822 m","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"ergomed plc","MasterCap":"8702 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"bakkavor group plc","MasterCap":"8676 m","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"the rank group plc","MasterCap":"8538 m","Country":"united kingdom","Industry":"gambling","Sector":"consumer discretionary"}
+{"Name":"hochschild mining plc","MasterCap":"8523 m","Country":"united kingdom","Industry":"gold","Sector":"basic materials"}
+{"Name":"third point investors limited","MasterCap":"8366 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"alliance pharma plc","MasterCap":"8345 m","Country":"united kingdom","Industry":"drug manufacturersspecialty  generic","Sector":"healthcare"}
+{"Name":"polar capital holdings plc","MasterCap":"8303 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"centessa pharmaceuticals ltd","MasterCap":"8301 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"tyman plc","MasterCap":"8292 m","Country":"united kingdom","Industry":"building products  equipment","Sector":"industrials"}
+{"Name":"restore plc","MasterCap":"8288 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"ruffer investment company limited","MasterCap":"8278 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"pacific horizon investment trust","MasterCap":"8235 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"nextenergy solar ord","MasterCap":"8178 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"genius sports ltd","MasterCap":"8129 m","Country":"united kingdom","Industry":"internet content  information","Sector":"communication services"}
+{"Name":"mas real estate inc","MasterCap":"nov 1 2021","Country":"united kingdom","Industry":"real estatediversified","Sector":"real estate"}
+{"Name":"the vitec group plc","MasterCap":"8034 m","Country":"united kingdom","Industry":"consumer electronics","Sector":"technology"}
+{"Name":"ag barr plc","MasterCap":"7992 m","Country":"united kingdom","Industry":"beveragesnonalcoholic","Sector":"consumer staples"}
+{"Name":"advanced medical solutions group plc","MasterCap":"7937 m","Country":"united kingdom","Industry":"medical instruments  supplies","Sector":"healthcare"}
+{"Name":"the scottish investment trust plc","MasterCap":"7918 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"jpmorgan indian investment trust plc","MasterCap":"7859 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"keller group plc","MasterCap":"7781 m","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"reach plc","MasterCap":"7771 m","Country":"united kingdom","Industry":"publishing","Sector":"communication services"}
+{"Name":"bank of georgia group plc","MasterCap":"7771 m","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"mortgage advice bureau holdings plc","MasterCap":"7714 m","Country":"united kingdom","Industry":"mortgage finance","Sector":"financials"}
+{"Name":"target healthcare reit plc","MasterCap":"7696 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"sabre insurance group plc","MasterCap":"7664 m","Country":"united kingdom","Industry":"insurance brokers","Sector":"financials"}
+{"Name":"mp evans group plc","MasterCap":"7582 m","Country":"united kingdom","Industry":"farm products","Sector":"consumer staples"}
+{"Name":"hotel chocolat group plc","MasterCap":"7566 m","Country":"united kingdom","Industry":"confectioners","Sector":"consumer staples"}
+{"Name":"stagecoach group plc","MasterCap":"7511 m","Country":"united kingdom","Industry":"railroads","Sector":"industrials"}
+{"Name":"renew holdings plc","MasterCap":"7440 m","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"rak petroleum plc","MasterCap":"7374 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"asia dragon trust plc","MasterCap":"7370 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"oxford biomedica plc","MasterCap":"7347 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"dfs furniture plc","MasterCap":"7330 m","Country":"united kingdom","Industry":"furnishings fixtures  appliances","Sector":"consumer discretionary"}
+{"Name":"civitas social housing plc","MasterCap":"7298 m","Country":"united kingdom","Industry":"reitresidential","Sector":"real estate"}
+{"Name":"ideagen plc","MasterCap":"7284 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"forterra plc","MasterCap":"7255 m","Country":"united kingdom","Industry":"building materials","Sector":"basic materials"}
+{"Name":"harworth group plc","MasterCap":"7236 m","Country":"united kingdom","Industry":"real estatedevelopment","Sector":"real estate"}
+{"Name":"picton property income limited","MasterCap":"7222 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"empiric student property plc","MasterCap":"7213 m","Country":"united kingdom","Industry":"reitresidential","Sector":"real estate"}
+{"Name":"greatland gold plc","MasterCap":"7212 m","Country":"united kingdom","Industry":"gold","Sector":"basic materials"}
+{"Name":"goco group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"stenprop ltd","MasterCap":"nov 1 2021","Country":"united kingdom","Industry":"reitindustrial","Sector":"real estate"}
+{"Name":"craneware plc","MasterCap":"7189 m","Country":"united kingdom","Industry":"health information services","Sector":"healthcare"}
+{"Name":"integrated diagnostics holdings plc","MasterCap":"7180 m","Country":"united kingdom","Industry":"diagnostics  research","Sector":"healthcare"}
+{"Name":"bluefield solar income fund limited","MasterCap":"7175 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"sthree plc","MasterCap":"7171 m","Country":"united kingdom","Industry":"staffing  employment services","Sector":"industrials"}
+{"Name":"twentyfour income ord","MasterCap":"7165 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"fw thorpe plc","MasterCap":"7149 m","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"torm plc","MasterCap":"7138 m","Country":"united kingdom","Industry":"oil  gas midstream","Sector":"energy"}
+{"Name":"north atlantic smaller companies","MasterCap":"7129 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"the prs reit plc","MasterCap":"7055 m","Country":"united kingdom","Industry":"reitresidential","Sector":"real estate"}
+{"Name":"scion tech growth i","MasterCap":"7040 m","Country":"united kingdom","Industry":"shell companies","Sector":"financials"}
+{"Name":"boussard  gavaudan holdings eur","MasterCap":"6953 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"navigator holdings ltd","MasterCap":"6918 m","Country":"united kingdom","Industry":"oil  gas midstream","Sector":"energy"}
+{"Name":"fd technologies plc","MasterCap":"6905 m","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"baillie gifford shin nippon plc","MasterCap":"6902 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"mountview estates plc","MasterCap":"6884 m","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"ncc group plc","MasterCap":"6863 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"imimobile plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"john menzies plc","MasterCap":"6825 m","Country":"united kingdom","Industry":"airports  air services","Sector":"industrials"}
+{"Name":"johnson service group plc","MasterCap":"6807 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"marstons plc","MasterCap":"6714 m","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"hunting plc","MasterCap":"6699 m","Country":"united kingdom","Industry":"oil  gas equipment  services","Sector":"energy"}
+{"Name":"ecclesiastical insurance office plc","MasterCap":"6668 m","Country":"united kingdom","Industry":"insurancelife","Sector":"financials"}
+{"Name":"senior plc","MasterCap":"6626 m","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"enquest plc","MasterCap":"6615 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"robert walters plc","MasterCap":"6602 m","Country":"united kingdom","Industry":"staffing  employment services","Sector":"industrials"}
+{"Name":"blackrock greater europe investment trust plc","MasterCap":"6598 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"nichols plc","MasterCap":"6570 m","Country":"united kingdom","Industry":"beveragesnonalcoholic","Sector":"consumer staples"}
+{"Name":"arrow global group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"halfords group plc","MasterCap":"6501 m","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"rdi reit plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"urban logistics reit plc","MasterCap":"6440 m","Country":"united kingdom","Industry":"reitindustrial","Sector":"real estate"}
+{"Name":"frontier developments plc","MasterCap":"6356 m","Country":"united kingdom","Industry":"electronic gaming  multimedia","Sector":"communication services"}
+{"Name":"odfjell drilling ltd","MasterCap":"6347 m","Country":"united kingdom","Industry":"oil  gas drilling","Sector":"energy"}
+{"Name":"helical plc","MasterCap":"6321 m","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"genel energy plc","MasterCap":"6319 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"henderson far east income ltd","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"wincanton plc","MasterCap":"6297 m","Country":"united kingdom","Industry":"integrated freight  logistics","Sector":"industrials"}
+{"Name":"midwynd international investment trust plc","MasterCap":"6259 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"alfa financial software holdings plc","MasterCap":"6223 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"the restaurant group plc","MasterCap":"6163 m","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"schroder asian total return investment company plc","MasterCap":"6121 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"tritax eurobox plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"reitindustrial","Sector":"real estate"}
+{"Name":"sig plc","MasterCap":"6047 m","Country":"united kingdom","Industry":"industrial distribution","Sector":"industrials"}
+{"Name":"chesnara plc","MasterCap":"5995 m","Country":"united kingdom","Industry":"insurancelife","Sector":"financials"}
+{"Name":"dunedin income growth investment trust","MasterCap":"5924 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"silence therapeutics plc","MasterCap":"nov 1 2021","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"aberdeen standard asia focus plc","MasterCap":"5842 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"gcp asset backed income fund limited","MasterCap":"5801 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"cineworld group plc","MasterCap":"5759 m","Country":"united kingdom","Industry":"entertainment","Sector":"communication services"}
+{"Name":"kin and carta plc","MasterCap":"5748 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"brunner investment trust plc","MasterCap":"5747 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"impact healthcare reit plc","MasterCap":"5673 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"scapa group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"north american income trust the plc","MasterCap":"5667 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"european assets trust plc","MasterCap":"5642 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"knot offshore partners lp","MasterCap":"5625 m","Country":"united kingdom","Industry":"marine shipping","Sector":"industrials"}
+{"Name":"bh global limited","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"jpmorgan claverhouse investment trust plc","MasterCap":"5609 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"aberdeen global premier properties fund","MasterCap":"5606 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"custodian reit ord","MasterCap":"5590 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"oxford immunotec global plc","MasterCap":"feb 18 2021","Country":"united kingdom","Industry":"diagnostics  research","Sector":"healthcare"}
+{"Name":"ao world plc","MasterCap":"5561 m","Country":"united kingdom","Industry":"internet retail","Sector":"consumer discretionary"}
+{"Name":"henry boot plc","MasterCap":"5553 m","Country":"united kingdom","Industry":"real estatediversified","Sector":"real estate"}
+{"Name":"coinshares international ltd","MasterCap":"5518 m","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"volex plc","MasterCap":"5496 m","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"judges scientific plc","MasterCap":"5450 m","Country":"united kingdom","Industry":"scientific  technical instruments","Sector":"technology"}
+{"Name":"paypoint plc","MasterCap":"5429 m","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"brooks macdonald group plc","MasterCap":"5392 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"strix group plc","MasterCap":"5379 m","Country":"united kingdom","Industry":"electronic components","Sector":"technology"}
+{"Name":"central asia metals plc","MasterCap":"5352 m","Country":"united kingdom","Industry":"copper","Sector":"basic materials"}
+{"Name":"aberdeen asian income fund limited","MasterCap":"5324 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"avon protection plc","MasterCap":"5314 m","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"avon rubber plc","MasterCap":"5286 m","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"jpmorgan global emerging markets income trust","MasterCap":"5276 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"starwood european real estate finance ltd","MasterCap":"5260 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"mattioli woods plc","MasterCap":"5237 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"octopus renewables infrastructure trust plc","MasterCap":"5231 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"lsl property services plc","MasterCap":"5157 m","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"hollywood bowl group plc","MasterCap":"5145 m","Country":"united kingdom","Industry":"leisure","Sector":"consumer discretionary"}
+{"Name":"urovant sciences ltd","MasterCap":"feb 18 2021","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"diverse income trust","MasterCap":"5119 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"panariagroup industrie ceramiche spa","MasterCap":"5101 m","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"baillie gifford european growth trust plc","MasterCap":"5082 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"anglo pacific group plc","MasterCap":"5039 m","Country":"united kingdom","Industry":"coking coal","Sector":"basic materials"}
+{"Name":"kier group plc","MasterCap":"4992 m","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"investindustrial acquisition corp","MasterCap":"dec 1 2021","Country":"united kingdom","Industry":"shell companies","Sector":"financials"}
+{"Name":"pacific assets trust","MasterCap":"4988 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"regional reit ltd","MasterCap":"4988 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"on the beach group plc","MasterCap":"4971 m","Country":"united kingdom","Industry":"travel services","Sector":"consumer discretionary"}
+{"Name":"phoenix spree deutschland limited","MasterCap":"4967 m","Country":"united kingdom","Industry":"reitresidential","Sector":"real estate"}
+{"Name":"jpmorgan elect plc managed growth","MasterCap":"4926 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"compass pathways plc","MasterCap":"4922 m","Country":"united kingdom","Industry":"medical care facilities","Sector":"healthcare"}
+{"Name":"inspecs group plc","MasterCap":"4918 m","Country":"united kingdom","Industry":"medical instruments  supplies","Sector":"healthcare"}
+{"Name":"jpmorgan asia growth  income plc","MasterCap":"4907 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"kistos plc","MasterCap":"4870 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"templeton emerging markets investment trust temit","MasterCap":"4844 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"luxfer holdings plc","MasterCap":"4838 m","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"mj gleeson plc","MasterCap":"4834 m","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"polar capital global healthcare trust","MasterCap":"4777 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"petrofac limited","MasterCap":"4724 m","Country":"united kingdom","Industry":"oil  gas equipment  services","Sector":"energy"}
+{"Name":"henderson european focus trust plc","MasterCap":"4712 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"bloobury publishing plc","MasterCap":"4709 m","Country":"united kingdom","Industry":"publishing","Sector":"communication services"}
+{"Name":"fuller smith  turner plc","MasterCap":"4701 m","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"real estate credit investments limited","MasterCap":"4701 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"pendragon plc","MasterCap":"4684 m","Country":"united kingdom","Industry":"auto  truck dealerships","Sector":"consumer discretionary"}
+{"Name":"lowland investment company plc","MasterCap":"4649 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"honeycomb investment trust plc","MasterCap":"4633 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"standard life investments property income trust","MasterCap":"4630 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"bmo private equity trust plc","MasterCap":"4627 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"tt electronics plc","MasterCap":"4619 m","Country":"united kingdom","Industry":"electronic components","Sector":"technology"}
+{"Name":"capita plc","MasterCap":"4602 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"lookers plc","MasterCap":"4593 m","Country":"united kingdom","Industry":"auto  truck dealerships","Sector":"consumer discretionary"}
+{"Name":"alpha financial markets consulting plc","MasterCap":"4589 m","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"bmo capital and income investment trust plc","MasterCap":"4551 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"riverstone energy limited","MasterCap":"4544 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"henderson international income trust","MasterCap":"4536 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"accesso technology group plc","MasterCap":"4509 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"vp plc","MasterCap":"4502 m","Country":"united kingdom","Industry":"rental  leasing services","Sector":"industrials"}
+{"Name":"devro plc","MasterCap":"4490 m","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"jubilee metals group plc","MasterCap":"4452 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"eurasia mining plc","MasterCap":"4404 m","Country":"united kingdom","Industry":"other precious metals  mining","Sector":"basic materials"}
+{"Name":"triple point social housing reit plc","MasterCap":"4398 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"su plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"credit services","Sector":"financials"}
+{"Name":"saga plc","MasterCap":"4344 m","Country":"united kingdom","Industry":"insurancediversified","Sector":"financials"}
+{"Name":"fidelity asian values plc","MasterCap":"4337 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"aberdeen new india investment trust plc","MasterCap":"4336 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"aberdeen diversified income and growth trust plc","MasterCap":"4282 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"headlam group plc","MasterCap":"4281 m","Country":"united kingdom","Industry":"furnishings fixtures  appliances","Sector":"consumer discretionary"}
+{"Name":"benchmark holdings plc","MasterCap":"4271 m","Country":"united kingdom","Industry":"drug manufacturersspecialty  generic","Sector":"healthcare"}
+{"Name":"elixirr international plc","MasterCap":"4240 m","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"aberdeen new dawn investment trust plc","MasterCap":"4213 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"scion tech growth ii","MasterCap":"4211 m","Country":"united kingdom","Industry":"shell companies","Sector":"financials"}
+{"Name":"luceco plc","MasterCap":"4208 m","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"the gym group plc","MasterCap":"4170 m","Country":"united kingdom","Industry":"leisure","Sector":"consumer discretionary"}
+{"Name":"trian investors 1 ltd","MasterCap":"4154 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"gresham house plc","MasterCap":"4067 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"marshall motor holdings plc","MasterCap":"4063 m","Country":"united kingdom","Industry":"auto  truck dealerships","Sector":"consumer discretionary"}
+{"Name":"fundsmith emerging equities trust plc","MasterCap":"4053 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"jpmorgan china growth  income plc","MasterCap":"4028 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"home reit plc","MasterCap":"3990 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"audioboom group plc","MasterCap":"3978 m","Country":"united kingdom","Industry":"internet content  information","Sector":"communication services"}
+{"Name":"pensionbee group plc","MasterCap":"3928 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"scottish oriental smaller companies trust plc","MasterCap":"3914 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"frp advisory group plc","MasterCap":"3912 m","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"martin currie global portfolio investment trust","MasterCap":"3909 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"afc energy plc","MasterCap":"3907 m","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"aberdeen standard european logistics income plc","MasterCap":"3857 m","Country":"united kingdom","Industry":"reitindustrial","Sector":"real estate"}
+{"Name":"porvair plc","MasterCap":"3854 m","Country":"united kingdom","Industry":"pollution  treatment controls","Sector":"industrials"}
+{"Name":"rps group plc","MasterCap":"3846 m","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"adriatic metals plc","MasterCap":"3799 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"vh global sustainable energy opportunities plc","MasterCap":"3788 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"centralnic group plc","MasterCap":"3779 m","Country":"united kingdom","Industry":"internet content  information","Sector":"communication services"}
+{"Name":"schroder real estate investment trust limited","MasterCap":"3776 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"london security plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"security  protection services","Sector":"industrials"}
+{"Name":"funding circle holdings plc","MasterCap":"3739 m","Country":"united kingdom","Industry":"credit services","Sector":"financials"}
+{"Name":"tracsis plc","MasterCap":"3738 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"ayt pharma plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"drug manufacturersspecialty  generic","Sector":"healthcare"}
+{"Name":"baillie gifford uk growth","MasterCap":"3725 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"broadstone acquisition corp","MasterCap":"dec 1 2021","Country":"united kingdom","Industry":"shell companies","Sector":"financials"}
+{"Name":"speedy hire plc","MasterCap":"3689 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"idox plc","MasterCap":"3682 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"accsys technologies plc","MasterCap":"3678 m","Country":"united kingdom","Industry":"lumber  wood production","Sector":"basic materials"}
+{"Name":"premier oil plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"brickability group plc","MasterCap":"3650 m","Country":"united kingdom","Industry":"industrial distribution","Sector":"industrials"}
+{"Name":"argo blockchain plc","MasterCap":"3625 m","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"charles stanley group plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"centricus acquisition corp","MasterCap":"nov 1 2021","Country":"united kingdom","Industry":"shell companies","Sector":"financials"}
+{"Name":"newriver reit plc","MasterCap":"3597 m","Country":"united kingdom","Industry":"reitretail","Sector":"real estate"}
+{"Name":"mckay securities plc","MasterCap":"3586 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"numis corporation plc","MasterCap":"3584 m","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"bacanora lithium plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"photome international plc","MasterCap":"3559 m","Country":"united kingdom","Industry":"leisure","Sector":"consumer discretionary"}
+{"Name":"xps pensions group plc","MasterCap":"3529 m","Country":"united kingdom","Industry":"personal services","Sector":"consumer discretionary"}
+{"Name":"telit communications plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"communication equipment","Sector":"technology"}
+{"Name":"aberdeen emerging markets equity income fund inc","MasterCap":"3500 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"tatton asset management plc","MasterCap":"3472 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"iqe plc","MasterCap":"3468 m","Country":"united kingdom","Industry":"semiconductor equipment  materials","Sector":"technology"}
+{"Name":"international biotechnology trust","MasterCap":"3463 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"aurora acquisition corp","MasterCap":"3456 m","Country":"united kingdom","Industry":"shell companies","Sector":"financials"}
+{"Name":"naked wines plc","MasterCap":"3449 m","Country":"united kingdom","Industry":"beverageswineries  distilleries","Sector":"consumer staples"}
+{"Name":"cvc credit partners european opportunities limited","MasterCap":"3441 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"goodwin plc","MasterCap":"3434 m","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"savannah energy plc","MasterCap":"3434 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"ab dynamics plc","MasterCap":"3412 m","Country":"united kingdom","Industry":"auto parts","Sector":"consumer discretionary"}
+{"Name":"unicorn aim vct plc","MasterCap":"3410 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"motorpoint group plc","MasterCap":"3392 m","Country":"united kingdom","Industry":"auto  truck dealerships","Sector":"consumer discretionary"}
+{"Name":"gooch  housego plc","MasterCap":"3364 m","Country":"united kingdom","Industry":"electronic components","Sector":"technology"}
+{"Name":"blackrock frontiers investment trust plc","MasterCap":"3363 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"jpmorgan smaller companies investment trust plc","MasterCap":"3361 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"schroder japan growth fund plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"city of london investment group plc","MasterCap":"3350 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"horizonte minerals plc","MasterCap":"3334 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"jpmorgan us smaller co inv tst plc","MasterCap":"3329 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"loungers plc","MasterCap":"3303 m","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"troy income  growth trust plc","MasterCap":"3287 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"premier miton group plc","MasterCap":"3256 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"jpmorgan mid cap investment trust plc","MasterCap":"3243 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"octopus apollo vct","MasterCap":"3226 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"dignity plc","MasterCap":"3220 m","Country":"united kingdom","Industry":"personal services","Sector":"consumer discretionary"}
+{"Name":"james latham plc","MasterCap":"3213 m","Country":"united kingdom","Industry":"industrial distribution","Sector":"industrials"}
+{"Name":"the independent investment trust plc","MasterCap":"3201 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"adaptimmune therapeutics plc","MasterCap":"3158 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"eurocell plc","MasterCap":"3153 m","Country":"united kingdom","Industry":"building products  equipment","Sector":"industrials"}
+{"Name":"gateley holdings plc","MasterCap":"3149 m","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"i3 energy plc","MasterCap":"3129 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"cqs new city high yield fund limited","MasterCap":"3118 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"invesco asia trust plc","MasterCap":"3113 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"fidelity japan trust plc","MasterCap":"3092 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"angle plc","MasterCap":"3075 m","Country":"united kingdom","Industry":"diagnostics  research","Sector":"healthcare"}
+{"Name":"ricardo plc","MasterCap":"3075 m","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"verona pharma plc","MasterCap":"3075 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"autolus therapeutics plc","MasterCap":"3073 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"secure trust bank plc","MasterCap":"3064 m","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"proton motor power syste plc","MasterCap":"3054 m","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"vertu motors plc","MasterCap":"3043 m","Country":"united kingdom","Industry":"auto  truck dealerships","Sector":"consumer discretionary"}
+{"Name":"securities trust of scotland plc","MasterCap":"3041 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"aa plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"personal services","Sector":"consumer discretionary"}
+{"Name":"wilmington plc","MasterCap":"3022 m","Country":"united kingdom","Industry":"conglomerates","Sector":"industrials"}
+{"Name":"river and mercantile group plc","MasterCap":"3005 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"augean plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"waste management","Sector":"industrials"}
+{"Name":"ted baker plc","MasterCap":"2944 m","Country":"united kingdom","Industry":"apparel retail","Sector":"consumer discretionary"}
+{"Name":"augmentum fintech plc","MasterCap":"2925 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"gemfields group limited","MasterCap":"2917 m","Country":"united kingdom","Industry":"other precious metals  mining","Sector":"basic materials"}
+{"Name":"bmo real estate investments ltd","MasterCap":"2915 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"henderson high income trust","MasterCap":"2907 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"cerillion plc","MasterCap":"2900 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"fintel plc","MasterCap":"2887 m","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"mears group plc","MasterCap":"2866 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"lindsell train investment trust","MasterCap":"2865 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"petra diamonds limited","MasterCap":"2856 m","Country":"united kingdom","Industry":"other precious metals  mining","Sector":"basic materials"}
+{"Name":"schroder uk public private trust plc","MasterCap":"2855 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"tiziana life sciences plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"ecofin global utilities  infrastructure trust plc","MasterCap":"2843 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"nb global monthly income fund ltd gbp","MasterCap":"2811 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"keystone law group plc","MasterCap":"2768 m","Country":"united kingdom","Industry":"personal services","Sector":"consumer discretionary"}
+{"Name":"schroder income growth fund plc","MasterCap":"2768 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"ekf diagnostics holdings plc","MasterCap":"2754 m","Country":"united kingdom","Industry":"diagnostics  research","Sector":"healthcare"}
+{"Name":"afh financial group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"redx pharma plc","MasterCap":"2740 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"cc japan income  growth trust plc","MasterCap":"2728 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"montanaro uk smaller companies trust","MasterCap":"2721 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"xaar plc","MasterCap":"2717 m","Country":"united kingdom","Industry":"electronic components","Sector":"technology"}
+{"Name":"galliford try holdings plc","MasterCap":"2675 m","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"city merchants high yield trust limited","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"severfield plc","MasterCap":"2662 m","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"jpmorgan japan small cap growth  income plc","MasterCap":"2658 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"hargreave hale aim vct plc","MasterCap":"2657 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"supreme plc","MasterCap":"2656 m","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"jpmorgan global core real assets limited","MasterCap":"2651 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"norcros plc","MasterCap":"2648 m","Country":"united kingdom","Industry":"building products  equipment","Sector":"industrials"}
+{"Name":"independent oil and gas plc","MasterCap":"2647 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"ilika plc","MasterCap":"2645 m","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"macfarlane group plc","MasterCap":"2639 m","Country":"united kingdom","Industry":"packaging  containers","Sector":"consumer discretionary"}
+{"Name":"mc saatchi plc","MasterCap":"2626 m","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"schroder uk mid cap","MasterCap":"2611 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"animalcare group plc","MasterCap":"2605 m","Country":"united kingdom","Industry":"medical care facilities","Sector":"healthcare"}
+{"Name":"andrews sykes group plc","MasterCap":"2583 m","Country":"united kingdom","Industry":"rental  leasing services","Sector":"industrials"}
+{"Name":"cohort plc","MasterCap":"2574 m","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"the simplybiz group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"aew uk reit ord","MasterCap":"2537 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"hargreaves services plc","MasterCap":"2531 m","Country":"united kingdom","Industry":"integrated freight  logistics","Sector":"industrials"}
+{"Name":"u and i group plc","MasterCap":"dec 1 2021","Country":"united kingdom","Industry":"real estatediversified","Sector":"real estate"}
+{"Name":"renalytix ai plc","MasterCap":"2496 m","Country":"united kingdom","Industry":"diagnostics  research","Sector":"healthcare"}
+{"Name":"impellam group plc","MasterCap":"2484 m","Country":"united kingdom","Industry":"staffing  employment services","Sector":"industrials"}
+{"Name":"hyve group plc","MasterCap":"2475 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"residential secure income plc","MasterCap":"2475 m","Country":"united kingdom","Industry":"reitresidential","Sector":"real estate"}
+{"Name":"manchester  london investment trust plc","MasterCap":"2473 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"baillie gifford china growth trust plc","MasterCap":"2469 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"mulberry group plc","MasterCap":"2466 m","Country":"united kingdom","Industry":"footwear  accessories","Sector":"consumer discretionary"}
+{"Name":"wandisco plc","MasterCap":"2455 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"medica group plc","MasterCap":"2455 m","Country":"united kingdom","Industry":"medical devices","Sector":"healthcare"}
+{"Name":"the pebble group plc","MasterCap":"2450 m","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"tribal group plc","MasterCap":"2443 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"water intelligence plc","MasterCap":"2442 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"strategic equity capital plc","MasterCap":"2439 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"hurricane energy plc","MasterCap":"2438 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"science group plc","MasterCap":"2434 m","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"tpximpact holdings plc","MasterCap":"2402 m","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"agronomics limited","MasterCap":"2399 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"amati aim vct plc","MasterCap":"2382 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"iomart group plc","MasterCap":"2380 m","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"k3 capital group plc","MasterCap":"2372 m","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"avacta group plc","MasterCap":"2329 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"quartix holdings plc","MasterCap":"2326 m","Country":"united kingdom","Industry":"scientific  technical instruments","Sector":"technology"}
+{"Name":"curtis banks group plc","MasterCap":"2318 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"sdi group plc","MasterCap":"2306 m","Country":"united kingdom","Industry":"scientific  technical instruments","Sector":"technology"}
+{"Name":"begbies traynor group plc","MasterCap":"2304 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"aurora investment trust","MasterCap":"2299 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"creo medical limited","MasterCap":"2289 m","Country":"united kingdom","Industry":"medical devices","Sector":"healthcare"}
+{"Name":"aptitude software group plc","MasterCap":"2288 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"aberdeen standard equity income trust plc","MasterCap":"2287 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"invesco perpetual uk smaller companies investment trust plc","MasterCap":"2284 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"twentyfour select monthly income fund limited","MasterCap":"2257 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"ten entertainment group plc","MasterCap":"2252 m","Country":"united kingdom","Industry":"leisure","Sector":"consumer discretionary"}
+{"Name":"blackrock latin american investment trust plc","MasterCap":"2246 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"pantheon international plc","MasterCap":"2245 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"ediston property investment company plc","MasterCap":"2231 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"bioventix plc","MasterCap":"2226 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"jersey electricity plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"utilitiesregulated electric","Sector":"utilities"}
+{"Name":"time out group plc","MasterCap":"2205 m","Country":"united kingdom","Industry":"entertainment","Sector":"communication services"}
+{"Name":"james fisher and sons plc","MasterCap":"2203 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"zoetic international plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"drug manufacturersspecialty  generic","Sector":"healthcare"}
+{"Name":"camellia plc","MasterCap":"2174 m","Country":"united kingdom","Industry":"farm products","Sector":"consumer staples"}
+{"Name":"blancco technology group plc","MasterCap":"2174 m","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"instem plc","MasterCap":"2167 m","Country":"united kingdom","Industry":"health information services","Sector":"healthcare"}
+{"Name":"allergy therapeutics plc","MasterCap":"2163 m","Country":"united kingdom","Industry":"drug manufacturersspecialty  generic","Sector":"healthcare"}
+{"Name":"octopus aim vct plc","MasterCap":"2153 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"petropavlovsk plc","MasterCap":"2126 m","Country":"united kingdom","Industry":"gold","Sector":"basic materials"}
+{"Name":"pensana plc","MasterCap":"2120 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"first trust dynamic europe equity income fund","MasterCap":"2110 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"invesco income growth trust plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"bmo managed portfolio trust plc","MasterCap":"2107 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"anexo group plc","MasterCap":"2063 m","Country":"united kingdom","Industry":"rental  leasing services","Sector":"industrials"}
+{"Name":"tristel plc","MasterCap":"2062 m","Country":"united kingdom","Industry":"medical instruments  supplies","Sector":"healthcare"}
+{"Name":"inspired plc","MasterCap":"2060 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"trifast plc","MasterCap":"2052 m","Country":"united kingdom","Industry":"tools  accessories","Sector":"industrials"}
+{"Name":"card factory plc","MasterCap":"2046 m","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"churchill china plc","MasterCap":"2038 m","Country":"united kingdom","Industry":"furnishings fixtures  appliances","Sector":"consumer discretionary"}
+{"Name":"jupiter us smaller companies plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"arix bioscience plc","MasterCap":"2036 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"zotefoa plc","MasterCap":"2020 m","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"metro bank plc","MasterCap":"2007 m","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"nucleus financial group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"fonix mobile plc","MasterCap":"2006 m","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"schroder european real estate investment trust plc","MasterCap":"2005 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"avi japan opportunity trust plc","MasterCap":"1997 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"springfield properties plc","MasterCap":"1997 m","Country":"united kingdom","Industry":"residential construction","Sector":"consumer discretionary"}
+{"Name":"novacyt sa","MasterCap":"1982 m","Country":"united kingdom","Industry":"diagnostics  research","Sector":"healthcare"}
+{"Name":"gabelli value plus trust plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"avingtrans plc","MasterCap":"1969 m","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"sigma capital group plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"reitresidential","Sector":"real estate"}
+{"Name":"middlefield canadian income pcc","MasterCap":"1933 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"circassia group plc","MasterCap":"1928 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"henderson diversified income trust plc","MasterCap":"1912 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"studio retail group plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"foxtons group plc","MasterCap":"1906 m","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"blackrock energy and resources income trust plc","MasterCap":"1903 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"venator materials plc","MasterCap":"1902 m","Country":"united kingdom","Industry":"specialty chemicals","Sector":"basic materials"}
+{"Name":"mercia asset management plc","MasterCap":"1891 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"chenavari toro income fund ltd","MasterCap":"1882 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"keystone positive change investment trust plc","MasterCap":"1881 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"stv group plc","MasterCap":"1880 m","Country":"united kingdom","Industry":"broadcasting","Sector":"communication services"}
+{"Name":"blackrock north american income trust plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"proven vct plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"arbuthnot banking group plc","MasterCap":"1869 m","Country":"united kingdom","Industry":"banks","Sector":"financials"}
+{"Name":"mg credit income investment trust plc","MasterCap":"1868 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"franchise brands plc","MasterCap":"1865 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"bango plc","MasterCap":"1864 m","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"equals group plc","MasterCap":"1832 m","Country":"united kingdom","Industry":"credit services","Sector":"financials"}
+{"Name":"duke royalty limited","MasterCap":"1824 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"aberforth split level income trust plc","MasterCap":"1821 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"n brown group plc","MasterCap":"1807 m","Country":"united kingdom","Industry":"internet retail","Sector":"consumer discretionary"}
+{"Name":"carrs group plc","MasterCap":"1800 m","Country":"united kingdom","Industry":"farm products","Sector":"consumer staples"}
+{"Name":"countrywide plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"access intelligence plc","MasterCap":"1799 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"caledonia mining corporation plc","MasterCap":"1790 m","Country":"united kingdom","Industry":"gold","Sector":"basic materials"}
+{"Name":"ht group plc","MasterCap":"1764 m","Country":"united kingdom","Industry":"credit services","Sector":"financials"}
+{"Name":"knights group holdings plc","MasterCap":"1746 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"mind gym plc","MasterCap":"1743 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"aquis exchange plc","MasterCap":"1739 m","Country":"united kingdom","Industry":"financial data  stock exchanges","Sector":"financials"}
+{"Name":"tmt investments plc","MasterCap":"1709 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"superdry plc","MasterCap":"1706 m","Country":"united kingdom","Industry":"apparel manufacturing","Sector":"consumer discretionary"}
+{"Name":"castings plc","MasterCap":"1690 m","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"calnex solutions plc","MasterCap":"1690 m","Country":"united kingdom","Industry":"communication equipment","Sector":"technology"}
+{"Name":"aberdeen income credit strategies fund","MasterCap":"1683 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"sureserve group plc","MasterCap":"1674 m","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"record plc","MasterCap":"1668 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"trident royalties plc","MasterCap":"1668 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"alterola biotech inc","MasterCap":"1659 m","Country":"united kingdom","Industry":"drug manufacturersspecialty  generic","Sector":"healthcare"}
+{"Name":"anpario plc","MasterCap":"1657 m","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"gresham technologies plc","MasterCap":"1654 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"shepherd neame ltd","MasterCap":"1643 m","Country":"united kingdom","Industry":"beveragesbrewers","Sector":"consumer staples"}
+{"Name":"chariot ltd","MasterCap":"1639 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"the character group plc","MasterCap":"1637 m","Country":"united kingdom","Industry":"leisure","Sector":"consumer discretionary"}
+{"Name":"wynnstay group plc","MasterCap":"1601 m","Country":"united kingdom","Industry":"agricultural inputs","Sector":"basic materials"}
+{"Name":"etherapeutics plc","MasterCap":"1600 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"pharos energy plc","MasterCap":"1599 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"amino technologies plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"communication equipment","Sector":"technology"}
+{"Name":"epwin group plc","MasterCap":"1575 m","Country":"united kingdom","Industry":"building products  equipment","Sector":"industrials"}
+{"Name":"palace capital plc","MasterCap":"1574 m","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"rm plc","MasterCap":"1566 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"global value fund limited","MasterCap":"1550 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"james cropper plc","MasterCap":"1547 m","Country":"united kingdom","Industry":"paper  paper products","Sector":"basic materials"}
+{"Name":"artemis alpha trust plc","MasterCap":"1531 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"foresight enterprise vct plc","MasterCap":"1530 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"dialight plc","MasterCap":"1520 m","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"rbg holdings plc","MasterCap":"1501 m","Country":"united kingdom","Industry":"specialty business services","Sector":"industrials"}
+{"Name":"up global sourcing holdings plc","MasterCap":"1485 m","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"advanced oncotherapy plc","MasterCap":"1475 m","Country":"united kingdom","Industry":"medical devices","Sector":"healthcare"}
+{"Name":"octopus aim vct 2 plc","MasterCap":"1469 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"helios underwriting plc","MasterCap":"1468 m","Country":"united kingdom","Industry":"insuranceproperty  casualty","Sector":"financials"}
+{"Name":"aferian plc","MasterCap":"1468 m","Country":"united kingdom","Industry":"broadcasting","Sector":"communication services"}
+{"Name":"eagle eye solutions group plc","MasterCap":"1464 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"phoenix global resources plc","MasterCap":"1462 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"nwf group plc","MasterCap":"1461 m","Country":"united kingdom","Industry":"oil  gas refining  marketing","Sector":"energy"}
+{"Name":"assetco plc","MasterCap":"1459 m","Country":"united kingdom","Industry":"security  protection services","Sector":"industrials"}
+{"Name":"vaccitech plc","MasterCap":"1455 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"edtechx holdings acquisition corp","MasterCap":"1450 m","Country":"united kingdom","Industry":"shell companies","Sector":"financials"}
+{"Name":"eckoh plc","MasterCap":"1446 m","Country":"united kingdom","Industry":"information technology services","Sector":"technology"}
+{"Name":"bp marsh  partners plc","MasterCap":"1443 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"the property franchise group plc","MasterCap":"1440 m","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"eco animal health group plc","MasterCap":"1438 m","Country":"united kingdom","Industry":"drug manufacturersspecialty  generic","Sector":"healthcare"}
+{"Name":"hss hire group plc","MasterCap":"1437 m","Country":"united kingdom","Industry":"rental  leasing services","Sector":"industrials"}
+{"Name":"powerhouse energy group plc","MasterCap":"1435 m","Country":"united kingdom","Industry":"utilitiesrenewable","Sector":"utilities"}
+{"Name":"michelmersh brick holdings plc","MasterCap":"1430 m","Country":"united kingdom","Industry":"building materials","Sector":"basic materials"}
+{"Name":"sanderson design group plc","MasterCap":"1424 m","Country":"united kingdom","Industry":"furnishings fixtures  appliances","Sector":"consumer discretionary"}
+{"Name":"arecor therapeutics plc","MasterCap":"1424 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"amedeo air four plus ltd","MasterCap":"1417 m","Country":"united kingdom","Industry":"aerospace  defense","Sector":"industrials"}
+{"Name":"costain group plc","MasterCap":"1412 m","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"esken limited","MasterCap":"1408 m","Country":"united kingdom","Industry":"conglomerates","Sector":"industrials"}
+{"Name":"zoo digital group plc","MasterCap":"1406 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"the income  growth vct plc","MasterCap":"1402 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"topps tiles plc","MasterCap":"1399 m","Country":"united kingdom","Industry":"home improvement retail","Sector":"consumer discretionary"}
+{"Name":"downing one vct plc","MasterCap":"1398 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"ep global opportunities trust","MasterCap":"1391 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"northern venture trust plc","MasterCap":"1389 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"kropz plc","MasterCap":"1388 m","Country":"united kingdom","Industry":"agricultural inputs","Sector":"basic materials"}
+{"Name":"surface transfor plc","MasterCap":"1377 m","Country":"united kingdom","Industry":"auto parts","Sector":"consumer discretionary"}
+{"Name":"warrego energy limited","MasterCap":"1376 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"walker greenbank plc","MasterCap":"1370 m","Country":"united kingdom","Industry":"furnishings fixtures  appliances","Sector":"consumer discretionary"}
+{"Name":"manolete partners plc","MasterCap":"1367 m","Country":"united kingdom","Industry":"consulting services","Sector":"industrials"}
+{"Name":"inland homes plc","MasterCap":"1364 m","Country":"united kingdom","Industry":"real estatedevelopment","Sector":"real estate"}
+{"Name":"northern 3 vct plc","MasterCap":"1359 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"shanta gold limited","MasterCap":"1355 m","Country":"united kingdom","Industry":"gold","Sector":"basic materials"}
+{"Name":"mpac group plc","MasterCap":"1353 m","Country":"united kingdom","Industry":"specialty industrial machinery","Sector":"industrials"}
+{"Name":"d4t4 solutions plc","MasterCap":"1351 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"bmo uk high income trust plc","MasterCap":"1332 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"value and indexed property income trust plc","MasterCap":"1321 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"solid state plc","MasterCap":"1317 m","Country":"united kingdom","Industry":"electronic components","Sector":"technology"}
+{"Name":"personal group holdings plc","MasterCap":"1315 m","Country":"united kingdom","Industry":"insuranceproperty  casualty","Sector":"financials"}
+{"Name":"northern 2 vct plc","MasterCap":"1310 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"crystal amber fund ld","MasterCap":"1299 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"capital  regional plc","MasterCap":"1281 m","Country":"united kingdom","Industry":"reitretail","Sector":"real estate"}
+{"Name":"kitwave group plc","MasterCap":"1276 m","Country":"united kingdom","Industry":"food distribution","Sector":"consumer staples"}
+{"Name":"staffline group plc","MasterCap":"1273 m","Country":"united kingdom","Industry":"staffing  employment services","Sector":"industrials"}
+{"Name":"bluejay mining plc","MasterCap":"1265 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"petronor ep ltd","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"the fulham shore plc","MasterCap":"1241 m","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"open orphan plc","MasterCap":"1239 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"dianomi plc","MasterCap":"1239 m","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"albion enterprise vct plc","MasterCap":"1235 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"new star investment trust plc","MasterCap":"1234 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"logistics development group plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"integrated freight  logistics","Sector":"industrials"}
+{"Name":"quixant plc","MasterCap":"1230 m","Country":"united kingdom","Industry":"computer hardware","Sector":"technology"}
+{"Name":"belvoir group plc","MasterCap":"1229 m","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"albion development vct plc","MasterCap":"1227 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"doric niod air three ltd","MasterCap":"1218 m","Country":"united kingdom","Industry":"rental  leasing services","Sector":"industrials"}
+{"Name":"achilles therapeutics plc","MasterCap":"1217 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"nexus infrastructure plc","MasterCap":"1217 m","Country":"united kingdom","Industry":"engineering  construction","Sector":"industrials"}
+{"Name":"beeks trading corporation ltd","MasterCap":"1211 m","Country":"united kingdom","Industry":"softwareinfrastructure","Sector":"technology"}
+{"Name":"celtic plc","MasterCap":"1186 m","Country":"united kingdom","Industry":"leisure","Sector":"consumer discretionary"}
+{"Name":"schroder bsc social impact trust plc","MasterCap":"1185 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"warpaint london plc","MasterCap":"1185 m","Country":"united kingdom","Industry":"household  personal products","Sector":"consumer staples"}
+{"Name":"jpmorgan european investment trust plc","MasterCap":"1183 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"dewhurst plc","MasterCap":"1175 m","Country":"united kingdom","Industry":"electrical equipment  parts","Sector":"industrials"}
+{"Name":"the city pub group plc","MasterCap":"1175 m","Country":"united kingdom","Industry":"restaurants","Sector":"consumer discretionary"}
+{"Name":"oncimmune holdings plc","MasterCap":"1168 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"the conygar investment company plc","MasterCap":"1158 m","Country":"united kingdom","Industry":"real estatediversified","Sector":"real estate"}
+{"Name":"flowtech fluidpower plc","MasterCap":"1143 m","Country":"united kingdom","Industry":"industrial distribution","Sector":"industrials"}
+{"Name":"triple point energy efficiency infrastructure company plc","MasterCap":"1142 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"transsiberian gold plc","MasterCap":"march 13 2021","Country":"united kingdom","Industry":"gold","Sector":"basic materials"}
+{"Name":"ferroalloy resources limited","MasterCap":"1135 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"afritin mining limited","MasterCap":"1135 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"geiger counter ltd","MasterCap":"1134 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"diaceutics plc","MasterCap":"1130 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"aberdeen asiapacific income investment company limited","MasterCap":"1126 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"finsbury food group plc","MasterCap":"1123 m","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"mereo biopharma group plc","MasterCap":"1121 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"sourcebio international plc","MasterCap":"1120 m","Country":"united kingdom","Industry":"medical care facilities","Sector":"healthcare"}
+{"Name":"kr1 plc","MasterCap":"1116 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"scancell holdings plc","MasterCap":"1109 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"smiths news plc","MasterCap":"1107 m","Country":"united kingdom","Industry":"publishing","Sector":"communication services"}
+{"Name":"gear4music holdings plc","MasterCap":"1099 m","Country":"united kingdom","Industry":"internet retail","Sector":"consumer discretionary"}
+{"Name":"icglongbow senior secured uk property debt investments","MasterCap":"1096 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"gaming real plc","MasterCap":"1093 m","Country":"united kingdom","Industry":"gambling","Sector":"consumer discretionary"}
+{"Name":"netcall plc","MasterCap":"1087 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"invinity energy syste plc","MasterCap":"1085 m","Country":"united kingdom","Industry":"utilitiesdiversified","Sector":"utilities"}
+{"Name":"portmeirion group plc","MasterCap":"1082 m","Country":"united kingdom","Industry":"furnishings fixtures  appliances","Sector":"consumer discretionary"}
+{"Name":"distribution finance capital holdings plc","MasterCap":"1082 m","Country":"united kingdom","Industry":"credit services","Sector":"financials"}
+{"Name":"velocys plc","MasterCap":"1076 m","Country":"united kingdom","Industry":"oil  gas equipment  services","Sector":"energy"}
+{"Name":"4d pharma plc","MasterCap":"1070 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"kooth plc","MasterCap":"1064 m","Country":"united kingdom","Industry":"internet content  information","Sector":"communication services"}
+{"Name":"british smaller companies vct 2 plc","MasterCap":"1063 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"frenkel topping group plc","MasterCap":"1057 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"argentex group plc","MasterCap":"1057 m","Country":"united kingdom","Industry":"capital markets","Sector":"financials"}
+{"Name":"town centre securities plc","MasterCap":"1052 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"kkv secured loan fund limited","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"cake box holdings plc","MasterCap":"1049 m","Country":"united kingdom","Industry":"grocery stores","Sector":"consumer staples"}
+{"Name":"meridian mining se","MasterCap":"1044 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"air partner plc","MasterCap":"1042 m","Country":"united kingdom","Industry":"airports  air services","Sector":"industrials"}
+{"Name":"eleco plc","MasterCap":"1042 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"maven income and growth vct 4 plc","MasterCap":"1038 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"epe special opportunities limited","MasterCap":"1037 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"rainbow rare earths limited","MasterCap":"1020 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"gem diamonds limited","MasterCap":"1018 m","Country":"united kingdom","Industry":"other precious metals  mining","Sector":"basic materials"}
+{"Name":"iqgeo group plc","MasterCap":"1014 m","Country":"united kingdom","Industry":"softwareapplication","Sector":"technology"}
+{"Name":"zephyr energy plc","MasterCap":"1013 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"scs group plc","MasterCap":"1013 m","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}
+{"Name":"caspian sunrise plc","MasterCap":"1010 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"science in sport plc","MasterCap":"1008 m","Country":"united kingdom","Industry":"packaged foods","Sector":"consumer staples"}
+{"Name":"enwell energy plc","MasterCap":"998 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"accrol group holdings plc","MasterCap":"986 m","Country":"united kingdom","Industry":"household  personal products","Sector":"consumer staples"}
+{"Name":"ceiba investments ltd","MasterCap":"985 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"the alumasc group plc","MasterCap":"983 m","Country":"united kingdom","Industry":"building products  equipment","Sector":"industrials"}
+{"Name":"woodbois limited","MasterCap":"982 m","Country":"united kingdom","Industry":"lumber  wood production","Sector":"basic materials"}
+{"Name":"savannah resources plc","MasterCap":"974 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"virgin wines uk plc","MasterCap":"974 m","Country":"united kingdom","Industry":"beverageswineries  distilleries","Sector":"consumer staples"}
+{"Name":"xpediator plc","MasterCap":"957 m","Country":"united kingdom","Industry":"integrated freight  logistics","Sector":"industrials"}
+{"Name":"inspiration healthcare group plc","MasterCap":"954 m","Country":"united kingdom","Industry":"medical devices","Sector":"healthcare"}
+{"Name":"aquila energy efficiency trust plc","MasterCap":"953 m","Country":"united kingdom","Industry":"asset management","Sector":"financials"}
+{"Name":"purplebricks group plc","MasterCap":"952 m","Country":"united kingdom","Industry":"real estate services","Sector":"real estate"}
+{"Name":"mcbride plc","MasterCap":"948 m","Country":"united kingdom","Industry":"household  personal products","Sector":"consumer staples"}
+{"Name":"trinity exploration  production plc","MasterCap":"932 m","Country":"united kingdom","Industry":"oil  gas ep","Sector":"energy"}
+{"Name":"braemar shipping services plc","MasterCap":"932 m","Country":"united kingdom","Industry":"marine shipping","Sector":"industrials"}
+{"Name":"arena events group plc","MasterCap":"jan 1 2022","Country":"united kingdom","Industry":"advertising agencies","Sector":"communication services"}
+{"Name":"geodrill limited","MasterCap":"923 m","Country":"united kingdom","Industry":"other industrial metals  mining","Sector":"basic materials"}
+{"Name":"onthemarket plc","MasterCap":"918 m","Country":"united kingdom","Industry":"internet content  information","Sector":"communication services"}
+{"Name":"shoe zone plc","MasterCap":"916 m","Country":"united kingdom","Industry":"footwear  accessories","Sector":"consumer discretionary"}
+{"Name":"real estate investors plc","MasterCap":"915 m","Country":"united kingdom","Industry":"reitdiversified","Sector":"real estate"}
+{"Name":"futura medical plc","MasterCap":"915 m","Country":"united kingdom","Industry":"biotechnology","Sector":"healthcare"}
+{"Name":"bespoke capital acquisition corp","MasterCap":"april 5 2021","Country":"united kingdom","Industry":"shell companies","Sector":"financials"}
+{"Name":"ig design group plc","MasterCap":"906 m","Country":"united kingdom","Industry":"specialty retail","Sector":"consumer discretionary"}

@@ -1,0 +1,1000 @@
+{"name":"apple inc","country":"united states","market_value_apr_2022":"282000000000000","sector":"technology","stock":"aapl"}
+{"name":"microsoft corporation","country":"united states","market_value_apr_2022":"232000000000000","sector":"technology","stock":"ft"}
+{"name":"saudi arabian oil company","country":"saudi arabia","market_value_apr_2022":"229000000000000","sector":"energy","stock":"2222"}
+{"name":"alphabet inc","country":"united states","market_value_apr_2022":"182000000000000","sector":"communication services","stock":"goog"}
+{"name":"amazoncom inc","country":"united states","market_value_apr_2022":"164000000000000","sector":"consumer discretionary","stock":"amzn"}
+{"name":"tesla inc","country":"united states","market_value_apr_2022":"101000000000000","sector":"consumer discretionary","stock":"tsla"}
+{"name":"berkshire hathaway inc","country":"united states","market_value_apr_2022":"7984000000000","sector":"financials","stock":"brka"}
+{"name":"nvidia corporation","country":"united states","market_value_apr_2022":"6603000000000","sector":"technology","stock":"nvda"}
+{"name":"meta platfor inc","country":"united states","market_value_apr_2022":"6175000000000","sector":"communication services","stock":"meta"}
+{"name":"taiwan semiconductor manufacturing company limited","country":"taiwan","market_value_apr_2022":"5278000000000","sector":"technology","stock":"2330"}
+{"name":"unitedhealth group incorporated","country":"united states","market_value_apr_2022":"4885000000000","sector":"healthcare","stock":"unh"}
+{"name":"visa inc","country":"united states","market_value_apr_2022":"4867000000000","sector":"financials","stock":"v"}
+{"name":"johnson  johnson","country":"united states","market_value_apr_2022":"4759000000000","sector":"healthcare","stock":"jnj"}
+{"name":"tencent holdings ltd","country":"china","market_value_apr_2022":"4411000000000","sector":"communication services","stock":"700"}
+{"name":"walmart inc","country":"united states","market_value_apr_2022":"4290000000000","sector":"consumer staples","stock":"wmt"}
+{"name":"jpmorgan chase  co","country":"united states","market_value_apr_2022":"4108000000000","sector":"financials","stock":"jpm"}
+{"name":"the procter  gamble company","country":"united states","market_value_apr_2022":"3846000000000","sector":"consumer staples","stock":"pg"}
+{"name":"saung electronics co ltd","country":"south korea","market_value_apr_2022":"3783000000000","sector":"technology","stock":"5930"}
+{"name":"lvmh moët hennessy  louis vuitton se","country":"france","market_value_apr_2022":"3592000000000","sector":"consumer discretionary","stock":"mc"}
+{"name":"mastercard incorporated","country":"united states","market_value_apr_2022":"3586000000000","sector":"financials","stock":"ma"}
+{"name":"bank of america corporation","country":"united states","market_value_apr_2022":"3508000000000","sector":"financials","stock":"bac"}
+{"name":"roche holding ag","country":"switzerland","market_value_apr_2022":"3495000000000","sector":"healthcare","stock":"rog"}
+{"name":"exxon mobil corporation","country":"united states","market_value_apr_2022":"3487000000000","sector":"energy","stock":"xom"}
+{"name":"kweichow moutai co ltd","country":"china","market_value_apr_2022":"3482000000000","sector":"consumer staples","stock":"600519"}
+{"name":"the home depot inc","country":"united states","market_value_apr_2022":"3214000000000","sector":"consumer discretionary","stock":"hd"}
+{"name":"chevron corporation","country":"united states","market_value_apr_2022":"3151000000000","sector":"energy","stock":"cvx"}
+{"name":"pfizer inc","country":"united states","market_value_apr_2022":"3007000000000","sector":"healthcare","stock":"pfe"}
+{"name":"abbvie inc","country":"united states","market_value_apr_2022":"2942000000000","sector":"healthcare","stock":"abbv"}
+{"name":"alibaba group holding limited","country":"china","market_value_apr_2022":"2904000000000","sector":"consumer discretionary","stock":"9988"}
+{"name":"asml holding nv","country":"netherlands","market_value_apr_2022":"2743000000000","sector":"technology","stock":"asml"}
+{"name":"the cocacola company","country":"united states","market_value_apr_2022":"2732000000000","sector":"consumer staples","stock":"ko"}
+{"name":"eli lilly and company","country":"united states","market_value_apr_2022":"2730000000000","sector":"healthcare","stock":"lly"}
+{"name":"broadcom inc","country":"united states","market_value_apr_2022":"2652000000000","sector":"technology","stock":"avgo"}
+{"name":"costco wholesale corporation","country":"united states","market_value_apr_2022":"2581000000000","sector":"consumer staples","stock":"cost"}
+{"name":"novo nordisk as","country":"denmark","market_value_apr_2022":"2572000000000","sector":"healthcare","stock":"novob"}
+{"name":"industrial  commercial bank of china ltd","country":"china","market_value_apr_2022":"2503000000000","sector":"financials","stock":"601398"}
+{"name":"the walt disney company","country":"united states","market_value_apr_2022":"2478000000000","sector":"communication services","stock":"dis"}
+{"name":"pepsico inc","country":"united states","market_value_apr_2022":"2410000000000","sector":"consumer staples","stock":"pep"}
+{"name":"cisco syste inc","country":"united states","market_value_apr_2022":"2384000000000","sector":"technology","stock":"csco"}
+{"name":"thermo fisher scientific inc","country":"united states","market_value_apr_2022":"2361000000000","sector":"healthcare","stock":"tmo"}
+{"name":"oracle corporation","country":"united states","market_value_apr_2022":"2281000000000","sector":"technology","stock":"orcl"}
+{"name":"loréal sa","country":"france","market_value_apr_2022":"2252000000000","sector":"consumer staples","stock":"or"}
+{"name":"accenture plc","country":"ireland","market_value_apr_2022":"2190000000000","sector":"technology","stock":"acn"}
+{"name":"comcast corporation","country":"united states","market_value_apr_2022":"2189000000000","sector":"communication services","stock":"cmcsa"}
+{"name":"verizon communications inc","country":"united states","market_value_apr_2022":"2166000000000","sector":"communication services","stock":"vz"}
+{"name":"abbott laboratories","country":"united states","market_value_apr_2022":"2150000000000","sector":"healthcare","stock":"abt"}
+{"name":"nike inc","country":"united states","market_value_apr_2022":"2136000000000","sector":"consumer discretionary","stock":"nke"}
+{"name":"bhp group","country":"australia","market_value_apr_2022":"2112000000000","sector":"basic materials","stock":"bhp"}
+{"name":"merck  co inc","country":"united states","market_value_apr_2022":"2103000000000","sector":"healthcare","stock":"k"}
+{"name":"danaher corporation","country":"united states","market_value_apr_2022":"2080000000000","sector":"healthcare","stock":"dhr"}
+{"name":"shell plc","country":"united kingdom","market_value_apr_2022":"2076000000000","sector":"energy","stock":"shel"}
+{"name":"novartis ag","country":"switzerland","market_value_apr_2022":"2041000000000","sector":"healthcare","stock":"novn"}
+{"name":"astrazeneca plc","country":"united kingdom","market_value_apr_2022":"2017000000000","sector":"healthcare","stock":"azn"}
+{"name":"intel corporation","country":"united states","market_value_apr_2022":"2017000000000","sector":"technology","stock":"intc"}
+{"name":"wells fargo  company","country":"united states","market_value_apr_2022":"2000000000000","sector":"financials","stock":"wfc"}
+{"name":"adobe inc","country":"united states","market_value_apr_2022":"1995000000000","sector":"technology","stock":"adbe"}
+{"name":"salesforcecom inc","country":"united states","market_value_apr_2022":"1938000000000","sector":"technology","stock":"crm"}
+{"name":"united parcel service inc","country":"united states","market_value_apr_2022":"1905000000000","sector":"industrials","stock":"ups"}
+{"name":"china construction bank corp","country":"china","market_value_apr_2022":"1893000000000","sector":"financials","stock":"601939"}
+{"name":"mcdonalds corporation","country":"united states","market_value_apr_2022":"1865000000000","sector":"consumer discretionary","stock":"mcd"}
+{"name":"china merchants bank co ltd","country":"china","market_value_apr_2022":"1859000000000","sector":"financials","stock":"600036"}
+{"name":"contemporary amperex technology co ltd","country":"china","market_value_apr_2022":"1856000000000","sector":"industrials","stock":"300750"}
+{"name":"union pacific corporation","country":"united states","market_value_apr_2022":"1841000000000","sector":"industrials","stock":"unp"}
+{"name":"att inc","country":"united states","market_value_apr_2022":"1758000000000","sector":"communication services","stock":"t"}
+{"name":"qualcomm incorporated","country":"united states","market_value_apr_2022":"1722000000000","sector":"technology","stock":"qcom"}
+{"name":"texas instruments incorporated","country":"united states","market_value_apr_2022":"1712000000000","sector":"technology","stock":"txn"}
+{"name":"bristolmyers squibb company","country":"united states","market_value_apr_2022":"1705000000000","sector":"healthcare","stock":"bmy"}
+{"name":"prosus nv","country":"netherlands","market_value_apr_2022":"1700000000000","sector":"communication services","stock":"prx"}
+{"name":"linde plc","country":"united kingdom","market_value_apr_2022":"1660000000000","sector":"basic materials","stock":"lin"}
+{"name":"nextera energy inc","country":"united states","market_value_apr_2022":"1655000000000","sector":"utilities","stock":"nee"}
+{"name":"agricultural bank of china ltd","country":"china","market_value_apr_2022":"1650000000000","sector":"financials","stock":"601288"}
+{"name":"tmobile us inc","country":"united states","market_value_apr_2022":"1643000000000","sector":"communication services","stock":"tmus"}
+{"name":"morgan stanley","country":"united states","market_value_apr_2022":"1640000000000","sector":"financials","stock":""}
+{"name":"netflix inc","country":"united states","market_value_apr_2022":"1631000000000","sector":"communication services","stock":"nflx"}
+{"name":"royal bank of canada","country":"canada","market_value_apr_2022":"1597000000000","sector":"financials","stock":"ry"}
+{"name":"the charles schwab corporation","country":"united states","market_value_apr_2022":"1580000000000","sector":"financials","stock":"schw"}
+{"name":"philip morris international inc","country":"united states","market_value_apr_2022":"1547000000000","sector":"consumer staples","stock":"pm"}
+{"name":"medtronic plc","country":"ireland","market_value_apr_2022":"1510000000000","sector":"healthcare","stock":"mdt"}
+{"name":"raytheon technologies corporation","country":"united states","market_value_apr_2022":"1509000000000","sector":"industrials","stock":"rtx"}
+{"name":"american express company","country":"united states","market_value_apr_2022":"1507000000000","sector":"financials","stock":"axp"}
+{"name":"hermès international sca","country":"france","market_value_apr_2022":"1489000000000","sector":"consumer discretionary","stock":"r"}
+{"name":"torontodominion bank","country":"canada","market_value_apr_2022":"1454000000000","sector":"financials","stock":"td"}
+{"name":"petrochina company limited","country":"china","market_value_apr_2022":"1445000000000","sector":"energy","stock":"601857"}
+{"name":"commonwealth bank of australia","country":"australia","market_value_apr_2022":"1443000000000","sector":"financials","stock":"cba"}
+{"name":"lowes companies inc","country":"united states","market_value_apr_2022":"1437000000000","sector":"consumer discretionary","stock":"low"}
+{"name":"amgen inc","country":"united states","market_value_apr_2022":"1417000000000","sector":"healthcare","stock":"amgn"}
+{"name":"bank of china ltd","country":"china","market_value_apr_2022":"1412000000000","sector":"financials","stock":"601988"}
+{"name":"hsbc holdings plc","country":"united kingdom","market_value_apr_2022":"1401000000000","sector":"financials","stock":"hsba"}
+{"name":"china mobile ltd","country":"hong kong","market_value_apr_2022":"1393000000000","sector":"communication services","stock":"941"}
+{"name":"totalenergies se","country":"france","market_value_apr_2022":"1375000000000","sector":"energy","stock":"tte"}
+{"name":"honeywell international inc","country":"united states","market_value_apr_2022":"1364000000000","sector":"industrials","stock":"hon"}
+{"name":"conocophillips","country":"united states","market_value_apr_2022":"1363000000000","sector":"energy","stock":"cop"}
+{"name":"cvs health corporation","country":"united states","market_value_apr_2022":"1352000000000","sector":"healthcare","stock":"cvs"}
+{"name":"ping an insurance group company of china ltd","country":"china","market_value_apr_2022":"1342000000000","sector":"financials","stock":"601318"}
+{"name":"sap se","country":"germany","market_value_apr_2022":"1341000000000","sector":"technology","stock":"sap"}
+{"name":"paypal holdings inc","country":"united states","market_value_apr_2022":"1339000000000","sector":"financials","stock":"pypl"}
+{"name":"sanofi","country":"france","market_value_apr_2022":"1322000000000","sector":"healthcare","stock":"san"}
+{"name":"deere  company","country":"united states","market_value_apr_2022":"1303000000000","sector":"industrials","stock":"de"}
+{"name":"advanced micro devices inc","country":"united states","market_value_apr_2022":"1282000000000","sector":"technology","stock":"amd"}
+{"name":"intuit inc","country":"united states","market_value_apr_2022":"1267000000000","sector":"technology","stock":"intu"}
+{"name":"sony group corporation","country":"japan","market_value_apr_2022":"1266000000000","sector":"technology","stock":"6758"}
+{"name":"rio tinto group","country":"united kingdom","market_value_apr_2022":"1258000000000","sector":"basic materials","stock":"rio"}
+{"name":"aia group ltd","country":"hong kong","market_value_apr_2022":"1251000000000","sector":"financials","stock":"1299"}
+{"name":"lockheed martin corporation","country":"united states","market_value_apr_2022":"1249000000000","sector":"industrials","stock":"lmt"}
+{"name":"caterpillar inc","country":"united states","market_value_apr_2022":"1241000000000","sector":"industrials","stock":"cat"}
+{"name":"anheuserbusch inbev sanv","country":"belgium","market_value_apr_2022":"","sector":"consumer staples","stock":"abi"}
+{"name":"equinor asa","country":"","market_value_apr_2022":"1227000000000","sector":"","stock":"eqnr"}
+{"name":"christian dior se","country":"france","market_value_apr_2022":"1221000000000","sector":"consumer discretionary","stock":"cdi"}
+{"name":"prologis inc","country":"united states","market_value_apr_2022":"1212000000000","sector":"real estate","stock":"pld"}
+{"name":"applied materials inc","country":"united states","market_value_apr_2022":"1211000000000","sector":"technology","stock":"amat"}
+{"name":"anthem inc","country":"united states","market_value_apr_2022":"1198000000000","sector":"healthcare","stock":"antm"}
+{"name":"international business machines corporation","country":"united states","market_value_apr_2022":"1192000000000","sector":"technology","stock":"ibm"}
+{"name":"unilever plc","country":"united kingdom","market_value_apr_2022":"1178000000000","sector":"consumer staples","stock":"ulvr"}
+{"name":"blackrock inc","country":"united states","market_value_apr_2022":"1159000000000","sector":"financials","stock":"blk"}
+{"name":"hdfc bank limited","country":"india","market_value_apr_2022":"1156000000000","sector":"financials","stock":"hdb"}
+{"name":"diageo plc","country":"united kingdom","market_value_apr_2022":"1155000000000","sector":"consumer staples","stock":"dge"}
+{"name":"american tower corporation reit","country":"united states","market_value_apr_2022":"1151000000000","sector":"real estate","stock":"amt"}
+{"name":"siemens ag","country":"germany","market_value_apr_2022":"1146000000000","sector":"industrials","stock":"sie"}
+{"name":"meituan","country":"china","market_value_apr_2022":"1142000000000","sector":"consumer discretionary","stock":"3690"}
+{"name":"keyence corp","country":"japan","market_value_apr_2022":"1132000000000","sector":"technology","stock":"6861"}
+{"name":"the goldman sachs group inc","country":"united states","market_value_apr_2022":"1127000000000","sector":"financials","stock":"gs"}
+{"name":"transurban group","country":"australia","market_value_apr_2022":"1107000000000","sector":"industrials","stock":"tcl"}
+{"name":"industria de diseño textil sa","country":"spain","market_value_apr_2022":"","sector":"consumer discretionary","stock":"itx"}
+{"name":"the boeing company","country":"united states","market_value_apr_2022":"1104000000000","sector":"industrials","stock":"ba"}
+{"name":"glaxosmithkline plc","country":"united kingdom","market_value_apr_2022":"1099000000000","sector":"healthcare","stock":"gsk"}
+{"name":"citigroup inc","country":"united states","market_value_apr_2022":"1095000000000","sector":"financials","stock":"c"}
+{"name":"volkswagen ag","country":"germany","market_value_apr_2022":"1086000000000","sector":"consumer discretionary","stock":"vow3"}
+{"name":"starbucks corporation","country":"united states","market_value_apr_2022":"1081000000000","sector":"consumer discretionary","stock":"sbux"}
+{"name":"vale sa","country":"brazil","market_value_apr_2022":"1079000000000","sector":"basic materials","stock":"vale3"}
+{"name":"servicenow inc","country":"united states","market_value_apr_2022":"1079000000000","sector":"technology","stock":"now"}
+{"name":"target corporation","country":"united states","market_value_apr_2022":"1068000000000","sector":"consumer staples","stock":"tgt"}
+{"name":"infosys limited","country":"india","market_value_apr_2022":"1067000000000","sector":"technology","stock":"infy"}
+{"name":"al rajhi banking and investment corp","country":"saudi arabia","market_value_apr_2022":"1063000000000","sector":"financials","stock":"1120"}
+{"name":"airbnb inc","country":"united states","market_value_apr_2022":"1050000000000","sector":"communication services","stock":"abnb"}
+{"name":"charter communications inc","country":"united states","market_value_apr_2022":"1049000000000","sector":"communication services","stock":"chtr"}
+{"name":"byd co ltd","country":"china","market_value_apr_2022":"1044000000000","sector":"consumer discretionary","stock":"2594"}
+{"name":"saudi basic industries corp","country":"saudi arabia","market_value_apr_2022":"1040000000000","sector":"basic materials","stock":"2010"}
+{"name":"nippon telegraph  telephone corp","country":"japan","market_value_apr_2022":"1037000000000","sector":"communication services","stock":"9432"}
+{"name":"altria group inc","country":"united states","market_value_apr_2022":"1029000000000","sector":"consumer staples","stock":"mo"}
+{"name":"british american tobacco plc","country":"united kingdom","market_value_apr_2022":"1014000000000","sector":"consumer staples","stock":"bats"}
+{"name":"stryker corporation","country":"united states","market_value_apr_2022":"1014000000000","sector":"healthcare","stock":"syk"}
+{"name":"sp global inc","country":"united states","market_value_apr_2022":"1008000000000","sector":"financials","stock":"spgi"}
+{"name":"the estée lauder companies inc","country":"united states","market_value_apr_2022":"1001000000000","sector":"consumer staples","stock":"el"}
+{"name":"general electric company","country":"united states","market_value_apr_2022":"992000000000","sector":"industrials","stock":"ge"}
+{"name":"daimler ag","country":"germany","market_value_apr_2022":"","sector":"consumer discretionary","stock":"dai"}
+{"name":"chubb limited","country":"switzerland","market_value_apr_2022":"985000000000","sector":"financials","stock":"cb"}
+{"name":"allianz se","country":"germany","market_value_apr_2022":"984000000000","sector":"financials","stock":"alv"}
+{"name":"petróleo brasileiro sa  petrobras","country":"brazil","market_value_apr_2022":"983000000000","sector":"energy","stock":"pbr"}
+{"name":"airbus se","country":"netherlands","market_value_apr_2022":"974000000000","sector":"industrials","stock":"air"}
+{"name":"china life insurance company limited","country":"china","market_value_apr_2022":"973000000000","sector":"financials","stock":"lfc"}
+{"name":"automatic data processing inc","country":"united states","market_value_apr_2022":"969000000000","sector":"industrials","stock":"adp"}
+{"name":"bp plc","country":"united kingdom","market_value_apr_2022":"962000000000","sector":"energy","stock":"bp"}
+{"name":"china shenhua energy company ltd","country":"china","market_value_apr_2022":"953000000000","sector":"energy","stock":"601088"}
+{"name":"booking holdings inc","country":"united states","market_value_apr_2022":"950000000000","sector":"consumer discretionary","stock":"bkng"}
+{"name":"canadian national railway company","country":"canada","market_value_apr_2022":"949000000000","sector":"industrials","stock":"cnr"}
+{"name":"enbridge inc","country":"canada","market_value_apr_2022":"949000000000","sector":"energy","stock":"enb"}
+{"name":"schneider electric se","country":"france","market_value_apr_2022":"943000000000","sector":"industrials","stock":"su"}
+{"name":"deutsche telekom ag","country":"germany","market_value_apr_2022":"930000000000","sector":"communication services","stock":"dte"}
+{"name":"merck kommanditgesellschaft auf aktien","country":"germany","market_value_apr_2022":"907000000000","sector":"healthcare","stock":"k"}
+{"name":"mondelez international inc","country":"united states","market_value_apr_2022":"906000000000","sector":"consumer staples","stock":"mdlz"}
+{"name":"jdcom inc","country":"china","market_value_apr_2022":"904000000000","sector":"consumer discretionary","stock":"9618"}
+{"name":"vulcan international corp","country":"united states","market_value_apr_2022":"903000000000","sector":"basic materials","stock":"vulc"}
+{"name":"zoetis inc","country":"united states","market_value_apr_2022":"898000000000","sector":"healthcare","stock":"zts"}
+{"name":"csl limited","country":"australia","market_value_apr_2022":"896000000000","sector":"healthcare","stock":"csl"}
+{"name":"3m company","country":"united states","market_value_apr_2022":"887000000000","sector":"industrials","stock":"mmm"}
+{"name":"duke energy corporation","country":"united states","market_value_apr_2022":"887000000000","sector":"utilities","stock":"duk"}
+{"name":"bank of nova scotia","country":"canada","market_value_apr_2022":"877000000000","sector":"financials","stock":"bns"}
+{"name":"the blackstone group inc","country":"united states","market_value_apr_2022":"876000000000","sector":"financials","stock":"bx"}
+{"name":"brookfield asset management inc","country":"canada","market_value_apr_2022":"874000000000","sector":"financials","stock":"bama"}
+{"name":"glencore plc","country":"switzerland","market_value_apr_2022":"873000000000","sector":"basic materials","stock":"glen"}
+{"name":"cme group inc","country":"united states","market_value_apr_2022":"871000000000","sector":"financials","stock":"cme"}
+{"name":"marsh  mclennan companies inc","country":"united states","market_value_apr_2022":"871000000000","sector":"financials","stock":"mmc"}
+{"name":"micron technology inc","country":"united states","market_value_apr_2022":"864000000000","sector":"technology","stock":"mu"}
+{"name":"mitsubishi ufj financial group inc","country":"japan","market_value_apr_2022":"850000000000","sector":"financials","stock":"8306"}
+{"name":"cigna corporation","country":"united states","market_value_apr_2022":"846000000000","sector":"healthcare","stock":"ci"}
+{"name":"shopify inc","country":"canada","market_value_apr_2022":"838000000000","sector":"technology","stock":"shop"}
+{"name":"air liquide sa","country":"france","market_value_apr_2022":"832000000000","sector":"basic materials","stock":"ai"}
+{"name":"hca healthcare inc","country":"united states","market_value_apr_2022":"826000000000","sector":"healthcare","stock":"hca"}
+{"name":"national australia bank limited","country":"australia","market_value_apr_2022":"810000000000","sector":"financials","stock":"nab"}
+{"name":"crown castle international corp reit","country":"united states","market_value_apr_2022":"809000000000","sector":"real estate","stock":"cci"}
+{"name":"essilorluxottica sa","country":"france","market_value_apr_2022":"804000000000","sector":"healthcare","stock":"el"}
+{"name":"us bancorp","country":"united states","market_value_apr_2022":"801000000000","sector":"financials","stock":"usb"}
+{"name":"tokyo electron ltd","country":"japan","market_value_apr_2022":"796000000000","sector":"technology","stock":"8035"}
+{"name":"bank of montreal","country":"canada","market_value_apr_2022":"792000000000","sector":"financials","stock":"bmo"}
+{"name":"kering sa","country":"france","market_value_apr_2022":"786000000000","sector":"consumer discretionary","stock":"ker"}
+{"name":"china yangtze power co ltd","country":"china","market_value_apr_2022":"784000000000","sector":"utilities","stock":"600900"}
+{"name":"china petroleum  chemical corporation","country":"china","market_value_apr_2022":"783000000000","sector":"energy","stock":"600028"}
+{"name":"the southern company","country":"united states","market_value_apr_2022":"783000000000","sector":"utilities","stock":"so"}
+{"name":"lam research corporation","country":"united states","market_value_apr_2022":"776000000000","sector":"technology","stock":"lrcx"}
+{"name":"the pnc financial services group inc","country":"united states","market_value_apr_2022":"771000000000","sector":"financials","stock":"pnc"}
+{"name":"becton dickinson and company","country":"united states","market_value_apr_2022":"769000000000","sector":"healthcare","stock":"bdx"}
+{"name":"gilead sciences inc","country":"united states","market_value_apr_2022":"761000000000","sector":"healthcare","stock":"gild"}
+{"name":"regeneron pharmaceuticals inc","country":"united states","market_value_apr_2022":"749000000000","sector":"healthcare","stock":"regn"}
+{"name":"truist financial corporation","country":"united states","market_value_apr_2022":"747000000000","sector":"financials","stock":"tfc"}
+{"name":"canadian natural resources limited","country":"canada","market_value_apr_2022":"747000000000","sector":"energy","stock":"cnq"}
+{"name":"intercontinental exchange inc","country":"united states","market_value_apr_2022":"741000000000","sector":"financials","stock":"ice"}
+{"name":"the tjx companies inc","country":"united states","market_value_apr_2022":"739000000000","sector":"consumer discretionary","stock":"tjx"}
+{"name":"atlassian corporation plc","country":"australia","market_value_apr_2022":"737000000000","sector":"technology","stock":"team"}
+{"name":"zurich insurance group ag","country":"switzerland","market_value_apr_2022":"735000000000","sector":"financials","stock":"zurn"}
+{"name":"edwards lifesciences corporation","country":"united states","market_value_apr_2022":"733000000000","sector":"healthcare","stock":"ew"}
+{"name":"aon plc","country":"united kingdom","market_value_apr_2022":"733000000000","sector":"financials","stock":"aon"}
+{"name":"northrop grumman corporation","country":"united states","market_value_apr_2022":"732000000000","sector":"industrials","stock":"noc"}
+{"name":"kddi corp","country":"japan","market_value_apr_2022":"731000000000","sector":"communication services","stock":"9433"}
+{"name":"norfolk southern corporation","country":"united states","market_value_apr_2022":"723000000000","sector":"industrials","stock":"nsc"}
+{"name":"freeportmcmoran inc","country":"united states","market_value_apr_2022":"721000000000","sector":"basic materials","stock":"fcx"}
+{"name":"walmart de mexico sab de cv","country":"mexico","market_value_apr_2022":"719000000000","sector":"consumer staples","stock":"walmex"}
+{"name":"pt bank central asia tbk","country":"indonesia","market_value_apr_2022":"719000000000","sector":"financials","stock":"bbca"}
+{"name":"eog resources inc","country":"united states","market_value_apr_2022":"719000000000","sector":"energy","stock":"eog"}
+{"name":"siemens healthineers ag","country":"germany","market_value_apr_2022":"715000000000","sector":"healthcare","stock":"shl"}
+{"name":"anglo american plc","country":"united kingdom","market_value_apr_2022":"714000000000","sector":"basic materials","stock":"aal"}
+{"name":"moderna inc","country":"united states","market_value_apr_2022":"708000000000","sector":"healthcare","stock":"na"}
+{"name":"general dynamics corporation","country":"united states","market_value_apr_2022":"705000000000","sector":"industrials","stock":"gd"}
+{"name":"axa sa","country":"france","market_value_apr_2022":"702000000000","sector":"financials","stock":"cs"}
+{"name":"dominion energy inc","country":"united states","market_value_apr_2022":"702000000000","sector":"utilities","stock":"d"}
+{"name":"enel spa","country":"italy","market_value_apr_2022":"701000000000","sector":"utilities","stock":"enel"}
+{"name":"bnp paribas sa","country":"france","market_value_apr_2022":"699000000000","sector":"financials","stock":"bnp"}
+{"name":"américa móvil sab de cv","country":"mexico","market_value_apr_2022":"","sector":"communication services","stock":"amxa"}
+{"name":"public storage","country":"united states","market_value_apr_2022":"693000000000","sector":"real estate","stock":"psa"}
+{"name":"ubs group ag","country":"switzerland","market_value_apr_2022":"689000000000","sector":"financials","stock":"ubsg"}
+{"name":"sberbank of russia pjsc","country":"russia","market_value_apr_2022":"686000000000","sector":"financials","stock":"sber"}
+{"name":"fiserv inc","country":"united states","market_value_apr_2022":"686000000000","sector":"technology","stock":"fisv"}
+{"name":"iberdrola sa","country":"spain","market_value_apr_2022":"682000000000","sector":"utilities","stock":"ibe"}
+{"name":"recruit holdings co ltd","country":"japan","market_value_apr_2022":"681000000000","sector":"industrials","stock":"6098"}
+{"name":"bayer ag","country":"germany","market_value_apr_2022":"680000000000","sector":"healthcare","stock":"bayn"}
+{"name":"the sherwinwillia company","country":"united states","market_value_apr_2022":"675000000000","sector":"basic materials","stock":"shw"}
+{"name":"vertex pharmaceuticals incorporated","country":"united states","market_value_apr_2022":"674000000000","sector":"healthcare","stock":"vrtx"}
+{"name":"illinois tool works inc","country":"united states","market_value_apr_2022":"674000000000","sector":"industrials","stock":"itw"}
+{"name":"the progressive corporation","country":"united states","market_value_apr_2022":"673000000000","sector":"financials","stock":"pgr"}
+{"name":"westpac banking corporation","country":"australia","market_value_apr_2022":"672000000000","sector":"financials","stock":"wbc"}
+{"name":"abb ltd","country":"switzerland","market_value_apr_2022":"671000000000","sector":"industrials","stock":"abbn"}
+{"name":"waste management inc","country":"united states","market_value_apr_2022":"669000000000","sector":"industrials","stock":"wm"}
+{"name":"industrial bank co ltd","country":"china","market_value_apr_2022":"668000000000","sector":"financials","stock":"601166"}
+{"name":"dbs group holdings ltd","country":"singapore","market_value_apr_2022":"667000000000","sector":"financials","stock":"d05"}
+{"name":"icici bank limited","country":"india","market_value_apr_2022":"666000000000","sector":"financials","stock":"ibn"}
+{"name":"equinix inc reit","country":"united states","market_value_apr_2022":"663000000000","sector":"real estate","stock":"eqix"}
+{"name":"newmont corporation","country":"united states","market_value_apr_2022":"658000000000","sector":"basic materials","stock":"nem"}
+{"name":"ford motor company","country":"united states","market_value_apr_2022":"657000000000","sector":"consumer discretionary","stock":"f"}
+{"name":"colgatepalmolive company","country":"united states","market_value_apr_2022":"656000000000","sector":"consumer staples","stock":"cl"}
+{"name":"exelon corporation","country":"united states","market_value_apr_2022":"655000000000","sector":"utilities","stock":"exc"}
+{"name":"snowflake inc","country":"united states","market_value_apr_2022":"650000000000","sector":"technology","stock":"snow"}
+{"name":"oriental land co ltd","country":"japan","market_value_apr_2022":"646000000000","sector":"consumer discretionary","stock":"4661"}
+{"name":"sk hynix inc","country":"south korea","market_value_apr_2022":"","sector":"technology","stock":"660"}
+{"name":"ap moller  maersk as","country":"denmark","market_value_apr_2022":"644000000000","sector":"industrials","stock":"maerskb"}
+{"name":"shinetsu chemical co ltd","country":"japan","market_value_apr_2022":"634000000000","sector":"basic materials","stock":"4063"}
+{"name":"fedex corporation","country":"united states","market_value_apr_2022":"632000000000","sector":"industrials","stock":"fdx"}
+{"name":"boston scientific corporation","country":"united states","market_value_apr_2022":"630000000000","sector":"healthcare","stock":"bsx"}
+{"name":"pacificorp","country":"united states","market_value_apr_2022":"628000000000","sector":"utilities","stock":"ppwlm"}
+{"name":"dassault systèmes se","country":"france","market_value_apr_2022":"627000000000","sector":"technology","stock":"dsy"}
+{"name":"metlife inc","country":"united states","market_value_apr_2022":"626000000000","sector":"financials","stock":"met"}
+{"name":"general motors company","country":"united states","market_value_apr_2022":"626000000000","sector":"consumer discretionary","stock":"gm"}
+{"name":"sea limited","country":"singapore","market_value_apr_2022":"626000000000","sector":"communication services","stock":"se"}
+{"name":"uber technologies inc","country":"united states","market_value_apr_2022":"626000000000","sector":"technology","stock":"uber"}
+{"name":"moodys corporation","country":"united states","market_value_apr_2022":"625000000000","sector":"financials","stock":"mco"}
+{"name":"nintendo co ltd","country":"japan","market_value_apr_2022":"622000000000","sector":"communication services","stock":"7974"}
+{"name":"pioneer natural resources company","country":"united states","market_value_apr_2022":"621000000000","sector":"energy","stock":"pxd"}
+{"name":"eaton corporation plc","country":"ireland","market_value_apr_2022":"621000000000","sector":"industrials","stock":"etn"}
+{"name":"analog devices inc","country":"united states","market_value_apr_2022":"620000000000","sector":"technology","stock":"adi"}
+{"name":"fidelity national information services inc","country":"united states","market_value_apr_2022":"617000000000","sector":"technology","stock":"fis"}
+{"name":"banco santander sa","country":"spain","market_value_apr_2022":"616000000000","sector":"financials","stock":"san"}
+{"name":"hapaglloyd ag","country":"germany","market_value_apr_2022":"614000000000","sector":"industrials","stock":"hlag"}
+{"name":"adyen nv","country":"netherlands","market_value_apr_2022":"611000000000","sector":"technology","stock":"adyen"}
+{"name":"atlas copco ab","country":"sweden","market_value_apr_2022":"609000000000","sector":"industrials","stock":"atcoa"}
+{"name":"cnooc limited","country":"hong kong","market_value_apr_2022":"601000000000","sector":"energy","stock":"883"}
+{"name":"nutrien ltd","country":"canada","market_value_apr_2022":"600000000000","sector":"basic materials","stock":"ntr"}
+{"name":"block inc","country":"united states","market_value_apr_2022":"599000000000","sector":"technology","stock":"sq"}
+{"name":"deutsche post ag","country":"germany","market_value_apr_2022":"598000000000","sector":"industrials","stock":"dpwa"}
+{"name":"netease inc","country":"china","market_value_apr_2022":"597000000000","sector":"communication services","stock":"9999"}
+{"name":"hong kong exchanges  clearing ltd","country":"hong kong","market_value_apr_2022":"597000000000","sector":"financials","stock":"388"}
+{"name":"capital one financial corporation","country":"united states","market_value_apr_2022":"596000000000","sector":"financials","stock":"cof"}
+{"name":"emerson electric co","country":"united states","market_value_apr_2022":"596000000000","sector":"industrials","stock":"e"}
+{"name":"palo alto networks inc","country":"united states","market_value_apr_2022":"596000000000","sector":"technology","stock":"panw"}
+{"name":"australia and new zealand banking group limited","country":"australia","market_value_apr_2022":"595000000000","sector":"financials","stock":"anz"}
+{"name":"reckitt benckiser group plc","country":"united kingdom","market_value_apr_2022":"","sector":"consumer staples","stock":"rkt"}
+{"name":"nongfu spring co ltd","country":"china","market_value_apr_2022":"595000000000","sector":"consumer staples","stock":"9633"}
+{"name":"saudi telecom company","country":"saudi arabia","market_value_apr_2022":"594000000000","sector":"communication services","stock":"7010"}
+{"name":"southern copper corporation","country":"united states","market_value_apr_2022":"594000000000","sector":"basic materials","stock":"scco"}
+{"name":"shenzhen mindray biomedical electronics co ltd","country":"china","market_value_apr_2022":"592000000000","sector":"healthcare","stock":"300760"}
+{"name":"vinci sa","country":"france","market_value_apr_2022":"590000000000","sector":"industrials","stock":"dg"}
+{"name":"workday inc","country":"united states","market_value_apr_2022":"587000000000","sector":"technology","stock":"wday"}
+{"name":"relx plc","country":"united kingdom","market_value_apr_2022":"585000000000","sector":"communication services","stock":"rel"}
+{"name":"marvell technology group ltd","country":"","market_value_apr_2022":"583000000000","sector":"","stock":"vl"}
+{"name":"air products and chemicals inc","country":"united states","market_value_apr_2022":"578000000000","sector":"basic materials","stock":"apd"}
+{"name":"pernod ricard sa","country":"france","market_value_apr_2022":"577000000000","sector":"consumer staples","stock":"ri"}
+{"name":"schlumberger limited","country":"united states","market_value_apr_2022":"576000000000","sector":"energy","stock":"slb"}
+{"name":"marvell technology inc","country":"united states","market_value_apr_2022":"576000000000","sector":"technology","stock":"9mw"}
+{"name":"itaú unibanco holding sa","country":"brazil","market_value_apr_2022":"574000000000","sector":"financials","stock":"itub"}
+{"name":"enterprise products partners lp","country":"united states","market_value_apr_2022":"574000000000","sector":"energy","stock":"epd"}
+{"name":"foshan haitian flavouring and food company ltd","country":"china","market_value_apr_2022":"574000000000","sector":"consumer staples","stock":"603288"}
+{"name":"mitsubishi corp","country":"japan","market_value_apr_2022":"572000000000","sector":"industrials","stock":"8058"}
+{"name":"canadian imperial bank of commerce","country":"canada","market_value_apr_2022":"572000000000","sector":"financials","stock":"cm"}
+{"name":"marriott international inc","country":"united states","market_value_apr_2022":"571000000000","sector":"consumer discretionary","stock":"mar"}
+{"name":"pinduoduo inc","country":"china","market_value_apr_2022":"570000000000","sector":"consumer discretionary","stock":"pdd"}
+{"name":"ihs markit ltd","country":"united kingdom","market_value_apr_2022":"","sector":"industrials","stock":"info"}
+{"name":"the saudi national bank","country":"saudi arabia","market_value_apr_2022":"568000000000","sector":"financials","stock":"1180"}
+{"name":"tc energy corporation","country":"canada","market_value_apr_2022":"567000000000","sector":"energy","stock":"trp"}
+{"name":"humana inc","country":"united states","market_value_apr_2022":"565000000000","sector":"healthcare","stock":"hum"}
+{"name":"kla corporation","country":"united states","market_value_apr_2022":"564000000000","sector":"technology","stock":"klac"}
+{"name":"bank of communications co ltd","country":"china","market_value_apr_2022":"563000000000","sector":"financials","stock":"601328"}
+{"name":"bayerische motoren werke ag","country":"germany","market_value_apr_2022":"561000000000","sector":"consumer discretionary","stock":"bmwb"}
+{"name":"macquarie group limited","country":"australia","market_value_apr_2022":"559000000000","sector":"financials","stock":"mqg"}
+{"name":"national grid plc","country":"united kingdom","market_value_apr_2022":"558000000000","sector":"utilities","stock":"ng"}
+{"name":"daikin industriesltd","country":"japan","market_value_apr_2022":"555000000000","sector":"industrials","stock":"6367"}
+{"name":"chugai pharmaceutical co ltd","country":"japan","market_value_apr_2022":"553000000000","sector":"healthcare","stock":"4519"}
+{"name":"keurig dr pepper inc","country":"united states","market_value_apr_2022":"552000000000","sector":"consumer staples","stock":"kdp"}
+{"name":"ergo science corp","country":"united states","market_value_apr_2022":"","sector":"industrials","stock":"ergn"}
+{"name":"softbank group corp","country":"japan","market_value_apr_2022":"549000000000","sector":"communication services","stock":"9984"}
+{"name":"heineken nv","country":"netherlands","market_value_apr_2022":"548000000000","sector":"consumer staples","stock":"heia"}
+{"name":"ambev sa","country":"brazil","market_value_apr_2022":"546000000000","sector":"consumer staples","stock":"abev3"}
+{"name":"canadian pacific railway limited","country":"canada","market_value_apr_2022":"545000000000","sector":"industrials","stock":"cp"}
+{"name":"marathon petroleum corporation","country":"united states","market_value_apr_2022":"545000000000","sector":"energy","stock":"mpc"}
+{"name":"american international group inc","country":"united states","market_value_apr_2022":"543000000000","sector":"financials","stock":"aig"}
+{"name":"dollar general corporation","country":"united states","market_value_apr_2022":"543000000000","sector":"consumer staples","stock":"dg"}
+{"name":"fortinet inc","country":"united states","market_value_apr_2022":"538000000000","sector":"technology","stock":"ftnt"}
+{"name":"snap inc","country":"united states","market_value_apr_2022":"538000000000","sector":"communication services","stock":"snap"}
+{"name":"ferrari nv","country":"italy","market_value_apr_2022":"537000000000","sector":"consumer discretionary","stock":"race"}
+{"name":"lonza group ltd","country":"switzerland","market_value_apr_2022":"537000000000","sector":"healthcare","stock":"lonn"}
+{"name":"london stock exchange group plc","country":"united kingdom","market_value_apr_2022":"533000000000","sector":"financials","stock":"lseg"}
+{"name":"thoon reuters corporation","country":"canada","market_value_apr_2022":"533000000000","sector":"industrials","stock":"tri"}
+{"name":"basf se","country":"germany","market_value_apr_2022":"527000000000","sector":"basic materials","stock":"bas"}
+{"name":"sempra energy","country":"united states","market_value_apr_2022":"524000000000","sector":"utilities","stock":"sre"}
+{"name":"occidental petroleum corporation","country":"united states","market_value_apr_2022":"523000000000","sector":"energy","stock":"oxy"}
+{"name":"liberty bancshares inc oh","country":"united states","market_value_apr_2022":"","sector":"financials","stock":"lbsi"}
+{"name":"fast retailing co ltd","country":"japan","market_value_apr_2022":"522000000000","sector":"consumer discretionary","stock":"9983"}
+{"name":"nxp semiconductors nv","country":"netherlands","market_value_apr_2022":"522000000000","sector":"technology","stock":"nxpi"}
+{"name":"xilinx inc","country":"united states","market_value_apr_2022":"","sector":"technology","stock":"xlnx"}
+{"name":"itochu corp","country":"japan","market_value_apr_2022":"521000000000","sector":"industrials","stock":"8001"}
+{"name":"eni spa","country":"italy","market_value_apr_2022":"520000000000","sector":"energy","stock":"eni"}
+{"name":"stellantis nv","country":"netherlands","market_value_apr_2022":"518000000000","sector":"consumer discretionary","stock":"stla"}
+{"name":"bce inc","country":"canada","market_value_apr_2022":"517000000000","sector":"communication services","stock":"bce"}
+{"name":"denso corp","country":"japan","market_value_apr_2022":"515000000000","sector":"consumer discretionary","stock":"6902"}
+{"name":"toyota motor corporation","country":"japan","market_value_apr_2022":"515000000000","sector":"consumer discretionary","stock":"7203"}
+{"name":"l3harris technologies inc","country":"united states","market_value_apr_2022":"515000000000","sector":"industrials","stock":"lhx"}
+{"name":"agribank fcb","country":"united states","market_value_apr_2022":"","sector":"financials","stock":"agrip"}
+{"name":"general accident plc","country":"united kingdom","market_value_apr_2022":"514000000000","sector":"financials","stock":"gaca"}
+{"name":"archerdanielsmidland company","country":"united states","market_value_apr_2022":"510000000000","sector":"consumer staples","stock":"adm"}
+{"name":"american electric power company inc","country":"united states","market_value_apr_2022":"509000000000","sector":"utilities","stock":"aep"}
+{"name":"fortescue metals group limited","country":"australia","market_value_apr_2022":"507000000000","sector":"basic materials","stock":"fmg"}
+{"name":"hon hai precision industry co ltd","country":"taiwan","market_value_apr_2022":"507000000000","sector":"technology","stock":"2317"}
+{"name":"china tourism group duty free corp ltd","country":"china","market_value_apr_2022":"504000000000","sector":"consumer discretionary","stock":"601888"}
+{"name":"ecolab inc","country":"united states","market_value_apr_2022":"502000000000","sector":"basic materials","stock":"ecl"}
+{"name":"novatek pjsc","country":"russia","market_value_apr_2022":"501000000000","sector":"energy","stock":"nvtk"}
+{"name":"synopsys inc","country":"united states","market_value_apr_2022":"501000000000","sector":"technology","stock":"snps"}
+{"name":"safran sa","country":"france","market_value_apr_2022":"500000000000","sector":"industrials","stock":"saf"}
+{"name":"illumina inc","country":"united states","market_value_apr_2022":"499000000000","sector":"healthcare","stock":"ilmn"}
+{"name":"mercadolibre inc","country":"argentina","market_value_apr_2022":"498000000000","sector":"consumer discretionary","stock":"meli"}
+{"name":"roper technologies inc","country":"united states","market_value_apr_2022":"496000000000","sector":"industrials","stock":"rop"}
+{"name":"the kraft heinz company","country":"united states","market_value_apr_2022":"494000000000","sector":"consumer staples","stock":"khc"}
+{"name":"centene corporation","country":"united states","market_value_apr_2022":"493000000000","sector":"healthcare","stock":"cnc"}
+{"name":"paychex inc","country":"united states","market_value_apr_2022":"492000000000","sector":"industrials","stock":"payx"}
+{"name":"honda motor co ltd","country":"japan","market_value_apr_2022":"491000000000","sector":"consumer discretionary","stock":"7267"}
+{"name":"hitachi ltd","country":"japan","market_value_apr_2022":"489000000000","sector":"industrials","stock":"6501"}
+{"name":"scentre group","country":"australia","market_value_apr_2022":"488000000000","sector":"real estate","stock":"scg"}
+{"name":"mediatek inc","country":"taiwan","market_value_apr_2022":"487000000000","sector":"technology","stock":"2454"}
+{"name":"lululemon athletica inc","country":"canada","market_value_apr_2022":"485000000000","sector":"consumer discretionary","stock":"lulu"}
+{"name":"dow inc","country":"united states","market_value_apr_2022":"485000000000","sector":"basic materials","stock":"dow"}
+{"name":"rosneft oil co pjsc","country":"russia","market_value_apr_2022":"485000000000","sector":"energy","stock":"rosn"}
+{"name":"mckesson corporation","country":"united states","market_value_apr_2022":"484000000000","sector":"healthcare","stock":"mck"}
+{"name":"suncor energy inc","country":"canada","market_value_apr_2022":"482000000000","sector":"energy","stock":"su"}
+{"name":"vmware inc","country":"united states","market_value_apr_2022":"481000000000","sector":"technology","stock":"vmw"}
+{"name":"johnson controls international plc","country":"ireland","market_value_apr_2022":"481000000000","sector":"industrials","stock":"jci"}
+{"name":"oreilly automotive inc","country":"united states","market_value_apr_2022":"481000000000","sector":"consumer discretionary","stock":"orly"}
+{"name":"grupo mexico sab de cv","country":"mexico","market_value_apr_2022":"480000000000","sector":"basic materials","stock":"gmexicob"}
+{"name":"crowdstrike holdings inc","country":"united states","market_value_apr_2022":"478000000000","sector":"technology","stock":"crwd"}
+{"name":"naspers ltd","country":"south africa","market_value_apr_2022":"477000000000","sector":"communication services","stock":"npn"}
+{"name":"autodesk inc","country":"united states","market_value_apr_2022":"476000000000","sector":"technology","stock":"adsk"}
+{"name":"prudential financial inc","country":"united states","market_value_apr_2022":"471000000000","sector":"financials","stock":"pru"}
+{"name":"open joint stock company omz","country":"russia","market_value_apr_2022":"471000000000","sector":"industrials","stock":"omzzp"}
+{"name":"cognizant technology solutions corporation","country":"united states","market_value_apr_2022":"470000000000","sector":"technology","stock":"ctsh"}
+{"name":"nucor corporation","country":"united states","market_value_apr_2022":"468000000000","sector":"basic materials","stock":"nue"}
+{"name":"dexcom inc","country":"united states","market_value_apr_2022":"468000000000","sector":"healthcare","stock":"dxcm"}
+{"name":"banco bradesco sa","country":"brazil","market_value_apr_2022":"467000000000","sector":"financials","stock":"bbdc3"}
+{"name":"nidec corp","country":"japan","market_value_apr_2022":"463000000000","sector":"industrials","stock":"6594"}
+{"name":"adidas ag","country":"germany","market_value_apr_2022":"461000000000","sector":"consumer discretionary","stock":"ads1"}
+{"name":"sika ag","country":"switzerland","market_value_apr_2022":"460000000000","sector":"basic materials","stock":"sika"}
+{"name":"baidu inc","country":"china","market_value_apr_2022":"459000000000","sector":"communication services","stock":"9888"}
+{"name":"takeda pharmaceutical company limited","country":"japan","market_value_apr_2022":"458000000000","sector":"healthcare","stock":"4502"}
+{"name":"the hershey company","country":"united states","market_value_apr_2022":"458000000000","sector":"consumer staples","stock":"hsy"}
+{"name":"amphenol corporation","country":"united states","market_value_apr_2022":"457000000000","sector":"technology","stock":"aph"}
+{"name":"vanjia corp","country":"united states","market_value_apr_2022":"","sector":"consumer discretionary","stock":"vnja"}
+{"name":"vodafone group plc","country":"united kingdom","market_value_apr_2022":"457000000000","sector":"communication services","stock":"vod"}
+{"name":"idexx laboratories inc","country":"united states","market_value_apr_2022":"456000000000","sector":"healthcare","stock":"idxx"}
+{"name":"the travelers companies inc","country":"united states","market_value_apr_2022":"455000000000","sector":"financials","stock":"trv"}
+{"name":"infineon technologies ag","country":"germany","market_value_apr_2022":"453000000000","sector":"technology","stock":"ifxa"}
+{"name":"constellation brands inc","country":"united states","market_value_apr_2022":"452000000000","sector":"consumer staples","stock":"stz"}
+{"name":"datadog inc","country":"united states","market_value_apr_2022":"451000000000","sector":"technology","stock":"ddog"}
+{"name":"mitsui  co ltd","country":"japan","market_value_apr_2022":"450000000000","sector":"energy","stock":"8031"}
+{"name":"saudi arabian mining company","country":"saudi arabia","market_value_apr_2022":"450000000000","sector":"basic materials","stock":"1211"}
+{"name":"pjsc lukoil","country":"russia","market_value_apr_2022":"449000000000","sector":"energy","stock":"lkoh"}
+{"name":"intesa sanpaolo spa","country":"italy","market_value_apr_2022":"449000000000","sector":"financials","stock":"isp"}
+{"name":"te connectivity ltd","country":"switzerland","market_value_apr_2022":"447000000000","sector":"technology","stock":"tel"}
+{"name":"autozone inc","country":"united states","market_value_apr_2022":"443000000000","sector":"consumer discretionary","stock":"azo"}
+{"name":"iqvia holdings inc","country":"united states","market_value_apr_2022":"443000000000","sector":"healthcare","stock":"iqv"}
+{"name":"cintas corporation","country":"united states","market_value_apr_2022":"443000000000","sector":"industrials","stock":"ctas"}
+{"name":"cadence design syste inc","country":"united states","market_value_apr_2022":"442000000000","sector":"technology","stock":"cdns"}
+{"name":"chipotle mexican grill inc","country":"united states","market_value_apr_2022":"441000000000","sector":"consumer discretionary","stock":"cmg"}
+{"name":"sumitomo mitsui financial group inc","country":"japan","market_value_apr_2022":"440000000000","sector":"financials","stock":"8316"}
+{"name":"saung biologics coltd","country":"south korea","market_value_apr_2022":"440000000000","sector":"healthcare","stock":"207940"}
+{"name":"wipro limited","country":"india","market_value_apr_2022":"439000000000","sector":"technology","stock":"wipro"}
+{"name":"zijin mining group co ltd","country":"china","market_value_apr_2022":"439000000000","sector":"basic materials","stock":"601899"}
+{"name":"hp inc","country":"united states","market_value_apr_2022":"439000000000","sector":"technology","stock":"hpq"}
+{"name":"lloyds banking group plc","country":"united kingdom","market_value_apr_2022":"437000000000","sector":"financials","stock":"lloy"}
+{"name":"simon property group inc","country":"united states","market_value_apr_2022":"436000000000","sector":"real estate","stock":"spg"}
+{"name":"aflac incorporated","country":"united states","market_value_apr_2022":"435000000000","sector":"financials","stock":"afl"}
+{"name":"barrick gold corporation","country":"canada","market_value_apr_2022":"435000000000","sector":"basic materials","stock":"abx"}
+{"name":"murata manufacturing co ltd","country":"japan","market_value_apr_2022":"434000000000","sector":"technology","stock":"6981"}
+{"name":"kinder morgan inc","country":"united states","market_value_apr_2022":"433000000000","sector":"energy","stock":"kmi"}
+{"name":"kimberlyclark corporation","country":"united states","market_value_apr_2022":"432000000000","sector":"consumer staples","stock":"kmb"}
+{"name":"xiaomi corp","country":"china","market_value_apr_2022":"431000000000","sector":"technology","stock":"1810"}
+{"name":"wesfarmers limited","country":"australia","market_value_apr_2022":"430000000000","sector":"consumer discretionary","stock":"wes"}
+{"name":"republic services inc","country":"united states","market_value_apr_2022":"429000000000","sector":"industrials","stock":"rsg"}
+{"name":"hoya corp","country":"japan","market_value_apr_2022":"428000000000","sector":"healthcare","stock":"7741"}
+{"name":"yihai kerry arawana holdings co ltd","country":"china","market_value_apr_2022":"428000000000","sector":"consumer staples","stock":"300999"}
+{"name":"monster beverage corporation","country":"united states","market_value_apr_2022":"428000000000","sector":"consumer staples","stock":"mnst"}
+{"name":"longi green energy technology co ltd","country":"china","market_value_apr_2022":"426000000000","sector":"technology","stock":"601012"}
+{"name":"corteva inc","country":"united states","market_value_apr_2022":"426000000000","sector":"basic materials","stock":"ctva"}
+{"name":"general mills inc","country":"united states","market_value_apr_2022":"426000000000","sector":"consumer staples","stock":"gis"}
+{"name":"seven  i holdings co ltd","country":"japan","market_value_apr_2022":"425000000000","sector":"consumer staples","stock":"3382"}
+{"name":"dsv panalpina as","country":"denmark","market_value_apr_2022":"424000000000","sector":"industrials","stock":"dsv"}
+{"name":"hilton worldwide holdings inc","country":"united states","market_value_apr_2022":"423000000000","sector":"consumer discretionary","stock":"hlt"}
+{"name":"wuxi apptec co ltd","country":"china","market_value_apr_2022":"422000000000","sector":"healthcare","stock":"603259"}
+{"name":"sysco corporation","country":"united states","market_value_apr_2022":"422000000000","sector":"consumer staples","stock":"syy"}
+{"name":"the kroger co","country":"united states","market_value_apr_2022":"420000000000","sector":"consumer staples","stock":"kr"}
+{"name":"manulife financial corporation","country":"canada","market_value_apr_2022":"419000000000","sector":"financials","stock":"mfc"}
+{"name":"biontech se","country":"germany","market_value_apr_2022":"419000000000","sector":"healthcare","stock":"22ua"}
+{"name":"stmicroelectronics nv","country":"switzerland","market_value_apr_2022":"419000000000","sector":"technology","stock":"stm"}
+{"name":"devon energy corporation","country":"united states","market_value_apr_2022":"418000000000","sector":"energy","stock":"dvn"}
+{"name":"the willia companies inc","country":"united states","market_value_apr_2022":"416000000000","sector":"energy","stock":"wmb"}
+{"name":"the allstate corporation","country":"united states","market_value_apr_2022":"415000000000","sector":"financials","stock":"all"}
+{"name":"hang seng bank limited","country":"hong kong","market_value_apr_2022":"414000000000","sector":"financials","stock":"11"}
+{"name":"valero energy corporation","country":"united states","market_value_apr_2022":"412000000000","sector":"energy","stock":"vlo"}
+{"name":"ing groep nv","country":"netherlands","market_value_apr_2022":"412000000000","sector":"financials","stock":"inga"}
+{"name":"mmc norilsk nickel pjsc","country":"russia","market_value_apr_2022":"411000000000","sector":"basic materials","stock":"gmkn"}
+{"name":"motorola solutions inc","country":"united states","market_value_apr_2022":"408000000000","sector":"technology","stock":"i"}
+{"name":"east money information coltd","country":"china","market_value_apr_2022":"408000000000","sector":"communication services","stock":"300059"}
+{"name":"the bank of new york mellon corporation","country":"united states","market_value_apr_2022":"408000000000","sector":"financials","stock":"bk"}
+{"name":"carrier global corporation","country":"united states","market_value_apr_2022":"407000000000","sector":"industrials","stock":"carr"}
+{"name":"overseachinese banking corp ltd","country":"singapore","market_value_apr_2022":"407000000000","sector":"financials","stock":"o39"}
+{"name":"digital realty trust inc","country":"united states","market_value_apr_2022":"406000000000","sector":"real estate","stock":"dlr"}
+{"name":"walgreens boots alliance inc","country":"united states","market_value_apr_2022":"405000000000","sector":"healthcare","stock":"wba"}
+{"name":"agilent technologies inc","country":"united states","market_value_apr_2022":"404000000000","sector":"healthcare","stock":"a"}
+{"name":"global payments inc","country":"united states","market_value_apr_2022":"403000000000","sector":"industrials","stock":"gpn"}
+{"name":"citic securities company ltd","country":"china","market_value_apr_2022":"401000000000","sector":"financials","stock":"600030"}
+{"name":"baxter international inc","country":"united states","market_value_apr_2022":"401000000000","sector":"healthcare","stock":"bax"}
+{"name":"boc hong kong holdings ltd","country":"hong kong","market_value_apr_2022":"399000000000","sector":"financials","stock":"2388"}
+{"name":"ci inc","country":"united states","market_value_apr_2022":"399000000000","sector":"financials","stock":"ci"}
+{"name":"welltower inc","country":"united states","market_value_apr_2022":"399000000000","sector":"real estate","stock":"well"}
+{"name":"xcel energy inc","country":"united states","market_value_apr_2022":"397000000000","sector":"utilities","stock":"xel"}
+{"name":"united overseas bank ltd","country":"singapore","market_value_apr_2022":"397000000000","sector":"financials","stock":"u11"}
+{"name":"wanhua chemical group co ltd","country":"china","market_value_apr_2022":"397000000000","sector":"basic materials","stock":"600309"}
+{"name":"dupont de nemours inc","country":"united states","market_value_apr_2022":"397000000000","sector":"basic materials","stock":"dd"}
+{"name":"eqt ab","country":"japan","market_value_apr_2022":"397000000000","sector":"financials","stock":"6eq"}
+{"name":"alimentation couchetard inc","country":"canada","market_value_apr_2022":"","sector":"consumer staples","stock":"atdb"}
+{"name":"ebay inc","country":"united states","market_value_apr_2022":"393000000000","sector":"consumer discretionary","stock":"ebay"}
+{"name":"givaudan sa","country":"switzerland","market_value_apr_2022":"392000000000","sector":"basic materials","stock":"givn"}
+{"name":"novozymes as","country":"denmark","market_value_apr_2022":"390000000000","sector":"basic materials","stock":"nzymb"}
+{"name":"prudential plc","country":"united kingdom","market_value_apr_2022":"390000000000","sector":"financials","stock":"pru"}
+{"name":"alcon inc","country":"switzerland","market_value_apr_2022":"389000000000","sector":"healthcare","stock":"alc"}
+{"name":"ecopetrol sa","country":"","market_value_apr_2022":"386000000000","sector":"","stock":"ec"}
+{"name":"baker hughes company","country":"united states","market_value_apr_2022":"383000000000","sector":"energy","stock":"bkr"}
+{"name":"banco bilbao vizcaya argentaria sa","country":"spain","market_value_apr_2022":"382000000000","sector":"financials","stock":"bbva"}
+{"name":"dell technologies inc","country":"united states","market_value_apr_2022":"381000000000","sector":"technology","stock":"dell"}
+{"name":"kuaishou technology","country":"china","market_value_apr_2022":"381000000000","sector":"communication services","stock":"1024"}
+{"name":"ab volvo","country":"sweden","market_value_apr_2022":"381000000000","sector":"industrials","stock":"vol4"}
+{"name":"crédit agricole sa","country":"france","market_value_apr_2022":"380000000000","sector":"financials","stock":"aca"}
+{"name":"dollar tree inc","country":"united states","market_value_apr_2022":"380000000000","sector":"consumer staples","stock":"dltr"}
+{"name":"sba communications corporation","country":"united states","market_value_apr_2022":"379000000000","sector":"real estate","stock":"sbac"}
+{"name":"capgemini se","country":"france","market_value_apr_2022":"378000000000","sector":"technology","stock":"cap"}
+{"name":"daiichi sankyo company ltd","country":"japan","market_value_apr_2022":"377000000000","sector":"healthcare","stock":"4568"}
+{"name":"compass group plc","country":"united kingdom","market_value_apr_2022":"377000000000","sector":"consumer discretionary","stock":"cpg"}
+{"name":"sartorius stedim biotech sa","country":"france","market_value_apr_2022":"375000000000","sector":"healthcare","stock":"dim"}
+{"name":"pt bank rakyat indonesia persero tbk","country":"indonesia","market_value_apr_2022":"","sector":"financials","stock":"byra"}
+{"name":"phillips 66","country":"united states","market_value_apr_2022":"375000000000","sector":"energy","stock":"psx"}
+{"name":"electronic arts inc","country":"united states","market_value_apr_2022":"373000000000","sector":"communication services","stock":"ea"}
+{"name":"trane technologies plc","country":"ireland","market_value_apr_2022":"373000000000","sector":"industrials","stock":"tt"}
+{"name":"smc corp","country":"japan","market_value_apr_2022":"370000000000","sector":"industrials","stock":"6273"}
+{"name":"parkerhannifin corporation","country":"united states","market_value_apr_2022":"370000000000","sector":"industrials","stock":"ph"}
+{"name":"tokio marine holdings inc","country":"japan","market_value_apr_2022":"","sector":"financials","stock":"8766"}
+{"name":"jiangsu hengrui medicine co ltd","country":"china","market_value_apr_2022":"369000000000","sector":"healthcare","stock":"600276"}
+{"name":"beijingshanghai highspeed railway coltd","country":"china","market_value_apr_2022":"369000000000","sector":"industrials","stock":"601816"}
+{"name":"münchener rückversicherungsgesellschaft aktiengesellschaft in münchen","country":"germany","market_value_apr_2022":"368000000000","sector":"financials","stock":"muv2"}
+{"name":"doordash inc","country":"united states","market_value_apr_2022":"367000000000","sector":"communication services","stock":"dash"}
+{"name":"shanghai pudong development bank co ltd","country":"china","market_value_apr_2022":"367000000000","sector":"financials","stock":"600000"}
+{"name":"constellation software inc","country":"canada","market_value_apr_2022":"366000000000","sector":"technology","stock":"csu"}
+{"name":"inner mongolia yili industrial group co ltd","country":"china","market_value_apr_2022":"366000000000","sector":"consumer staples","stock":"600887"}
+{"name":"telus corporation","country":"canada","market_value_apr_2022":"363000000000","sector":"communication services","stock":"t"}
+{"name":"public service enterprise group incorporated","country":"united states","market_value_apr_2022":"362000000000","sector":"utilities","stock":"peg"}
+{"name":"transdigm group incorporated","country":"united states","market_value_apr_2022":"361000000000","sector":"industrials","stock":"tdg"}
+{"name":"waste connections inc","country":"united states","market_value_apr_2022":"361000000000","sector":"industrials","stock":"wcn"}
+{"name":"lyondellbasell industries nv","country":"united states","market_value_apr_2022":"359000000000","sector":"basic materials","stock":"lyb"}
+{"name":"da sa","country":"france","market_value_apr_2022":"359000000000","sector":"consumer staples","stock":"bn"}
+{"name":"cloudflare inc","country":"united states","market_value_apr_2022":"359000000000","sector":"technology","stock":"net"}
+{"name":"nio limited","country":"china","market_value_apr_2022":"358000000000","sector":"consumer discretionary","stock":"nio"}
+{"name":"coinbase global inc","country":"united states","market_value_apr_2022":"358000000000","sector":"technology","stock":"coin"}
+{"name":"shanxi xinghuacun fen wine factory coltd","country":"china","market_value_apr_2022":"358000000000","sector":"consumer staples","stock":"600809"}
+{"name":"neste oyj","country":"finland","market_value_apr_2022":"355000000000","sector":"energy","stock":"neste"}
+{"name":"resmed inc","country":"united states","market_value_apr_2022":"354000000000","sector":"healthcare","stock":"rmd"}
+{"name":"experian plc","country":"ireland","market_value_apr_2022":"354000000000","sector":"industrials","stock":"expn"}
+{"name":"intuitive surgical inc","country":"united states","market_value_apr_2022":"353000000000","sector":"healthcare","stock":"isrg"}
+{"name":"woolworths group limited","country":"australia","market_value_apr_2022":"353000000000","sector":"consumer staples","stock":"wow"}
+{"name":"mplx lp","country":"united states","market_value_apr_2022":"352000000000","sector":"energy","stock":"mplx"}
+{"name":"telstra corporation limited","country":"australia","market_value_apr_2022":"352000000000","sector":"communication services","stock":"tls"}
+{"name":"hexagon ab","country":"sweden","market_value_apr_2022":"352000000000","sector":"technology","stock":"hxg"}
+{"name":"assicurazioni generali","country":"italy","market_value_apr_2022":"352000000000","sector":"financials","stock":"g"}
+{"name":"avalonbay communities inc","country":"united states","market_value_apr_2022":"351000000000","sector":"real estate","stock":"avb"}
+{"name":"imperial oil limited","country":"canada","market_value_apr_2022":"351000000000","sector":"energy","stock":"imo"}
+{"name":"yum brands inc","country":"united states","market_value_apr_2022":"351000000000","sector":"consumer discretionary","stock":"yum"}
+{"name":"sun hung kai properties ltd","country":"hong kong","market_value_apr_2022":"350000000000","sector":"real estate","stock":"16"}
+{"name":"old dominion freight line inc","country":"united states","market_value_apr_2022":"349000000000","sector":"industrials","stock":"odfl"}
+{"name":"cheniere energy inc","country":"united states","market_value_apr_2022":"349000000000","sector":"energy","stock":"lng"}
+{"name":"consolidated edison inc","country":"united states","market_value_apr_2022":"348000000000","sector":"utilities","stock":"ed"}
+{"name":"china citic bank corp ltd","country":"china","market_value_apr_2022":"348000000000","sector":"financials","stock":"601998"}
+{"name":"budweiser brewing company apac ltd","country":"hong kong","market_value_apr_2022":"347000000000","sector":"consumer staples","stock":"1876"}
+{"name":"arcelormittal","country":"","market_value_apr_2022":"346000000000","sector":"","stock":"mt"}
+{"name":"ameriprise financial inc","country":"united states","market_value_apr_2022":"346000000000","sector":"financials","stock":"amp"}
+{"name":"fastenal company","country":"united states","market_value_apr_2022":"345000000000","sector":"industrials","stock":"fast"}
+{"name":"align technology inc","country":"united states","market_value_apr_2022":"344000000000","sector":"healthcare","stock":"algn"}
+{"name":"verbund ag","country":"","market_value_apr_2022":"344000000000","sector":"","stock":"oew"}
+{"name":"sydney airport limited","country":"australia","market_value_apr_2022":"","sector":"industrials","stock":"syd"}
+{"name":"verisk analytics inc","country":"united states","market_value_apr_2022":"343000000000","sector":"industrials","stock":"vrsk"}
+{"name":"z holdings corp","country":"japan","market_value_apr_2022":"342000000000","sector":"consumer discretionary","stock":"4689"}
+{"name":"arthur j gallagher  co","country":"united states","market_value_apr_2022":"342000000000","sector":"financials","stock":"ajg"}
+{"name":"chongqing zhifei biological products co ltd","country":"china","market_value_apr_2022":"341000000000","sector":"healthcare","stock":"300122"}
+{"name":"equity residential","country":"united states","market_value_apr_2022":"341000000000","sector":"real estate","stock":"eqr"}
+{"name":"chunghwa telecom co ltd","country":"taiwan","market_value_apr_2022":"340000000000","sector":"communication services","stock":"2412"}
+{"name":"t rowe price group inc","country":"united states","market_value_apr_2022":"340000000000","sector":"financials","stock":"trow"}
+{"name":"halliburton company","country":"united states","market_value_apr_2022":"339000000000","sector":"energy","stock":"hal"}
+{"name":"tyson foods inc","country":"united states","market_value_apr_2022":"337000000000","sector":"consumer staples","stock":"tsn"}
+{"name":"discover financial services","country":"united states","market_value_apr_2022":"337000000000","sector":"financials","stock":"dfs"}
+{"name":"kuehne  nagel international ag","country":"switzerland","market_value_apr_2022":"336000000000","sector":"industrials","stock":"knin"}
+{"name":"fanuc corp","country":"japan","market_value_apr_2022":"336000000000","sector":"industrials","stock":"6954"}
+{"name":"mtr corp ltd","country":"hong kong","market_value_apr_2022":"336000000000","sector":"industrials","stock":"66"}
+{"name":"poly developments and holdings group co ltd","country":"china","market_value_apr_2022":"336000000000","sector":"real estate","stock":"600048"}
+{"name":"kkr  co inc","country":"united states","market_value_apr_2022":"334000000000","sector":"financials","stock":"kkr"}
+{"name":"mizuho financial group inc","country":"japan","market_value_apr_2022":"334000000000","sector":"financials","stock":"8411"}
+{"name":"ptt pcl","country":"thailand","market_value_apr_2022":"334000000000","sector":"energy","stock":"ptt"}
+{"name":"koninklijke ahold delhaize nv","country":"netherlands","market_value_apr_2022":"334000000000","sector":"consumer staples","stock":"ad"}
+{"name":"china vanke co ltd","country":"china","market_value_apr_2022":"333000000000","sector":"real estate","stock":"2"}
+{"name":"international flavors  fragrances inc","country":"united states","market_value_apr_2022":"333000000000","sector":"basic materials","stock":"iff"}
+{"name":"telefonaktiebolaget lm ericsson","country":"sweden","market_value_apr_2022":"332000000000","sector":"technology","stock":"erica"}
+{"name":"china resources land ltd","country":"hong kong","market_value_apr_2022":"332000000000","sector":"real estate","stock":"1109"}
+{"name":"zoom video communications inc","country":"united states","market_value_apr_2022":"332000000000","sector":"communication services","stock":"zm"}
+{"name":"otis worldwide corporation","country":"united states","market_value_apr_2022":"330000000000","sector":"industrials","stock":"otis"}
+{"name":"sun life financial inc","country":"canada","market_value_apr_2022":"330000000000","sector":"financials","stock":"slf"}
+{"name":"rockwell automation inc","country":"united states","market_value_apr_2022":"330000000000","sector":"industrials","stock":"rok"}
+{"name":"aptiv plc","country":"ireland","market_value_apr_2022":"330000000000","sector":"consumer discretionary","stock":"aptv"}
+{"name":"cenovus energy inc","country":"canada","market_value_apr_2022":"330000000000","sector":"energy","stock":"cve"}
+{"name":"deutsche börse ag","country":"germany","market_value_apr_2022":"329000000000","sector":"financials","stock":"db1"}
+{"name":"orange sa","country":"france","market_value_apr_2022":"328000000000","sector":"communication services","stock":"ora"}
+{"name":"hess corporation","country":"united states","market_value_apr_2022":"328000000000","sector":"energy","stock":"hes"}
+{"name":"natwest group plc","country":"united kingdom","market_value_apr_2022":"327000000000","sector":"financials","stock":"nwg"}
+{"name":"ross stores inc","country":"united states","market_value_apr_2022":"327000000000","sector":"consumer discretionary","stock":"rost"}
+{"name":"wec energy group inc","country":"united states","market_value_apr_2022":"325000000000","sector":"utilities","stock":"wec"}
+{"name":"amerisourcebergen corporation","country":"united states","market_value_apr_2022":"325000000000","sector":"healthcare","stock":"abc"}
+{"name":"china overseas land  investment ltd","country":"hong kong","market_value_apr_2022":"324000000000","sector":"real estate","stock":"688"}
+{"name":"wuxi biologics","country":"china","market_value_apr_2022":"324000000000","sector":"healthcare","stock":"2269"}
+{"name":"citic ltd","country":"hong kong","market_value_apr_2022":"323000000000","sector":"industrials","stock":"267"}
+{"name":"cellnex telecom sa","country":"spain","market_value_apr_2022":"323000000000","sector":"communication services","stock":"clnx"}
+{"name":"haier smart home co ltd","country":"china","market_value_apr_2022":"323000000000","sector":"consumer discretionary","stock":"600690"}
+{"name":"singapore telecommunications ltd","country":"singapore","market_value_apr_2022":"322000000000","sector":"communication services","stock":"z74"}
+{"name":"anta sports products ltd","country":"china","market_value_apr_2022":"322000000000","sector":"consumer discretionary","stock":"2020"}
+{"name":"barclays plc","country":"united kingdom","market_value_apr_2022":"321000000000","sector":"financials","stock":"barc"}
+{"name":"brownforman corporation","country":"united states","market_value_apr_2022":"320000000000","sector":"consumer staples","stock":"bfb"}
+{"name":"weg sa","country":"brazil","market_value_apr_2022":"320000000000","sector":"industrials","stock":"wege3"}
+{"name":"paccar inc","country":"united states","market_value_apr_2022":"320000000000","sector":"industrials","stock":"pcar"}
+{"name":"great wall motor co ltd","country":"china","market_value_apr_2022":"320000000000","sector":"consumer discretionary","stock":"601633"}
+{"name":"longfor group holdings ltd","country":"china","market_value_apr_2022":"319000000000","sector":"real estate","stock":"960"}
+{"name":"japan post bank coltd","country":"japan","market_value_apr_2022":"319000000000","sector":"financials","stock":"7182"}
+{"name":"ppg industries inc","country":"united states","market_value_apr_2022":"318000000000","sector":"basic materials","stock":"ppg"}
+{"name":"perusahaan perseroan persero pt telekomunikasi indonesia tbk","country":"indonesia","market_value_apr_2022":"317000000000","sector":"communication services","stock":"tlk"}
+{"name":"mettlertoledo international inc","country":"united states","market_value_apr_2022":"317000000000","sector":"healthcare","stock":"mtd"}
+{"name":"oneok inc","country":"united states","market_value_apr_2022":"316000000000","sector":"energy","stock":"oke"}
+{"name":"goodman group","country":"australia","market_value_apr_2022":"316000000000","sector":"real estate","stock":"gmg"}
+{"name":"corning incorporated","country":"united states","market_value_apr_2022":"316000000000","sector":"technology","stock":"glw"}
+{"name":"japan tobacco inc","country":"japan","market_value_apr_2022":"315000000000","sector":"consumer staples","stock":"2914"}
+{"name":"foxconn industrial internet co ltd","country":"china","market_value_apr_2022":"315000000000","sector":"technology","stock":"601138"}
+{"name":"eversource energy","country":"united states","market_value_apr_2022":"315000000000","sector":"utilities","stock":"es"}
+{"name":"china telecom corp ltd","country":"hong kong","market_value_apr_2022":"314000000000","sector":"communication services","stock":"728"}
+{"name":"crh plc","country":"ireland","market_value_apr_2022":"314000000000","sector":"basic materials","stock":"crh"}
+{"name":"japan post holdings co ltd","country":"japan","market_value_apr_2022":"314000000000","sector":"financials","stock":"6178"}
+{"name":"biogen inc","country":"united states","market_value_apr_2022":"313000000000","sector":"healthcare","stock":"biib"}
+{"name":"swisscom ag","country":"switzerland","market_value_apr_2022":"312000000000","sector":"communication services","stock":"scmn"}
+{"name":"koninklijke dsm nv","country":"netherlands","market_value_apr_2022":"312000000000","sector":"basic materials","stock":"dsm"}
+{"name":"formosa petrochemical corp","country":"taiwan","market_value_apr_2022":"312000000000","sector":"energy","stock":"6505"}
+{"name":"zhangzhou pientzehuang pharmaceutical ltd","country":"china","market_value_apr_2022":"311000000000","sector":"healthcare","stock":"600436"}
+{"name":"ametek inc","country":"united states","market_value_apr_2022":"311000000000","sector":"industrials","stock":"ame"}
+{"name":"eon se","country":"germany","market_value_apr_2022":"311000000000","sector":"utilities","stock":"eoaa"}
+{"name":"china pacific insurance","country":"china","market_value_apr_2022":"310000000000","sector":"financials","stock":"601601"}
+{"name":"zscaler inc","country":"united states","market_value_apr_2022":"310000000000","sector":"technology","stock":"zs"}
+{"name":"anhui conch cement company ltd","country":"china","market_value_apr_2022":"310000000000","sector":"basic materials","stock":"600585"}
+{"name":"franconevada corporation","country":"canada","market_value_apr_2022":"310000000000","sector":"basic materials","stock":"fnv"}
+{"name":"engie sa","country":"france","market_value_apr_2022":"310000000000","sector":"utilities","stock":"engi"}
+{"name":"state street corporation","country":"united states","market_value_apr_2022":"309000000000","sector":"financials","stock":"stt"}
+{"name":"saic motor corp ltd","country":"china","market_value_apr_2022":"309000000000","sector":"consumer discretionary","stock":"600104"}
+{"name":"nokia corporation","country":"finland","market_value_apr_2022":"309000000000","sector":"technology","stock":"nokiasek"}
+{"name":"twitter inc","country":"united states","market_value_apr_2022":"308000000000","sector":"communication services","stock":"twtr"}
+{"name":"veeva syste inc","country":"united states","market_value_apr_2022":"307000000000","sector":"healthcare","stock":"veev"}
+{"name":"loblaw companies limited","country":"canada","market_value_apr_2022":"307000000000","sector":"consumer staples","stock":"l"}
+{"name":"energy transfer lp","country":"united states","market_value_apr_2022":"306000000000","sector":"energy","stock":"et"}
+{"name":"henkel ag  co kgaa","country":"germany","market_value_apr_2022":"305000000000","sector":"consumer staples","stock":"hen"}
+{"name":"coupang inc","country":"south korea","market_value_apr_2022":"305000000000","sector":"consumer discretionary","stock":"cpng"}
+{"name":"ferguson plc","country":"united kingdom","market_value_apr_2022":"305000000000","sector":"industrials","stock":"ferg"}
+{"name":"bae syste plc","country":"united kingdom","market_value_apr_2022":"305000000000","sector":"industrials","stock":"ba"}
+{"name":"fifth third bancorp","country":"united states","market_value_apr_2022":"304000000000","sector":"financials","stock":"fitb"}
+{"name":"cbre group inc","country":"united states","market_value_apr_2022":"304000000000","sector":"real estate","stock":"cbre"}
+{"name":"american water works company inc","country":"united states","market_value_apr_2022":"304000000000","sector":"utilities","stock":"awk"}
+{"name":"fujitsu ltd","country":"japan","market_value_apr_2022":"302000000000","sector":"technology","stock":"6702"}
+{"name":"west pharmaceutical services inc","country":"united states","market_value_apr_2022":"302000000000","sector":"healthcare","stock":"wst"}
+{"name":"compagnie de saintgobain sa","country":"france","market_value_apr_2022":"301000000000","sector":"industrials","stock":"sgo"}
+{"name":"alexandria real estate equities inc","country":"united states","market_value_apr_2022":"301000000000","sector":"real estate","stock":"are"}
+{"name":"assa abloy ab","country":"sweden","market_value_apr_2022":"300000000000","sector":"industrials","stock":"alz"}
+{"name":"cummins inc","country":"united states","market_value_apr_2022":"299000000000","sector":"industrials","stock":"cmi"}
+{"name":"vestas wind syste as","country":"denmark","market_value_apr_2022":"299000000000","sector":"industrials","stock":"vws"}
+{"name":"riyad bank","country":"saudi arabia","market_value_apr_2022":"298000000000","sector":"financials","stock":"1010"}
+{"name":"willis towers watson plc","country":"united kingdom","market_value_apr_2022":"","sector":"financials","stock":"wltw"}
+{"name":"match group inc","country":"united states","market_value_apr_2022":"298000000000","sector":"communication services","stock":"mtch"}
+{"name":"kbc group nv","country":"belgium","market_value_apr_2022":"298000000000","sector":"financials","stock":"kdb"}
+{"name":"unicredit spa","country":"italy","market_value_apr_2022":"","sector":"financials","stock":"ucg"}
+{"name":"cathay financial holding co ltd","country":"taiwan","market_value_apr_2022":"295000000000","sector":"financials","stock":"2882"}
+{"name":"copart inc","country":"united states","market_value_apr_2022":"295000000000","sector":"industrials","stock":"cprt"}
+{"name":"spotify technology sa","country":"","market_value_apr_2022":"295000000000","sector":"","stock":"spot"}
+{"name":"nasdaq inc","country":"united states","market_value_apr_2022":"295000000000","sector":"financials","stock":"ndaq"}
+{"name":"weyerhaeuser company","country":"united states","market_value_apr_2022":"294000000000","sector":"real estate","stock":"wy"}
+{"name":"saudi electricity company","country":"saudi arabia","market_value_apr_2022":"294000000000","sector":"utilities","stock":"5110"}
+{"name":"ball corporation","country":"united states","market_value_apr_2022":"294000000000","sector":"consumer discretionary","stock":"bll"}
+{"name":"keysight technologies inc","country":"united states","market_value_apr_2022":"294000000000","sector":"technology","stock":"keys"}
+{"name":"astellas pharma inc","country":"japan","market_value_apr_2022":"292000000000","sector":"healthcare","stock":"4503"}
+{"name":"amadeus it group sa","country":"spain","market_value_apr_2022":"291000000000","sector":"technology","stock":"a"}
+{"name":"electricité de france sa","country":"france","market_value_apr_2022":"291000000000","sector":"utilities","stock":"edf"}
+{"name":"rogers communications inc","country":"canada","market_value_apr_2022":"291000000000","sector":"communication services","stock":"rcib"}
+{"name":"tongwei co ltd","country":"china","market_value_apr_2022":"291000000000","sector":"consumer staples","stock":"600438"}
+{"name":"las vegas sands corp","country":"united states","market_value_apr_2022":"290000000000","sector":"consumer discretionary","stock":"lvs"}
+{"name":"rwe ag","country":"germany","market_value_apr_2022":"290000000000","sector":"utilities","stock":"rwe"}
+{"name":"cosco shipping holdings co ltd","country":"china","market_value_apr_2022":"289000000000","sector":"industrials","stock":"601919"}
+{"name":"svb financial group","country":"united states","market_value_apr_2022":"289000000000","sector":"financials","stock":"sivb"}
+{"name":"csx corporation","country":"united states","market_value_apr_2022":"289000000000","sector":"industrials","stock":"csx"}
+{"name":"techtronic industries company ltd","country":"hong kong","market_value_apr_2022":"287000000000","sector":"industrials","stock":"669"}
+{"name":"naturgy energy group sa","country":"spain","market_value_apr_2022":"287000000000","sector":"utilities","stock":"ntgy"}
+{"name":"apa group","country":"australia","market_value_apr_2022":"285000000000","sector":"utilities","stock":"apa"}
+{"name":"hormel foods corporation","country":"united states","market_value_apr_2022":"285000000000","sector":"consumer staples","stock":"hrl"}
+{"name":"cerner corporation","country":"united states","market_value_apr_2022":"283000000000","sector":"healthcare","stock":"cern"}
+{"name":"ashtead group plc","country":"united kingdom","market_value_apr_2022":"282000000000","sector":"industrials","stock":"aht"}
+{"name":"equifax inc","country":"united states","market_value_apr_2022":"282000000000","sector":"industrials","stock":"efx"}
+{"name":"semiconductor manufacturing international corp","country":"china","market_value_apr_2022":"282000000000","sector":"technology","stock":"688981"}
+{"name":"porsche automobil holding se","country":"germany","market_value_apr_2022":"281000000000","sector":"consumer discretionary","stock":"paha"}
+{"name":"tesco plc","country":"united kingdom","market_value_apr_2022":"281000000000","sector":"consumer staples","stock":"tsco"}
+{"name":"sirius xm holdings inc","country":"united states","market_value_apr_2022":"280000000000","sector":"communication services","stock":"siri"}
+{"name":"airports of thailand public company ltd","country":"thailand","market_value_apr_2022":"280000000000","sector":"industrials","stock":"aot"}
+{"name":"ck hutchison holdings ltd","country":"hong kong","market_value_apr_2022":"279000000000","sector":"industrials","stock":"1"}
+{"name":"the peoples insurance company group of china ltd","country":"china","market_value_apr_2022":"279000000000","sector":"financials","stock":"601319"}
+{"name":"expedia group inc","country":"united states","market_value_apr_2022":"279000000000","sector":"consumer discretionary","stock":"expe"}
+{"name":"first republic bank","country":"united states","market_value_apr_2022":"279000000000","sector":"financials","stock":"frc"}
+{"name":"koninklijke philips nv","country":"netherlands","market_value_apr_2022":"278000000000","sector":"healthcare","stock":"phia"}
+{"name":"greatwest lifeco inc","country":"canada","market_value_apr_2022":"278000000000","sector":"financials","stock":"gwo"}
+{"name":"thai beverage public company ltd","country":"thailand","market_value_apr_2022":"278000000000","sector":"consumer staples","stock":"y92"}
+{"name":"swiss re ag","country":"switzerland","market_value_apr_2022":"278000000000","sector":"financials","stock":"sren"}
+{"name":"edison international","country":"united states","market_value_apr_2022":"276000000000","sector":"utilities","stock":"eix"}
+{"name":"wolters kluwer nv","country":"netherlands","market_value_apr_2022":"276000000000","sector":"communication services","stock":"wkl"}
+{"name":"on semiconductor corporation","country":"united states","market_value_apr_2022":"276000000000","sector":"technology","stock":"on"}
+{"name":"caixabank sa","country":"spain","market_value_apr_2022":"275000000000","sector":"financials","stock":"cabk"}
+{"name":"sampo oyj","country":"finland","market_value_apr_2022":"274000000000","sector":"financials","stock":"sampo"}
+{"name":"extra space storage inc","country":"united states","market_value_apr_2022":"273000000000","sector":"real estate","stock":"exr"}
+{"name":"sartorius ag","country":"germany","market_value_apr_2022":"273000000000","sector":"healthcare","stock":"srt"}
+{"name":"dr horton inc","country":"united states","market_value_apr_2022":"273000000000","sector":"consumer discretionary","stock":"dhi"}
+{"name":"ww grainger inc","country":"united states","market_value_apr_2022":"273000000000","sector":"industrials","stock":"gww"}
+{"name":"nari technology co ltd","country":"china","market_value_apr_2022":"273000000000","sector":"industrials","stock":"600406"}
+{"name":"kone oyj","country":"finland","market_value_apr_2022":"272000000000","sector":"industrials","stock":"knebv"}
+{"name":"mccormick  company incorporated","country":"united states","market_value_apr_2022":"272000000000","sector":"consumer staples","stock":"mkc"}
+{"name":"ntt data corp","country":"japan","market_value_apr_2022":"272000000000","sector":"technology","stock":"9613"}
+{"name":"ganfeng lithium co ltd","country":"china","market_value_apr_2022":"272000000000","sector":"basic materials","stock":"2460"}
+{"name":"will semiconductor co ltd","country":"china","market_value_apr_2022":"272000000000","sector":"technology","stock":"603501"}
+{"name":"interactive brokers group inc","country":"united states","market_value_apr_2022":"272000000000","sector":"financials","stock":"ibkr"}
+{"name":"gazprom neft pjsc","country":"russia","market_value_apr_2022":"271000000000","sector":"energy","stock":"sibn"}
+{"name":"fubon financial holding co ltd","country":"taiwan","market_value_apr_2022":"271000000000","sector":"financials","stock":"2881"}
+{"name":"tractor supply company","country":"united states","market_value_apr_2022":"270000000000","sector":"consumer discretionary","stock":"tsco"}
+{"name":"chocoladefabriken lindt  sprüngli ag","country":"switzerland","market_value_apr_2022":"270000000000","sector":"consumer staples","stock":"lisn"}
+{"name":"ansys inc","country":"united states","market_value_apr_2022":"269000000000","sector":"technology","stock":"anss"}
+{"name":"shaanxi coal industry company ltd","country":"china","market_value_apr_2022":"269000000000","sector":"energy","stock":"601225"}
+{"name":"aier eye hospital group co ltd","country":"china","market_value_apr_2022":"269000000000","sector":"healthcare","stock":"300015"}
+{"name":"zimmer biomet holdings inc","country":"united states","market_value_apr_2022":"269000000000","sector":"healthcare","stock":"zbh"}
+{"name":"bridgestone corp","country":"japan","market_value_apr_2022":"268000000000","sector":"consumer discretionary","stock":"5108"}
+{"name":"evolution gaming group ab","country":"sweden","market_value_apr_2022":"268000000000","sector":"consumer discretionary","stock":"evo"}
+{"name":"beijing wantai biological pharmacy enterprise co ltd","country":"china","market_value_apr_2022":"268000000000","sector":"healthcare","stock":"603392"}
+{"name":"vonovia se","country":"germany","market_value_apr_2022":"267000000000","sector":"real estate","stock":"vna"}
+{"name":"sandvik ab","country":"sweden","market_value_apr_2022":"267000000000","sector":"industrials","stock":"sand"}
+{"name":"cheniere energy partners lp","country":"united states","market_value_apr_2022":"266000000000","sector":"energy","stock":"cqp"}
+{"name":"pge corporation","country":"united states","market_value_apr_2022":"266000000000","sector":"utilities","stock":"pcg"}
+{"name":"kansas city southern","country":"united states","market_value_apr_2022":"","sector":"industrials","stock":"ksu"}
+{"name":"unity software inc","country":"united states","market_value_apr_2022":"265000000000","sector":"technology","stock":"u"}
+{"name":"thales sa","country":"france","market_value_apr_2022":"265000000000","sector":"industrials","stock":"ho"}
+{"name":"southwest airlines co","country":"united states","market_value_apr_2022":"265000000000","sector":"industrials","stock":"luv"}
+{"name":"dte energy company","country":"united states","market_value_apr_2022":"264000000000","sector":"utilities","stock":"dte"}
+{"name":"intact financial corporation","country":"canada","market_value_apr_2022":"264000000000","sector":"financials","stock":"ifc"}
+{"name":"deutsche bank ag","country":"germany","market_value_apr_2022":"263000000000","sector":"financials","stock":"dbk"}
+{"name":"canon inc","country":"japan","market_value_apr_2022":"263000000000","sector":"technology","stock":"7751"}
+{"name":"lyondellbasell advanced polymers inc","country":"united states","market_value_apr_2022":"263000000000","sector":"basic materials","stock":"slmnp"}
+{"name":"national bank of canada","country":"canada","market_value_apr_2022":"262000000000","sector":"financials","stock":""}
+{"name":"sonova holding ag","country":"switzerland","market_value_apr_2022":"262000000000","sector":"healthcare","stock":"soon"}
+{"name":"realty income corporation","country":"united states","market_value_apr_2022":"261000000000","sector":"real estate","stock":"o"}
+{"name":"china everbright bank company ltd","country":"china","market_value_apr_2022":"261000000000","sector":"financials","stock":"601818"}
+{"name":"twilio inc","country":"united states","market_value_apr_2022":"260000000000","sector":"communication services","stock":"twlo"}
+{"name":"roblox corp","country":"united states","market_value_apr_2022":"260000000000","sector":"communication services","stock":"rblx"}
+{"name":"telefónica sa","country":"spain","market_value_apr_2022":"260000000000","sector":"communication services","stock":"tef"}
+{"name":"central japan railway co","country":"japan","market_value_apr_2022":"260000000000","sector":"industrials","stock":"9022"}
+{"name":"li auto inc","country":"china","market_value_apr_2022":"258000000000","sector":"consumer discretionary","stock":"li"}
+{"name":"enbw energie badenwuerttemberg ag","country":"germany","market_value_apr_2022":"258000000000","sector":"utilities","stock":"ebk"}
+{"name":"the hartford financial services group inc","country":"united states","market_value_apr_2022":"257000000000","sector":"financials","stock":"hig"}
+{"name":"laboratory corporation of america holdings","country":"united states","market_value_apr_2022":"257000000000","sector":"healthcare","stock":"lh"}
+{"name":"mongodb inc","country":"united states","market_value_apr_2022":"257000000000","sector":"technology","stock":"mdb"}
+{"name":"mitsubishi electric corporation","country":"japan","market_value_apr_2022":"256000000000","sector":"industrials","stock":"6503"}
+{"name":"banco santander brasil sa","country":"brazil","market_value_apr_2022":"255000000000","sector":"financials","stock":"sanb11"}
+{"name":"axis bank ltd","country":"india","market_value_apr_2022":"255000000000","sector":"financials","stock":"axisbank"}
+{"name":"united rentals inc","country":"united states","market_value_apr_2022":"254000000000","sector":"industrials","stock":"uri"}
+{"name":"nan ya plastics corp","country":"taiwan","market_value_apr_2022":"254000000000","sector":"basic materials","stock":"1303"}
+{"name":"lennar corporation","country":"united states","market_value_apr_2022":"253000000000","sector":"consumer discretionary","stock":"len"}
+{"name":"straumann holding ag","country":"switzerland","market_value_apr_2022":"253000000000","sector":"healthcare","stock":"stmn"}
+{"name":"clp holdings ltd","country":"hong kong","market_value_apr_2022":"252000000000","sector":"utilities","stock":"2"}
+{"name":"yanzhou coal mining company ltd","country":"china","market_value_apr_2022":"252000000000","sector":"energy","stock":"600188"}
+{"name":"firstenergy corp","country":"united states","market_value_apr_2022":"252000000000","sector":"utilities","stock":"fe"}
+{"name":"albemarle corporation","country":"united states","market_value_apr_2022":"252000000000","sector":"basic materials","stock":"alb"}
+{"name":"ck asset holdings limited","country":"hong kong","market_value_apr_2022":"252000000000","sector":"real estate","stock":"1113"}
+{"name":"enphase energy inc","country":"united states","market_value_apr_2022":"252000000000","sector":"technology","stock":"enph"}
+{"name":"legrand sa","country":"france","market_value_apr_2022":"251000000000","sector":"industrials","stock":"lr"}
+{"name":"galaxy entertainment group ltd","country":"hong kong","market_value_apr_2022":"251000000000","sector":"consumer discretionary","stock":"27"}
+{"name":"skandinaviska enskilda banken ab","country":"sweden","market_value_apr_2022":"251000000000","sector":"financials","stock":"seba"}
+{"name":"the mosaic company","country":"united states","market_value_apr_2022":"250000000000","sector":"basic materials","stock":"mos"}
+{"name":"cdw corporation","country":"united states","market_value_apr_2022":"250000000000","sector":"technology","stock":"cdw"}
+{"name":"gartner inc","country":"united states","market_value_apr_2022":"250000000000","sector":"technology","stock":"it"}
+{"name":"edp renováveis sa","country":"spain","market_value_apr_2022":"","sector":"utilities","stock":"edpr"}
+{"name":"delta air lines inc","country":"united states","market_value_apr_2022":"249000000000","sector":"industrials","stock":"dal"}
+{"name":"palantir technologies inc","country":"united states","market_value_apr_2022":"249000000000","sector":"technology","stock":"pltr"}
+{"name":"seagen inc","country":"united states","market_value_apr_2022":"248000000000","sector":"healthcare","stock":"sgen"}
+{"name":"diamondback energy inc","country":"united states","market_value_apr_2022":"248000000000","sector":"energy","stock":"fang"}
+{"name":"verisign inc","country":"united states","market_value_apr_2022":"248000000000","sector":"technology","stock":"vrsn"}
+{"name":"church  dwight co inc","country":"united states","market_value_apr_2022":"248000000000","sector":"consumer staples","stock":"chd"}
+{"name":"ameren corporation","country":"united states","market_value_apr_2022":"247000000000","sector":"utilities","stock":"aee"}
+{"name":"china minsheng banking corp ltd","country":"china","market_value_apr_2022":"246000000000","sector":"financials","stock":"600016"}
+{"name":"live nation entertainment inc","country":"united states","market_value_apr_2022":"246000000000","sector":"communication services","stock":"lyv"}
+{"name":"woodside petroleum ltd","country":"australia","market_value_apr_2022":"246000000000","sector":"energy","stock":"wpl"}
+{"name":"evergreen marine corp","country":"taiwan","market_value_apr_2022":"244000000000","sector":"industrials","stock":"2603"}
+{"name":"aena sme sa","country":"spain","market_value_apr_2022":"244000000000","sector":"industrials","stock":"aena"}
+{"name":"xpeng inc","country":"china","market_value_apr_2022":"244000000000","sector":"consumer discretionary","stock":"xpev"}
+{"name":"northern trust corporation","country":"united states","market_value_apr_2022":"244000000000","sector":"financials","stock":"ntrs"}
+{"name":"slack technologies inc","country":"united states","market_value_apr_2022":"","sector":"technology","stock":"work"}
+{"name":"midamerica apartment communities inc","country":"united states","market_value_apr_2022":"241000000000","sector":"real estate","stock":"maa"}
+{"name":"fresenius se  co kgaa","country":"germany","market_value_apr_2022":"241000000000","sector":"healthcare","stock":"fre"}
+{"name":"fujifilm holdings corp","country":"japan","market_value_apr_2022":"241000000000","sector":"industrials","stock":"4901"}
+{"name":"bt group plc","country":"united kingdom","market_value_apr_2022":"240000000000","sector":"communication services","stock":"bta"}
+{"name":"vulcan materials company","country":"united states","market_value_apr_2022":"240000000000","sector":"basic materials","stock":"vmc"}
+{"name":"epiroc ab","country":"sweden","market_value_apr_2022":"240000000000","sector":"industrials","stock":"3ad2"}
+{"name":"delta electronics inc","country":"taiwan","market_value_apr_2022":"240000000000","sector":"technology","stock":"2308"}
+{"name":"public joint stock company polyus","country":"russia","market_value_apr_2022":"","sector":"basic materials","stock":"plzl"}
+{"name":"schindler holding ag","country":"switzerland","market_value_apr_2022":"240000000000","sector":"industrials","stock":"schn"}
+{"name":"orix corporation","country":"japan","market_value_apr_2022":"239000000000","sector":"financials","stock":"8591"}
+{"name":"martin marietta materials inc","country":"united states","market_value_apr_2022":"239000000000","sector":"basic materials","stock":"mlm"}
+{"name":"csc financial co ltd","country":"china","market_value_apr_2022":"239000000000","sector":"financials","stock":"601066"}
+{"name":"best buy co inc","country":"united states","market_value_apr_2022":"239000000000","sector":"consumer discretionary","stock":"bby"}
+{"name":"steris plc","country":"ireland","market_value_apr_2022":"239000000000","sector":"healthcare","stock":"ste"}
+{"name":"entergy corporation","country":"united states","market_value_apr_2022":"239000000000","sector":"utilities","stock":"etr"}
+{"name":"m3 inc","country":"japan","market_value_apr_2022":"238000000000","sector":"healthcare","stock":"2413"}
+{"name":"splunk inc","country":"united states","market_value_apr_2022":"238000000000","sector":"technology","stock":"splk"}
+{"name":"eve energy co ltd","country":"china","market_value_apr_2022":"238000000000","sector":"industrials","stock":"300014"}
+{"name":"ventas inc","country":"united states","market_value_apr_2022":"238000000000","sector":"real estate","stock":"vtr"}
+{"name":"endesa sa","country":"spain","market_value_apr_2022":"237000000000","sector":"utilities","stock":"ele"}
+{"name":"sse plc","country":"united kingdom","market_value_apr_2022":"237000000000","sector":"utilities","stock":"sse"}
+{"name":"compagnie générale des etablissements michelin sca","country":"france","market_value_apr_2022":"236000000000","sector":"consumer discretionary","stock":"ml"}
+{"name":"horizon therapeutics public limited company","country":"ireland","market_value_apr_2022":"236000000000","sector":"healthcare","stock":"hznp"}
+{"name":"baoshan iron  steel co ltd","country":"china","market_value_apr_2022":"235000000000","sector":"basic materials","stock":"600019"}
+{"name":"stanley black  decker inc","country":"united states","market_value_apr_2022":"235000000000","sector":"industrials","stock":"swk"}
+{"name":"sungrow power supply co ltd","country":"china","market_value_apr_2022":"235000000000","sector":"industrials","stock":"300274"}
+{"name":"beiersdorf ag","country":"germany","market_value_apr_2022":"235000000000","sector":"consumer staples","stock":"bei"}
+{"name":"pt bank mandiri persero tbk","country":"indonesia","market_value_apr_2022":"","sector":"financials","stock":"pq9"}
+{"name":"first quantum minerals ltd","country":"canada","market_value_apr_2022":"234000000000","sector":"basic materials","stock":"fm"}
+{"name":"kubota corp","country":"japan","market_value_apr_2022":"234000000000","sector":"industrials","stock":"6326"}
+{"name":"mtn group ltd","country":"south africa","market_value_apr_2022":"234000000000","sector":"communication services","stock":"mtn"}
+{"name":"maxim integrated products inc","country":"united states","market_value_apr_2022":"","sector":"technology","stock":"mxim"}
+{"name":"rocket companies inc","country":"united states","market_value_apr_2022":"234000000000","sector":"financials","stock":"rkt"}
+{"name":"fortis inc","country":"canada","market_value_apr_2022":"234000000000","sector":"utilities","stock":"fts"}
+{"name":"formosa plastics corp","country":"taiwan","market_value_apr_2022":"234000000000","sector":"basic materials","stock":"1301"}
+{"name":"liberty broadband corporation","country":"united states","market_value_apr_2022":"234000000000","sector":"communication services","stock":"lbrdk"}
+{"name":"united microelectronics corporation","country":"taiwan","market_value_apr_2022":"233000000000","sector":"technology","stock":"2303"}
+{"name":"garmin ltd","country":"switzerland","market_value_apr_2022":"233000000000","sector":"technology","stock":"grmn"}
+{"name":"huazhu group limited","country":"china","market_value_apr_2022":"233000000000","sector":"consumer discretionary","stock":"htht"}
+{"name":"carnival corporation  plc","country":"united states","market_value_apr_2022":"232000000000","sector":"consumer discretionary","stock":"ccl"}
+{"name":"sany heavy industry co ltd","country":"china","market_value_apr_2022":"232000000000","sector":"industrials","stock":"600031"}
+{"name":"fox corporation","country":"united states","market_value_apr_2022":"232000000000","sector":"communication services","stock":"foxa"}
+{"name":"wens foodstuff group co ltd","country":"china","market_value_apr_2022":"232000000000","sector":"consumer staples","stock":"300498"}
+{"name":"société générale sa","country":"france","market_value_apr_2022":"231000000000","sector":"financials","stock":"gle"}
+{"name":"terumo corp","country":"japan","market_value_apr_2022":"231000000000","sector":"healthcare","stock":"4543"}
+{"name":"china international capital corp ltd","country":"china","market_value_apr_2022":"231000000000","sector":"financials","stock":"601995"}
+{"name":"invitation homes inc","country":"united states","market_value_apr_2022":"230000000000","sector":"real estate","stock":"invh"}
+{"name":"royalty pharma plc","country":"united states","market_value_apr_2022":"230000000000","sector":"healthcare","stock":"rprx"}
+{"name":"olympus corp","country":"japan","market_value_apr_2022":"230000000000","sector":"healthcare","stock":"7733"}
+{"name":"vf corporation","country":"united states","market_value_apr_2022":"229000000000","sector":"consumer discretionary","stock":"vfc"}
+{"name":"dover corporation","country":"united states","market_value_apr_2022":"229000000000","sector":"industrials","stock":"dov"}
+{"name":"ppl corporation","country":"united states","market_value_apr_2022":"228000000000","sector":"utilities","stock":"ppl"}
+{"name":"hengli petrochemical coltd","country":"china","market_value_apr_2022":"228000000000","sector":"consumer discretionary","stock":"600346"}
+{"name":"genmab as","country":"denmark","market_value_apr_2022":"228000000000","sector":"healthcare","stock":"gmab"}
+{"name":"sabic agrinutrients company","country":"saudi arabia","market_value_apr_2022":"227000000000","sector":"basic materials","stock":"2020"}
+{"name":"heineken holding nv","country":"netherlands","market_value_apr_2022":"227000000000","sector":"consumer staples","stock":"heio"}
+{"name":"sands china ltd","country":"","market_value_apr_2022":"185000000000","sector":"","stock":"1928"}
+{"name":"east japan railway company","country":"japan","market_value_apr_2022":"227000000000","sector":"industrials","stock":"9020"}
+{"name":"sociedad química y minera de chile sa","country":"chile","market_value_apr_2022":"227000000000","sector":"basic materials","stock":"sqm"}
+{"name":"eurofins scientific se","country":"","market_value_apr_2022":"","sector":"","stock":"erf"}
+{"name":"panasonic corp","country":"japan","market_value_apr_2022":"227000000000","sector":"technology","stock":"6752"}
+{"name":"ucb sa","country":"belgium","market_value_apr_2022":"227000000000","sector":"healthcare","stock":"ucb"}
+{"name":"shanghai international port","country":"china","market_value_apr_2022":"226000000000","sector":"industrials","stock":"600018"}
+{"name":"hewlett packard enterprise company","country":"united states","market_value_apr_2022":"226000000000","sector":"technology","stock":"hpe"}
+{"name":"kellogg company","country":"united states","market_value_apr_2022":"226000000000","sector":"consumer staples","stock":"k"}
+{"name":"picc property and casualty company ltd","country":"china","market_value_apr_2022":"226000000000","sector":"financials","stock":"2328"}
+{"name":"grupo financiero banorte sab de cv","country":"mexico","market_value_apr_2022":"226000000000","sector":"financials","stock":"gfnorteo"}
+{"name":"komatsu ltd","country":"japan","market_value_apr_2022":"225000000000","sector":"industrials","stock":"6301"}
+{"name":"the hong kong and china gas company ltd","country":"hong kong","market_value_apr_2022":"225000000000","sector":"utilities","stock":"3"}
+{"name":"cocacola europacific partners plc","country":"united kingdom","market_value_apr_2022":"225000000000","sector":"consumer staples","stock":"ccep"}
+{"name":"essex property trust inc","country":"united states","market_value_apr_2022":"225000000000","sector":"real estate","stock":"ess"}
+{"name":"echemie holding ag","country":"switzerland","market_value_apr_2022":"224000000000","sector":"basic materials","stock":"en"}
+{"name":"okta inc","country":"united states","market_value_apr_2022":"224000000000","sector":"technology","stock":"okta"}
+{"name":"china national nuclear power co ltd","country":"china","market_value_apr_2022":"224000000000","sector":"utilities","stock":"601985"}
+{"name":"sumitomo corp","country":"japan","market_value_apr_2022":"224000000000","sector":"industrials","stock":"8053"}
+{"name":"tata motors limited","country":"india","market_value_apr_2022":"223000000000","sector":"consumer discretionary","stock":"ttm"}
+{"name":"banco do brasil sa","country":"brazil","market_value_apr_2022":"223000000000","sector":"financials","stock":"bbas3"}
+{"name":"hennes  mauritz ab","country":"sweden","market_value_apr_2022":"223000000000","sector":"consumer discretionary","stock":"hmb"}
+{"name":"biorad laboratories inc","country":"united states","market_value_apr_2022":"","sector":"healthcare","stock":"bio"}
+{"name":"teleperformance se","country":"france","market_value_apr_2022":"223000000000","sector":"industrials","stock":"tep"}
+{"name":"fomento económico mexicano sab de cv","country":"mexico","market_value_apr_2022":"","sector":"consumer staples","stock":"feaub"}
+{"name":"huntington bancshares inc","country":"united states","market_value_apr_2022":"222000000000","sector":"financials","stock":"hu3"}
+{"name":"continental resources inc","country":"united states","market_value_apr_2022":"222000000000","sector":"energy","stock":"clr"}
+{"name":"crrc corp ltd","country":"china","market_value_apr_2022":"222000000000","sector":"industrials","stock":"601766"}
+{"name":"skyworks solutions inc","country":"united states","market_value_apr_2022":"221000000000","sector":"technology","stock":"swks"}
+{"name":"xp inc","country":"brazil","market_value_apr_2022":"","sector":"financials","stock":"xpbr31"}
+{"name":"unicharm corp","country":"japan","market_value_apr_2022":"220000000000","sector":"consumer staples","stock":"8113"}
+{"name":"zto express cayman inc","country":"china","market_value_apr_2022":"220000000000","sector":"industrials","stock":"zto"}
+{"name":"geberit ag","country":"switzerland","market_value_apr_2022":"220000000000","sector":"industrials","stock":"gebn"}
+{"name":"toyota industries corp","country":"japan","market_value_apr_2022":"219000000000","sector":"consumer discretionary","stock":"6201"}
+{"name":"cincinnati financial corporation","country":"united states","market_value_apr_2022":"219000000000","sector":"financials","stock":"cinf"}
+{"name":"cf industries holdings inc","country":"united states","market_value_apr_2022":"219000000000","sector":"basic materials","stock":"cf"}
+{"name":"nibe industrier ab","country":"sweden","market_value_apr_2022":"219000000000","sector":"industrials","stock":"njb"}
+{"name":"cnh industrial nv","country":"united kingdom","market_value_apr_2022":"219000000000","sector":"industrials","stock":"cnhi"}
+{"name":"huntington bancshares incorporated","country":"united states","market_value_apr_2022":"219000000000","sector":"financials","stock":"hban"}
+{"name":"duke realty corporation","country":"united states","market_value_apr_2022":"219000000000","sector":"real estate","stock":"dre"}
+{"name":"restaurant brands international limited partnership","country":"canada","market_value_apr_2022":"","sector":"consumer discretionary","stock":"qspun"}
+{"name":"monolithic power syste inc","country":"united states","market_value_apr_2022":"218000000000","sector":"technology","stock":"mpwr"}
+{"name":"zebra technologies corporation","country":"united states","market_value_apr_2022":"218000000000","sector":"technology","stock":"zbra"}
+{"name":"ulta beauty inc","country":"united states","market_value_apr_2022":"218000000000","sector":"consumer discretionary","stock":"ulta"}
+{"name":"daiichi life holdings inc","country":"japan","market_value_apr_2022":"217000000000","sector":"financials","stock":"8750"}
+{"name":"mt bank corporation","country":"united states","market_value_apr_2022":"217000000000","sector":"financials","stock":"mtb"}
+{"name":"keycorp","country":"united states","market_value_apr_2022":"217000000000","sector":"financials","stock":"key"}
+{"name":"teledyne technologies incorporated","country":"united states","market_value_apr_2022":"216000000000","sector":"technology","stock":"tdy"}
+{"name":"b3 sa  brasil bolsa balcao","country":"brazil","market_value_apr_2022":"215000000000","sector":"financials","stock":"b3sa3"}
+{"name":"contura energy inc","country":"united states","market_value_apr_2022":"215000000000","sector":"energy","stock":"ctra"}
+{"name":"shimano inc","country":"japan","market_value_apr_2022":"215000000000","sector":"consumer discretionary","stock":"7309"}
+{"name":"power corporation of canada","country":"canada","market_value_apr_2022":"214000000000","sector":"financials","stock":"pow"}
+{"name":"jb hunt transport services inc","country":"united states","market_value_apr_2022":"214000000000","sector":"industrials","stock":"jbht"}
+{"name":"mitsui fudosan co ltd","country":"japan","market_value_apr_2022":"214000000000","sector":"real estate","stock":"8801"}
+{"name":"the saudi british bank","country":"saudi arabia","market_value_apr_2022":"214000000000","sector":"financials","stock":"1060"}
+{"name":"sgs sa","country":"switzerland","market_value_apr_2022":"214000000000","sector":"industrials","stock":"sgsn"}
+{"name":"teck resources limited","country":"canada","market_value_apr_2022":"214000000000","sector":"basic materials","stock":"teckb"}
+{"name":"rede dor são luiz sa","country":"brazil","market_value_apr_2022":"214000000000","sector":"healthcare","stock":"rdor3"}
+{"name":"nexon co ltd","country":"japan","market_value_apr_2022":"213000000000","sector":"communication services","stock":"3659"}
+{"name":"the cooper companies inc","country":"united states","market_value_apr_2022":"213000000000","sector":"healthcare","stock":"coo"}
+{"name":"legal  general group plc","country":"united kingdom","market_value_apr_2022":"213000000000","sector":"financials","stock":"lgen"}
+{"name":"regions financial corporation","country":"united states","market_value_apr_2022":"213000000000","sector":"financials","stock":"rf"}
+{"name":"wheaton precious metals corp","country":"canada","market_value_apr_2022":"212000000000","sector":"basic materials","stock":"wpm"}
+{"name":"zoominfo technologies inc","country":"united states","market_value_apr_2022":"212000000000","sector":"technology","stock":"zi"}
+{"name":"viacomcbs inc","country":"united states","market_value_apr_2022":"","sector":"communication services","stock":"viaca"}
+{"name":"china northern rare earth","country":"china","market_value_apr_2022":"212000000000","sector":"basic materials","stock":"600111"}
+{"name":"seagate technology plc","country":"ireland","market_value_apr_2022":"212000000000","sector":"technology","stock":"stx"}
+{"name":"china mengniu dairy co ltd","country":"hong kong","market_value_apr_2022":"211000000000","sector":"consumer staples","stock":"2319"}
+{"name":"ingersoll rand inc","country":"united states","market_value_apr_2022":"211000000000","sector":"industrials","stock":"ir"}
+{"name":"segro plc","country":"united kingdom","market_value_apr_2022":"210000000000","sector":"real estate","stock":"sgro"}
+{"name":"yandex nv","country":"netherlands","market_value_apr_2022":"","sector":"communication services","stock":"yndx"}
+{"name":"microchip technology incorporated","country":"united states","market_value_apr_2022":"210000000000","sector":"technology","stock":"mchp"}
+{"name":"hubspot inc","country":"united states","market_value_apr_2022":"209000000000","sector":"technology","stock":"hubs"}
+{"name":"fleetcor technologies inc","country":"united states","market_value_apr_2022":"209000000000","sector":"technology","stock":"flt"}
+{"name":"fortive corporation","country":"united states","market_value_apr_2022":"208000000000","sector":"technology","stock":"ftv"}
+{"name":"applovin corp","country":"united states","market_value_apr_2022":"208000000000","sector":"technology","stock":"app"}
+{"name":"royal caribbean cruises ltd","country":"united states","market_value_apr_2022":"208000000000","sector":"consumer discretionary","stock":"rcl"}
+{"name":"repsol sa","country":"spain","market_value_apr_2022":"208000000000","sector":"energy","stock":"rep"}
+{"name":"marubeni corp","country":"japan","market_value_apr_2022":"207000000000","sector":"industrials","stock":"8002"}
+{"name":"standard chartered plc","country":"united kingdom","market_value_apr_2022":"207000000000","sector":"financials","stock":"stan"}
+{"name":"li ning co ltd","country":"china","market_value_apr_2022":"207000000000","sector":"consumer discretionary","stock":"2331"}
+{"name":"c energy corporation","country":"united states","market_value_apr_2022":"207000000000","sector":"utilities","stock":"c"}
+{"name":"steris corp","country":"united states","market_value_apr_2022":"","sector":"healthcare","stock":"s1te34"}
+{"name":"advanced info service pcl","country":"thailand","market_value_apr_2022":"206000000000","sector":"communication services","stock":"advanc"}
+{"name":"kyocera corp","country":"japan","market_value_apr_2022":"206000000000","sector":"technology","stock":"6971"}
+{"name":"pembina pipeline corporation","country":"canada","market_value_apr_2022":"206000000000","sector":"energy","stock":"ppl"}
+{"name":"flutter entertainment plc","country":"ireland","market_value_apr_2022":"205000000000","sector":"consumer discretionary","stock":"fltr"}
+{"name":"sojitz corp","country":"japan","market_value_apr_2022":"205000000000","sector":"industrials","stock":"2768"}
+{"name":"boston properties inc","country":"united states","market_value_apr_2022":"205000000000","sector":"real estate","stock":"bxp"}
+{"name":"synchrony financial","country":"united states","market_value_apr_2022":"204000000000","sector":"financials","stock":"syf"}
+{"name":"alinma bank","country":"saudi arabia","market_value_apr_2022":"204000000000","sector":"financials","stock":"1150"}
+{"name":"investment ab latour","country":"sweden","market_value_apr_2022":"203000000000","sector":"financials","stock":"latob"}
+{"name":"mitsubishi estate co ltd","country":"japan","market_value_apr_2022":"203000000000","sector":"real estate","stock":"8802"}
+{"name":"guotai junan securities co ltd","country":"china","market_value_apr_2022":"203000000000","sector":"financials","stock":"601211"}
+{"name":"nippon paint holdings co ltd","country":"japan","market_value_apr_2022":"203000000000","sector":"basic materials","stock":"4612"}
+{"name":"carvana co","country":"united states","market_value_apr_2022":"203000000000","sector":"consumer discretionary","stock":"cvna"}
+{"name":"markel corporation","country":"united states","market_value_apr_2022":"203000000000","sector":"financials","stock":"mkl"}
+{"name":"brown  brown inc","country":"united states","market_value_apr_2022":"202000000000","sector":"financials","stock":"bro"}
+{"name":"nomura research institute ltd","country":"japan","market_value_apr_2022":"202000000000","sector":"technology","stock":"4307"}
+{"name":"mgm resorts international","country":"united states","market_value_apr_2022":"202000000000","sector":"consumer discretionary","stock":"mgm"}
+{"name":"mega financial holding co ltd","country":"taiwan","market_value_apr_2022":"202000000000","sector":"financials","stock":"2886"}
+{"name":"telefônica brasil sa","country":"brazil","market_value_apr_2022":"201000000000","sector":"communication services","stock":"viv"}
+{"name":"swiss life holding ag","country":"switzerland","market_value_apr_2022":"201000000000","sector":"financials","stock":"slhn"}
+{"name":"telenor asa","country":"","market_value_apr_2022":"201000000000","sector":"","stock":"tel"}
+{"name":"china railway group ltd","country":"hong kong","market_value_apr_2022":"201000000000","sector":"industrials","stock":"390"}
+{"name":"ctbc financial holding co ltd","country":"taiwan","market_value_apr_2022":"201000000000","sector":"financials","stock":"2891"}
+{"name":"imperial brands plc","country":"united kingdom","market_value_apr_2022":"201000000000","sector":"consumer staples","stock":"imb"}
+{"name":"principal financial group inc","country":"united states","market_value_apr_2022":"201000000000","sector":"financials","stock":"pfg"}
+{"name":"norsk hydro asa","country":"","market_value_apr_2022":"201000000000","sector":"","stock":"nhy"}
+{"name":"perkinelmer inc","country":"united states","market_value_apr_2022":"200000000000","sector":"healthcare","stock":"pki"}
+{"name":"hannover rück se","country":"germany","market_value_apr_2022":"200000000000","sector":"financials","stock":"hnrb"}
+{"name":"sun communities inc","country":"united states","market_value_apr_2022":"199000000000","sector":"real estate","stock":"sui"}
+{"name":"tradeweb markets inc","country":"united states","market_value_apr_2022":"199000000000","sector":"financials","stock":"tw"}
+{"name":"trina solar co ltd","country":"china","market_value_apr_2022":"199000000000","sector":"technology","stock":"688599"}
+{"name":"vedanta limited","country":"india","market_value_apr_2022":"199000000000","sector":"basic materials","stock":"vedl"}
+{"name":"paycom software inc","country":"united states","market_value_apr_2022":"198000000000","sector":"technology","stock":"payc"}
+{"name":"klabin sa","country":"brazil","market_value_apr_2022":"","sector":"basic materials","stock":"klbn11"}
+{"name":"kao corp","country":"japan","market_value_apr_2022":"198000000000","sector":"consumer staples","stock":"4452"}
+{"name":"teradyne inc","country":"united states","market_value_apr_2022":"198000000000","sector":"technology","stock":"ter"}
+{"name":"china resources beer holdings company ltd","country":"hong kong","market_value_apr_2022":"198000000000","sector":"consumer staples","stock":"291"}
+{"name":"china communications construction co ltd","country":"china","market_value_apr_2022":"198000000000","sector":"industrials","stock":"601800"}
+{"name":"aviva plc","country":"united kingdom","market_value_apr_2022":"198000000000","sector":"financials","stock":"av"}
+{"name":"standard bank group ltd","country":"south africa","market_value_apr_2022":"198000000000","sector":"financials","stock":"sbk"}
+{"name":"ryanair holdings plc","country":"ireland","market_value_apr_2022":"","sector":"industrials","stock":"ry4c"}
+{"name":"hologic inc","country":"united states","market_value_apr_2022":"197000000000","sector":"healthcare","stock":"holx"}
+{"name":"kerry group plc","country":"ireland","market_value_apr_2022":"197000000000","sector":"consumer staples","stock":"krz"}
+{"name":"renesas electronics corp","country":"japan","market_value_apr_2022":"197000000000","sector":"technology","stock":"6723"}
+{"name":"brookfield infrastructure partners lp","country":"","market_value_apr_2022":"197000000000","sector":"","stock":"bipun"}
+{"name":"shiseido co ltd","country":"japan","market_value_apr_2022":"196000000000","sector":"consumer staples","stock":"4911"}
+{"name":"cgi inc","country":"canada","market_value_apr_2022":"196000000000","sector":"technology","stock":"giba"}
+{"name":"henderson land development co ltd","country":"hong kong","market_value_apr_2022":"196000000000","sector":"real estate","stock":"12"}
+{"name":"billcom holdings inc","country":"united states","market_value_apr_2022":"196000000000","sector":"technology","stock":"bill"}
+{"name":"shanghai fosun pharmaceutical","country":"china","market_value_apr_2022":"196000000000","sector":"healthcare","stock":"600196"}
+{"name":"akamai technologies inc","country":"united states","market_value_apr_2022":"195000000000","sector":"technology","stock":"akam"}
+{"name":"china tower corp ltd","country":"china","market_value_apr_2022":"195000000000","sector":"communication services","stock":"788"}
+{"name":"huatai securities co ltd","country":"china","market_value_apr_2022":"195000000000","sector":"financials","stock":"601688"}
+{"name":"marathon oil corporation","country":"united states","market_value_apr_2022":"195000000000","sector":"energy","stock":"o"}
+{"name":"arch capital group ltd","country":"","market_value_apr_2022":"195000000000","sector":"","stock":"acgl"}
+{"name":"transunion","country":"united states","market_value_apr_2022":"195000000000","sector":"industrials","stock":"tru"}
+{"name":"jbs sa","country":"brazil","market_value_apr_2022":"195000000000","sector":"consumer staples","stock":"jbss3"}
+{"name":"shenzhou international group holdings ltd","country":"hong kong","market_value_apr_2022":"195000000000","sector":"consumer discretionary","stock":"2313"}
+{"name":"avantor inc","country":"united states","market_value_apr_2022":"194000000000","sector":"basic materials","stock":"avtr"}
+{"name":"molina healthcare inc","country":"united states","market_value_apr_2022":"194000000000","sector":"healthcare","stock":"moh"}
+{"name":"ferrovial sa","country":"spain","market_value_apr_2022":"194000000000","sector":"industrials","stock":"fer"}
+{"name":"edp  energias de portugal sa","country":"","market_value_apr_2022":"194000000000","sector":"","stock":"edp"}
+{"name":"fresenius medical care ag  co kgaa","country":"germany","market_value_apr_2022":"194000000000","sector":"healthcare","stock":"fme"}
+{"name":"svenska handelsbanken ab","country":"sweden","market_value_apr_2022":"194000000000","sector":"financials","stock":"shba"}
+{"name":"kb financial group inc","country":"south korea","market_value_apr_2022":"193000000000","sector":"financials","stock":"105560"}
+{"name":"magna international inc","country":"canada","market_value_apr_2022":"193000000000","sector":"consumer discretionary","stock":"mg"}
+{"name":"snam spa","country":"italy","market_value_apr_2022":"192000000000","sector":"utilities","stock":"srg"}
+{"name":"cgn power co ltd","country":"china","market_value_apr_2022":"192000000000","sector":"utilities","stock":"3816"}
+{"name":"croda international plc","country":"united kingdom","market_value_apr_2022":"","sector":"basic materials","stock":"crda"}
+{"name":"warner music group corp","country":"united states","market_value_apr_2022":"192000000000","sector":"communication services","stock":"wmg"}
+{"name":"zhejiang huayou cobalt co ltd","country":"china","market_value_apr_2022":"192000000000","sector":"basic materials","stock":"603799"}
+{"name":"ssc technologies holdings inc","country":"united states","market_value_apr_2022":"191000000000","sector":"technology","stock":"ssnc"}
+{"name":"carlsberg as","country":"denmark","market_value_apr_2022":"191000000000","sector":"consumer staples","stock":"carla"}
+{"name":"nice ltd","country":"israel","market_value_apr_2022":"","sector":"technology","stock":"nice"}
+{"name":"waters corporation","country":"united states","market_value_apr_2022":"191000000000","sector":"healthcare","stock":"wat"}
+{"name":"otsuka holdings co ltd","country":"japan","market_value_apr_2022":"190000000000","sector":"healthcare","stock":"4578"}
+{"name":"tenaris sa","country":"","market_value_apr_2022":"189000000000","sector":"","stock":"ten"}
+{"name":"citizens financial group inc","country":"united states","market_value_apr_2022":"189000000000","sector":"financials","stock":"cfg"}
+{"name":"check point software technologies ltd","country":"israel","market_value_apr_2022":"189000000000","sector":"technology","stock":"chkp"}
+{"name":"toshiba corp","country":"japan","market_value_apr_2022":"189000000000","sector":"industrials","stock":"6502"}
+{"name":"lg electronics inc","country":"south korea","market_value_apr_2022":"189000000000","sector":"technology","stock":"66570"}
+{"name":"astra international tbk pt","country":"indonesia","market_value_apr_2022":"189000000000","sector":"consumer discretionary","stock":"asja"}
+{"name":"omnicom group inc","country":"united states","market_value_apr_2022":"188000000000","sector":"communication services","stock":"omc"}
+{"name":"aecc aviation power coltd","country":"china","market_value_apr_2022":"187000000000","sector":"industrials","stock":"600893"}
+{"name":"international paper company","country":"united states","market_value_apr_2022":"","sector":"consumer discretionary","stock":"inpap"}
+{"name":"scottish mortgage investment trust plc","country":"united kingdom","market_value_apr_2022":"187000000000","sector":"financials","stock":"smt"}
+{"name":"george weston limited","country":"canada","market_value_apr_2022":"187000000000","sector":"consumer staples","stock":"wn"}
+{"name":"netapp inc","country":"united states","market_value_apr_2022":"187000000000","sector":"technology","stock":"ntap"}
+{"name":"healthpeak properties inc","country":"united states","market_value_apr_2022":"187000000000","sector":"real estate","stock":"peak"}
+{"name":"ad insurance group holdings inc","country":"japan","market_value_apr_2022":"187000000000","sector":"financials","stock":"8725"}
+{"name":"the liberty siriusxm group","country":"united states","market_value_apr_2022":"187000000000","sector":"communication services","stock":"lsxmb"}
+{"name":"credit suisse group ag","country":"switzerland","market_value_apr_2022":"187000000000","sector":"financials","stock":"csgn"}
+{"name":"air china ltd","country":"china","market_value_apr_2022":"187000000000","sector":"industrials","stock":"601111"}
+{"name":"power construction corp of china ltd","country":"china","market_value_apr_2022":"186000000000","sector":"industrials","stock":"601669"}
+{"name":"jd health international inc","country":"china","market_value_apr_2022":"186000000000","sector":"healthcare","stock":"8zn"}
+{"name":"south32 limited","country":"australia","market_value_apr_2022":"186000000000","sector":"basic materials","stock":"s32"}
+{"name":"huaneng power international inc","country":"china","market_value_apr_2022":"185000000000","sector":"utilities","stock":"600011"}
+{"name":"heico corporation","country":"united states","market_value_apr_2022":"184000000000","sector":"industrials","stock":"hei"}
+{"name":"gf securities co ltd","country":"china","market_value_apr_2022":"184000000000","sector":"financials","stock":"776"}
+{"name":"genuine parts company","country":"united states","market_value_apr_2022":"184000000000","sector":"consumer discretionary","stock":"gpc"}
+{"name":"vodacom group ltd","country":"south africa","market_value_apr_2022":"184000000000","sector":"communication services","stock":"vod"}
+{"name":"taketwo interactive software inc","country":"united states","market_value_apr_2022":"183000000000","sector":"communication services","stock":"ttwo"}
+{"name":"china merchants securities co ltd","country":"china","market_value_apr_2022":"183000000000","sector":"financials","stock":"600999"}
+{"name":"alnylam pharmaceuticals inc","country":"united states","market_value_apr_2022":"183000000000","sector":"healthcare","stock":"alny"}
+{"name":"aeon co ltd","country":"japan","market_value_apr_2022":"183000000000","sector":"consumer discretionary","stock":"8267"}
+{"name":"link real estate investment trust","country":"hong kong","market_value_apr_2022":"182000000000","sector":"real estate","stock":"823"}
+{"name":"shionogi  co ltd","country":"japan","market_value_apr_2022":"182000000000","sector":"healthcare","stock":"4507"}
+{"name":"ubiquiti inc","country":"united states","market_value_apr_2022":"182000000000","sector":"technology","stock":"ui"}
+{"name":"quanta services inc","country":"united states","market_value_apr_2022":"182000000000","sector":"industrials","stock":"pwr"}
+{"name":"catalent inc","country":"united states","market_value_apr_2022":"182000000000","sector":"healthcare","stock":"ctlt"}
+{"name":"haitong securities co ltd","country":"china","market_value_apr_2022":"182000000000","sector":"financials","stock":"600837"}
+{"name":"asahi group holdings ltd","country":"japan","market_value_apr_2022":"182000000000","sector":"consumer staples","stock":"2502"}
+{"name":"capitec bank holdings ltd","country":"south africa","market_value_apr_2022":"182000000000","sector":"financials","stock":"cpi"}
+{"name":"restaurant brands international inc","country":"canada","market_value_apr_2022":"181000000000","sector":"consumer discretionary","stock":"qsr"}
+{"name":"yum china holdings inc","country":"china","market_value_apr_2022":"181000000000","sector":"consumer discretionary","stock":"yumc"}
+{"name":"cez as","country":"","market_value_apr_2022":"","sector":"","stock":"cez"}
+{"name":"veolia environnement sa","country":"france","market_value_apr_2022":"181000000000","sector":"industrials","stock":"vie"}
+{"name":"avis budget group inc","country":"united states","market_value_apr_2022":"181000000000","sector":"industrials","stock":"car"}
