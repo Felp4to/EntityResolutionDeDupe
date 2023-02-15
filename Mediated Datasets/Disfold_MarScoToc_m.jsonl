@@ -1,0 +1,961 @@
+{"name": "shell plc", "market_cap": 207680000000, "country": "united kingdom", "industry": "oil & gas integrated", "sector": "energy"}
+{"name": "astrazeneca plc", "market_cap": 201750000000, "country": "united kingdom", "industry": "drug manufacturersgeneral", "sector": "healthcare"}
+{"name": "linde plc", "market_cap": 166070000000, "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "hsbc holdings plc", "market_cap": 140150000000, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "rio tinto group", "market_cap": 125840000000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "unilever plc", "market_cap": 117840000000, "country": "united kingdom", "industry": "household & personal products", "sector": "consumer staples"}
+{"name": "diageo plc", "market_cap": 115580000000, "country": "united kingdom", "industry": "beverageswineries & distilleries", "sector": "consumer staples"}
+{"name": "glaxosmithkline plc", "market_cap": 109980000000, "country": "united kingdom", "industry": "drug manufacturersgeneral", "sector": "healthcare"}
+{"name": "british american tobacco plc", "market_cap": 101440000000, "country": "united kingdom", "industry": "tobacco", "sector": "consumer staples"}
+{"name": "bp plc", "market_cap": 96240000000, "country": "united kingdom", "industry": "oil & gas integrated", "sector": "energy"}
+{"name": "aon plc", "market_cap": 73330000000, "country": "united kingdom", "industry": "insurance brokers", "sector": "financials"}
+{"name": "anglo american plc", "market_cap": 71480000000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "reckitt benckiser group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "household & personal products", "sector": "consumer staples"}
+{"name": "relx plc", "market_cap": 58530000000, "country": "united kingdom", "industry": "publishing", "sector": "communication services"}
+{"name": "ihs markit ltd", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "national grid plc", "market_cap": 55880000000, "country": "united kingdom", "industry": "utilitiesdiversified", "sector": "utilities"}
+{"name": "london stock exchange group plc", "market_cap": 53330000000, "country": "united kingdom", "industry": "financial data & stock exchanges", "sector": "financials"}
+{"name": "general accident plc", "market_cap": 51430000000, "country": "united kingdom", "industry": "insuranceproperty & casualty", "sector": "financials"}
+{"name": "vodafone group plc", "market_cap": 45740000000, "country": "united kingdom", "industry": "telecom services", "sector": "communication services"}
+{"name": "lloyds banking group plc", "market_cap": 43700000000, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "prudential plc", "market_cap": 39000000000, "country": "united kingdom", "industry": "insurancelife", "sector": "financials"}
+{"name": "compass group plc", "market_cap": 37730000000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "natwest group plc", "market_cap": 32720000000, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "barclays plc", "market_cap": 32189999999, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "ferguson plc", "market_cap": 30520000000, "country": "united kingdom", "industry": "industrial distribution", "sector": "industrials"}
+{"name": "bae syste plc", "market_cap": 30510000000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "willis towers watson plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "insurance brokers", "sector": "financials"}
+{"name": "ashtead group plc", "market_cap": 28280000000, "country": "united kingdom", "industry": "rental & leasing services", "sector": "industrials"}
+{"name": "tesco plc", "market_cap": 28110000000, "country": "united kingdom", "industry": "grocery stores", "sector": "consumer staples"}
+{"name": "bt group plc", "market_cap": 24090000000, "country": "united kingdom", "industry": "telecom services", "sector": "communication services"}
+{"name": "sse plc", "market_cap": 23730000000, "country": "united kingdom", "industry": "utilitiesdiversified", "sector": "utilities"}
+{"name": "coca-cola europacific partners plc", "market_cap": 22530000000, "country": "united kingdom", "industry": "beveragesnon-alcoholic", "sector": "consumer staples"}
+{"name": "cnh industrial nv", "market_cap": 21930000000, "country": "united kingdom", "industry": "farm & heavy construction machinery", "sector": "industrials"}
+{"name": "legal & general group plc", "market_cap": 21340000000, "country": "united kingdom", "industry": "insurancelife", "sector": "financials"}
+{"name": "segro plc", "market_cap": 21080000000, "country": "united kingdom", "industry": "reitindustrial", "sector": "real estate"}
+{"name": "standard chartered plc", "market_cap": 20780000000, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "imperial brands plc", "market_cap": 20140000000, "country": "united kingdom", "industry": "tobacco", "sector": "consumer staples"}
+{"name": "aviva plc", "market_cap": 19820000000, "country": "united kingdom", "industry": "insurancediversified", "sector": "financials"}
+{"name": "croda international plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "scottish mortgage investment trust plc", "market_cap": 18780000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "antofagasta plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "copper", "sector": "basic materials"}
+{"name": "3i group plc", "market_cap": 17600000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "associated british foods plc", "market_cap": 17490000000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "wpp plc", "market_cap": 15760000000, "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "smith & nephew plc", "market_cap": 14090000000, "country": "united kingdom", "industry": "medical devices", "sector": "healthcare"}
+{"name": "liberty global plc", "market_cap": 13610000000, "country": "united kingdom", "industry": "entertainment", "sector": "communication services"}
+{"name": "bunzl plc", "market_cap": 13070000000, "country": "united kingdom", "industry": "food distribution", "sector": "consumer staples"}
+{"name": "rentokil initial plc", "market_cap": 12780000000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "intercontinental hotels group plc", "market_cap": 12200000000, "country": "united kingdom", "industry": "lodging", "sector": "consumer discretionary"}
+{"name": "evraz plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "steel", "sector": "basic materials"}
+{"name": "spirax-sarco engineering plc", "market_cap": 12140000000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "informa plc", "market_cap": 11800000000, "country": "united kingdom", "industry": "publishing", "sector": "communication services"}
+{"name": "ocado group plc", "market_cap": 11540000000, "country": "united kingdom", "industry": "grocery stores", "sector": "consumer staples"}
+{"name": "intertek group plc", "market_cap": 11030000000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "rolls-royce holdings plc", "market_cap": 10970000000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "schroders plc", "market_cap": 10480000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "next plc", "market_cap": 10440000000, "country": "united kingdom", "industry": "apparel retail", "sector": "consumer discretionary"}
+{"name": "united utilities group plc", "market_cap": 10300000000, "country": "united kingdom", "industry": "utilitiesregulated water", "sector": "utilities"}
+{"name": "st james's place plc", "market_cap": 10210000000, "country": "united kingdom", "industry": "financial conglomerates", "sector": "financials"}
+{"name": "severn trent plc", "market_cap": 10120000000, "country": "united kingdom", "industry": "utilitiesregulated water", "sector": "utilities"}
+{"name": "jd sports fashion plc", "market_cap": 10000000000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "admiral group plc", "market_cap": 9960000000, "country": "united kingdom", "industry": "insuranceproperty & casualty", "sector": "financials"}
+{"name": "the sage group plc", "market_cap": 9830000000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "wm morrison supermarkets plc", "market_cap": "(oct. 1, 2021)", "country": "united kingdom", "industry": "grocery stores", "sector": "consumer staples"}
+{"name": "aveva group plc", "market_cap": 9600000000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "mondi plc", "market_cap": 9510000000, "country": "united kingdom", "industry": "paper & paper products", "sector": "basic materials"}
+{"name": "standard life aberdeen plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "pentair plc", "market_cap": 9320000000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "persimmon plc", "market_cap": 9070000000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "burberry group plc", "market_cap": 8900000000, "country": "united kingdom", "industry": "luxury goods", "sector": "consumer discretionary"}
+{"name": "novocure limited", "market_cap": 8539999999, "country": "united kingdom", "industry": "medical instruments & supplies", "sector": "healthcare"}
+{"name": "endava plc", "market_cap": 8100000000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "phoenix group holdings plc", "market_cap": 8100000000, "country": "united kingdom", "industry": "insurancelife", "sector": "financials"}
+{"name": "auto trader group plc", "market_cap": 8029999999, "country": "united kingdom", "industry": "internet content & information", "sector": "communication services"}
+{"name": "nepi rockcastle plc", "market_cap": 7940000000, "country": "united kingdom", "industry": "real estatediversified", "sector": "real estate"}
+{"name": "melrose industries plc", "market_cap": 7930000000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "pershing square holdings ord", "market_cap": 7880000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "capri holdings limited", "market_cap": 7790000000, "country": "united kingdom", "industry": "apparel manufacturing", "sector": "consumer discretionary"}
+{"name": "meggitt plc", "market_cap": 7790000000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "land securities group plc", "market_cap": 7760000000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "m&g plc", "market_cap": 7590000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "smiths group plc", "market_cap": 7570000000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "whitbread plc", "market_cap": 7550000000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "pearson plc", "market_cap": 7520000000, "country": "united kingdom", "industry": "publishing", "sector": "communication services"}
+{"name": "j sainsbury plc", "market_cap": 7420000000, "country": "united kingdom", "industry": "grocery stores", "sector": "consumer staples"}
+{"name": "allfunds group plc", "market_cap": 7280000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "kingfisher plc", "market_cap": 7100000000, "country": "united kingdom", "industry": "home improvement retail", "sector": "consumer discretionary"}
+{"name": "rightmove plc", "market_cap": 7090000000, "country": "united kingdom", "industry": "internet content & information", "sector": "communication services"}
+{"name": "airtel africa plc", "market_cap": 7020000000, "country": "united kingdom", "industry": "telecom services", "sector": "communication services"}
+{"name": "barratt developments plc", "market_cap": 7020000000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "intermediate capital group plc", "market_cap": 6770000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "electrocomponents plc", "market_cap": 6640000000, "country": "united kingdom", "industry": "industrial distribution", "sector": "industrials"}
+{"name": "british land company plc", "market_cap": 6510000000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "endeavour mining corporation", "market_cap": 6350000000, "country": "united kingdom", "industry": "gold", "sector": "basic materials"}
+{"name": "taylor wimpey plc", "market_cap": 6250000000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "hargreaves lansdown plc", "market_cap": 6250000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "the unite group plc", "market_cap": 6120000000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "janus henderson group plc", "market_cap": 6100000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "the berkeley group holdings plc", "market_cap": 6070000000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "f&c investment trust plc", "market_cap": 6060000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "pepco group nv", "market_cap": 6030000000, "country": "united kingdom", "industry": "discount stores", "sector": "consumer staples"}
+{"name": "howden joinery group plc", "market_cap": 5980000000, "country": "united kingdom", "industry": "furnishings, fixtures & appliances", "sector": "consumer discretionary"}
+{"name": "nvent electric plc", "market_cap": 5970000000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "investec plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "pennon group plc", "market_cap": 5910000000, "country": "united kingdom", "industry": "utilitiesregulated water", "sector": "utilities"}
+{"name": "ds smith plc", "market_cap": 5780000000, "country": "united kingdom", "industry": "packaging & containers", "sector": "consumer discretionary"}
+{"name": "the weir group plc", "market_cap": 5740000000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "dechra pharmaceuticals plc", "market_cap": 5720000000, "country": "united kingdom", "industry": "drug manufacturersgeneral", "sector": "healthcare"}
+{"name": "sareum holdings plc", "market_cap": 5600000000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "convatec group plc", "market_cap": 5490000000, "country": "united kingdom", "industry": "medical instruments & supplies", "sector": "healthcare"}
+{"name": "tritax big box reit plc", "market_cap": 5480000000, "country": "united kingdom", "industry": "reitretail", "sector": "real estate"}
+{"name": "farfetch limited", "market_cap": 5290000000, "country": "united kingdom", "industry": "internet retail", "sector": "consumer discretionary"}
+{"name": "rit capital partners", "market_cap": 5280000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "mimecast limited", "market_cap": 5120000000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "international game technology plc", "market_cap": 5060000000, "country": "united kingdom", "industry": "gambling", "sector": "consumer discretionary"}
+{"name": "direct line insurance group plc", "market_cap": 4920000000, "country": "united kingdom", "industry": "insurancediversified", "sector": "financials"}
+{"name": "derwent london plc", "market_cap": 4820000000, "country": "united kingdom", "industry": "reitoffice", "sector": "real estate"}
+{"name": "imi plc", "market_cap": 4790000000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "johnson matthey plc", "market_cap": 4790000000, "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "hicl infrastructure plc", "market_cap": 4590000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "wizz air holdings plc", "market_cap": 4520000000, "country": "united kingdom", "industry": "airlines", "sector": "industrials"}
+{"name": "atotech ltd", "market_cap": 4480000000, "country": "united kingdom", "industry": "electronic components", "sector": "technology"}
+{"name": "computacenter plc", "market_cap": 4440000000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "frasers group plc", "market_cap": 4330000000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "man group plc", "market_cap": 4330000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "royal mail plc", "market_cap": 4310000000, "country": "united kingdom", "industry": "integrated freight & logistics", "sector": "industrials"}
+{"name": "softcat plc", "market_cap": 4310000000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "itv plc", "market_cap": 4300000000, "country": "united kingdom", "industry": "broadcasting", "sector": "communication services"}
+{"name": "diploma plc", "market_cap": 4250000000, "country": "united kingdom", "industry": "industrial distribution", "sector": "industrials"}
+{"name": "rotork plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "abcam plc", "market_cap": 4210000000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "future plc", "market_cap": 4200000000, "country": "united kingdom", "industry": "publishing", "sector": "communication services"}
+{"name": "darktrace plc", "market_cap": 4130000000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "3i infrastructure plc", "market_cap": 4110000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "drax group plc", "market_cap": 4110000000, "country": "united kingdom", "industry": "utilitiesrenewable", "sector": "utilities"}
+{"name": "ig group holdings plc", "market_cap": 4040000000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "polar capital technology trust", "market_cap": 4040000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "nomad foods limited", "market_cap": 4040000000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "tate & lyle plc", "market_cap": 4010000000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "livanova plc", "market_cap": 3990000000, "country": "united kingdom", "industry": "medical devices", "sector": "healthcare"}
+{"name": "william hill plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "gambling", "sector": "consumer discretionary"}
+{"name": "bellway plc", "market_cap": 3950000000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "alliance trust plc", "market_cap": 3930000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "greencoat uk wind plc", "market_cap": 3920000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "atlantica sustainable infrastructure plc", "market_cap": 3870000000, "country": "united kingdom", "industry": "utilitiesrenewable", "sector": "utilities"}
+{"name": "safestore holdings plc", "market_cap": 3760000000, "country": "united kingdom", "industry": "reitindustrial", "sector": "real estate"}
+{"name": "homeserve plc", "market_cap": 3720000000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "the renewables infrastructure group limited", "market_cap": 3710000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "international public partnerships ld", "market_cap": 3700000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "renishaw plc", "market_cap": 3660000000, "country": "united kingdom", "industry": "scientific & technical instruments", "sector": "technology"}
+{"name": "travis perkins plc", "market_cap": 3630000000, "country": "united kingdom", "industry": "building products & equipment", "sector": "industrials"}
+{"name": "technipfmc plc", "market_cap": 3580000000, "country": "united kingdom", "industry": "oil & gas equipment & services", "sector": "energy"}
+{"name": "watches of switzerland group plc", "market_cap": 3570000000, "country": "united kingdom", "industry": "luxury goods", "sector": "consumer discretionary"}
+{"name": "big yellow group plc", "market_cap": 3570000000, "country": "united kingdom", "industry": "reitindustrial", "sector": "real estate"}
+{"name": "beazley plc", "market_cap": 3450000000, "country": "united kingdom", "industry": "insuranceproperty & casualty", "sector": "financials"}
+{"name": "smithson investment trust plc", "market_cap": 3430000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "monks investment trust", "market_cap": 3420000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "inchcape plc", "market_cap": 3410000000, "country": "united kingdom", "industry": "auto & truck dealerships", "sector": "consumer discretionary"}
+{"name": "jet2 plc", "market_cap": 3350000000, "country": "united kingdom", "industry": "travel services", "sector": "consumer discretionary"}
+{"name": "osb group plc", "market_cap": 3350000000, "country": "united kingdom", "industry": "mortgage finance", "sector": "financials"}
+{"name": "greggs plc", "market_cap": 3330000000, "country": "united kingdom", "industry": "grocery stores", "sector": "consumer staples"}
+{"name": "easyjet plc", "market_cap": 3330000000, "country": "united kingdom", "industry": "airlines", "sector": "industrials"}
+{"name": "virgin money uk plc", "market_cap": 3310000000, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "londonmetric property plc", "market_cap": 3310000000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "dr martens plc", "market_cap": 3170000000, "country": "united kingdom", "industry": "footwear & accessories", "sector": "consumer discretionary"}
+{"name": "quilter plc", "market_cap": 3160000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "games workshop group plc", "market_cap": 3140000000, "country": "united kingdom", "industry": "leisure", "sector": "consumer discretionary"}
+{"name": "shaftesbury plc", "market_cap": 3100000000, "country": "united kingdom", "industry": "reitretail", "sector": "real estate"}
+{"name": "ultra electronics holdings plc", "market_cap": 3100000000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "britvic plc", "market_cap": 2930000000, "country": "united kingdom", "industry": "beveragesnon-alcoholic", "sector": "consumer staples"}
+{"name": "dunelm group plc", "market_cap": 2910000000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "energean plc", "market_cap": 2830000000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "worldwide healthcare", "market_cap": 2770000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "fevertree drinks plc", "market_cap": 2770000000, "country": "united kingdom", "industry": "beveragesnon-alcoholic", "sector": "consumer staples"}
+{"name": "vistry group plc", "market_cap": 2760000000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "hays plc", "market_cap": 2690000000, "country": "united kingdom", "industry": "staffing & employment services", "sector": "industrials"}
+{"name": "grainger plc", "market_cap": 2680000000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "itm power plc", "market_cap": 2640000000, "country": "united kingdom", "industry": "electronic components", "sector": "technology"}
+{"name": "primary health properties plc", "market_cap": 2610000000, "country": "united kingdom", "industry": "reithealthcare facilities", "sector": "real estate"}
+{"name": "witan investment trust plc", "market_cap": 2600000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "caledonia investments plc", "market_cap": 2590000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "pershing square holdings, ltd", "market_cap": "(sept. 1, 2018)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "deliveroo plc", "market_cap": 2550000000, "country": "united kingdom", "industry": "internet retail", "sector": "consumer discretionary"}
+{"name": "cranswick plc", "market_cap": 2520000000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "great portland estates plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "reitoffice", "sector": "real estate"}
+{"name": "hgcapital trust plc", "market_cap": 2480000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "zimplats holdings limited", "market_cap": 2480000000, "country": "united kingdom", "industry": "other precious metals & mining", "sector": "basic materials"}
+{"name": "wh smith plc", "market_cap": 2480000000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "finsbury growth & income trust plc", "market_cap": 2460000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "redrow plc", "market_cap": 2440000000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "playtech plc", "market_cap": 2440000000, "country": "united kingdom", "industry": "gambling", "sector": "consumer discretionary"}
+{"name": "close brothers group plc", "market_cap": 2430000000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "pets at home group plc", "market_cap": 2370000000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "ssp group plc", "market_cap": 2350000000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "assura plc", "market_cap": 2350000000, "country": "united kingdom", "industry": "reithealthcare facilities", "sector": "real estate"}
+{"name": "diversey holdings ltd", "market_cap": 2350000000, "country": "united kingdom", "industry": "personal services", "sector": "consumer discretionary"}
+{"name": "the city of london investment trust plc", "market_cap": 2340000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "serco group plc", "market_cap": 2340000000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "manchester united plc", "market_cap": 2330000000, "country": "united kingdom", "industry": "leisure", "sector": "consumer discretionary"}
+{"name": "domino's pizza group plc", "market_cap": 2320000000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "vivo energy plc", "market_cap": 2270000000, "country": "united kingdom", "industry": "oil & gas refining & marketing", "sector": "energy"}
+{"name": "qinetiq group plc", "market_cap": 2270000000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "mercantile investment trust the plc", "market_cap": 2260000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "sequoia economic infrastructure inc ord", "market_cap": 2240000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "balfour beatty plc", "market_cap": 2240000000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "kainos group plc", "market_cap": 2220000000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "aggreko plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "rental & leasing services", "sector": "industrials"}
+{"name": "personal assets trust", "market_cap": 2180000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "babcock international group plc", "market_cap": 2160000000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "ashmore group plc", "market_cap": 2140000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "murray international trust plc", "market_cap": 2109999999, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "pagegroup plc", "market_cap": 2109999999, "country": "united kingdom", "industry": "staffing & employment services", "sector": "industrials"}
+{"name": "harbourvest global private equity limited", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "gamesys group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "gambling", "sector": "consumer discretionary"}
+{"name": "john laing group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "dixons carphone plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "victrex plc", "market_cap": 2060000000, "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "s4 capital plc", "market_cap": 2049999999, "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "savills plc", "market_cap": 2040000000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "asos plc", "market_cap": 2029999999, "country": "united kingdom", "industry": "internet retail", "sector": "consumer discretionary"}
+{"name": "brewin dolphin holdings plc", "market_cap": 2029999999, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "calisen plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "jpmorgan american investment trust plc", "market_cap": 1980000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "burford capital limited", "market_cap": 1970000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "yougov plc", "market_cap": 1960000000, "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "capital & counties properties plc", "market_cap": 1950000000, "country": "united kingdom", "industry": "reitretail", "sector": "real estate"}
+{"name": "sanne group plc", "market_cap": 1940000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "secure income reit ord", "market_cap": 1940000000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "national express group plc", "market_cap": 1920000000, "country": "united kingdom", "industry": "railroads", "sector": "industrials"}
+{"name": "globaldata plc", "market_cap": 1900000000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "polypipe group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "building products & equipment", "sector": "industrials"}
+{"name": "tr property investment trust", "market_cap": 1890000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "countryside properties plc", "market_cap": 1870000000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "spirent communications plc", "market_cap": 1870000000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "rws holdings plc", "market_cap": 1870000000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "integrafin holdings plc", "market_cap": 1860000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "mitchells & butlers plc", "market_cap": 1850000000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "the bankers investment trust plc", "market_cap": 1830000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "ascential plc", "market_cap": 1830000000, "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "micro focus international plc", "market_cap": 1810000000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "hammerson plc", "market_cap": 1790000000, "country": "united kingdom", "industry": "reitretail", "sector": "real estate"}
+{"name": "sirius real estate limited", "market_cap": 1790000000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "marshalls plc", "market_cap": 1780000000, "country": "united kingdom", "industry": "building materials", "sector": "basic materials"}
+{"name": "jpmorgan emerging markets investment trust plc", "market_cap": 1780000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "ceres power holdings plc", "market_cap": 1770000000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "blackrock world mining trust plc", "market_cap": 1770000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "impax environmental markets trust plc", "market_cap": 1740000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "james halstead plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "building products & equipment", "sector": "industrials"}
+{"name": "hipgnosis songs fund limited", "market_cap": 1710000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "alphawave ip group plc", "market_cap": 1710000000, "country": "united kingdom", "industry": "semiconductors", "sector": "technology"}
+{"name": "impax asset management group plc", "market_cap": 1700000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "paragon banking group plc", "market_cap": 1700000000, "country": "united kingdom", "industry": "mortgage finance", "sector": "financials"}
+{"name": "contourglobal plc", "market_cap": 1680000000, "country": "united kingdom", "industry": "utilitiesrenewable", "sector": "utilities"}
+{"name": "synthomer plc", "market_cap": 1680000000, "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "oxford instruments plc", "market_cap": 1670000000, "country": "united kingdom", "industry": "semiconductor equipment & materials", "sector": "technology"}
+{"name": "aj bell plc", "market_cap": 1660000000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "gamma communications plc", "market_cap": 1660000000, "country": "united kingdom", "industry": "telecom services", "sector": "communication services"}
+{"name": "cvs group plc", "market_cap": 1650000000, "country": "united kingdom", "industry": "personal services", "sector": "consumer discretionary"}
+{"name": "workspace group plc", "market_cap": 1650000000, "country": "united kingdom", "industry": "reitoffice", "sector": "real estate"}
+{"name": "rsa insurance group plc", "market_cap": 1650000000, "country": "united kingdom", "industry": "insuranceproperty & casualty", "sector": "financials"}
+{"name": "auction technology group plc", "market_cap": 1640000000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "daily mail and general trust plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "publishing", "sector": "communication services"}
+{"name": "blue prism group plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "fidelity european values plc", "market_cap": 1630000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "helios towers plc", "market_cap": 1610000000, "country": "united kingdom", "industry": "telecom services", "sector": "communication services"}
+{"name": "next fifteen communications group plc", "market_cap": 1610000000, "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "clinigen group plc", "market_cap": 1610000000, "country": "united kingdom", "industry": "medical distribution", "sector": "healthcare"}
+{"name": "trainline plc", "market_cap": 1600000000, "country": "united kingdom", "industry": "travel services", "sector": "consumer discretionary"}
+{"name": "aberforth smaller companies trust plc", "market_cap": 1600000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "fdm group holdings plc", "market_cap": 1600000000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "herald investment trust", "market_cap": 1590000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "learning technologies group plc", "market_cap": 1590000000, "country": "united kingdom", "industry": "education & training services", "sector": "consumer staples"}
+{"name": "bodycote plc", "market_cap": 1580000000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "atrium european real estate ltd", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "telecom plus plc", "market_cap": 1580000000, "country": "united kingdom", "industry": "utilitiesdiversified", "sector": "utilities"}
+{"name": "draper esprit plc", "market_cap": 1570000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "tp icap plc", "market_cap": 1570000000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "hill & smith holdings plc", "market_cap": 1550000000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "bytes technology group plc", "market_cap": 1540000000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "talktalk telecom group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "telecom services", "sector": "communication services"}
+{"name": "globalworth real estate investments limited", "market_cap": 1540000000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "rathbone brothers plc", "market_cap": 1530000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "uk commercial property reit limited", "market_cap": 1520000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "bbgi global infrastructure sa", "market_cap": 1520000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "jupiter fund management plc", "market_cap": 1500000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "octopus titan vct plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "jtc plc", "market_cap": 1490000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "aston martin lagonda global holdings plc", "market_cap": 1490000000, "country": "united kingdom", "industry": "auto manufacturers", "sector": "consumer discretionary"}
+{"name": "coats group plc", "market_cap": 1460000000, "country": "united kingdom", "industry": "textile manufacturing", "sector": "consumer discretionary"}
+{"name": "john wood group plc", "market_cap": 1450000000, "country": "united kingdom", "industry": "oil & gas integrated", "sector": "energy"}
+{"name": "cairn energy plc", "market_cap": 1450000000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "clarkson plc", "market_cap": 1440000000, "country": "united kingdom", "industry": "marine shipping", "sector": "industrials"}
+{"name": "edinburgh investment trust plc", "market_cap": 1430000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "serica energy plc", "market_cap": 1430000000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "morgan sindall group plc", "market_cap": 1430000000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "avi global trust plc", "market_cap": 1420000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "syncona limited", "market_cap": 1420000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "euromoney institutional investor plc", "market_cap": 1410000000, "country": "united kingdom", "industry": "financial data & stock exchanges", "sector": "financials"}
+{"name": "redde northgate plc", "market_cap": 1400000000, "country": "united kingdom", "industry": "rental & leasing services", "sector": "industrials"}
+{"name": "ferroglobe plc", "market_cap": 1380000000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "victoria plc", "market_cap": 1370000000, "country": "united kingdom", "industry": "furnishings, fixtures & appliances", "sector": "consumer discretionary"}
+{"name": "murray income trust plc", "market_cap": 1360000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "moneysupermarketcom group plc", "market_cap": 1360000000, "country": "united kingdom", "industry": "internet content & information", "sector": "communication services"}
+{"name": "centamin plc", "market_cap": 1360000000, "country": "united kingdom", "industry": "gold", "sector": "basic materials"}
+{"name": "vectura group plc", "market_cap": "(oct. 1, 2021)", "country": "united kingdom", "industry": "drug manufacturersgeneral", "sector": "healthcare"}
+{"name": "gb group plc", "market_cap": 1350000000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "supermarket income reit plc", "market_cap": 1350000000, "country": "united kingdom", "industry": "reitretail", "sector": "real estate"}
+{"name": "currys plc", "market_cap": 1340000000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "immunocore holdings plc", "market_cap": 1340000000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "apax global alpha limited", "market_cap": 1330000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "premier foods plc", "market_cap": 1330000000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "thg plc", "market_cap": 1330000000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "hilton food group plc", "market_cap": 1320000000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "jd wetherspoon plc", "market_cap": 1310000000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "biffa plc", "market_cap": 1290000000, "country": "united kingdom", "industry": "waste management", "sector": "industrials"}
+{"name": "gcp student living plc", "market_cap": "(dec. 1, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "gcp infrastructure investments", "market_cap": 1290000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "ti fluid syste plc", "market_cap": 1280000000, "country": "united kingdom", "industry": "auto parts", "sector": "consumer discretionary"}
+{"name": "merian chrysalis investment co, ltd", "market_cap": 1280000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "spire healthcare group plc", "market_cap": 1270000000, "country": "united kingdom", "industry": "medical care facilities", "sector": "healthcare"}
+{"name": "essentra plc", "market_cap": 1260000000, "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "law debenture corporation plc", "market_cap": 1260000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "clipper logistics plc", "market_cap": 1240000000, "country": "united kingdom", "industry": "integrated freight & logistics", "sector": "industrials"}
+{"name": "ip group plc", "market_cap": 1240000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "vesuvius plc", "market_cap": 1220000000, "country": "united kingdom", "industry": "steel", "sector": "basic materials"}
+{"name": "st modwen properties plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "real estatedevelopment", "sector": "real estate"}
+{"name": "stolt-nielsen ltd", "market_cap": 1220000000, "country": "united kingdom", "industry": "marine shipping", "sector": "industrials"}
+{"name": "european opportunities trust plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "lxi reit", "market_cap": 1210000000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "bmo commercial property trust", "market_cap": 1210000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "bb healthcare trust plc", "market_cap": 1190000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "just group plc", "market_cap": 1180000000, "country": "united kingdom", "industry": "insurancespecialty", "sector": "financials"}
+{"name": "schroder asiapacific fund plc", "market_cap": 1180000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "sumo group plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "electronic gaming & multimedia", "sector": "communication services"}
+{"name": "myovant sciences ltd", "market_cap": 1180000000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "morgan advanced materials plc", "market_cap": 1180000000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "smart metering syste plc", "market_cap": 1170000000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "edinburgh worldwide investment trust plc", "market_cap": 1160000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "emis group plc", "market_cap": 1160000000, "country": "united kingdom", "industry": "health information services", "sector": "healthcare"}
+{"name": "vinacapital vietnam opportunity fund limited", "market_cap": 1140000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "kape technologies plc", "market_cap": 1140000000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "jpmorgan euro small co trust plc", "market_cap": "(dec. 1, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "alpha fx group plc", "market_cap": 1130000000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "cheing group plc", "market_cap": 1130000000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "cls holdings plc", "market_cap": 1110000000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "volution group plc", "market_cap": 1090000000, "country": "united kingdom", "industry": "building products & equipment", "sector": "industrials"}
+{"name": "scottish american investment company plc", "market_cap": 1090000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "pz cussons plc", "market_cap": 1080000000, "country": "united kingdom", "industry": "household & personal products", "sector": "consumer staples"}
+{"name": "blackrock smaller companies trust", "market_cap": 1070000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "jpmorgan japanese investment trust plc", "market_cap": 1060000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "digital 9 infrastructure plc", "market_cap": 1060000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "aberdeen total dynamic dividend fund", "market_cap": 1060000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "standard life private equity trust plc", "market_cap": 1060000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "mitie group plc", "market_cap": 1050000000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "icg enterprise trust plc", "market_cap": 1040000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "4imprint group plc", "market_cap": 1040000000, "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "sdcl energy efficiency income trust plc", "market_cap": 1040000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "caretech holdings plc", "market_cap": 1040000000, "country": "united kingdom", "industry": "medical care facilities", "sector": "healthcare"}
+{"name": "global ship lease, inc", "market_cap": 1030000000, "country": "united kingdom", "industry": "marine shipping", "sector": "industrials"}
+{"name": "capital gearing trust plc", "market_cap": 1030000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "liontrust asset management plc", "market_cap": 1020000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "bicycle therapeutics plc", "market_cap": 1020000000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "stock spirits group plc", "market_cap": "(nov. 1, 2021)", "country": "united kingdom", "industry": "beverageswineries & distilleries", "sector": "consumer staples"}
+{"name": "provident financial plc", "market_cap": 1010000000, "country": "united kingdom", "industry": "credit services", "sector": "financials"}
+{"name": "baillie gifford japan trust plc", "market_cap": 1010000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "focusrite plc", "market_cap": 1010000000, "country": "united kingdom", "industry": "leisure", "sector": "consumer discretionary"}
+{"name": "temple bar investment trust plc", "market_cap": 998700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "pantheon resources plc", "market_cap": 997000000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "cmc markets plc", "market_cap": 985200000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "tullow oil plc", "market_cap": 983500000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "tr european growth trust plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "henderson smaller companies investment trust", "market_cap": 960600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "ienergizer limited", "market_cap": 957500000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "baillie gifford us growth trust plc", "market_cap": 955400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "standard life uk smaller companies trust plc", "market_cap": "(dec. 1, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "warehouse reit plc", "market_cap": 946900000, "country": "united kingdom", "industry": "reitindustrial", "sector": "real estate"}
+{"name": "the merchants trust plc", "market_cap": 946400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "schroder oriental income fund limited", "market_cap": 945600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "nb private equity partners limited", "market_cap": 937200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "jpmorgan global growth & income plc", "market_cap": 931600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "elementis plc", "market_cap": 928500000, "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "ibstock plc", "market_cap": 925500000, "country": "united kingdom", "industry": "building materials", "sector": "basic materials"}
+{"name": "team17 group plc", "market_cap": 920700000, "country": "united kingdom", "industry": "electronic gaming & multimedia", "sector": "communication services"}
+{"name": "crest nicholson holdings plc", "market_cap": 915000000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "marlowe plc", "market_cap": 906300000, "country": "united kingdom", "industry": "security & protection services", "sector": "industrials"}
+{"name": "yellow cake plc", "market_cap": 905800000, "country": "united kingdom", "industry": "uranium", "sector": "energy"}
+{"name": "bh macro limited gbp", "market_cap": 904500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "blackrock throgmorton trust plc", "market_cap": 904000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "discoverie group plc", "market_cap": 903900000, "country": "united kingdom", "industry": "electronic components", "sector": "technology"}
+{"name": "treatt plc", "market_cap": 903400000, "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "mccarthy & stone plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "medical care facilities", "sector": "healthcare"}
+{"name": "equiniti group plc", "market_cap": "(dec. 1, 2021)", "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "young & co's brewery, plc", "market_cap": 891400000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "alternative credit investments plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "watkin jones plc", "market_cap": 882200000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "ergomed plc", "market_cap": 870200000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "bakkavor group plc", "market_cap": 867600000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "the rank group plc", "market_cap": 853800000, "country": "united kingdom", "industry": "gambling", "sector": "consumer discretionary"}
+{"name": "hochschild mining plc", "market_cap": 852300000, "country": "united kingdom", "industry": "gold", "sector": "basic materials"}
+{"name": "third point investors limited", "market_cap": 836600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "alliance pharma plc", "market_cap": 834500000, "country": "united kingdom", "industry": "drug manufacturersspecialty & generic", "sector": "healthcare"}
+{"name": "polar capital holdings plc", "market_cap": 830300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "centessa pharmaceuticals ltd", "market_cap": 830100000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "tyman plc", "market_cap": 829200000, "country": "united kingdom", "industry": "building products & equipment", "sector": "industrials"}
+{"name": "restore plc", "market_cap": 828800000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "ruffer investment company limited", "market_cap": 827800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "pacific horizon investment trust", "market_cap": 823500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "nextenergy solar ord", "market_cap": 817800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "genius sports ltd", "market_cap": 812900000, "country": "united kingdom", "industry": "internet content & information", "sector": "communication services"}
+{"name": "mas real estate, inc", "market_cap": "(nov. 1, 2021)", "country": "united kingdom", "industry": "real estatediversified", "sector": "real estate"}
+{"name": "the vitec group plc", "market_cap": 803400000, "country": "united kingdom", "industry": "consumer electronics", "sector": "technology"}
+{"name": "ag barr plc", "market_cap": 799200000, "country": "united kingdom", "industry": "beveragesnon-alcoholic", "sector": "consumer staples"}
+{"name": "advanced medical solutions group plc", "market_cap": 793700000, "country": "united kingdom", "industry": "medical instruments & supplies", "sector": "healthcare"}
+{"name": "the scottish investment trust plc", "market_cap": 791800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "jpmorgan indian investment trust plc", "market_cap": 785900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "keller group plc", "market_cap": 778100000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "reach plc", "market_cap": 777100000, "country": "united kingdom", "industry": "publishing", "sector": "communication services"}
+{"name": "bank of georgia group plc", "market_cap": 777100000, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "mortgage advice bureau holdings plc", "market_cap": 771400000, "country": "united kingdom", "industry": "mortgage finance", "sector": "financials"}
+{"name": "target healthcare reit plc", "market_cap": 769600000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "sabre insurance group plc", "market_cap": 766400000, "country": "united kingdom", "industry": "insurance brokers", "sector": "financials"}
+{"name": "mp evans group plc", "market_cap": 758200000, "country": "united kingdom", "industry": "farm products", "sector": "consumer staples"}
+{"name": "hotel chocolat group plc", "market_cap": 756600000, "country": "united kingdom", "industry": "confectioners", "sector": "consumer staples"}
+{"name": "stagecoach group plc", "market_cap": 751100000, "country": "united kingdom", "industry": "railroads", "sector": "industrials"}
+{"name": "renew holdings plc", "market_cap": 744000000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "rak petroleum plc", "market_cap": 737400000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "asia dragon trust plc", "market_cap": 737000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "oxford biomedica plc", "market_cap": 734700000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "dfs furniture plc", "market_cap": 733000000, "country": "united kingdom", "industry": "furnishings, fixtures & appliances", "sector": "consumer discretionary"}
+{"name": "civitas social housing plc", "market_cap": 729800000, "country": "united kingdom", "industry": "reitresidential", "sector": "real estate"}
+{"name": "ideagen plc", "market_cap": 728400000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "forterra plc", "market_cap": 725500000, "country": "united kingdom", "industry": "building materials", "sector": "basic materials"}
+{"name": "harworth group plc", "market_cap": 723600000, "country": "united kingdom", "industry": "real estatedevelopment", "sector": "real estate"}
+{"name": "picton property income limited", "market_cap": 722200000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "empiric student property plc", "market_cap": 721300000, "country": "united kingdom", "industry": "reitresidential", "sector": "real estate"}
+{"name": "greatland gold plc", "market_cap": 721200000, "country": "united kingdom", "industry": "gold", "sector": "basic materials"}
+{"name": "goco group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "stenprop ltd", "market_cap": "(nov. 1, 2021)", "country": "united kingdom", "industry": "reitindustrial", "sector": "real estate"}
+{"name": "craneware plc", "market_cap": 718900000, "country": "united kingdom", "industry": "health information services", "sector": "healthcare"}
+{"name": "integrated diagnostics holdings plc", "market_cap": 718000000, "country": "united kingdom", "industry": "diagnostics & research", "sector": "healthcare"}
+{"name": "bluefield solar income fund limited", "market_cap": 717500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "sthree plc", "market_cap": 717100000, "country": "united kingdom", "industry": "staffing & employment services", "sector": "industrials"}
+{"name": "twentyfour income ord", "market_cap": 716500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "fw thorpe plc", "market_cap": 714900000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "torm plc", "market_cap": 713800000, "country": "united kingdom", "industry": "oil & gas midstream", "sector": "energy"}
+{"name": "north atlantic smaller companies", "market_cap": 712900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "the prs reit plc", "market_cap": 705500000, "country": "united kingdom", "industry": "reitresidential", "sector": "real estate"}
+{"name": "scion tech growth i", "market_cap": 704000000, "country": "united kingdom", "industry": "shell companies", "sector": "financials"}
+{"name": "boussard & gavaudan holdings eur", "market_cap": 695300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "navigator holdings ltd", "market_cap": 691800000, "country": "united kingdom", "industry": "oil & gas midstream", "sector": "energy"}
+{"name": "fd technologies plc", "market_cap": 690500000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "baillie gifford shin nippon plc", "market_cap": 690200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "mountview estates plc", "market_cap": 688400000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "ncc group plc", "market_cap": 686300000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "imimobile plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "john menzies plc", "market_cap": 682500000, "country": "united kingdom", "industry": "airports & air services", "sector": "industrials"}
+{"name": "johnson service group plc", "market_cap": 680700000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "marston's plc", "market_cap": 671400000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "hunting plc", "market_cap": 669900000, "country": "united kingdom", "industry": "oil & gas equipment & services", "sector": "energy"}
+{"name": "ecclesiastical insurance office plc", "market_cap": 666800000, "country": "united kingdom", "industry": "insurancelife", "sector": "financials"}
+{"name": "senior plc", "market_cap": 662600000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "enquest plc", "market_cap": 661500000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "robert walters plc", "market_cap": 660200000, "country": "united kingdom", "industry": "staffing & employment services", "sector": "industrials"}
+{"name": "blackrock greater europe investment trust plc", "market_cap": 659800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "nichols plc", "market_cap": 657000000, "country": "united kingdom", "industry": "beveragesnon-alcoholic", "sector": "consumer staples"}
+{"name": "arrow global group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "halfords group plc", "market_cap": 650100000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "rdi reit plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "urban logistics reit plc", "market_cap": 644000000, "country": "united kingdom", "industry": "reitindustrial", "sector": "real estate"}
+{"name": "frontier developments plc", "market_cap": 635600000, "country": "united kingdom", "industry": "electronic gaming & multimedia", "sector": "communication services"}
+{"name": "odfjell drilling ltd", "market_cap": 634700000, "country": "united kingdom", "industry": "oil & gas drilling", "sector": "energy"}
+{"name": "helical plc", "market_cap": 632100000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "genel energy plc", "market_cap": 631900000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "henderson far east income ltd", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "wincanton plc", "market_cap": 629700000, "country": "united kingdom", "industry": "integrated freight & logistics", "sector": "industrials"}
+{"name": "mid-wynd international investment trust plc", "market_cap": 625900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "alfa financial software holdings plc", "market_cap": 622300000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "the restaurant group plc", "market_cap": 616300000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "schroder asian total return investment company plc", "market_cap": 612100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "tritax eurobox plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "reitindustrial", "sector": "real estate"}
+{"name": "sig plc", "market_cap": 604700000, "country": "united kingdom", "industry": "industrial distribution", "sector": "industrials"}
+{"name": "chesnara plc", "market_cap": 599500000, "country": "united kingdom", "industry": "insurancelife", "sector": "financials"}
+{"name": "dunedin income growth investment trust", "market_cap": 592400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "silence therapeutics plc", "market_cap": "(nov. 1, 2021)", "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "aberdeen standard asia focus plc", "market_cap": 584200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "gcp asset backed income fund limited", "market_cap": 580100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "cineworld group plc", "market_cap": 575900000, "country": "united kingdom", "industry": "entertainment", "sector": "communication services"}
+{"name": "kin and carta plc", "market_cap": 574800000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "brunner investment trust plc", "market_cap": 574700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "impact healthcare reit plc", "market_cap": 567300000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "scapa group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "north american income trust the plc", "market_cap": 566700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "european assets trust plc", "market_cap": 564200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "knot offshore partners lp", "market_cap": 562500000, "country": "united kingdom", "industry": "marine shipping", "sector": "industrials"}
+{"name": "bh global limited", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "jpmorgan claverhouse investment trust plc", "market_cap": 560900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "aberdeen global premier properties fund", "market_cap": 560600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "custodian reit ord", "market_cap": 559000000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "oxford immunotec global plc", "market_cap": "(feb. 18, 2021)", "country": "united kingdom", "industry": "diagnostics & research", "sector": "healthcare"}
+{"name": "ao world plc", "market_cap": 556100000, "country": "united kingdom", "industry": "internet retail", "sector": "consumer discretionary"}
+{"name": "henry boot plc", "market_cap": 555300000, "country": "united kingdom", "industry": "real estatediversified", "sector": "real estate"}
+{"name": "coinshares international ltd", "market_cap": 551800000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "volex plc", "market_cap": 549600000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "judges scientific plc", "market_cap": 545000000, "country": "united kingdom", "industry": "scientific & technical instruments", "sector": "technology"}
+{"name": "paypoint plc", "market_cap": 542900000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "brooks macdonald group plc", "market_cap": 539200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "strix group plc", "market_cap": 537900000, "country": "united kingdom", "industry": "electronic components", "sector": "technology"}
+{"name": "central asia metals plc", "market_cap": 535200000, "country": "united kingdom", "industry": "copper", "sector": "basic materials"}
+{"name": "aberdeen asian income fund limited", "market_cap": 532400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "avon protection plc", "market_cap": 531400000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "avon rubber plc", "market_cap": 528600000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "jpmorgan global emerging markets income trust", "market_cap": 527600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "starwood european real estate finance ltd", "market_cap": 526000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "mattioli woods plc", "market_cap": 523700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "octopus renewables infrastructure trust plc", "market_cap": 523100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "lsl property services plc", "market_cap": 515700000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "hollywood bowl group plc", "market_cap": 514500000, "country": "united kingdom", "industry": "leisure", "sector": "consumer discretionary"}
+{"name": "urovant sciences ltd", "market_cap": "(feb. 18, 2021)", "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "diverse income trust", "market_cap": 511900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "panariagroup industrie ceramiche spa", "market_cap": 510100000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "baillie gifford european growth trust plc", "market_cap": 508200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "anglo pacific group plc", "market_cap": 503900000, "country": "united kingdom", "industry": "coking coal", "sector": "basic materials"}
+{"name": "kier group plc", "market_cap": 499200000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "investindustrial acquisition corp", "market_cap": "(dec. 1, 2021)", "country": "united kingdom", "industry": "shell companies", "sector": "financials"}
+{"name": "pacific assets trust", "market_cap": 498800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "regional reit ltd", "market_cap": 498800000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "on the beach group plc", "market_cap": 497100000, "country": "united kingdom", "industry": "travel services", "sector": "consumer discretionary"}
+{"name": "phoenix spree deutschland limited", "market_cap": 496700000, "country": "united kingdom", "industry": "reitresidential", "sector": "real estate"}
+{"name": "jpmorgan elect plc managed growth", "market_cap": 492600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "compass pathways plc", "market_cap": 492200000, "country": "united kingdom", "industry": "medical care facilities", "sector": "healthcare"}
+{"name": "inspecs group plc", "market_cap": 491800000, "country": "united kingdom", "industry": "medical instruments & supplies", "sector": "healthcare"}
+{"name": "jpmorgan asia growth & income plc", "market_cap": 490700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "kistos plc", "market_cap": 487000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "templeton emerging markets investment trust temit", "market_cap": 484400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "luxfer holdings plc", "market_cap": 483800000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "mj gleeson plc", "market_cap": 483400000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "polar capital global healthcare trust", "market_cap": 477700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "petrofac limited", "market_cap": 472400000, "country": "united kingdom", "industry": "oil & gas equipment & services", "sector": "energy"}
+{"name": "henderson european focus trust plc", "market_cap": 471200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "bloobury publishing plc", "market_cap": 470900000, "country": "united kingdom", "industry": "publishing", "sector": "communication services"}
+{"name": "fuller, smith & turner plc", "market_cap": 470100000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "real estate credit investments limited", "market_cap": 470100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "pendragon plc", "market_cap": 468400000, "country": "united kingdom", "industry": "auto & truck dealerships", "sector": "consumer discretionary"}
+{"name": "lowland investment company plc", "market_cap": 464900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "honeycomb investment trust plc", "market_cap": 463300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "standard life investments property income trust", "market_cap": 463000000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "bmo private equity trust plc", "market_cap": 462700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "tt electronics plc", "market_cap": 461900000, "country": "united kingdom", "industry": "electronic components", "sector": "technology"}
+{"name": "capita plc", "market_cap": 460200000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "lookers plc", "market_cap": 459300000, "country": "united kingdom", "industry": "auto & truck dealerships", "sector": "consumer discretionary"}
+{"name": "alpha financial markets consulting plc", "market_cap": 458900000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "bmo capital and income investment trust plc", "market_cap": 455100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "riverstone energy limited", "market_cap": 454400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "henderson international income trust", "market_cap": 453600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "accesso technology group plc", "market_cap": 450900000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "vp plc", "market_cap": 450200000, "country": "united kingdom", "industry": "rental & leasing services", "sector": "industrials"}
+{"name": "devro plc", "market_cap": 449000000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "jubilee metals group plc", "market_cap": 445200000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "eurasia mining plc", "market_cap": 440400000, "country": "united kingdom", "industry": "other precious metals & mining", "sector": "basic materials"}
+{"name": "triple point social housing reit plc", "market_cap": 439800000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "s&u plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "credit services", "sector": "financials"}
+{"name": "saga plc", "market_cap": 434400000, "country": "united kingdom", "industry": "insurancediversified", "sector": "financials"}
+{"name": "fidelity asian values plc", "market_cap": 433700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "aberdeen new india investment trust plc", "market_cap": 433600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "aberdeen diversified income and growth trust plc", "market_cap": 428200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "headlam group plc", "market_cap": 428100000, "country": "united kingdom", "industry": "furnishings, fixtures & appliances", "sector": "consumer discretionary"}
+{"name": "benchmark holdings plc", "market_cap": 427100000, "country": "united kingdom", "industry": "drug manufacturersspecialty & generic", "sector": "healthcare"}
+{"name": "elixirr international plc", "market_cap": 424000000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "aberdeen new dawn investment trust plc", "market_cap": 421300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "scion tech growth ii", "market_cap": 421100000, "country": "united kingdom", "industry": "shell companies", "sector": "financials"}
+{"name": "luceco plc", "market_cap": 420800000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "the gym group plc", "market_cap": 417000000, "country": "united kingdom", "industry": "leisure", "sector": "consumer discretionary"}
+{"name": "trian investors 1 ltd", "market_cap": 415400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "gresham house plc", "market_cap": 406700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "marshall motor holdings plc", "market_cap": 406300000, "country": "united kingdom", "industry": "auto & truck dealerships", "sector": "consumer discretionary"}
+{"name": "fundsmith emerging equities trust plc", "market_cap": 405300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "jpmorgan china growth & income plc", "market_cap": 402800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "home reit plc", "market_cap": 399000000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "audioboom group plc", "market_cap": 397800000, "country": "united kingdom", "industry": "internet content & information", "sector": "communication services"}
+{"name": "pensionbee group plc", "market_cap": 392800000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "scottish oriental smaller companies trust plc", "market_cap": 391400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "frp advisory group plc", "market_cap": 391200000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "martin currie global portfolio investment trust", "market_cap": 390900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "afc energy plc", "market_cap": 390700000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "aberdeen standard european logistics income plc", "market_cap": 385700000, "country": "united kingdom", "industry": "reitindustrial", "sector": "real estate"}
+{"name": "porvair plc", "market_cap": 385400000, "country": "united kingdom", "industry": "pollution & treatment controls", "sector": "industrials"}
+{"name": "rps group plc", "market_cap": 384600000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "adriatic metals plc", "market_cap": 379900000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "vh global sustainable energy opportunities plc", "market_cap": 378800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "centralnic group plc", "market_cap": 377900000, "country": "united kingdom", "industry": "internet content & information", "sector": "communication services"}
+{"name": "schroder real estate investment trust limited", "market_cap": 377600000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "london security plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "security & protection services", "sector": "industrials"}
+{"name": "funding circle holdings plc", "market_cap": 373900000, "country": "united kingdom", "industry": "credit services", "sector": "financials"}
+{"name": "tracsis plc", "market_cap": 373800000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "ayt pharma plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "drug manufacturersspecialty & generic", "sector": "healthcare"}
+{"name": "baillie gifford uk growth", "market_cap": 372500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "broadstone acquisition corp", "market_cap": "(dec. 1, 2021)", "country": "united kingdom", "industry": "shell companies", "sector": "financials"}
+{"name": "speedy hire plc", "market_cap": 368900000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "idox plc", "market_cap": 368200000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "accsys technologies plc", "market_cap": 367800000, "country": "united kingdom", "industry": "lumber & wood production", "sector": "basic materials"}
+{"name": "premier oil plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "brickability group plc", "market_cap": 365000000, "country": "united kingdom", "industry": "industrial distribution", "sector": "industrials"}
+{"name": "argo blockchain plc", "market_cap": 362500000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "charles stanley group plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "centricus acquisition corp", "market_cap": "(nov. 1, 2021)", "country": "united kingdom", "industry": "shell companies", "sector": "financials"}
+{"name": "newriver reit plc", "market_cap": 359700000, "country": "united kingdom", "industry": "reitretail", "sector": "real estate"}
+{"name": "mckay securities plc", "market_cap": 358600000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "numis corporation plc", "market_cap": 358400000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "bacanora lithium plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "photo-me international plc", "market_cap": 355900000, "country": "united kingdom", "industry": "leisure", "sector": "consumer discretionary"}
+{"name": "xps pensions group plc", "market_cap": 352900000, "country": "united kingdom", "industry": "personal services", "sector": "consumer discretionary"}
+{"name": "telit communications plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "communication equipment", "sector": "technology"}
+{"name": "aberdeen emerging markets equity income fund, inc", "market_cap": 350000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "tatton asset management plc", "market_cap": 347200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "iqe plc", "market_cap": 346800000, "country": "united kingdom", "industry": "semiconductor equipment & materials", "sector": "technology"}
+{"name": "international biotechnology trust", "market_cap": 346300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "aurora acquisition corp", "market_cap": 345600000, "country": "united kingdom", "industry": "shell companies", "sector": "financials"}
+{"name": "naked wines plc", "market_cap": 344900000, "country": "united kingdom", "industry": "beverageswineries & distilleries", "sector": "consumer staples"}
+{"name": "cvc credit partners european opportunities limited", "market_cap": 344100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "goodwin plc", "market_cap": 343400000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "savannah energy plc", "market_cap": 343400000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "ab dynamics plc", "market_cap": 341200000, "country": "united kingdom", "industry": "auto parts", "sector": "consumer discretionary"}
+{"name": "unicorn aim vct plc", "market_cap": 341000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "motorpoint group plc", "market_cap": 339200000, "country": "united kingdom", "industry": "auto & truck dealerships", "sector": "consumer discretionary"}
+{"name": "gooch & housego plc", "market_cap": 336400000, "country": "united kingdom", "industry": "electronic components", "sector": "technology"}
+{"name": "blackrock frontiers investment trust plc", "market_cap": 336300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "jpmorgan smaller companies investment trust plc", "market_cap": 336100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "schroder japan growth fund plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "city of london investment group plc", "market_cap": 335000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "horizonte minerals plc", "market_cap": 333400000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "jpmorgan us smaller co inv tst plc", "market_cap": 332900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "loungers plc", "market_cap": 330300000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "troy income & growth trust plc", "market_cap": 328700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "premier miton group plc", "market_cap": 325600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "jpmorgan mid cap investment trust plc", "market_cap": 324300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "octopus apollo vct", "market_cap": 322600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "dignity plc", "market_cap": 322000000, "country": "united kingdom", "industry": "personal services", "sector": "consumer discretionary"}
+{"name": "james latham plc", "market_cap": 321300000, "country": "united kingdom", "industry": "industrial distribution", "sector": "industrials"}
+{"name": "the independent investment trust plc", "market_cap": 320100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "adaptimmune therapeutics plc", "market_cap": 315800000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "eurocell plc", "market_cap": 315300000, "country": "united kingdom", "industry": "building products & equipment", "sector": "industrials"}
+{"name": "gateley holdings plc", "market_cap": 314900000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "i3 energy plc", "market_cap": 312900000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "cqs new city high yield fund limited", "market_cap": 311800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "invesco asia trust plc", "market_cap": 311300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "fidelity japan trust plc", "market_cap": 309200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "angle plc", "market_cap": 307500000, "country": "united kingdom", "industry": "diagnostics & research", "sector": "healthcare"}
+{"name": "ricardo plc", "market_cap": 307500000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "verona pharma plc", "market_cap": 307500000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "autolus therapeutics plc", "market_cap": 307300000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "secure trust bank plc", "market_cap": 306400000, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "proton motor power syste plc", "market_cap": 305400000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "vertu motors plc", "market_cap": 304300000, "country": "united kingdom", "industry": "auto & truck dealerships", "sector": "consumer discretionary"}
+{"name": "securities trust of scotland plc", "market_cap": 304100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "aa plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "personal services", "sector": "consumer discretionary"}
+{"name": "wilmington plc", "market_cap": 302200000, "country": "united kingdom", "industry": "conglomerates", "sector": "industrials"}
+{"name": "river and mercantile group plc", "market_cap": 300500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "augean plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "waste management", "sector": "industrials"}
+{"name": "ted baker plc", "market_cap": 294400000, "country": "united kingdom", "industry": "apparel retail", "sector": "consumer discretionary"}
+{"name": "augmentum fintech plc", "market_cap": 292500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "gemfields group limited", "market_cap": 291700000, "country": "united kingdom", "industry": "other precious metals & mining", "sector": "basic materials"}
+{"name": "bmo real estate investments ltd", "market_cap": 291500000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "henderson high income trust", "market_cap": 290700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "cerillion plc", "market_cap": 290000000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "fintel plc", "market_cap": 288700000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "mears group plc", "market_cap": 286600000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "lindsell train investment trust", "market_cap": 286500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "petra diamonds limited", "market_cap": 285600000, "country": "united kingdom", "industry": "other precious metals & mining", "sector": "basic materials"}
+{"name": "schroder uk public private trust plc", "market_cap": 285500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "tiziana life sciences plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "ecofin global utilities & infrastructure trust plc", "market_cap": 284300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "nb global monthly income fund ltd gbp", "market_cap": 281100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "keystone law group plc", "market_cap": 276800000, "country": "united kingdom", "industry": "personal services", "sector": "consumer discretionary"}
+{"name": "schroder income growth fund plc", "market_cap": 276800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "ekf diagnostics holdings plc", "market_cap": 275400000, "country": "united kingdom", "industry": "diagnostics & research", "sector": "healthcare"}
+{"name": "afh financial group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "redx pharma plc", "market_cap": 274000000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "cc japan income & growth trust plc", "market_cap": 272800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "montanaro uk smaller companies trust", "market_cap": 272100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "xaar plc", "market_cap": 271700000, "country": "united kingdom", "industry": "electronic components", "sector": "technology"}
+{"name": "galliford try holdings plc", "market_cap": 267500000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "city merchants high yield trust limited", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "severfield plc", "market_cap": 266200000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "jpmorgan japan small cap growth & income plc", "market_cap": 265800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "hargreave hale aim vct plc", "market_cap": 265700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "supreme plc", "market_cap": 265600000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "jpmorgan global core real assets limited", "market_cap": 265100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "norcros plc", "market_cap": 264800000, "country": "united kingdom", "industry": "building products & equipment", "sector": "industrials"}
+{"name": "independent oil and gas plc", "market_cap": 264700000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "ilika plc", "market_cap": 264500000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "macfarlane group plc", "market_cap": 263899999, "country": "united kingdom", "industry": "packaging & containers", "sector": "consumer discretionary"}
+{"name": "m&c saatchi plc", "market_cap": 262600000, "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "schroder uk mid cap", "market_cap": 261100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "animalcare group plc", "market_cap": 260500000, "country": "united kingdom", "industry": "medical care facilities", "sector": "healthcare"}
+{"name": "andrews sykes group plc", "market_cap": 258300000, "country": "united kingdom", "industry": "rental & leasing services", "sector": "industrials"}
+{"name": "cohort plc", "market_cap": 257399999, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "the simplybiz group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "aew uk reit ord", "market_cap": 253700000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "hargreaves services plc", "market_cap": 253100000, "country": "united kingdom", "industry": "integrated freight & logistics", "sector": "industrials"}
+{"name": "u and i group plc", "market_cap": "(dec. 1, 2021)", "country": "united kingdom", "industry": "real estatediversified", "sector": "real estate"}
+{"name": "renalytix ai plc", "market_cap": 249600000, "country": "united kingdom", "industry": "diagnostics & research", "sector": "healthcare"}
+{"name": "impellam group plc", "market_cap": 248400000, "country": "united kingdom", "industry": "staffing & employment services", "sector": "industrials"}
+{"name": "hyve group plc", "market_cap": 247500000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "residential secure income plc", "market_cap": 247500000, "country": "united kingdom", "industry": "reitresidential", "sector": "real estate"}
+{"name": "manchester & london investment trust plc", "market_cap": 247300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "baillie gifford china growth trust plc", "market_cap": 246900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "mulberry group plc", "market_cap": 246600000, "country": "united kingdom", "industry": "footwear & accessories", "sector": "consumer discretionary"}
+{"name": "wandisco plc", "market_cap": 245500000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "medica group plc", "market_cap": 245500000, "country": "united kingdom", "industry": "medical devices", "sector": "healthcare"}
+{"name": "the pebble group plc", "market_cap": 245000000, "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "tribal group plc", "market_cap": 244300000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "water intelligence plc", "market_cap": 244200000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "strategic equity capital plc", "market_cap": 243900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "hurricane energy plc", "market_cap": 243800000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "science group plc", "market_cap": 243400000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "tpximpact holdings plc", "market_cap": 240200000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "agronomics limited", "market_cap": 239900000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "amati aim vct plc", "market_cap": 238200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "iomart group plc", "market_cap": 238000000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "k3 capital group plc", "market_cap": 237200000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "avacta group plc", "market_cap": 232900000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "quartix holdings plc", "market_cap": 232600000, "country": "united kingdom", "industry": "scientific & technical instruments", "sector": "technology"}
+{"name": "curtis banks group plc", "market_cap": 231800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "sdi group plc", "market_cap": 230600000, "country": "united kingdom", "industry": "scientific & technical instruments", "sector": "technology"}
+{"name": "begbies traynor group plc", "market_cap": 230400000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "aurora investment trust", "market_cap": 229900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "creo medical limited", "market_cap": 228900000, "country": "united kingdom", "industry": "medical devices", "sector": "healthcare"}
+{"name": "aptitude software group plc", "market_cap": 228800000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "aberdeen standard equity income trust plc", "market_cap": 228700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "invesco perpetual uk smaller companies investment trust plc", "market_cap": 228400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "twentyfour select monthly income fund limited", "market_cap": 225700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "ten entertainment group plc", "market_cap": 225200000, "country": "united kingdom", "industry": "leisure", "sector": "consumer discretionary"}
+{"name": "blackrock latin american investment trust plc", "market_cap": 224600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "pantheon international plc", "market_cap": 224500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "ediston property investment company plc", "market_cap": 223100000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "bioventix plc", "market_cap": 222600000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "jersey electricity plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "utilitiesregulated electric", "sector": "utilities"}
+{"name": "time out group plc", "market_cap": 220500000, "country": "united kingdom", "industry": "entertainment", "sector": "communication services"}
+{"name": "james fisher and sons plc", "market_cap": 220300000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "zoetic international plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "drug manufacturersspecialty & generic", "sector": "healthcare"}
+{"name": "camellia plc", "market_cap": 217400000, "country": "united kingdom", "industry": "farm products", "sector": "consumer staples"}
+{"name": "blancco technology group plc", "market_cap": 217400000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "instem plc", "market_cap": 216700000, "country": "united kingdom", "industry": "health information services", "sector": "healthcare"}
+{"name": "allergy therapeutics plc", "market_cap": 216300000, "country": "united kingdom", "industry": "drug manufacturersspecialty & generic", "sector": "healthcare"}
+{"name": "octopus aim vct plc", "market_cap": 215300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "petropavlovsk plc", "market_cap": 212600000, "country": "united kingdom", "industry": "gold", "sector": "basic materials"}
+{"name": "pensana plc", "market_cap": 212000000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "first trust dynamic europe equity income fund", "market_cap": 211000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "invesco income growth trust plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "bmo managed portfolio trust plc", "market_cap": 210700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "anexo group plc", "market_cap": 206300000, "country": "united kingdom", "industry": "rental & leasing services", "sector": "industrials"}
+{"name": "tristel plc", "market_cap": 206200000, "country": "united kingdom", "industry": "medical instruments & supplies", "sector": "healthcare"}
+{"name": "inspired plc", "market_cap": 206000000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "trifast plc", "market_cap": 205200000, "country": "united kingdom", "industry": "tools & accessories", "sector": "industrials"}
+{"name": "card factory plc", "market_cap": 204600000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "churchill china plc", "market_cap": 203800000, "country": "united kingdom", "industry": "furnishings, fixtures & appliances", "sector": "consumer discretionary"}
+{"name": "jupiter us smaller companies plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "arix bioscience plc", "market_cap": 203600000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "zotefoa plc", "market_cap": 202000000, "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "metro bank plc", "market_cap": 200700000, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "nucleus financial group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "fonix mobile plc", "market_cap": 200600000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "schroder european real estate investment trust plc", "market_cap": 200500000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "avi japan opportunity trust plc", "market_cap": 199700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "springfield properties plc", "market_cap": 199700000, "country": "united kingdom", "industry": "residential construction", "sector": "consumer discretionary"}
+{"name": "novacyt sa", "market_cap": 198200000, "country": "united kingdom", "industry": "diagnostics & research", "sector": "healthcare"}
+{"name": "gabelli value plus trust plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "avingtrans plc", "market_cap": 196900000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "sigma capital group plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "reitresidential", "sector": "real estate"}
+{"name": "middlefield canadian income pcc", "market_cap": 193300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "circassia group plc", "market_cap": 192800000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "henderson diversified income trust plc", "market_cap": 191200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "studio retail group plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "foxtons group plc", "market_cap": 190600000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "blackrock energy and resources income trust plc", "market_cap": 190300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "venator materials plc", "market_cap": 190200000, "country": "united kingdom", "industry": "specialty chemicals", "sector": "basic materials"}
+{"name": "mercia asset management plc", "market_cap": 189100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "chenavari toro income fund ltd", "market_cap": 188200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "keystone positive change investment trust plc", "market_cap": 188100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "stv group plc", "market_cap": 188000000, "country": "united kingdom", "industry": "broadcasting", "sector": "communication services"}
+{"name": "blackrock north american income trust plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "proven vct plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "arbuthnot banking group plc", "market_cap": 186900000, "country": "united kingdom", "industry": "banks", "sector": "financials"}
+{"name": "m&g credit income investment trust plc", "market_cap": 186800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "franchise brands plc", "market_cap": 186500000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "bango plc", "market_cap": 186400000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "equals group plc", "market_cap": 183200000, "country": "united kingdom", "industry": "credit services", "sector": "financials"}
+{"name": "duke royalty limited", "market_cap": 182400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "aberforth split level income trust plc", "market_cap": 182100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "n brown group plc", "market_cap": 180700000, "country": "united kingdom", "industry": "internet retail", "sector": "consumer discretionary"}
+{"name": "carr's group plc", "market_cap": 180000000, "country": "united kingdom", "industry": "farm products", "sector": "consumer staples"}
+{"name": "countrywide plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "access intelligence plc", "market_cap": 179900000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "caledonia mining corporation plc", "market_cap": 179000000, "country": "united kingdom", "industry": "gold", "sector": "basic materials"}
+{"name": "h&t group plc", "market_cap": 176400000, "country": "united kingdom", "industry": "credit services", "sector": "financials"}
+{"name": "knights group holdings plc", "market_cap": 174600000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "mind gym plc", "market_cap": 174300000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "aquis exchange plc", "market_cap": 173900000, "country": "united kingdom", "industry": "financial data & stock exchanges", "sector": "financials"}
+{"name": "tmt investments plc", "market_cap": 170900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "superdry plc", "market_cap": 170600000, "country": "united kingdom", "industry": "apparel manufacturing", "sector": "consumer discretionary"}
+{"name": "castings plc", "market_cap": 169000000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "calnex solutions plc", "market_cap": 169000000, "country": "united kingdom", "industry": "communication equipment", "sector": "technology"}
+{"name": "aberdeen income credit strategies fund", "market_cap": 168300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "sureserve group plc", "market_cap": 167400000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "record plc", "market_cap": 166800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "trident royalties plc", "market_cap": 166800000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "alterola biotech, inc", "market_cap": 165900000, "country": "united kingdom", "industry": "drug manufacturersspecialty & generic", "sector": "healthcare"}
+{"name": "anpario plc", "market_cap": 165700000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "gresham technologies plc", "market_cap": 165400000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "shepherd neame ltd", "market_cap": 164300000, "country": "united kingdom", "industry": "beveragesbrewers", "sector": "consumer staples"}
+{"name": "chariot ltd", "market_cap": 163900000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "the character group plc", "market_cap": 163700000, "country": "united kingdom", "industry": "leisure", "sector": "consumer discretionary"}
+{"name": "wynnstay group plc", "market_cap": 160100000, "country": "united kingdom", "industry": "agricultural inputs", "sector": "basic materials"}
+{"name": "e-therapeutics plc", "market_cap": 160000000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "pharos energy plc", "market_cap": 159900000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "amino technologies plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "communication equipment", "sector": "technology"}
+{"name": "epwin group plc", "market_cap": 157500000, "country": "united kingdom", "industry": "building products & equipment", "sector": "industrials"}
+{"name": "palace capital plc", "market_cap": 157400000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "rm plc", "market_cap": 156600000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "global value fund limited", "market_cap": 155000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "james cropper plc", "market_cap": 154700000, "country": "united kingdom", "industry": "paper & paper products", "sector": "basic materials"}
+{"name": "artemis alpha trust plc", "market_cap": 153100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "foresight enterprise vct plc", "market_cap": 153000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "dialight plc", "market_cap": 152000000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "rbg holdings plc", "market_cap": 150100000, "country": "united kingdom", "industry": "specialty business services", "sector": "industrials"}
+{"name": "up global sourcing holdings plc", "market_cap": 148500000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "advanced oncotherapy plc", "market_cap": 147500000, "country": "united kingdom", "industry": "medical devices", "sector": "healthcare"}
+{"name": "octopus aim vct 2 plc", "market_cap": 146900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "helios underwriting plc", "market_cap": 146800000, "country": "united kingdom", "industry": "insuranceproperty & casualty", "sector": "financials"}
+{"name": "aferian plc", "market_cap": 146800000, "country": "united kingdom", "industry": "broadcasting", "sector": "communication services"}
+{"name": "eagle eye solutions group plc", "market_cap": 146400000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "phoenix global resources plc", "market_cap": 146200000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "nwf group plc", "market_cap": 146100000, "country": "united kingdom", "industry": "oil & gas refining & marketing", "sector": "energy"}
+{"name": "assetco plc", "market_cap": 145900000, "country": "united kingdom", "industry": "security & protection services", "sector": "industrials"}
+{"name": "vaccitech plc", "market_cap": 145500000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "edtechx holdings acquisition corp", "market_cap": 145000000, "country": "united kingdom", "industry": "shell companies", "sector": "financials"}
+{"name": "eckoh plc", "market_cap": 144600000, "country": "united kingdom", "industry": "information technology services", "sector": "technology"}
+{"name": "bp marsh & partners plc", "market_cap": 144300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "the property franchise group plc", "market_cap": 144000000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "eco animal health group plc", "market_cap": 143800000, "country": "united kingdom", "industry": "drug manufacturersspecialty & generic", "sector": "healthcare"}
+{"name": "hss hire group plc", "market_cap": 143700000, "country": "united kingdom", "industry": "rental & leasing services", "sector": "industrials"}
+{"name": "powerhouse energy group plc", "market_cap": 143500000, "country": "united kingdom", "industry": "utilitiesrenewable", "sector": "utilities"}
+{"name": "michelmersh brick holdings plc", "market_cap": 143000000, "country": "united kingdom", "industry": "building materials", "sector": "basic materials"}
+{"name": "sanderson design group plc", "market_cap": 142400000, "country": "united kingdom", "industry": "furnishings, fixtures & appliances", "sector": "consumer discretionary"}
+{"name": "arecor therapeutics plc", "market_cap": 142400000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "amedeo air four plus ltd", "market_cap": 141700000, "country": "united kingdom", "industry": "aerospace & defense", "sector": "industrials"}
+{"name": "costain group plc", "market_cap": 141200000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "esken limited", "market_cap": 140800000, "country": "united kingdom", "industry": "conglomerates", "sector": "industrials"}
+{"name": "zoo digital group plc", "market_cap": 140600000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "the income & growth vct plc", "market_cap": 140200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "topps tiles plc", "market_cap": 139900000, "country": "united kingdom", "industry": "home improvement retail", "sector": "consumer discretionary"}
+{"name": "downing one vct plc", "market_cap": 139800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "ep global opportunities trust", "market_cap": 139100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "northern venture trust plc", "market_cap": 138900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "kropz plc", "market_cap": 138800000, "country": "united kingdom", "industry": "agricultural inputs", "sector": "basic materials"}
+{"name": "surface transfor plc", "market_cap": 137700000, "country": "united kingdom", "industry": "auto parts", "sector": "consumer discretionary"}
+{"name": "warrego energy limited", "market_cap": 137600000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "walker greenbank plc", "market_cap": 137000000, "country": "united kingdom", "industry": "furnishings, fixtures & appliances", "sector": "consumer discretionary"}
+{"name": "manolete partners plc", "market_cap": 136700000, "country": "united kingdom", "industry": "consulting services", "sector": "industrials"}
+{"name": "inland homes plc", "market_cap": 136400000, "country": "united kingdom", "industry": "real estatedevelopment", "sector": "real estate"}
+{"name": "northern 3 vct plc", "market_cap": 135900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "shanta gold limited", "market_cap": 135500000, "country": "united kingdom", "industry": "gold", "sector": "basic materials"}
+{"name": "mpac group plc", "market_cap": 135300000, "country": "united kingdom", "industry": "specialty industrial machinery", "sector": "industrials"}
+{"name": "d4t4 solutions plc", "market_cap": 135100000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "bmo uk high income trust plc", "market_cap": 133199999, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "value and indexed property income trust plc", "market_cap": 132100000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "solid state plc", "market_cap": 131699999, "country": "united kingdom", "industry": "electronic components", "sector": "technology"}
+{"name": "personal group holdings plc", "market_cap": 131500000, "country": "united kingdom", "industry": "insuranceproperty & casualty", "sector": "financials"}
+{"name": "northern 2 vct plc", "market_cap": 131000000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "crystal amber fund ld", "market_cap": 129900000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "capital & regional plc", "market_cap": 128100000, "country": "united kingdom", "industry": "reitretail", "sector": "real estate"}
+{"name": "kitwave group plc", "market_cap": 127600000, "country": "united kingdom", "industry": "food distribution", "sector": "consumer staples"}
+{"name": "staffline group plc", "market_cap": 127300000, "country": "united kingdom", "industry": "staffing & employment services", "sector": "industrials"}
+{"name": "bluejay mining plc", "market_cap": 126500000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "petronor e&p ltd", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "the fulham shore plc", "market_cap": 124100000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "open orphan plc", "market_cap": 123900000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "dianomi plc", "market_cap": 123900000, "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "albion enterprise vct plc", "market_cap": 123500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "new star investment trust plc", "market_cap": 123400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "logistics development group plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "integrated freight & logistics", "sector": "industrials"}
+{"name": "quixant plc", "market_cap": 123000000, "country": "united kingdom", "industry": "computer hardware", "sector": "technology"}
+{"name": "belvoir group plc", "market_cap": 122900000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "albion development vct plc", "market_cap": 122700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "doric niod air three ltd", "market_cap": 121800000, "country": "united kingdom", "industry": "rental & leasing services", "sector": "industrials"}
+{"name": "achilles therapeutics plc", "market_cap": 121700000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "nexus infrastructure plc", "market_cap": 121700000, "country": "united kingdom", "industry": "engineering & construction", "sector": "industrials"}
+{"name": "beeks trading corporation ltd", "market_cap": 121100000, "country": "united kingdom", "industry": "softwareinfrastructure", "sector": "technology"}
+{"name": "celtic plc", "market_cap": 118600000, "country": "united kingdom", "industry": "leisure", "sector": "consumer discretionary"}
+{"name": "schroder bsc social impact trust plc", "market_cap": 118500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "warpaint london plc", "market_cap": 118500000, "country": "united kingdom", "industry": "household & personal products", "sector": "consumer staples"}
+{"name": "jpmorgan european investment trust plc", "market_cap": 118300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "dewhurst plc", "market_cap": 117500000, "country": "united kingdom", "industry": "electrical equipment & parts", "sector": "industrials"}
+{"name": "the city pub group plc", "market_cap": 117500000, "country": "united kingdom", "industry": "restaurants", "sector": "consumer discretionary"}
+{"name": "oncimmune holdings plc", "market_cap": 116800000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "the conygar investment company plc", "market_cap": 115800000, "country": "united kingdom", "industry": "real estatediversified", "sector": "real estate"}
+{"name": "flowtech fluidpower plc", "market_cap": 114300000, "country": "united kingdom", "industry": "industrial distribution", "sector": "industrials"}
+{"name": "triple point energy efficiency infrastructure company plc", "market_cap": 114200000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "trans-siberian gold plc", "market_cap": "(march 13, 2021)", "country": "united kingdom", "industry": "gold", "sector": "basic materials"}
+{"name": "ferro-alloy resources limited", "market_cap": 113500000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "afritin mining limited", "market_cap": 113500000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "geiger counter ltd", "market_cap": 113400000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "diaceutics plc", "market_cap": 113000000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "aberdeen asia-pacific income investment company limited", "market_cap": 112600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "finsbury food group plc", "market_cap": 112300000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "mereo biopharma group plc", "market_cap": 112100000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "sourcebio international plc", "market_cap": 112000000, "country": "united kingdom", "industry": "medical care facilities", "sector": "healthcare"}
+{"name": "kr1 plc", "market_cap": 111600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "scancell holdings plc", "market_cap": 110900000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "smiths news plc", "market_cap": 110700000, "country": "united kingdom", "industry": "publishing", "sector": "communication services"}
+{"name": "gear4music holdings plc", "market_cap": 109900000, "country": "united kingdom", "industry": "internet retail", "sector": "consumer discretionary"}
+{"name": "icg-longbow senior secured uk property debt investments", "market_cap": 109600000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "gaming real plc", "market_cap": 109300000, "country": "united kingdom", "industry": "gambling", "sector": "consumer discretionary"}
+{"name": "netcall plc", "market_cap": 108700000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "invinity energy syste plc", "market_cap": 108500000, "country": "united kingdom", "industry": "utilitiesdiversified", "sector": "utilities"}
+{"name": "portmeirion group plc", "market_cap": 108200000, "country": "united kingdom", "industry": "furnishings, fixtures & appliances", "sector": "consumer discretionary"}
+{"name": "distribution finance capital holdings plc", "market_cap": 108200000, "country": "united kingdom", "industry": "credit services", "sector": "financials"}
+{"name": "velocys plc", "market_cap": 107600000, "country": "united kingdom", "industry": "oil & gas equipment & services", "sector": "energy"}
+{"name": "4d pharma plc", "market_cap": 107000000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "kooth plc", "market_cap": 106400000, "country": "united kingdom", "industry": "internet content & information", "sector": "communication services"}
+{"name": "british smaller companies vct 2 plc", "market_cap": 106300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "frenkel topping group plc", "market_cap": 105700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "argentex group plc", "market_cap": 105700000, "country": "united kingdom", "industry": "capital markets", "sector": "financials"}
+{"name": "town centre securities plc", "market_cap": 105200000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "kkv secured loan fund limited", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "cake box holdings plc", "market_cap": 104900000, "country": "united kingdom", "industry": "grocery stores", "sector": "consumer staples"}
+{"name": "meridian mining se", "market_cap": 104400000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "air partner plc", "market_cap": 104200000, "country": "united kingdom", "industry": "airports & air services", "sector": "industrials"}
+{"name": "eleco plc", "market_cap": 104200000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "maven income and growth vct 4 plc", "market_cap": 103800000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "epe special opportunities limited", "market_cap": 103700000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "rainbow rare earths limited", "market_cap": 102000000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "gem diamonds limited", "market_cap": 101800000, "country": "united kingdom", "industry": "other precious metals & mining", "sector": "basic materials"}
+{"name": "iqgeo group plc", "market_cap": 101400000, "country": "united kingdom", "industry": "softwareapplication", "sector": "technology"}
+{"name": "zephyr energy plc", "market_cap": 101300000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "scs group plc", "market_cap": 101300000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+{"name": "caspian sunrise plc", "market_cap": 101000000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "science in sport plc", "market_cap": 100800000, "country": "united kingdom", "industry": "packaged foods", "sector": "consumer staples"}
+{"name": "enwell energy plc", "market_cap": 99800000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "accrol group holdings plc", "market_cap": 98600000, "country": "united kingdom", "industry": "household & personal products", "sector": "consumer staples"}
+{"name": "ceiba investments ltd", "market_cap": 98500000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "the alumasc group plc", "market_cap": 98300000, "country": "united kingdom", "industry": "building products & equipment", "sector": "industrials"}
+{"name": "woodbois limited", "market_cap": 98200000, "country": "united kingdom", "industry": "lumber & wood production", "sector": "basic materials"}
+{"name": "savannah resources plc", "market_cap": 97400000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "virgin wines uk plc", "market_cap": 97400000, "country": "united kingdom", "industry": "beverageswineries & distilleries", "sector": "consumer staples"}
+{"name": "xpediator plc", "market_cap": 95700000, "country": "united kingdom", "industry": "integrated freight & logistics", "sector": "industrials"}
+{"name": "inspiration healthcare group plc", "market_cap": 95400000, "country": "united kingdom", "industry": "medical devices", "sector": "healthcare"}
+{"name": "aquila energy efficiency trust plc", "market_cap": 95300000, "country": "united kingdom", "industry": "asset management", "sector": "financials"}
+{"name": "purplebricks group plc", "market_cap": 95200000, "country": "united kingdom", "industry": "real estate services", "sector": "real estate"}
+{"name": "mcbride plc", "market_cap": 94800000, "country": "united kingdom", "industry": "household & personal products", "sector": "consumer staples"}
+{"name": "trinity exploration & production plc", "market_cap": 93200000, "country": "united kingdom", "industry": "oil & gas e&p", "sector": "energy"}
+{"name": "braemar shipping services plc", "market_cap": 93200000, "country": "united kingdom", "industry": "marine shipping", "sector": "industrials"}
+{"name": "arena events group plc", "market_cap": "(jan. 1, 2022)", "country": "united kingdom", "industry": "advertising agencies", "sector": "communication services"}
+{"name": "geodrill limited", "market_cap": 92300000, "country": "united kingdom", "industry": "other industrial metals & mining", "sector": "basic materials"}
+{"name": "onthemarket plc", "market_cap": 91800000, "country": "united kingdom", "industry": "internet content & information", "sector": "communication services"}
+{"name": "shoe zone plc", "market_cap": 91600000, "country": "united kingdom", "industry": "footwear & accessories", "sector": "consumer discretionary"}
+{"name": "real estate investors plc", "market_cap": 91500000, "country": "united kingdom", "industry": "reitdiversified", "sector": "real estate"}
+{"name": "futura medical plc", "market_cap": 91500000, "country": "united kingdom", "industry": "biotechnology", "sector": "healthcare"}
+{"name": "bespoke capital acquisition corp", "market_cap": "(april 5, 2021)", "country": "united kingdom", "industry": "shell companies", "sector": "financials"}
+{"name": "ig design group plc", "market_cap": 90600000, "country": "united kingdom", "industry": "specialty retail", "sector": "consumer discretionary"}
+

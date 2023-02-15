@@ -1,0 +1,1001 @@
+{"name": "apple inc", "country": "united states", "market_cap": 2825000000000, "sector": "technology"}
+{"name": "microsoft corporation", "country": "united states", "market_cap": 2328000000000, "sector": "technology"}
+{"name": "saudi arabian oil company", "country": "saudi arabia", "market_cap": 2297000000000, "sector": "energy"}
+{"name": "alphabet inc", "country": "united states", "market_cap": 1825000000000, "sector": "communication services"}
+{"name": "amazoncom, inc", "country": "united states", "market_cap": 1642000000000, "sector": "consumer discretionary"}
+{"name": "tesla, inc", "country": "united states", "market_cap": 1016000000000, "sector": "consumer discretionary"}
+{"name": "berkshire hathaway inc", "country": "united states", "market_cap": 798470000000, "sector": "financials"}
+{"name": "nvidia corporation", "country": "united states", "market_cap": 660380000000, "sector": "technology"}
+{"name": "meta platfor, inc", "country": "united states", "market_cap": 617500000000, "sector": "communication services"}
+{"name": "taiwan semiconductor manufacturing company limited", "country": "taiwan", "market_cap": 527890000000, "sector": "technology"}
+{"name": "unitedhealth group incorporated", "country": "united states", "market_cap": 488520000000, "sector": "healthcare"}
+{"name": "visa inc", "country": "united states", "market_cap": 486770000000, "sector": "financials"}
+{"name": "johnson & johnson", "country": "united states", "market_cap": 475930000000, "sector": "healthcare"}
+{"name": "tencent holdings ltd", "country": "china", "market_cap": 441170000000, "sector": "communication services"}
+{"name": "walmart inc", "country": "united states", "market_cap": 429050000000, "sector": "consumer staples"}
+{"name": "jpmorgan chase & co", "country": "united states", "market_cap": 410840000000, "sector": "financials"}
+{"name": "the procter & gamble company", "country": "united states", "market_cap": 384600000000, "sector": "consumer staples"}
+{"name": "saung electronics co, ltd", "country": "south korea", "market_cap": 378350000000, "sector": "technology"}
+{"name": "lvmh moet hennessy - louis vuitton, se", "country": "france", "market_cap": 359260000000, "sector": "consumer discretionary"}
+{"name": "mastercard incorporated", "country": "united states", "market_cap": 358600000000, "sector": "financials"}
+{"name": "bank of america corporation", "country": "united states", "market_cap": 350840000000, "sector": "financials"}
+{"name": "roche holding ag", "country": "switzerland", "market_cap": 349500000000, "sector": "healthcare"}
+{"name": "exxon mobil corporation", "country": "united states", "market_cap": 348720000000, "sector": "energy"}
+{"name": "kweichow moutai co ltd", "country": "china", "market_cap": 348220000000, "sector": "consumer staples"}
+{"name": "the home depot, inc", "country": "united states", "market_cap": 321470000000, "sector": "consumer discretionary"}
+{"name": "chevron corporation", "country": "united states", "market_cap": 315130000000, "sector": "energy"}
+{"name": "pfizer inc", "country": "united states", "market_cap": 300790000000, "sector": "healthcare"}
+{"name": "abbvie inc", "country": "united states", "market_cap": 294270000000, "sector": "healthcare"}
+{"name": "alibaba group holding limited", "country": "china", "market_cap": 290400000000, "sector": "consumer discretionary"}
+{"name": "asml holding nv", "country": "netherlands", "market_cap": 274350000000, "sector": "technology"}
+{"name": "the coca-cola company", "country": "united states", "market_cap": 273200000000, "sector": "consumer staples"}
+{"name": "eli lilly and company", "country": "united states", "market_cap": 273010000000, "sector": "healthcare"}
+{"name": "broadcom inc", "country": "united states", "market_cap": 265269999999, "sector": "technology"}
+{"name": "costco wholesale corporation", "country": "united states", "market_cap": 258149999999, "sector": "consumer staples"}
+{"name": "novo nordisk a/s", "country": "denmark", "market_cap": 257240000000, "sector": "healthcare"}
+{"name": "industrial & commercial bank of china ltd", "country": "china", "market_cap": 250370000000, "sector": "financials"}
+{"name": "the walt disney company", "country": "united states", "market_cap": 247880000000, "sector": "communication services"}
+{"name": "pepsico, inc", "country": "united states", "market_cap": 241050000000, "sector": "consumer staples"}
+{"name": "cisco syste, inc", "country": "united states", "market_cap": 238450000000, "sector": "technology"}
+{"name": "thermo fisher scientific inc", "country": "united states", "market_cap": 236150000000, "sector": "healthcare"}
+{"name": "oracle corporation", "country": "united states", "market_cap": 228180000000, "sector": "technology"}
+{"name": "l'oreal sa", "country": "france", "market_cap": 225240000000, "sector": "consumer staples"}
+{"name": "accenture plc", "country": "ireland", "market_cap": 219030000000, "sector": "technology"}
+{"name": "comcast corporation", "country": "united states", "market_cap": 218900000000, "sector": "communication services"}
+{"name": "verizon communications inc", "country": "united states", "market_cap": 216680000000, "sector": "communication services"}
+{"name": "abbott laboratories", "country": "united states", "market_cap": 215020000000, "sector": "healthcare"}
+{"name": "nike, inc", "country": "united states", "market_cap": 213600000000, "sector": "consumer discretionary"}
+{"name": "bhp group", "country": "australia", "market_cap": 211250000000, "sector": "basic materials"}
+{"name": "merck & co, inc", "country": "united states", "market_cap": 210380000000, "sector": "healthcare"}
+{"name": "danaher corporation", "country": "united states", "market_cap": 208030000000, "sector": "healthcare"}
+{"name": "shell plc", "country": "united kingdom", "market_cap": 207680000000, "sector": "energy"}
+{"name": "novartis ag", "country": "switzerland", "market_cap": 204130000000, "sector": "healthcare"}
+{"name": "astrazeneca plc", "country": "united kingdom", "market_cap": 201750000000, "sector": "healthcare"}
+{"name": "intel corporation", "country": "united states", "market_cap": 201720000000, "sector": "technology"}
+{"name": "wells fargo & company", "country": "united states", "market_cap": 200010000000, "sector": "financials"}
+{"name": "adobe inc", "country": "united states", "market_cap": 199570000000, "sector": "technology"}
+{"name": "salesforcecom, inc", "country": "united states", "market_cap": 193800000000, "sector": "technology"}
+{"name": "united parcel service, inc", "country": "united states", "market_cap": 190500000000, "sector": "industrials"}
+{"name": "china construction bank corp", "country": "china", "market_cap": 189370000000, "sector": "financials"}
+{"name": "mcdonald's corporation", "country": "united states", "market_cap": 186570000000, "sector": "consumer discretionary"}
+{"name": "china merchants bank co ltd", "country": "china", "market_cap": 185980000000, "sector": "financials"}
+{"name": "contemporary amperex technology co ltd", "country": "china", "market_cap": 185670000000, "sector": "industrials"}
+{"name": "union pacific corporation", "country": "united states", "market_cap": 184190000000, "sector": "industrials"}
+{"name": "at&t inc", "country": "united states", "market_cap": 175880000000, "sector": "communication services"}
+{"name": "qualcomm incorporated", "country": "united states", "market_cap": 172250000000, "sector": "technology"}
+{"name": "texas instruments incorporated", "country": "united states", "market_cap": 171280000000, "sector": "technology"}
+{"name": "bristol-myers squibb company", "country": "united states", "market_cap": 170560000000, "sector": "healthcare"}
+{"name": "prosus nv", "country": "netherlands", "market_cap": 170000000000, "sector": "communication services"}
+{"name": "linde plc", "country": "united kingdom", "market_cap": 166070000000, "sector": "basic materials"}
+{"name": "nextera energy, inc", "country": "united states", "market_cap": 165530000000, "sector": "utilities"}
+{"name": "agricultural bank of china ltd", "country": "china", "market_cap": 165000000000, "sector": "financials"}
+{"name": "t-mobile us, inc", "country": "united states", "market_cap": 164310000000, "sector": "communication services"}
+{"name": "morgan stanley", "country": "united states", "market_cap": 164050000000, "sector": "financials"}
+{"name": "netflix, inc", "country": "united states", "market_cap": 163190000000, "sector": "communication services"}
+{"name": "royal bank of canada", "country": "canada", "market_cap": 159740000000, "sector": "financials"}
+{"name": "the charles schwab corporation", "country": "united states", "market_cap": 158060000000, "sector": "financials"}
+{"name": "philip morris international inc", "country": "united states", "market_cap": 154710000000, "sector": "consumer staples"}
+{"name": "medtronic plc", "country": "ireland", "market_cap": 151060000000, "sector": "healthcare"}
+{"name": "raytheon technologies corporation", "country": "united states", "market_cap": 150960000000, "sector": "industrials"}
+{"name": "american express company", "country": "united states", "market_cap": 150760000000, "sector": "financials"}
+{"name": "hermes international sca", "country": "france", "market_cap": 148980000000, "sector": "consumer discretionary"}
+{"name": "toronto-dominion bank", "country": "canada", "market_cap": 145410000000, "sector": "financials"}
+{"name": "petrochina company limited", "country": "china", "market_cap": 144500000000, "sector": "energy"}
+{"name": "commonwealth bank of australia", "country": "australia", "market_cap": 144320000000, "sector": "financials"}
+{"name": "lowe's companies, inc", "country": "united states", "market_cap": 143770000000, "sector": "consumer discretionary"}
+{"name": "amgen inc", "country": "united states", "market_cap": 141720000000, "sector": "healthcare"}
+{"name": "bank of china ltd", "country": "china", "market_cap": 141220000000, "sector": "financials"}
+{"name": "hsbc holdings plc", "country": "united kingdom", "market_cap": 140150000000, "sector": "financials"}
+{"name": "china mobile ltd", "country": "hong kong", "market_cap": 139300000000, "sector": "communication services"}
+{"name": "totalenergies se", "country": "france", "market_cap": 137500000000, "sector": "energy"}
+{"name": "honeywell international inc", "country": "united states", "market_cap": 136479999999, "sector": "industrials"}
+{"name": "conocophillips", "country": "united states", "market_cap": 136320000000, "sector": "energy"}
+{"name": "cvs health corporation", "country": "united states", "market_cap": 135270000000, "sector": "healthcare"}
+{"name": "ping an insurance group company of china ltd", "country": "china", "market_cap": 134250000000, "sector": "financials"}
+{"name": "sap se", "country": "germany", "market_cap": 134190000000, "sector": "technology"}
+{"name": "paypal holdings, inc", "country": "united states", "market_cap": 133919999999, "sector": "financials"}
+{"name": "sanofi", "country": "france", "market_cap": 132289999999, "sector": "healthcare"}
+{"name": "deere & company", "country": "united states", "market_cap": 130310000000, "sector": "industrials"}
+{"name": "advanced micro devices, inc", "country": "united states", "market_cap": 128289999999, "sector": "technology"}
+{"name": "intuit inc", "country": "united states", "market_cap": 126770000000, "sector": "technology"}
+{"name": "sony group corporation", "country": "japan", "market_cap": 126640000000, "sector": "technology"}
+{"name": "rio tinto group", "country": "united kingdom", "market_cap": 125840000000, "sector": "basic materials"}
+{"name": "aia group ltd", "country": "hong kong", "market_cap": 125160000000, "sector": "financials"}
+{"name": "lockheed martin corporation", "country": "united states", "market_cap": 124980000000, "sector": "industrials"}
+{"name": "caterpillar inc", "country": "united states", "market_cap": 124130000000, "sector": "industrials"}
+{"name": "anheuser-busch inbev sa/nv", "country": "belgium", "market_cap": "", "sector": "consumer staples"}
+{"name": "equinor asa", "country": "", "market_cap": 122740000000, "sector": ""}
+{"name": "christian dior se", "country": "france", "market_cap": 122110000000, "sector": "consumer discretionary"}
+{"name": "prologis, inc", "country": "united states", "market_cap": 121200000000, "sector": "real estate"}
+{"name": "applied materials, inc", "country": "united states", "market_cap": 121120000000, "sector": "technology"}
+{"name": "anthem, inc", "country": "united states", "market_cap": 119800000000, "sector": "healthcare"}
+{"name": "international business machines corporation", "country": "united states", "market_cap": 119200000000, "sector": "technology"}
+{"name": "unilever plc", "country": "united kingdom", "market_cap": 117840000000, "sector": "consumer staples"}
+{"name": "blackrock, inc", "country": "united states", "market_cap": 115980000000, "sector": "financials"}
+{"name": "hdfc bank limited", "country": "india", "market_cap": 115680000000, "sector": "financials"}
+{"name": "diageo plc", "country": "united kingdom", "market_cap": 115580000000, "sector": "consumer staples"}
+{"name": "american tower corporation reit", "country": "united states", "market_cap": 115110000000, "sector": "real estate"}
+{"name": "siemens ag", "country": "germany", "market_cap": 114660000000, "sector": "industrials"}
+{"name": "meituan", "country": "china", "market_cap": 114280000000, "sector": "consumer discretionary"}
+{"name": "keyence corp", "country": "japan", "market_cap": 113200000000, "sector": "technology"}
+{"name": "the goldman sachs group, inc", "country": "united states", "market_cap": 112710000000, "sector": "financials"}
+{"name": "transurban group", "country": "australia", "market_cap": 110790000000, "sector": "industrials"}
+{"name": "industria de diseno textil, sa", "country": "spain", "market_cap": "", "sector": "consumer discretionary"}
+{"name": "the boeing company", "country": "united states", "market_cap": 110460000000, "sector": "industrials"}
+{"name": "glaxosmithkline plc", "country": "united kingdom", "market_cap": 109980000000, "sector": "healthcare"}
+{"name": "citigroup inc", "country": "united states", "market_cap": 109560000000, "sector": "financials"}
+{"name": "volkswagen ag", "country": "germany", "market_cap": 108630000000, "sector": "consumer discretionary"}
+{"name": "starbucks corporation", "country": "united states", "market_cap": 108190000000, "sector": "consumer discretionary"}
+{"name": "vale sa", "country": "brazil", "market_cap": 107990000000, "sector": "basic materials"}
+{"name": "servicenow, inc", "country": "united states", "market_cap": 107990000000, "sector": "technology"}
+{"name": "target corporation", "country": "united states", "market_cap": 106890000000, "sector": "consumer staples"}
+{"name": "infosys limited", "country": "india", "market_cap": 106770000000, "sector": "technology"}
+{"name": "al rajhi banking and investment corp", "country": "saudi arabia", "market_cap": 106370000000, "sector": "financials"}
+{"name": "airbnb, inc", "country": "united states", "market_cap": 105070000000, "sector": "communication services"}
+{"name": "charter communications, inc", "country": "united states", "market_cap": 104970000000, "sector": "communication services"}
+{"name": "byd co ltd", "country": "china", "market_cap": 104420000000, "sector": "consumer discretionary"}
+{"name": "saudi basic industries corp", "country": "saudi arabia", "market_cap": 104000000000, "sector": "basic materials"}
+{"name": "nippon telegraph & telephone corp", "country": "japan", "market_cap": 103750000000, "sector": "communication services"}
+{"name": "altria group, inc", "country": "united states", "market_cap": 102980000000, "sector": "consumer staples"}
+{"name": "british american tobacco plc", "country": "united kingdom", "market_cap": 101440000000, "sector": "consumer staples"}
+{"name": "stryker corporation", "country": "united states", "market_cap": 101410000000, "sector": "healthcare"}
+{"name": "s&p global inc", "country": "united states", "market_cap": 100840000000, "sector": "financials"}
+{"name": "the estee lauder companies inc", "country": "united states", "market_cap": 100160000000, "sector": "consumer staples"}
+{"name": "general electric company", "country": "united states", "market_cap": 99220000000, "sector": "industrials"}
+{"name": "daimler ag", "country": "germany", "market_cap": "", "sector": "consumer discretionary"}
+{"name": "chubb limited", "country": "switzerland", "market_cap": 98570000000, "sector": "financials"}
+{"name": "allianz se", "country": "germany", "market_cap": 98470000000, "sector": "financials"}
+{"name": "petroleo brasileiro sa - petrobras", "country": "brazil", "market_cap": 98370000000, "sector": "energy"}
+{"name": "airbus se", "country": "netherlands", "market_cap": 97410000000, "sector": "industrials"}
+{"name": "china life insurance company limited", "country": "china", "market_cap": 97310000000, "sector": "financials"}
+{"name": "automatic data processing, inc", "country": "united states", "market_cap": 96980000000, "sector": "industrials"}
+{"name": "bp plc", "country": "united kingdom", "market_cap": 96240000000, "sector": "energy"}
+{"name": "china shenhua energy company ltd", "country": "china", "market_cap": 95340000000, "sector": "energy"}
+{"name": "booking holdings inc", "country": "united states", "market_cap": 95020000000, "sector": "consumer discretionary"}
+{"name": "canadian national railway company", "country": "canada", "market_cap": 94960000000, "sector": "industrials"}
+{"name": "enbridge inc", "country": "canada", "market_cap": 94940000000, "sector": "energy"}
+{"name": "schneider electric se", "country": "france", "market_cap": 94340000000, "sector": "industrials"}
+{"name": "deutsche telekom ag", "country": "germany", "market_cap": 93010000000, "sector": "communication services"}
+{"name": "merck kommanditgesellschaft auf aktien", "country": "germany", "market_cap": 90740000000, "sector": "healthcare"}
+{"name": "mondelez international, inc", "country": "united states", "market_cap": 90670000000, "sector": "consumer staples"}
+{"name": "jdcom, inc", "country": "china", "market_cap": 90460000000, "sector": "consumer discretionary"}
+{"name": "vulcan international corp", "country": "united states", "market_cap": 90340000000, "sector": "basic materials"}
+{"name": "zoetis inc", "country": "united states", "market_cap": 89820000000, "sector": "healthcare"}
+{"name": "csl limited", "country": "australia", "market_cap": 89690000000, "sector": "healthcare"}
+{"name": "3m company", "country": "united states", "market_cap": 88770000000, "sector": "industrials"}
+{"name": "duke energy corporation", "country": "united states", "market_cap": 88760000000, "sector": "utilities"}
+{"name": "bank of nova scotia", "country": "canada", "market_cap": 87760000000, "sector": "financials"}
+{"name": "the blackstone group inc", "country": "united states", "market_cap": 87640000000, "sector": "financials"}
+{"name": "brookfield asset management inc", "country": "canada", "market_cap": 87460000000, "sector": "financials"}
+{"name": "glencore plc", "country": "switzerland", "market_cap": 87310000000, "sector": "basic materials"}
+{"name": "cme group inc", "country": "united states", "market_cap": 87170000000, "sector": "financials"}
+{"name": "marsh & mclennan companies, inc", "country": "united states", "market_cap": 87160000000, "sector": "financials"}
+{"name": "micron technology, inc", "country": "united states", "market_cap": 86490000000, "sector": "technology"}
+{"name": "mitsubishi ufj financial group, inc", "country": "japan", "market_cap": 85030000000, "sector": "financials"}
+{"name": "cigna corporation", "country": "united states", "market_cap": 84670000000, "sector": "healthcare"}
+{"name": "shopify inc", "country": "canada", "market_cap": 83800000000, "sector": "technology"}
+{"name": "air liquide sa", "country": "france", "market_cap": 83240000000, "sector": "basic materials"}
+{"name": "hca healthcare, inc", "country": "united states", "market_cap": 82600000000, "sector": "healthcare"}
+{"name": "national australia bank limited", "country": "australia", "market_cap": 81030000000, "sector": "financials"}
+{"name": "crown castle international corp reit", "country": "united states", "market_cap": 80920000000, "sector": "real estate"}
+{"name": "essilorluxottica sa", "country": "france", "market_cap": 80490000000, "sector": "healthcare"}
+{"name": "us bancorp", "country": "united states", "market_cap": 80160000000, "sector": "financials"}
+{"name": "tokyo electron ltd", "country": "japan", "market_cap": 79620000000, "sector": "technology"}
+{"name": "bank of montreal", "country": "canada", "market_cap": 79220000000, "sector": "financials"}
+{"name": "kering sa", "country": "france", "market_cap": 78660000000, "sector": "consumer discretionary"}
+{"name": "china yangtze power co ltd", "country": "china", "market_cap": 78420000000, "sector": "utilities"}
+{"name": "china petroleum & chemical corporation", "country": "china", "market_cap": 78390000000, "sector": "energy"}
+{"name": "the southern company", "country": "united states", "market_cap": 78380000000, "sector": "utilities"}
+{"name": "lam research corporation", "country": "united states", "market_cap": 77600000000, "sector": "technology"}
+{"name": "the pnc financial services group, inc", "country": "united states", "market_cap": 77100000000, "sector": "financials"}
+{"name": "becton, dickinson and company", "country": "united states", "market_cap": 76980000000, "sector": "healthcare"}
+{"name": "gilead sciences, inc", "country": "united states", "market_cap": 76150000000, "sector": "healthcare"}
+{"name": "regeneron pharmaceuticals, inc", "country": "united states", "market_cap": 74910000000, "sector": "healthcare"}
+{"name": "truist financial corporation", "country": "united states", "market_cap": 74790000000, "sector": "financials"}
+{"name": "canadian natural resources limited", "country": "canada", "market_cap": 74780000000, "sector": "energy"}
+{"name": "intercontinental exchange, inc", "country": "united states", "market_cap": 74170000000, "sector": "financials"}
+{"name": "the tjx companies, inc", "country": "united states", "market_cap": 73990000000, "sector": "consumer discretionary"}
+{"name": "atlassian corporation plc", "country": "australia", "market_cap": 73720000000, "sector": "technology"}
+{"name": "zurich insurance group ag", "country": "switzerland", "market_cap": 73580000000, "sector": "financials"}
+{"name": "edwards lifesciences corporation", "country": "united states", "market_cap": 73380000000, "sector": "healthcare"}
+{"name": "aon plc", "country": "united kingdom", "market_cap": 73330000000, "sector": "financials"}
+{"name": "northrop grumman corporation", "country": "united states", "market_cap": 73250000000, "sector": "industrials"}
+{"name": "kddi corp", "country": "japan", "market_cap": 73120000000, "sector": "communication services"}
+{"name": "norfolk southern corporation", "country": "united states", "market_cap": 72310000000, "sector": "industrials"}
+{"name": "freeport-mcmoran inc", "country": "united states", "market_cap": 72160000000, "sector": "basic materials"}
+{"name": "wal-mart de mexico sab de cv", "country": "mexico", "market_cap": 71960000000, "sector": "consumer staples"}
+{"name": "pt bank central asia tbk", "country": "indonesia", "market_cap": 71910000000, "sector": "financials"}
+{"name": "eog resources, inc", "country": "united states", "market_cap": 71900000000, "sector": "energy"}
+{"name": "siemens healthineers ag", "country": "germany", "market_cap": 71500000000, "sector": "healthcare"}
+{"name": "anglo american plc", "country": "united kingdom", "market_cap": 71480000000, "sector": "basic materials"}
+{"name": "moderna, inc", "country": "united states", "market_cap": 70810000000, "sector": "healthcare"}
+{"name": "general dynamics corporation", "country": "united states", "market_cap": 70550000000, "sector": "industrials"}
+{"name": "axa sa", "country": "france", "market_cap": 70200000000, "sector": "financials"}
+{"name": "dominion energy, inc", "country": "united states", "market_cap": 70200000000, "sector": "utilities"}
+{"name": "enel spa", "country": "italy", "market_cap": 70150000000, "sector": "utilities"}
+{"name": "bnp paribas sa", "country": "france", "market_cap": 69900000000, "sector": "financials"}
+{"name": "america movil, sab de cv", "country": "mexico", "market_cap": "", "sector": "communication services"}
+{"name": "public storage", "country": "united states", "market_cap": 69310000000, "sector": "real estate"}
+{"name": "ubs group ag", "country": "switzerland", "market_cap": 68930000000, "sector": "financials"}
+{"name": "sberbank of russia pjsc", "country": "russia", "market_cap": 68690000000, "sector": "financials"}
+{"name": "fiserv, inc", "country": "united states", "market_cap": 68680000000, "sector": "technology"}
+{"name": "iberdrola, sa", "country": "spain", "market_cap": 68230000000, "sector": "utilities"}
+{"name": "recruit holdings co ltd", "country": "japan", "market_cap": 68110000000, "sector": "industrials"}
+{"name": "bayer ag", "country": "germany", "market_cap": 68090000000, "sector": "healthcare"}
+{"name": "the sherwin-willia company", "country": "united states", "market_cap": 67540000000, "sector": "basic materials"}
+{"name": "vertex pharmaceuticals incorporated", "country": "united states", "market_cap": 67489999999, "sector": "healthcare"}
+{"name": "illinois tool works inc", "country": "united states", "market_cap": 67489999999, "sector": "industrials"}
+{"name": "the progressive corporation", "country": "united states", "market_cap": 67310000000, "sector": "financials"}
+{"name": "westpac banking corporation", "country": "australia", "market_cap": 67200000000, "sector": "financials"}
+{"name": "abb ltd", "country": "switzerland", "market_cap": 67190000000, "sector": "industrials"}
+{"name": "waste management, inc", "country": "united states", "market_cap": 66950000000, "sector": "industrials"}
+{"name": "industrial bank co ltd", "country": "china", "market_cap": 66870000000, "sector": "financials"}
+{"name": "dbs group holdings ltd", "country": "singapore", "market_cap": 66739999999, "sector": "financials"}
+{"name": "icici bank limited", "country": "india", "market_cap": 66620000000, "sector": "financials"}
+{"name": "equinix, inc reit", "country": "united states", "market_cap": 66349999999, "sector": "real estate"}
+{"name": "newmont corporation", "country": "united states", "market_cap": 65890000000, "sector": "basic materials"}
+{"name": "ford motor company", "country": "united states", "market_cap": 65739999999, "sector": "consumer discretionary"}
+{"name": "colgate-palmolive company", "country": "united states", "market_cap": 65640000000, "sector": "consumer staples"}
+{"name": "exelon corporation", "country": "united states", "market_cap": 65530000000, "sector": "utilities"}
+{"name": "snowflake inc", "country": "united states", "market_cap": 65040000000, "sector": "technology"}
+{"name": "oriental land co ltd", "country": "japan", "market_cap": 64660000000, "sector": "consumer discretionary"}
+{"name": "sk hynix, inc", "country": "south korea", "market_cap": "", "sector": "technology"}
+{"name": "ap moller - maersk a-s", "country": "denmark", "market_cap": 64400000000, "sector": "industrials"}
+{"name": "shin-etsu chemical co ltd", "country": "japan", "market_cap": 63430000000, "sector": "basic materials"}
+{"name": "fedex corporation", "country": "united states", "market_cap": 63250000000, "sector": "industrials"}
+{"name": "boston scientific corporation", "country": "united states", "market_cap": 63080000000, "sector": "healthcare"}
+{"name": "pacificorp", "country": "united states", "market_cap": 62870000000, "sector": "utilities"}
+{"name": "dassault systemes se", "country": "france", "market_cap": 62750000000, "sector": "technology"}
+{"name": "metlife, inc", "country": "united states", "market_cap": 62690000000, "sector": "financials"}
+{"name": "general motors company", "country": "united states", "market_cap": 62690000000, "sector": "consumer discretionary"}
+{"name": "sea limited", "country": "singapore", "market_cap": 62660000000, "sector": "communication services"}
+{"name": "uber technologies, inc", "country": "united states", "market_cap": 62660000000, "sector": "technology"}
+{"name": "moody's corporation", "country": "united states", "market_cap": 62580000000, "sector": "financials"}
+{"name": "nintendo co ltd", "country": "japan", "market_cap": 62200000000, "sector": "communication services"}
+{"name": "pioneer natural resources company", "country": "united states", "market_cap": 62190000000, "sector": "energy"}
+{"name": "eaton corporation plc", "country": "ireland", "market_cap": 62170000000, "sector": "industrials"}
+{"name": "analog devices, inc", "country": "united states", "market_cap": 62000000000, "sector": "technology"}
+{"name": "fidelity national information services, inc", "country": "united states", "market_cap": 61730000000, "sector": "technology"}
+{"name": "banco santander, sa", "country": "spain", "market_cap": 61670000000, "sector": "financials"}
+{"name": "hapag-lloyd ag", "country": "germany", "market_cap": 61460000000, "sector": "industrials"}
+{"name": "adyen nv", "country": "netherlands", "market_cap": 61110000000, "sector": "technology"}
+{"name": "atlas copco ab", "country": "sweden", "market_cap": 60970000000, "sector": "industrials"}
+{"name": "cnooc limited", "country": "hong kong", "market_cap": 60190000000, "sector": "energy"}
+{"name": "nutrien ltd", "country": "canada", "market_cap": 60060000000, "sector": "basic materials"}
+{"name": "block, inc", "country": "united states", "market_cap": 59950000000, "sector": "technology"}
+{"name": "deutsche post ag", "country": "germany", "market_cap": 59800000000, "sector": "industrials"}
+{"name": "netease, inc", "country": "china", "market_cap": 59760000000, "sector": "communication services"}
+{"name": "hong kong exchanges & clearing ltd", "country": "hong kong", "market_cap": 59750000000, "sector": "financials"}
+{"name": "capital one financial corporation", "country": "united states", "market_cap": 59670000000, "sector": "financials"}
+{"name": "emerson electric co", "country": "united states", "market_cap": 59660000000, "sector": "industrials"}
+{"name": "palo alto networks, inc", "country": "united states", "market_cap": 59650000000, "sector": "technology"}
+{"name": "australia and new zealand banking group limited", "country": "australia", "market_cap": 59550000000, "sector": "financials"}
+{"name": "reckitt benckiser group plc", "country": "united kingdom", "market_cap": "", "sector": "consumer staples"}
+{"name": "nongfu spring co ltd", "country": "china", "market_cap": 59500000000, "sector": "consumer staples"}
+{"name": "saudi telecom company", "country": "saudi arabia", "market_cap": 59470000000, "sector": "communication services"}
+{"name": "southern copper corporation", "country": "united states", "market_cap": 59460000000, "sector": "basic materials"}
+{"name": "shenzhen mindray bio-medical electronics co ltd", "country": "china", "market_cap": 59260000000, "sector": "healthcare"}
+{"name": "vinci sa", "country": "france", "market_cap": 59010000000, "sector": "industrials"}
+{"name": "workday, inc", "country": "united states", "market_cap": 58700000000, "sector": "technology"}
+{"name": "relx plc", "country": "united kingdom", "market_cap": 58530000000, "sector": "communication services"}
+{"name": "marvell technology group ltd", "country": "", "market_cap": 58360000000, "sector": ""}
+{"name": "air products and chemicals, inc", "country": "united states", "market_cap": 57820000000, "sector": "basic materials"}
+{"name": "pernod ricard sa", "country": "france", "market_cap": 57750000000, "sector": "consumer staples"}
+{"name": "schlumberger limited", "country": "united states", "market_cap": 57630000000, "sector": "energy"}
+{"name": "marvell technology, inc", "country": "united states", "market_cap": 57620000000, "sector": "technology"}
+{"name": "itau unibanco holding sa", "country": "brazil", "market_cap": 57450000000, "sector": "financials"}
+{"name": "enterprise products partners lp", "country": "united states", "market_cap": 57430000000, "sector": "energy"}
+{"name": "foshan haitian flavouring and food company ltd", "country": "china", "market_cap": 57400000000, "sector": "consumer staples"}
+{"name": "mitsubishi corp", "country": "japan", "market_cap": 57230000000, "sector": "industrials"}
+{"name": "canadian imperial bank of commerce", "country": "canada", "market_cap": 57200000000, "sector": "financials"}
+{"name": "marriott international, inc", "country": "united states", "market_cap": 57180000000, "sector": "consumer discretionary"}
+{"name": "pinduoduo inc", "country": "china", "market_cap": 57090000000, "sector": "consumer discretionary"}
+{"name": "ihs markit ltd", "country": "united kingdom", "market_cap": "", "sector": "industrials"}
+{"name": "the saudi national bank", "country": "saudi arabia", "market_cap": 56890000000, "sector": "financials"}
+{"name": "tc energy corporation", "country": "canada", "market_cap": 56770000000, "sector": "energy"}
+{"name": "humana inc", "country": "united states", "market_cap": 56550000000, "sector": "healthcare"}
+{"name": "kla corporation", "country": "united states", "market_cap": 56480000000, "sector": "technology"}
+{"name": "bank of communications co ltd", "country": "china", "market_cap": 56380000000, "sector": "financials"}
+{"name": "bayerische motoren werke ag", "country": "germany", "market_cap": 56170000000, "sector": "consumer discretionary"}
+{"name": "macquarie group limited", "country": "australia", "market_cap": 55990000000, "sector": "financials"}
+{"name": "national grid plc", "country": "united kingdom", "market_cap": 55880000000, "sector": "utilities"}
+{"name": "daikin industries,ltd", "country": "japan", "market_cap": 55580000000, "sector": "industrials"}
+{"name": "chugai pharmaceutical co ltd", "country": "japan", "market_cap": 55310000000, "sector": "healthcare"}
+{"name": "keurig dr pepper inc", "country": "united states", "market_cap": 55280000000, "sector": "consumer staples"}
+{"name": "ergo science corp", "country": "united states", "market_cap": "", "sector": "industrials"}
+{"name": "softbank group corp", "country": "japan", "market_cap": 54930000000, "sector": "communication services"}
+{"name": "heineken nv", "country": "netherlands", "market_cap": 54870000000, "sector": "consumer staples"}
+{"name": "ambev sa", "country": "brazil", "market_cap": 54690000000, "sector": "consumer staples"}
+{"name": "canadian pacific railway limited", "country": "canada", "market_cap": 54590000000, "sector": "industrials"}
+{"name": "marathon petroleum corporation", "country": "united states", "market_cap": 54540000000, "sector": "energy"}
+{"name": "american international group, inc", "country": "united states", "market_cap": 54310000000, "sector": "financials"}
+{"name": "dollar general corporation", "country": "united states", "market_cap": 54300000000, "sector": "consumer staples"}
+{"name": "fortinet, inc", "country": "united states", "market_cap": 53860000000, "sector": "technology"}
+{"name": "snap inc", "country": "united states", "market_cap": 53860000000, "sector": "communication services"}
+{"name": "ferrari nv", "country": "italy", "market_cap": 53780000000, "sector": "consumer discretionary"}
+{"name": "lonza group ltd", "country": "switzerland", "market_cap": 53760000000, "sector": "healthcare"}
+{"name": "london stock exchange group plc", "country": "united kingdom", "market_cap": 53330000000, "sector": "financials"}
+{"name": "thoon reuters corporation", "country": "canada", "market_cap": 53300000000, "sector": "industrials"}
+{"name": "basf se", "country": "germany", "market_cap": 52760000000, "sector": "basic materials"}
+{"name": "sempra energy", "country": "united states", "market_cap": 52470000000, "sector": "utilities"}
+{"name": "occidental petroleum corporation", "country": "united states", "market_cap": 52300000000, "sector": "energy"}
+{"name": "liberty bancshares, inc oh", "country": "united states", "market_cap": "", "sector": "financials"}
+{"name": "fast retailing co ltd", "country": "japan", "market_cap": 52290000000, "sector": "consumer discretionary"}
+{"name": "nxp semiconductors nv", "country": "netherlands", "market_cap": 52280000000, "sector": "technology"}
+{"name": "xilinx, inc", "country": "united states", "market_cap": "", "sector": "technology"}
+{"name": "itochu corp", "country": "japan", "market_cap": 52190000000, "sector": "industrials"}
+{"name": "eni spa", "country": "italy", "market_cap": 52000000000, "sector": "energy"}
+{"name": "stellantis nv", "country": "netherlands", "market_cap": 51800000000, "sector": "consumer discretionary"}
+{"name": "bce inc", "country": "canada", "market_cap": 51710000000, "sector": "communication services"}
+{"name": "denso corp", "country": "japan", "market_cap": 51580000000, "sector": "consumer discretionary"}
+{"name": "toyota motor corporation", "country": "japan", "market_cap": 51550000000, "sector": "consumer discretionary"}
+{"name": "l3harris technologies, inc", "country": "united states", "market_cap": 51510000000, "sector": "industrials"}
+{"name": "agribank, fcb", "country": "united states", "market_cap": "", "sector": "financials"}
+{"name": "general accident plc", "country": "united kingdom", "market_cap": 51430000000, "sector": "financials"}
+{"name": "archer-daniels-midland company", "country": "united states", "market_cap": 51030000000, "sector": "consumer staples"}
+{"name": "american electric power company, inc", "country": "united states", "market_cap": 50950000000, "sector": "utilities"}
+{"name": "fortescue metals group limited", "country": "australia", "market_cap": 50760000000, "sector": "basic materials"}
+{"name": "hon hai precision industry co ltd", "country": "taiwan", "market_cap": 50750000000, "sector": "technology"}
+{"name": "china tourism group duty free corp ltd", "country": "china", "market_cap": 50460000000, "sector": "consumer discretionary"}
+{"name": "ecolab inc", "country": "united states", "market_cap": 50290000000, "sector": "basic materials"}
+{"name": "novatek pjsc", "country": "russia", "market_cap": 50190000000, "sector": "energy"}
+{"name": "synopsys, inc", "country": "united states", "market_cap": 50180000000, "sector": "technology"}
+{"name": "safran sa", "country": "france", "market_cap": 50020000000, "sector": "industrials"}
+{"name": "illumina, inc", "country": "united states", "market_cap": 49910000000, "sector": "healthcare"}
+{"name": "mercadolibre, inc", "country": "argentina", "market_cap": 49830000000, "sector": "consumer discretionary"}
+{"name": "roper technologies, inc", "country": "united states", "market_cap": 49660000000, "sector": "industrials"}
+{"name": "the kraft heinz company", "country": "united states", "market_cap": 49420000000, "sector": "consumer staples"}
+{"name": "centene corporation", "country": "united states", "market_cap": 49320000000, "sector": "healthcare"}
+{"name": "paychex, inc", "country": "united states", "market_cap": 49230000000, "sector": "industrials"}
+{"name": "honda motor co, ltd", "country": "japan", "market_cap": 49110000000, "sector": "consumer discretionary"}
+{"name": "hitachi ltd", "country": "japan", "market_cap": 48920000000, "sector": "industrials"}
+{"name": "scentre group", "country": "australia", "market_cap": 48830000000, "sector": "real estate"}
+{"name": "mediatek, inc", "country": "taiwan", "market_cap": 48740000000, "sector": "technology"}
+{"name": "lululemon athletica inc", "country": "canada", "market_cap": 48520000000, "sector": "consumer discretionary"}
+{"name": "dow inc", "country": "united states", "market_cap": 48500000000, "sector": "basic materials"}
+{"name": "rosneft oil co pjsc", "country": "russia", "market_cap": 48500000000, "sector": "energy"}
+{"name": "mckesson corporation", "country": "united states", "market_cap": 48460000000, "sector": "healthcare"}
+{"name": "suncor energy inc", "country": "canada", "market_cap": 48270000000, "sector": "energy"}
+{"name": "vmware, inc", "country": "united states", "market_cap": 48170000000, "sector": "technology"}
+{"name": "johnson controls international plc", "country": "ireland", "market_cap": 48150000000, "sector": "industrials"}
+{"name": "o'reilly automotive, inc", "country": "united states", "market_cap": 48140000000, "sector": "consumer discretionary"}
+{"name": "grupo mexico sab de cv", "country": "mexico", "market_cap": 48000000000, "sector": "basic materials"}
+{"name": "crowdstrike holdings, inc", "country": "united states", "market_cap": 47890000000, "sector": "technology"}
+{"name": "naspers ltd", "country": "south africa", "market_cap": 47730000000, "sector": "communication services"}
+{"name": "autodesk, inc", "country": "united states", "market_cap": 47690000000, "sector": "technology"}
+{"name": "prudential financial, inc", "country": "united states", "market_cap": 47170000000, "sector": "financials"}
+{"name": "open joint stock company omz", "country": "russia", "market_cap": 47150000000, "sector": "industrials"}
+{"name": "cognizant technology solutions corporation", "country": "united states", "market_cap": 47070000000, "sector": "technology"}
+{"name": "nucor corporation", "country": "united states", "market_cap": 46860000000, "sector": "basic materials"}
+{"name": "dexcom, inc", "country": "united states", "market_cap": 46860000000, "sector": "healthcare"}
+{"name": "banco bradesco sa", "country": "brazil", "market_cap": 46710000000, "sector": "financials"}
+{"name": "nidec corp", "country": "japan", "market_cap": 46330000000, "sector": "industrials"}
+{"name": "adidas ag", "country": "germany", "market_cap": 46130000000, "sector": "consumer discretionary"}
+{"name": "sika ag", "country": "switzerland", "market_cap": 46010000000, "sector": "basic materials"}
+{"name": "baidu, inc", "country": "china", "market_cap": 45980000000, "sector": "communication services"}
+{"name": "takeda pharmaceutical company limited", "country": "japan", "market_cap": 45890000000, "sector": "healthcare"}
+{"name": "the hershey company", "country": "united states", "market_cap": 45830000000, "sector": "consumer staples"}
+{"name": "amphenol corporation", "country": "united states", "market_cap": 45770000000, "sector": "technology"}
+{"name": "vanjia corp", "country": "united states", "market_cap": "", "sector": "consumer discretionary"}
+{"name": "vodafone group plc", "country": "united kingdom", "market_cap": 45740000000, "sector": "communication services"}
+{"name": "idexx laboratories, inc", "country": "united states", "market_cap": 45640000000, "sector": "healthcare"}
+{"name": "the travelers companies, inc", "country": "united states", "market_cap": 45560000000, "sector": "financials"}
+{"name": "infineon technologies ag", "country": "germany", "market_cap": 45350000000, "sector": "technology"}
+{"name": "constellation brands, inc", "country": "united states", "market_cap": 45210000000, "sector": "consumer staples"}
+{"name": "datadog, inc", "country": "united states", "market_cap": 45130000000, "sector": "technology"}
+{"name": "mitsui & co ltd", "country": "japan", "market_cap": 45090000000, "sector": "energy"}
+{"name": "saudi arabian mining company", "country": "saudi arabia", "market_cap": 45000000000, "sector": "basic materials"}
+{"name": "pjsc lukoil", "country": "russia", "market_cap": 44960000000, "sector": "energy"}
+{"name": "intesa sanpaolo spa", "country": "italy", "market_cap": 44950000000, "sector": "financials"}
+{"name": "te connectivity ltd", "country": "switzerland", "market_cap": 44780000000, "sector": "technology"}
+{"name": "autozone, inc", "country": "united states", "market_cap": 44390000000, "sector": "consumer discretionary"}
+{"name": "iqvia holdings inc", "country": "united states", "market_cap": 44320000000, "sector": "healthcare"}
+{"name": "cintas corporation", "country": "united states", "market_cap": 44320000000, "sector": "industrials"}
+{"name": "cadence design syste, inc", "country": "united states", "market_cap": 44230000000, "sector": "technology"}
+{"name": "chipotle mexican grill, inc", "country": "united states", "market_cap": 44110000000, "sector": "consumer discretionary"}
+{"name": "sumitomo mitsui financial group, inc", "country": "japan", "market_cap": 44060000000, "sector": "financials"}
+{"name": "saung biologics co,ltd", "country": "south korea", "market_cap": 44010000000, "sector": "healthcare"}
+{"name": "wipro limited", "country": "india", "market_cap": 43980000000, "sector": "technology"}
+{"name": "zijin mining group co ltd", "country": "china", "market_cap": 43930000000, "sector": "basic materials"}
+{"name": "hp inc", "country": "united states", "market_cap": 43900000000, "sector": "technology"}
+{"name": "lloyds banking group plc", "country": "united kingdom", "market_cap": 43700000000, "sector": "financials"}
+{"name": "simon property group, inc", "country": "united states", "market_cap": 43690000000, "sector": "real estate"}
+{"name": "aflac incorporated", "country": "united states", "market_cap": 43590000000, "sector": "financials"}
+{"name": "barrick gold corporation", "country": "canada", "market_cap": 43500000000, "sector": "basic materials"}
+{"name": "murata manufacturing co ltd", "country": "japan", "market_cap": 43410000000, "sector": "technology"}
+{"name": "kinder morgan, inc", "country": "united states", "market_cap": 43380000000, "sector": "energy"}
+{"name": "kimberly-clark corporation", "country": "united states", "market_cap": 43210000000, "sector": "consumer staples"}
+{"name": "xiaomi corp", "country": "china", "market_cap": 43100000000, "sector": "technology"}
+{"name": "wesfarmers limited", "country": "australia", "market_cap": 43090000000, "sector": "consumer discretionary"}
+{"name": "republic services, inc", "country": "united states", "market_cap": 42910000000, "sector": "industrials"}
+{"name": "hoya corp", "country": "japan", "market_cap": 42880000000, "sector": "healthcare"}
+{"name": "yihai kerry arawana holdings co ltd", "country": "china", "market_cap": 42840000000, "sector": "consumer staples"}
+{"name": "monster beverage corporation", "country": "united states", "market_cap": 42810000000, "sector": "consumer staples"}
+{"name": "longi green energy technology co ltd", "country": "china", "market_cap": 42680000000, "sector": "technology"}
+{"name": "corteva, inc", "country": "united states", "market_cap": 42660000000, "sector": "basic materials"}
+{"name": "general mills, inc", "country": "united states", "market_cap": 42650000000, "sector": "consumer staples"}
+{"name": "seven & i holdings co ltd", "country": "japan", "market_cap": 42530000000, "sector": "consumer staples"}
+{"name": "dsv panalpina a-s", "country": "denmark", "market_cap": 42490000000, "sector": "industrials"}
+{"name": "hilton worldwide holdings inc", "country": "united states", "market_cap": 42390000000, "sector": "consumer discretionary"}
+{"name": "wuxi apptec co ltd", "country": "china", "market_cap": 42250000000, "sector": "healthcare"}
+{"name": "sysco corporation", "country": "united states", "market_cap": 42220000000, "sector": "consumer staples"}
+{"name": "the kroger co", "country": "united states", "market_cap": 42030000000, "sector": "consumer staples"}
+{"name": "manulife financial corporation", "country": "canada", "market_cap": 41980000000, "sector": "financials"}
+{"name": "biontech se", "country": "germany", "market_cap": 41930000000, "sector": "healthcare"}
+{"name": "stmicroelectronics nv", "country": "switzerland", "market_cap": 41910000000, "sector": "technology"}
+{"name": "devon energy corporation", "country": "united states", "market_cap": 41820000000, "sector": "energy"}
+{"name": "the willia companies, inc", "country": "united states", "market_cap": 41600000000, "sector": "energy"}
+{"name": "the allstate corporation", "country": "united states", "market_cap": 41540000000, "sector": "financials"}
+{"name": "hang seng bank limited", "country": "hong kong", "market_cap": 41470000000, "sector": "financials"}
+{"name": "valero energy corporation", "country": "united states", "market_cap": 41270000000, "sector": "energy"}
+{"name": "ing groep nv", "country": "netherlands", "market_cap": 41250000000, "sector": "financials"}
+{"name": "mmc norilsk nickel pjsc", "country": "russia", "market_cap": 41160000000, "sector": "basic materials"}
+{"name": "motorola solutions, inc", "country": "united states", "market_cap": 40870000000, "sector": "technology"}
+{"name": "east money information co,ltd", "country": "china", "market_cap": 40830000000, "sector": "communication services"}
+{"name": "the bank of new york mellon corporation", "country": "united states", "market_cap": 40830000000, "sector": "financials"}
+{"name": "carrier global corporation", "country": "united states", "market_cap": 40790000000, "sector": "industrials"}
+{"name": "oversea-chinese banking corp ltd", "country": "singapore", "market_cap": 40770000000, "sector": "financials"}
+{"name": "digital realty trust, inc", "country": "united states", "market_cap": 40640000000, "sector": "real estate"}
+{"name": "walgreens boots alliance, inc", "country": "united states", "market_cap": 40550000000, "sector": "healthcare"}
+{"name": "agilent technologies, inc", "country": "united states", "market_cap": 40490000000, "sector": "healthcare"}
+{"name": "global payments inc", "country": "united states", "market_cap": 40350000000, "sector": "industrials"}
+{"name": "citic securities company ltd", "country": "china", "market_cap": 40170000000, "sector": "financials"}
+{"name": "baxter international inc", "country": "united states", "market_cap": 40130000000, "sector": "healthcare"}
+{"name": "boc hong kong holdings ltd", "country": "hong kong", "market_cap": 39990000000, "sector": "financials"}
+{"name": "ci inc", "country": "united states", "market_cap": 39970000000, "sector": "financials"}
+{"name": "welltower inc", "country": "united states", "market_cap": 39960000000, "sector": "real estate"}
+{"name": "xcel energy inc", "country": "united states", "market_cap": 39760000000, "sector": "utilities"}
+{"name": "united overseas bank ltd", "country": "singapore", "market_cap": 39730000000, "sector": "financials"}
+{"name": "wanhua chemical group co ltd", "country": "china", "market_cap": 39730000000, "sector": "basic materials"}
+{"name": "dupont de nemours, inc", "country": "united states", "market_cap": 39720000000, "sector": "basic materials"}
+{"name": "eqt ab", "country": "japan", "market_cap": 39710000000, "sector": "financials"}
+{"name": "alimentation couche-tard inc", "country": "canada", "market_cap": "", "sector": "consumer staples"}
+{"name": "ebay inc", "country": "united states", "market_cap": 39340000000, "sector": "consumer discretionary"}
+{"name": "givaudan sa", "country": "switzerland", "market_cap": 39290000000, "sector": "basic materials"}
+{"name": "novozymes a-s", "country": "denmark", "market_cap": 39030000000, "sector": "basic materials"}
+{"name": "prudential plc", "country": "united kingdom", "market_cap": 39000000000, "sector": "financials"}
+{"name": "alcon inc", "country": "switzerland", "market_cap": 38900000000, "sector": "healthcare"}
+{"name": "ecopetrol sa", "country": "", "market_cap": 38690000000, "sector": ""}
+{"name": "baker hughes company", "country": "united states", "market_cap": 38390000000, "sector": "energy"}
+{"name": "banco bilbao vizcaya argentaria, sa", "country": "spain", "market_cap": 38250000000, "sector": "financials"}
+{"name": "dell technologies inc", "country": "united states", "market_cap": 38160000000, "sector": "technology"}
+{"name": "kuaishou technology", "country": "china", "market_cap": 38150000000, "sector": "communication services"}
+{"name": "ab volvo", "country": "sweden", "market_cap": 38130000000, "sector": "industrials"}
+{"name": "credit agricole sa", "country": "france", "market_cap": 38010000000, "sector": "financials"}
+{"name": "dollar tree, inc", "country": "united states", "market_cap": 38000000000, "sector": "consumer staples"}
+{"name": "sba communications corporation", "country": "united states", "market_cap": 37930000000, "sector": "real estate"}
+{"name": "capgemini se", "country": "france", "market_cap": 37820000000, "sector": "technology"}
+{"name": "daiichi sankyo company ltd", "country": "japan", "market_cap": 37790000000, "sector": "healthcare"}
+{"name": "compass group plc", "country": "united kingdom", "market_cap": 37730000000, "sector": "consumer discretionary"}
+{"name": "sartorius stedim biotech sa", "country": "france", "market_cap": 37550000000, "sector": "healthcare"}
+{"name": "pt bank rakyat indonesia persero tbk", "country": "indonesia", "market_cap": "", "sector": "financials"}
+{"name": "phillips 66", "country": "united states", "market_cap": 37510000000, "sector": "energy"}
+{"name": "electronic arts inc", "country": "united states", "market_cap": 37380000000, "sector": "communication services"}
+{"name": "trane technologies plc", "country": "ireland", "market_cap": 37360000000, "sector": "industrials"}
+{"name": "smc corp", "country": "japan", "market_cap": 37080000000, "sector": "industrials"}
+{"name": "parker-hannifin corporation", "country": "united states", "market_cap": 37050000000, "sector": "industrials"}
+{"name": "tokio marine holdings, inc", "country": "japan", "market_cap": "", "sector": "financials"}
+{"name": "jiangsu hengrui medicine co ltd", "country": "china", "market_cap": 36900000000, "sector": "healthcare"}
+{"name": "beijing-shanghai high-speed railway co,ltd", "country": "china", "market_cap": 36900000000, "sector": "industrials"}
+{"name": "munchener ruckversicherungs-gesellschaft aktiengesellschaft in munchen", "country": "germany", "market_cap": 36890000000, "sector": "financials"}
+{"name": "doordash, inc", "country": "united states", "market_cap": 36740000000, "sector": "communication services"}
+{"name": "shanghai pudong development bank co ltd", "country": "china", "market_cap": 36720000000, "sector": "financials"}
+{"name": "constellation software inc", "country": "canada", "market_cap": 36670000000, "sector": "technology"}
+{"name": "inner mongolia yili industrial group co ltd", "country": "china", "market_cap": 36610000000, "sector": "consumer staples"}
+{"name": "telus corporation", "country": "canada", "market_cap": 36370000000, "sector": "communication services"}
+{"name": "public service enterprise group incorporated", "country": "united states", "market_cap": 36280000000, "sector": "utilities"}
+{"name": "transdigm group incorporated", "country": "united states", "market_cap": 36140000000, "sector": "industrials"}
+{"name": "waste connections, inc", "country": "united states", "market_cap": 36140000000, "sector": "industrials"}
+{"name": "lyondellbasell industries nv", "country": "united states", "market_cap": 35960000000, "sector": "basic materials"}
+{"name": "da sa", "country": "france", "market_cap": 35930000000, "sector": "consumer staples"}
+{"name": "cloudflare, inc", "country": "united states", "market_cap": 35920000000, "sector": "technology"}
+{"name": "nio limited", "country": "china", "market_cap": 35860000000, "sector": "consumer discretionary"}
+{"name": "coinbase global, inc", "country": "united states", "market_cap": 35860000000, "sector": "technology"}
+{"name": "shanxi xinghuacun fen wine factory co,ltd", "country": "china", "market_cap": 35840000000, "sector": "consumer staples"}
+{"name": "neste oyj", "country": "finland", "market_cap": 35570000000, "sector": "energy"}
+{"name": "resmed inc", "country": "united states", "market_cap": 35440000000, "sector": "healthcare"}
+{"name": "experian plc", "country": "ireland", "market_cap": 35400000000, "sector": "industrials"}
+{"name": "intuitive surgical, inc", "country": "united states", "market_cap": 35370000000, "sector": "healthcare"}
+{"name": "woolworths group limited", "country": "australia", "market_cap": 35330000000, "sector": "consumer staples"}
+{"name": "mplx lp", "country": "united states", "market_cap": 35270000000, "sector": "energy"}
+{"name": "telstra corporation limited", "country": "australia", "market_cap": 35240000000, "sector": "communication services"}
+{"name": "hexagon ab", "country": "sweden", "market_cap": 35210000000, "sector": "technology"}
+{"name": "assicurazioni generali", "country": "italy", "market_cap": 35200000000, "sector": "financials"}
+{"name": "avalonbay communities, inc", "country": "united states", "market_cap": 35190000000, "sector": "real estate"}
+{"name": "imperial oil limited", "country": "canada", "market_cap": 35130000000, "sector": "energy"}
+{"name": "yum brands, inc", "country": "united states", "market_cap": 35120000000, "sector": "consumer discretionary"}
+{"name": "sun hung kai properties ltd", "country": "hong kong", "market_cap": 35040000000, "sector": "real estate"}
+{"name": "old dominion freight line, inc", "country": "united states", "market_cap": 34940000000, "sector": "industrials"}
+{"name": "cheniere energy, inc", "country": "united states", "market_cap": 34920000000, "sector": "energy"}
+{"name": "consolidated edison, inc", "country": "united states", "market_cap": 34890000000, "sector": "utilities"}
+{"name": "china citic bank corp ltd", "country": "china", "market_cap": 34840000000, "sector": "financials"}
+{"name": "budweiser brewing company apac ltd", "country": "hong kong", "market_cap": 34730000000, "sector": "consumer staples"}
+{"name": "arcelormittal", "country": "", "market_cap": 34660000000, "sector": ""}
+{"name": "ameriprise financial, inc", "country": "united states", "market_cap": 34640000000, "sector": "financials"}
+{"name": "fastenal company", "country": "united states", "market_cap": 34580000000, "sector": "industrials"}
+{"name": "align technology, inc", "country": "united states", "market_cap": 34490000000, "sector": "healthcare"}
+{"name": "verbund ag", "country": "", "market_cap": 34440000000, "sector": ""}
+{"name": "sydney airport limited", "country": "australia", "market_cap": "", "sector": "industrials"}
+{"name": "verisk analytics, inc", "country": "united states", "market_cap": 34390000000, "sector": "industrials"}
+{"name": "z holdings corp", "country": "japan", "market_cap": 34240000000, "sector": "consumer discretionary"}
+{"name": "arthur j gallagher & co", "country": "united states", "market_cap": 34220000000, "sector": "financials"}
+{"name": "chongqing zhifei biological products co ltd", "country": "china", "market_cap": 34130000000, "sector": "healthcare"}
+{"name": "equity residential", "country": "united states", "market_cap": 34110000000, "sector": "real estate"}
+{"name": "chunghwa telecom co, ltd", "country": "taiwan", "market_cap": 34060000000, "sector": "communication services"}
+{"name": "t rowe price group, inc", "country": "united states", "market_cap": 34009999999, "sector": "financials"}
+{"name": "halliburton company", "country": "united states", "market_cap": 33950000000, "sector": "energy"}
+{"name": "tyson foods, inc", "country": "united states", "market_cap": 33729999999, "sector": "consumer staples"}
+{"name": "discover financial services", "country": "united states", "market_cap": 33729999999, "sector": "financials"}
+{"name": "kuehne  nagel international ag", "country": "switzerland", "market_cap": 33689999999, "sector": "industrials"}
+{"name": "fanuc corp", "country": "japan", "market_cap": 33680000000, "sector": "industrials"}
+{"name": "mtr corp ltd", "country": "hong kong", "market_cap": 33659999999, "sector": "industrials"}
+{"name": "poly developments and holdings group co ltd", "country": "china", "market_cap": 33640000000, "sector": "real estate"}
+{"name": "kkr & co inc", "country": "united states", "market_cap": 33490000000, "sector": "financials"}
+{"name": "mizuho financial group, inc", "country": "japan", "market_cap": 33470000000, "sector": "financials"}
+{"name": "ptt pcl", "country": "thailand", "market_cap": 33460000000, "sector": "energy"}
+{"name": "koninklijke ahold delhaize nv", "country": "netherlands", "market_cap": 33430000000, "sector": "consumer staples"}
+{"name": "china vanke co ltd", "country": "china", "market_cap": 33350000000, "sector": "real estate"}
+{"name": "international flavors & fragrances inc", "country": "united states", "market_cap": 33320000000, "sector": "basic materials"}
+{"name": "telefonaktiebolaget lm ericsson", "country": "sweden", "market_cap": 33290000000, "sector": "technology"}
+{"name": "china resources land ltd", "country": "hong kong", "market_cap": 33259999999, "sector": "real estate"}
+{"name": "zoom video communications, inc", "country": "united states", "market_cap": 33220000000, "sector": "communication services"}
+{"name": "otis worldwide corporation", "country": "united states", "market_cap": 33090000000, "sector": "industrials"}
+{"name": "sun life financial inc", "country": "canada", "market_cap": 33080000000, "sector": "financials"}
+{"name": "rockwell automation, inc", "country": "united states", "market_cap": 33049999999, "sector": "industrials"}
+{"name": "aptiv plc", "country": "ireland", "market_cap": 33020000000, "sector": "consumer discretionary"}
+{"name": "cenovus energy inc", "country": "canada", "market_cap": 33020000000, "sector": "energy"}
+{"name": "deutsche borse ag", "country": "germany", "market_cap": 32990000000, "sector": "financials"}
+{"name": "orange sa", "country": "france", "market_cap": 32840000000, "sector": "communication services"}
+{"name": "hess corporation", "country": "united states", "market_cap": 32810000000, "sector": "energy"}
+{"name": "natwest group plc", "country": "united kingdom", "market_cap": 32720000000, "sector": "financials"}
+{"name": "ross stores, inc", "country": "united states", "market_cap": 32710000000, "sector": "consumer discretionary"}
+{"name": "wec energy group, inc", "country": "united states", "market_cap": 32540000000, "sector": "utilities"}
+{"name": "amerisourcebergen corporation", "country": "united states", "market_cap": 32509999999, "sector": "healthcare"}
+{"name": "china overseas land & investment ltd", "country": "hong kong", "market_cap": 32490000000, "sector": "real estate"}
+{"name": "wuxi biologics", "country": "china", "market_cap": 32409999999, "sector": "healthcare"}
+{"name": "citic ltd", "country": "hong kong", "market_cap": 32330000000, "sector": "industrials"}
+{"name": "cellnex telecom, sa", "country": "spain", "market_cap": 32320000000, "sector": "communication services"}
+{"name": "haier smart home co ltd", "country": "china", "market_cap": 32310000000, "sector": "consumer discretionary"}
+{"name": "singapore telecommunications ltd", "country": "singapore", "market_cap": 32229999999, "sector": "communication services"}
+{"name": "anta sports products ltd", "country": "china", "market_cap": 32200000000, "sector": "consumer discretionary"}
+{"name": "barclays plc", "country": "united kingdom", "market_cap": 32189999999, "sector": "financials"}
+{"name": "brown-forman corporation", "country": "united states", "market_cap": 32070000000, "sector": "consumer staples"}
+{"name": "weg sa", "country": "brazil", "market_cap": 32049999999, "sector": "industrials"}
+{"name": "paccar inc", "country": "united states", "market_cap": 32040000000, "sector": "industrials"}
+{"name": "great wall motor co ltd", "country": "china", "market_cap": 32009999999, "sector": "consumer discretionary"}
+{"name": "longfor group holdings ltd", "country": "china", "market_cap": 31980000000, "sector": "real estate"}
+{"name": "japan post bank co,ltd", "country": "japan", "market_cap": 31930000000, "sector": "financials"}
+{"name": "ppg industries, inc", "country": "united states", "market_cap": 31890000000, "sector": "basic materials"}
+{"name": "perusahaan perseroan persero pt telekomunikasi indonesia tbk", "country": "indonesia", "market_cap": 31780000000, "sector": "communication services"}
+{"name": "mettler-toledo international inc", "country": "united states", "market_cap": 31780000000, "sector": "healthcare"}
+{"name": "oneok, inc", "country": "united states", "market_cap": 31660000000, "sector": "energy"}
+{"name": "goodman group", "country": "australia", "market_cap": 31640000000, "sector": "real estate"}
+{"name": "corning incorporated", "country": "united states", "market_cap": 31600000000, "sector": "technology"}
+{"name": "japan tobacco, inc", "country": "japan", "market_cap": 31590000000, "sector": "consumer staples"}
+{"name": "foxconn industrial internet co ltd", "country": "china", "market_cap": 31580000000, "sector": "technology"}
+{"name": "eversource energy", "country": "united states", "market_cap": 31560000000, "sector": "utilities"}
+{"name": "china telecom corp ltd", "country": "hong kong", "market_cap": 31490000000, "sector": "communication services"}
+{"name": "crh plc", "country": "ireland", "market_cap": 31450000000, "sector": "basic materials"}
+{"name": "japan post holdings co ltd", "country": "japan", "market_cap": 31410000000, "sector": "financials"}
+{"name": "biogen inc", "country": "united states", "market_cap": 31350000000, "sector": "healthcare"}
+{"name": "swisscom ag", "country": "switzerland", "market_cap": 31260000000, "sector": "communication services"}
+{"name": "koninklijke dsm nv", "country": "netherlands", "market_cap": 31250000000, "sector": "basic materials"}
+{"name": "formosa petrochemical corp", "country": "taiwan", "market_cap": 31220000000, "sector": "energy"}
+{"name": "zhangzhou pientzehuang pharmaceutical ltd", "country": "china", "market_cap": 31170000000, "sector": "healthcare"}
+{"name": "ametek, inc", "country": "united states", "market_cap": 31150000000, "sector": "industrials"}
+{"name": "eon se", "country": "germany", "market_cap": 31120000000, "sector": "utilities"}
+{"name": "china pacific insurance", "country": "china", "market_cap": 31040000000, "sector": "financials"}
+{"name": "zscaler, inc", "country": "united states", "market_cap": 31030000000, "sector": "technology"}
+{"name": "anhui conch cement company ltd", "country": "china", "market_cap": 31020000000, "sector": "basic materials"}
+{"name": "franco-nevada corporation", "country": "canada", "market_cap": 31000000000, "sector": "basic materials"}
+{"name": "engie sa", "country": "france", "market_cap": 31000000000, "sector": "utilities"}
+{"name": "state street corporation", "country": "united states", "market_cap": 30950000000, "sector": "financials"}
+{"name": "saic motor corp ltd", "country": "china", "market_cap": 30930000000, "sector": "consumer discretionary"}
+{"name": "nokia corporation", "country": "finland", "market_cap": 30910000000, "sector": "technology"}
+{"name": "twitter, inc", "country": "united states", "market_cap": 30830000000, "sector": "communication services"}
+{"name": "veeva syste inc", "country": "united states", "market_cap": 30760000000, "sector": "healthcare"}
+{"name": "loblaw companies limited", "country": "canada", "market_cap": 30700000000, "sector": "consumer staples"}
+{"name": "energy transfer lp", "country": "united states", "market_cap": 30690000000, "sector": "energy"}
+{"name": "henkel ag & co kgaa", "country": "germany", "market_cap": 30530000000, "sector": "consumer staples"}
+{"name": "coupang, inc", "country": "south korea", "market_cap": 30530000000, "sector": "consumer discretionary"}
+{"name": "ferguson plc", "country": "united kingdom", "market_cap": 30520000000, "sector": "industrials"}
+{"name": "bae syste plc", "country": "united kingdom", "market_cap": 30510000000, "sector": "industrials"}
+{"name": "fifth third bancorp", "country": "united states", "market_cap": 30460000000, "sector": "financials"}
+{"name": "cbre group, inc", "country": "united states", "market_cap": 30450000000, "sector": "real estate"}
+{"name": "american water works company, inc", "country": "united states", "market_cap": 30430000000, "sector": "utilities"}
+{"name": "fujitsu ltd", "country": "japan", "market_cap": 30280000000, "sector": "technology"}
+{"name": "west pharmaceutical services, inc", "country": "united states", "market_cap": 30230000000, "sector": "healthcare"}
+{"name": "compagnie de saint-gobain sa", "country": "france", "market_cap": 30160000000, "sector": "industrials"}
+{"name": "alexandria real estate equities, inc", "country": "united states", "market_cap": 30100000000, "sector": "real estate"}
+{"name": "assa abloy ab", "country": "sweden", "market_cap": 30050000000, "sector": "industrials"}
+{"name": "cummins inc", "country": "united states", "market_cap": 29940000000, "sector": "industrials"}
+{"name": "vestas wind syste a-s", "country": "denmark", "market_cap": 29930000000, "sector": "industrials"}
+{"name": "riyad bank", "country": "saudi arabia", "market_cap": 29860000000, "sector": "financials"}
+{"name": "willis towers watson plc", "country": "united kingdom", "market_cap": "", "sector": "financials"}
+{"name": "match group, inc", "country": "united states", "market_cap": 29820000000, "sector": "communication services"}
+{"name": "kbc group nv", "country": "belgium", "market_cap": 29810000000, "sector": "financials"}
+{"name": "unicredit spa", "country": "italy", "market_cap": "", "sector": "financials"}
+{"name": "cathay financial holding co ltd", "country": "taiwan", "market_cap": 29580000000, "sector": "financials"}
+{"name": "copart, inc", "country": "united states", "market_cap": 29580000000, "sector": "industrials"}
+{"name": "spotify technology sa", "country": "", "market_cap": 29560000000, "sector": ""}
+{"name": "nasdaq, inc", "country": "united states", "market_cap": 29520000000, "sector": "financials"}
+{"name": "weyerhaeuser company", "country": "united states", "market_cap": 29420000000, "sector": "real estate"}
+{"name": "saudi electricity company", "country": "saudi arabia", "market_cap": 29420000000, "sector": "utilities"}
+{"name": "ball corporation", "country": "united states", "market_cap": 29400000000, "sector": "consumer discretionary"}
+{"name": "keysight technologies, inc", "country": "united states", "market_cap": 29400000000, "sector": "technology"}
+{"name": "astellas pharma, inc", "country": "japan", "market_cap": 29220000000, "sector": "healthcare"}
+{"name": "amadeus it group, sa", "country": "spain", "market_cap": 29190000000, "sector": "technology"}
+{"name": "electricite de france sa", "country": "france", "market_cap": 29170000000, "sector": "utilities"}
+{"name": "rogers communications inc", "country": "canada", "market_cap": 29130000000, "sector": "communication services"}
+{"name": "tongwei co ltd", "country": "china", "market_cap": 29100000000, "sector": "consumer staples"}
+{"name": "las vegas sands corp", "country": "united states", "market_cap": 29070000000, "sector": "consumer discretionary"}
+{"name": "rwe ag", "country": "germany", "market_cap": 29060000000, "sector": "utilities"}
+{"name": "cosco shipping holdings co ltd", "country": "china", "market_cap": 28930000000, "sector": "industrials"}
+{"name": "svb financial group", "country": "united states", "market_cap": 28910000000, "sector": "financials"}
+{"name": "csx corporation", "country": "united states", "market_cap": 28900000000, "sector": "industrials"}
+{"name": "techtronic industries company ltd", "country": "hong kong", "market_cap": 28750000000, "sector": "industrials"}
+{"name": "naturgy energy group, sa", "country": "spain", "market_cap": 28710000000, "sector": "utilities"}
+{"name": "apa group", "country": "australia", "market_cap": 28550000000, "sector": "utilities"}
+{"name": "hormel foods corporation", "country": "united states", "market_cap": 28520000000, "sector": "consumer staples"}
+{"name": "cerner corporation", "country": "united states", "market_cap": 28310000000, "sector": "healthcare"}
+{"name": "ashtead group plc", "country": "united kingdom", "market_cap": 28280000000, "sector": "industrials"}
+{"name": "equifax inc", "country": "united states", "market_cap": 28240000000, "sector": "industrials"}
+{"name": "semiconductor manufacturing international corp", "country": "china", "market_cap": 28240000000, "sector": "technology"}
+{"name": "porsche automobil holding se", "country": "germany", "market_cap": 28150000000, "sector": "consumer discretionary"}
+{"name": "tesco plc", "country": "united kingdom", "market_cap": 28110000000, "sector": "consumer staples"}
+{"name": "sirius xm holdings inc", "country": "united states", "market_cap": 28050000000, "sector": "communication services"}
+{"name": "airports of thailand public company ltd", "country": "thailand", "market_cap": 28000000000, "sector": "industrials"}
+{"name": "ck hutchison holdings ltd", "country": "hong kong", "market_cap": 27940000000, "sector": "industrials"}
+{"name": "the people's insurance company group of china ltd", "country": "china", "market_cap": 27930000000, "sector": "financials"}
+{"name": "expedia group, inc", "country": "united states", "market_cap": 27910000000, "sector": "consumer discretionary"}
+{"name": "first republic bank", "country": "united states", "market_cap": 27900000000, "sector": "financials"}
+{"name": "koninklijke philips nv", "country": "netherlands", "market_cap": 27890000000, "sector": "healthcare"}
+{"name": "great-west lifeco inc", "country": "canada", "market_cap": 27850000000, "sector": "financials"}
+{"name": "thai beverage public company ltd", "country": "thailand", "market_cap": 27810000000, "sector": "consumer staples"}
+{"name": "swiss re ag", "country": "switzerland", "market_cap": 27800000000, "sector": "financials"}
+{"name": "edison international", "country": "united states", "market_cap": 27670000000, "sector": "utilities"}
+{"name": "wolters kluwer nv", "country": "netherlands", "market_cap": 27650000000, "sector": "communication services"}
+{"name": "on semiconductor corporation", "country": "united states", "market_cap": 27630000000, "sector": "technology"}
+{"name": "caixabank, sa", "country": "spain", "market_cap": 27580000000, "sector": "financials"}
+{"name": "sampo oyj", "country": "finland", "market_cap": 27460000000, "sector": "financials"}
+{"name": "extra space storage inc", "country": "united states", "market_cap": 27370000000, "sector": "real estate"}
+{"name": "sartorius ag", "country": "germany", "market_cap": 27350000000, "sector": "healthcare"}
+{"name": "dr horton, inc", "country": "united states", "market_cap": 27340000000, "sector": "consumer discretionary"}
+{"name": "ww grainger, inc", "country": "united states", "market_cap": 27330000000, "sector": "industrials"}
+{"name": "nari technology co ltd", "country": "china", "market_cap": 27330000000, "sector": "industrials"}
+{"name": "kone oyj", "country": "finland", "market_cap": 27290000000, "sector": "industrials"}
+{"name": "mccormick & company, incorporated", "country": "united states", "market_cap": 27290000000, "sector": "consumer staples"}
+{"name": "ntt data corp", "country": "japan", "market_cap": 27260000000, "sector": "technology"}
+{"name": "ganfeng lithium co ltd", "country": "china", "market_cap": 27250000000, "sector": "basic materials"}
+{"name": "will semiconductor co ltd", "country": "china", "market_cap": 27240000000, "sector": "technology"}
+{"name": "interactive brokers group, inc", "country": "united states", "market_cap": 27220000000, "sector": "financials"}
+{"name": "gazprom neft pjsc", "country": "russia", "market_cap": 27140000000, "sector": "energy"}
+{"name": "fubon financial holding co ltd", "country": "taiwan", "market_cap": 27130000000, "sector": "financials"}
+{"name": "tractor supply company", "country": "united states", "market_cap": 27090000000, "sector": "consumer discretionary"}
+{"name": "chocoladefabriken lindt & sprungli ag", "country": "switzerland", "market_cap": 27080000000, "sector": "consumer staples"}
+{"name": "ansys, inc", "country": "united states", "market_cap": 26980000000, "sector": "technology"}
+{"name": "shaanxi coal industry company ltd", "country": "china", "market_cap": 26950000000, "sector": "energy"}
+{"name": "aier eye hospital group co ltd", "country": "china", "market_cap": 26950000000, "sector": "healthcare"}
+{"name": "zimmer biomet holdings, inc", "country": "united states", "market_cap": 26940000000, "sector": "healthcare"}
+{"name": "bridgestone corp", "country": "japan", "market_cap": 26880000000, "sector": "consumer discretionary"}
+{"name": "evolution gaming group ab", "country": "sweden", "market_cap": 26820000000, "sector": "consumer discretionary"}
+{"name": "beijing wantai biological pharmacy enterprise co ltd", "country": "china", "market_cap": 26800000000, "sector": "healthcare"}
+{"name": "vonovia se", "country": "germany", "market_cap": 26780000000, "sector": "real estate"}
+{"name": "sandvik ab", "country": "sweden", "market_cap": 26710000000, "sector": "industrials"}
+{"name": "cheniere energy partners, lp", "country": "united states", "market_cap": 26680000000, "sector": "energy"}
+{"name": "pg&e corporation", "country": "united states", "market_cap": 26660000000, "sector": "utilities"}
+{"name": "kansas city southern", "country": "united states", "market_cap": "", "sector": "industrials"}
+{"name": "unity software inc", "country": "united states", "market_cap": 26560000000, "sector": "technology"}
+{"name": "thales sa", "country": "france", "market_cap": 26550000000, "sector": "industrials"}
+{"name": "southwest airlines co", "country": "united states", "market_cap": 26520000000, "sector": "industrials"}
+{"name": "dte energy company", "country": "united states", "market_cap": 26410000000, "sector": "utilities"}
+{"name": "intact financial corporation", "country": "canada", "market_cap": 26400000000, "sector": "financials"}
+{"name": "deutsche bank ag", "country": "germany", "market_cap": 26380000000, "sector": "financials"}
+{"name": "canon inc", "country": "japan", "market_cap": 26380000000, "sector": "technology"}
+{"name": "lyondellbasell advanced polymers, inc", "country": "united states", "market_cap": 26380000000, "sector": "basic materials"}
+{"name": "national bank of canada", "country": "canada", "market_cap": 26290000000, "sector": "financials"}
+{"name": "sonova holding ag", "country": "switzerland", "market_cap": 26220000000, "sector": "healthcare"}
+{"name": "realty income corporation", "country": "united states", "market_cap": 26180000000, "sector": "real estate"}
+{"name": "china everbright bank company ltd", "country": "china", "market_cap": 26130000000, "sector": "financials"}
+{"name": "twilio inc", "country": "united states", "market_cap": 26090000000, "sector": "communication services"}
+{"name": "roblox corp", "country": "united states", "market_cap": 26050000000, "sector": "communication services"}
+{"name": "telefonica, sa", "country": "spain", "market_cap": 26040000000, "sector": "communication services"}
+{"name": "central japan railway co", "country": "japan", "market_cap": 26000000000, "sector": "industrials"}
+{"name": "li auto inc", "country": "china", "market_cap": 25830000000, "sector": "consumer discretionary"}
+{"name": "enbw energie baden-wuerttemberg ag", "country": "germany", "market_cap": 25820000000, "sector": "utilities"}
+{"name": "the hartford financial services group, inc", "country": "united states", "market_cap": 25760000000, "sector": "financials"}
+{"name": "laboratory corporation of america holdings", "country": "united states", "market_cap": 25750000000, "sector": "healthcare"}
+{"name": "mongodb, inc", "country": "united states", "market_cap": 25730000000, "sector": "technology"}
+{"name": "mitsubishi electric corporation", "country": "japan", "market_cap": 25610000000, "sector": "industrials"}
+{"name": "banco santander brasil sa", "country": "brazil", "market_cap": 25590000000, "sector": "financials"}
+{"name": "axis bank ltd", "country": "india", "market_cap": 25540000000, "sector": "financials"}
+{"name": "united rentals, inc", "country": "united states", "market_cap": 25460000000, "sector": "industrials"}
+{"name": "nan ya plastics corp", "country": "taiwan", "market_cap": 25410000000, "sector": "basic materials"}
+{"name": "lennar corporation", "country": "united states", "market_cap": 25340000000, "sector": "consumer discretionary"}
+{"name": "straumann holding ag", "country": "switzerland", "market_cap": 25310000000, "sector": "healthcare"}
+{"name": "clp holdings ltd", "country": "hong kong", "market_cap": 25290000000, "sector": "utilities"}
+{"name": "yanzhou coal mining company ltd", "country": "china", "market_cap": 25260000000, "sector": "energy"}
+{"name": "firstenergy corp", "country": "united states", "market_cap": 25260000000, "sector": "utilities"}
+{"name": "albemarle corporation", "country": "united states", "market_cap": 25250000000, "sector": "basic materials"}
+{"name": "ck asset holdings limited", "country": "hong kong", "market_cap": 25210000000, "sector": "real estate"}
+{"name": "enphase energy, inc", "country": "united states", "market_cap": 25200000000, "sector": "technology"}
+{"name": "legrand sa", "country": "france", "market_cap": 25190000000, "sector": "industrials"}
+{"name": "galaxy entertainment group ltd", "country": "hong kong", "market_cap": 25170000000, "sector": "consumer discretionary"}
+{"name": "skandinaviska enskilda banken ab", "country": "sweden", "market_cap": 25150000000, "sector": "financials"}
+{"name": "the mosaic company", "country": "united states", "market_cap": 25090000000, "sector": "basic materials"}
+{"name": "cdw corporation", "country": "united states", "market_cap": 25040000000, "sector": "technology"}
+{"name": "gartner, inc", "country": "united states", "market_cap": 25030000000, "sector": "technology"}
+{"name": "edp renovaveis, sa", "country": "spain", "market_cap": "", "sector": "utilities"}
+{"name": "delta air lines, inc", "country": "united states", "market_cap": 24920000000, "sector": "industrials"}
+{"name": "palantir technologies inc", "country": "united states", "market_cap": 24910000000, "sector": "technology"}
+{"name": "seagen inc", "country": "united states", "market_cap": 24870000000, "sector": "healthcare"}
+{"name": "diamondback energy, inc", "country": "united states", "market_cap": 24840000000, "sector": "energy"}
+{"name": "verisign, inc", "country": "united states", "market_cap": 24810000000, "sector": "technology"}
+{"name": "church & dwight co, inc", "country": "united states", "market_cap": 24810000000, "sector": "consumer staples"}
+{"name": "ameren corporation", "country": "united states", "market_cap": 24790000000, "sector": "utilities"}
+{"name": "china minsheng banking corp ltd", "country": "china", "market_cap": 24650000000, "sector": "financials"}
+{"name": "live nation entertainment, inc", "country": "united states", "market_cap": 24610000000, "sector": "communication services"}
+{"name": "woodside petroleum ltd", "country": "australia", "market_cap": 24600000000, "sector": "energy"}
+{"name": "evergreen marine corp", "country": "taiwan", "market_cap": 24490000000, "sector": "industrials"}
+{"name": "aena sme, sa", "country": "spain", "market_cap": 24450000000, "sector": "industrials"}
+{"name": "xpeng inc", "country": "china", "market_cap": 24440000000, "sector": "consumer discretionary"}
+{"name": "northern trust corporation", "country": "united states", "market_cap": 24420000000, "sector": "financials"}
+{"name": "slack technologies, inc", "country": "united states", "market_cap": "", "sector": "technology"}
+{"name": "mid-america apartment communities, inc", "country": "united states", "market_cap": 24180000000, "sector": "real estate"}
+{"name": "fresenius se & co kgaa", "country": "germany", "market_cap": 24120000000, "sector": "healthcare"}
+{"name": "fujifilm holdings corp", "country": "japan", "market_cap": 24120000000, "sector": "industrials"}
+{"name": "bt group plc", "country": "united kingdom", "market_cap": 24090000000, "sector": "communication services"}
+{"name": "vulcan materials company", "country": "united states", "market_cap": 24080000000, "sector": "basic materials"}
+{"name": "epiroc ab", "country": "sweden", "market_cap": 24080000000, "sector": "industrials"}
+{"name": "delta electronics, inc", "country": "taiwan", "market_cap": 24050000000, "sector": "technology"}
+{"name": "public joint stock company polyus", "country": "russia", "market_cap": "", "sector": "basic materials"}
+{"name": "schindler holding ag", "country": "switzerland", "market_cap": 24020000000, "sector": "industrials"}
+{"name": "orix corporation", "country": "japan", "market_cap": 23970000000, "sector": "financials"}
+{"name": "martin marietta materials, inc", "country": "united states", "market_cap": 23940000000, "sector": "basic materials"}
+{"name": "csc financial co ltd", "country": "china", "market_cap": 23940000000, "sector": "financials"}
+{"name": "best buy co, inc", "country": "united states", "market_cap": 23930000000, "sector": "consumer discretionary"}
+{"name": "steris plc", "country": "ireland", "market_cap": 23930000000, "sector": "healthcare"}
+{"name": "entergy corporation", "country": "united states", "market_cap": 23920000000, "sector": "utilities"}
+{"name": "m3, inc", "country": "japan", "market_cap": 23890000000, "sector": "healthcare"}
+{"name": "splunk inc", "country": "united states", "market_cap": 23840000000, "sector": "technology"}
+{"name": "eve energy co ltd", "country": "china", "market_cap": 23820000000, "sector": "industrials"}
+{"name": "ventas, inc", "country": "united states", "market_cap": 23810000000, "sector": "real estate"}
+{"name": "endesa, sa", "country": "spain", "market_cap": 23780000000, "sector": "utilities"}
+{"name": "sse plc", "country": "united kingdom", "market_cap": 23730000000, "sector": "utilities"}
+{"name": "compagnie generale des etablissements michelin sca", "country": "france", "market_cap": 23650000000, "sector": "consumer discretionary"}
+{"name": "horizon therapeutics public limited company", "country": "ireland", "market_cap": 23640000000, "sector": "healthcare"}
+{"name": "baoshan iron & steel co ltd", "country": "china", "market_cap": 23590000000, "sector": "basic materials"}
+{"name": "stanley black & decker, inc", "country": "united states", "market_cap": 23570000000, "sector": "industrials"}
+{"name": "sungrow power supply co ltd", "country": "china", "market_cap": 23550000000, "sector": "industrials"}
+{"name": "beiersdorf ag", "country": "germany", "market_cap": 23510000000, "sector": "consumer staples"}
+{"name": "pt bank mandiri persero tbk", "country": "indonesia", "market_cap": "", "sector": "financials"}
+{"name": "first quantum minerals ltd", "country": "canada", "market_cap": 23470000000, "sector": "basic materials"}
+{"name": "kubota corp", "country": "japan", "market_cap": 23460000000, "sector": "industrials"}
+{"name": "mtn group ltd", "country": "south africa", "market_cap": 23450000000, "sector": "communication services"}
+{"name": "maxim integrated products, inc", "country": "united states", "market_cap": "", "sector": "technology"}
+{"name": "rocket companies, inc", "country": "united states", "market_cap": 23440000000, "sector": "financials"}
+{"name": "fortis inc", "country": "canada", "market_cap": 23430000000, "sector": "utilities"}
+{"name": "formosa plastics corp", "country": "taiwan", "market_cap": 23420000000, "sector": "basic materials"}
+{"name": "liberty broadband corporation", "country": "united states", "market_cap": 23400000000, "sector": "communication services"}
+{"name": "united microelectronics corporation", "country": "taiwan", "market_cap": 23350000000, "sector": "technology"}
+{"name": "garmin ltd", "country": "switzerland", "market_cap": 23350000000, "sector": "technology"}
+{"name": "huazhu group limited", "country": "china", "market_cap": 23340000000, "sector": "consumer discretionary"}
+{"name": "carnival corporation & plc", "country": "united states", "market_cap": 23290000000, "sector": "consumer discretionary"}
+{"name": "sany heavy industry co ltd", "country": "china", "market_cap": 23270000000, "sector": "industrials"}
+{"name": "fox corporation", "country": "united states", "market_cap": 23260000000, "sector": "communication services"}
+{"name": "wens foodstuff group co ltd", "country": "china", "market_cap": 23200000000, "sector": "consumer staples"}
+{"name": "societe generale sa", "country": "france", "market_cap": 23180000000, "sector": "financials"}
+{"name": "terumo corp", "country": "japan", "market_cap": 23160000000, "sector": "healthcare"}
+{"name": "china international capital corp ltd", "country": "china", "market_cap": 23130000000, "sector": "financials"}
+{"name": "invitation homes inc", "country": "united states", "market_cap": 23090000000, "sector": "real estate"}
+{"name": "royalty pharma plc", "country": "united states", "market_cap": 23040000000, "sector": "healthcare"}
+{"name": "olympus corp", "country": "japan", "market_cap": 23000000000, "sector": "healthcare"}
+{"name": "vf corporation", "country": "united states", "market_cap": 22960000000, "sector": "consumer discretionary"}
+{"name": "dover corporation", "country": "united states", "market_cap": 22940000000, "sector": "industrials"}
+{"name": "ppl corporation", "country": "united states", "market_cap": 22870000000, "sector": "utilities"}
+{"name": "hengli petrochemical co,ltd", "country": "china", "market_cap": 22860000000, "sector": "consumer discretionary"}
+{"name": "genmab a/s", "country": "denmark", "market_cap": 22830000000, "sector": "healthcare"}
+{"name": "sabic agri-nutrients company", "country": "saudi arabia", "market_cap": 22780000000, "sector": "basic materials"}
+{"name": "heineken holding nv", "country": "netherlands", "market_cap": 22780000000, "sector": "consumer staples"}
+{"name": "sands china ltd", "country": "", "market_cap": 18520000000, "sector": ""}
+{"name": "east japan railway company", "country": "japan", "market_cap": 22780000000, "sector": "industrials"}
+{"name": "sociedad quimica y minera de chile sa", "country": "chile", "market_cap": 22770000000, "sector": "basic materials"}
+{"name": "eurofins scientific se", "country": "", "market_cap": "", "sector": ""}
+{"name": "panasonic corp", "country": "japan", "market_cap": 22730000000, "sector": "technology"}
+{"name": "ucb sa", "country": "belgium", "market_cap": 22710000000, "sector": "healthcare"}
+{"name": "shanghai international port", "country": "china", "market_cap": 22650000000, "sector": "industrials"}
+{"name": "hewlett packard enterprise company", "country": "united states", "market_cap": 22650000000, "sector": "technology"}
+{"name": "kellogg company", "country": "united states", "market_cap": 22630000000, "sector": "consumer staples"}
+{"name": "picc property and casualty company ltd", "country": "china", "market_cap": 22620000000, "sector": "financials"}
+{"name": "grupo financiero banorte sab de cv", "country": "mexico", "market_cap": 22600000000, "sector": "financials"}
+{"name": "komatsu ltd", "country": "japan", "market_cap": 22560000000, "sector": "industrials"}
+{"name": "the hong kong and china gas company ltd", "country": "hong kong", "market_cap": 22540000000, "sector": "utilities"}
+{"name": "coca-cola europacific partners plc", "country": "united kingdom", "market_cap": 22530000000, "sector": "consumer staples"}
+{"name": "essex property trust, inc", "country": "united states", "market_cap": 22510000000, "sector": "real estate"}
+{"name": "e-chemie holding ag", "country": "switzerland", "market_cap": 22480000000, "sector": "basic materials"}
+{"name": "okta, inc", "country": "united states", "market_cap": 22450000000, "sector": "technology"}
+{"name": "china national nuclear power co ltd", "country": "china", "market_cap": 22420000000, "sector": "utilities"}
+{"name": "sumitomo corp", "country": "japan", "market_cap": 22420000000, "sector": "industrials"}
+{"name": "tata motors limited", "country": "india", "market_cap": 22380000000, "sector": "consumer discretionary"}
+{"name": "banco do brasil sa", "country": "brazil", "market_cap": 22360000000, "sector": "financials"}
+{"name": "hennes & mauritz ab", "country": "sweden", "market_cap": 22330000000, "sector": "consumer discretionary"}
+{"name": "bio-rad laboratories, inc", "country": "united states", "market_cap": "", "sector": "healthcare"}
+{"name": "teleperformance se", "country": "france", "market_cap": 22300000000, "sector": "industrials"}
+{"name": "fomento economico mexicano, sab de cv", "country": "mexico", "market_cap": "", "sector": "consumer staples"}
+{"name": "huntington bancshares, inc", "country": "united states", "market_cap": 22260000000, "sector": "financials"}
+{"name": "continental resources, inc", "country": "united states", "market_cap": 22250000000, "sector": "energy"}
+{"name": "crrc corp ltd", "country": "china", "market_cap": 22210000000, "sector": "industrials"}
+{"name": "skyworks solutions, inc", "country": "united states", "market_cap": 22170000000, "sector": "technology"}
+{"name": "xp inc", "country": "brazil", "market_cap": "", "sector": "financials"}
+{"name": "unicharm corp", "country": "japan", "market_cap": 22080000000, "sector": "consumer staples"}
+{"name": "zto express cayman inc", "country": "china", "market_cap": 22050000000, "sector": "industrials"}
+{"name": "geberit ag", "country": "switzerland", "market_cap": 22030000000, "sector": "industrials"}
+{"name": "toyota industries corp", "country": "japan", "market_cap": 21990000000, "sector": "consumer discretionary"}
+{"name": "cincinnati financial corporation", "country": "united states", "market_cap": 21990000000, "sector": "financials"}
+{"name": "cf industries holdings, inc", "country": "united states", "market_cap": 21950000000, "sector": "basic materials"}
+{"name": "nibe industrier ab", "country": "sweden", "market_cap": 21930000000, "sector": "industrials"}
+{"name": "cnh industrial nv", "country": "united kingdom", "market_cap": 21930000000, "sector": "industrials"}
+{"name": "huntington bancshares incorporated", "country": "united states", "market_cap": 21930000000, "sector": "financials"}
+{"name": "duke realty corporation", "country": "united states", "market_cap": 21930000000, "sector": "real estate"}
+{"name": "restaurant brands international limited partnership", "country": "canada", "market_cap": "", "sector": "consumer discretionary"}
+{"name": "monolithic power syste, inc", "country": "united states", "market_cap": 21870000000, "sector": "technology"}
+{"name": "zebra technologies corporation", "country": "united states", "market_cap": 21870000000, "sector": "technology"}
+{"name": "ulta beauty, inc", "country": "united states", "market_cap": 21820000000, "sector": "consumer discretionary"}
+{"name": "dai-ichi life holdings, inc", "country": "japan", "market_cap": 21760000000, "sector": "financials"}
+{"name": "m&t bank corporation", "country": "united states", "market_cap": 21740000000, "sector": "financials"}
+{"name": "keycorp", "country": "united states", "market_cap": 21710000000, "sector": "financials"}
+{"name": "teledyne technologies incorporated", "country": "united states", "market_cap": 21650000000, "sector": "technology"}
+{"name": "b3 sa - brasil, bolsa, balcao", "country": "brazil", "market_cap": 21580000000, "sector": "financials"}
+{"name": "contura energy, inc", "country": "united states", "market_cap": 21570000000, "sector": "energy"}
+{"name": "shimano, inc", "country": "japan", "market_cap": 21510000000, "sector": "consumer discretionary"}
+{"name": "power corporation of canada", "country": "canada", "market_cap": 21480000000, "sector": "financials"}
+{"name": "jb hunt transport services, inc", "country": "united states", "market_cap": 21480000000, "sector": "industrials"}
+{"name": "mitsui fudosan co ltd", "country": "japan", "market_cap": 21460000000, "sector": "real estate"}
+{"name": "the saudi british bank", "country": "saudi arabia", "market_cap": 21450000000, "sector": "financials"}
+{"name": "sgs sa", "country": "switzerland", "market_cap": 21430000000, "sector": "industrials"}
+{"name": "teck resources limited", "country": "canada", "market_cap": 21410000000, "sector": "basic materials"}
+{"name": "rede d'or sao luiz sa", "country": "brazil", "market_cap": 21400000000, "sector": "healthcare"}
+{"name": "nexon co ltd", "country": "japan", "market_cap": 21360000000, "sector": "communication services"}
+{"name": "the cooper companies, inc", "country": "united states", "market_cap": 21350000000, "sector": "healthcare"}
+{"name": "legal & general group plc", "country": "united kingdom", "market_cap": 21340000000, "sector": "financials"}
+{"name": "regions financial corporation", "country": "united states", "market_cap": 21320000000, "sector": "financials"}
+{"name": "wheaton precious metals corp", "country": "canada", "market_cap": 21260000000, "sector": "basic materials"}
+{"name": "zoominfo technologies inc", "country": "united states", "market_cap": 21230000000, "sector": "technology"}
+{"name": "viacomcbs inc", "country": "united states", "market_cap": "", "sector": "communication services"}
+{"name": "china northern rare earth", "country": "china", "market_cap": 21210000000, "sector": "basic materials"}
+{"name": "seagate technology plc", "country": "ireland", "market_cap": 21210000000, "sector": "technology"}
+{"name": "china mengniu dairy co ltd", "country": "hong kong", "market_cap": 21170000000, "sector": "consumer staples"}
+{"name": "ingersoll rand inc", "country": "united states", "market_cap": 21130000000, "sector": "industrials"}
+{"name": "segro plc", "country": "united kingdom", "market_cap": 21080000000, "sector": "real estate"}
+{"name": "yandex nv", "country": "netherlands", "market_cap": "", "sector": "communication services"}
+{"name": "microchip technology incorporated", "country": "united states", "market_cap": 21030000000, "sector": "technology"}
+{"name": "hubspot, inc", "country": "united states", "market_cap": 20930000000, "sector": "technology"}
+{"name": "fleetcor technologies, inc", "country": "united states", "market_cap": 20920000000, "sector": "technology"}
+{"name": "fortive corporation", "country": "united states", "market_cap": 20880000000, "sector": "technology"}
+{"name": "applovin corp", "country": "united states", "market_cap": 20860000000, "sector": "technology"}
+{"name": "royal caribbean cruises ltd", "country": "united states", "market_cap": 20810000000, "sector": "consumer discretionary"}
+{"name": "repsol sa", "country": "spain", "market_cap": 20800000000, "sector": "energy"}
+{"name": "marubeni corp", "country": "japan", "market_cap": 20780000000, "sector": "industrials"}
+{"name": "standard chartered plc", "country": "united kingdom", "market_cap": 20780000000, "sector": "financials"}
+{"name": "li ning co ltd", "country": "china", "market_cap": 20750000000, "sector": "consumer discretionary"}
+{"name": "c energy corporation", "country": "united states", "market_cap": 20730000000, "sector": "utilities"}
+{"name": "steris corp", "country": "united states", "market_cap": "", "sector": "healthcare"}
+{"name": "advanced info service pcl", "country": "thailand", "market_cap": 20650000000, "sector": "communication services"}
+{"name": "kyocera corp", "country": "japan", "market_cap": 20620000000, "sector": "technology"}
+{"name": "pembina pipeline corporation", "country": "canada", "market_cap": 20610000000, "sector": "energy"}
+{"name": "flutter entertainment plc", "country": "ireland", "market_cap": 20580000000, "sector": "consumer discretionary"}
+{"name": "sojitz corp", "country": "japan", "market_cap": 20550000000, "sector": "industrials"}
+{"name": "boston properties, inc", "country": "united states", "market_cap": 20540000000, "sector": "real estate"}
+{"name": "synchrony financial", "country": "united states", "market_cap": 20430000000, "sector": "financials"}
+{"name": "alinma bank", "country": "saudi arabia", "market_cap": 20410000000, "sector": "financials"}
+{"name": "investment ab latour", "country": "sweden", "market_cap": 20390000000, "sector": "financials"}
+{"name": "mitsubishi estate co ltd", "country": "japan", "market_cap": 20390000000, "sector": "real estate"}
+{"name": "guotai junan securities co ltd", "country": "china", "market_cap": 20390000000, "sector": "financials"}
+{"name": "nippon paint holdings co ltd", "country": "japan", "market_cap": 20380000000, "sector": "basic materials"}
+{"name": "carvana co", "country": "united states", "market_cap": 20330000000, "sector": "consumer discretionary"}
+{"name": "markel corporation", "country": "united states", "market_cap": 20300000000, "sector": "financials"}
+{"name": "brown & brown, inc", "country": "united states", "market_cap": 20270000000, "sector": "financials"}
+{"name": "nomura research institute ltd", "country": "japan", "market_cap": 20260000000, "sector": "technology"}
+{"name": "mgm resorts international", "country": "united states", "market_cap": 20220000000, "sector": "consumer discretionary"}
+{"name": "mega financial holding co ltd", "country": "taiwan", "market_cap": 20210000000, "sector": "financials"}
+{"name": "telefonica brasil sa", "country": "brazil", "market_cap": 20190000000, "sector": "communication services"}
+{"name": "swiss life holding ag", "country": "switzerland", "market_cap": 20160000000, "sector": "financials"}
+{"name": "telenor asa", "country": "", "market_cap": 20150000000, "sector": ""}
+{"name": "china railway group ltd", "country": "hong kong", "market_cap": 20150000000, "sector": "industrials"}
+{"name": "ctbc financial holding co ltd", "country": "taiwan", "market_cap": 20150000000, "sector": "financials"}
+{"name": "imperial brands plc", "country": "united kingdom", "market_cap": 20140000000, "sector": "consumer staples"}
+{"name": "principal financial group, inc", "country": "united states", "market_cap": 20130000000, "sector": "financials"}
+{"name": "norsk hydro asa", "country": "", "market_cap": 20100000000, "sector": ""}
+{"name": "perkinelmer, inc", "country": "united states", "market_cap": 20050000000, "sector": "healthcare"}
+{"name": "hannover ruck se", "country": "germany", "market_cap": 20020000000, "sector": "financials"}
+{"name": "sun communities, inc", "country": "united states", "market_cap": 19980000000, "sector": "real estate"}
+{"name": "tradeweb markets inc", "country": "united states", "market_cap": 19980000000, "sector": "financials"}
+{"name": "trina solar co ltd", "country": "china", "market_cap": 19940000000, "sector": "technology"}
+{"name": "vedanta limited", "country": "india", "market_cap": 19930000000, "sector": "basic materials"}
+{"name": "paycom software, inc", "country": "united states", "market_cap": 19870000000, "sector": "technology"}
+{"name": "klabin sa", "country": "brazil", "market_cap": "", "sector": "basic materials"}
+{"name": "kao corp", "country": "japan", "market_cap": 19850000000, "sector": "consumer staples"}
+{"name": "teradyne, inc", "country": "united states", "market_cap": 19850000000, "sector": "technology"}
+{"name": "china resources beer holdings company ltd", "country": "hong kong", "market_cap": 19840000000, "sector": "consumer staples"}
+{"name": "china communications construction co ltd", "country": "china", "market_cap": 19830000000, "sector": "industrials"}
+{"name": "aviva plc", "country": "united kingdom", "market_cap": 19820000000, "sector": "financials"}
+{"name": "standard bank group ltd", "country": "south africa", "market_cap": 19820000000, "sector": "financials"}
+{"name": "ryanair holdings plc", "country": "ireland", "market_cap": "", "sector": "industrials"}
+{"name": "hologic, inc", "country": "united states", "market_cap": 19750000000, "sector": "healthcare"}
+{"name": "kerry group plc", "country": "ireland", "market_cap": 19740000000, "sector": "consumer staples"}
+{"name": "renesas electronics corp", "country": "japan", "market_cap": 19730000000, "sector": "technology"}
+{"name": "brookfield infrastructure partners lp", "country": "", "market_cap": 19700000000, "sector": ""}
+{"name": "shiseido co ltd", "country": "japan", "market_cap": 19690000000, "sector": "consumer staples"}
+{"name": "cgi inc", "country": "canada", "market_cap": 19670000000, "sector": "technology"}
+{"name": "henderson land development co ltd", "country": "hong kong", "market_cap": 19670000000, "sector": "real estate"}
+{"name": "billcom holdings, inc", "country": "united states", "market_cap": 19650000000, "sector": "technology"}
+{"name": "shanghai fosun pharmaceutical", "country": "china", "market_cap": 19630000000, "sector": "healthcare"}
+{"name": "akamai technologies, inc", "country": "united states", "market_cap": 19590000000, "sector": "technology"}
+{"name": "china tower corp ltd", "country": "china", "market_cap": 19550000000, "sector": "communication services"}
+{"name": "huatai securities co, ltd", "country": "china", "market_cap": 19550000000, "sector": "financials"}
+{"name": "marathon oil corporation", "country": "united states", "market_cap": 19540000000, "sector": "energy"}
+{"name": "arch capital group ltd", "country": "", "market_cap": 19540000000, "sector": ""}
+{"name": "transunion", "country": "united states", "market_cap": 19530000000, "sector": "industrials"}
+{"name": "jbs sa", "country": "brazil", "market_cap": 19530000000, "sector": "consumer staples"}
+{"name": "shenzhou international group holdings ltd", "country": "hong kong", "market_cap": 19500000000, "sector": "consumer discretionary"}
+{"name": "avantor, inc", "country": "united states", "market_cap": 19480000000, "sector": "basic materials"}
+{"name": "molina healthcare, inc", "country": "united states", "market_cap": 19460000000, "sector": "healthcare"}
+{"name": "ferrovial, sa", "country": "spain", "market_cap": 19440000000, "sector": "industrials"}
+{"name": "edp - energias de portugal sa", "country": "", "market_cap": 19430000000, "sector": ""}
+{"name": "fresenius medical care ag & co kgaa", "country": "germany", "market_cap": 19420000000, "sector": "healthcare"}
+{"name": "svenska handelsbanken ab", "country": "sweden", "market_cap": 19420000000, "sector": "financials"}
+{"name": "kb financial group inc", "country": "south korea", "market_cap": 19390000000, "sector": "financials"}
+{"name": "magna international inc", "country": "canada", "market_cap": 19360000000, "sector": "consumer discretionary"}
+{"name": "snam spa", "country": "italy", "market_cap": 19270000000, "sector": "utilities"}
+{"name": "cgn power co ltd", "country": "china", "market_cap": 19250000000, "sector": "utilities"}
+{"name": "croda international plc", "country": "united kingdom", "market_cap": "", "sector": "basic materials"}
+{"name": "warner music group corp", "country": "united states", "market_cap": 19210000000, "sector": "communication services"}
+{"name": "zhejiang huayou cobalt co ltd", "country": "china", "market_cap": 19200000000, "sector": "basic materials"}
+{"name": "ss&c technologies holdings, inc", "country": "united states", "market_cap": 19150000000, "sector": "technology"}
+{"name": "carlsberg a-s", "country": "denmark", "market_cap": 19120000000, "sector": "consumer staples"}
+{"name": "nice ltd", "country": "israel", "market_cap": "", "sector": "technology"}
+{"name": "waters corporation", "country": "united states", "market_cap": 19110000000, "sector": "healthcare"}
+{"name": "otsuka holdings co ltd", "country": "japan", "market_cap": 19030000000, "sector": "healthcare"}
+{"name": "tenaris sa", "country": "", "market_cap": 18980000000, "sector": ""}
+{"name": "citizens financial group, inc", "country": "united states", "market_cap": 18950000000, "sector": "financials"}
+{"name": "check point software technologies ltd", "country": "israel", "market_cap": 18940000000, "sector": "technology"}
+{"name": "toshiba corp", "country": "japan", "market_cap": 18930000000, "sector": "industrials"}
+{"name": "lg electronics, inc", "country": "south korea", "market_cap": 18910000000, "sector": "technology"}
+{"name": "astra international tbk pt", "country": "indonesia", "market_cap": 18900000000, "sector": "consumer discretionary"}
+{"name": "omnicom group inc", "country": "united states", "market_cap": 18800000000, "sector": "communication services"}
+{"name": "aecc aviation power co,ltd", "country": "china", "market_cap": 18790000000, "sector": "industrials"}
+{"name": "international paper company", "country": "united states", "market_cap": "", "sector": "consumer discretionary"}
+{"name": "scottish mortgage investment trust plc", "country": "united kingdom", "market_cap": 18780000000, "sector": "financials"}
+{"name": "george weston limited", "country": "canada", "market_cap": 18770000000, "sector": "consumer staples"}
+{"name": "netapp, inc", "country": "united states", "market_cap": 18760000000, "sector": "technology"}
+{"name": "healthpeak properties, inc", "country": "united states", "market_cap": 18760000000, "sector": "real estate"}
+{"name": "&ad insurance group holdings, inc", "country": "japan", "market_cap": 18750000000, "sector": "financials"}
+{"name": "the liberty siriusxm group", "country": "united states", "market_cap": 18740000000, "sector": "communication services"}
+{"name": "credit suisse group ag", "country": "switzerland", "market_cap": 18720000000, "sector": "financials"}
+{"name": "air china ltd", "country": "china", "market_cap": 18720000000, "sector": "industrials"}
+{"name": "power construction corp of china ltd", "country": "china", "market_cap": 18690000000, "sector": "industrials"}
+{"name": "jd health international, inc", "country": "china", "market_cap": 18690000000, "sector": "healthcare"}
+{"name": "south32 limited", "country": "australia", "market_cap": 18670000000, "sector": "basic materials"}
+{"name": "huaneng power international, inc", "country": "china", "market_cap": 18570000000, "sector": "utilities"}
+{"name": "heico corporation", "country": "united states", "market_cap": 18490000000, "sector": "industrials"}
+{"name": "gf securities co ltd", "country": "china", "market_cap": 18440000000, "sector": "financials"}
+{"name": "genuine parts company", "country": "united states", "market_cap": 18410000000, "sector": "consumer discretionary"}
+{"name": "vodacom group ltd", "country": "south africa", "market_cap": 18410000000, "sector": "communication services"}
+{"name": "take-two interactive software, inc", "country": "united states", "market_cap": 18350000000, "sector": "communication services"}
+{"name": "china merchants securities co ltd", "country": "china", "market_cap": 18350000000, "sector": "financials"}
+{"name": "alnylam pharmaceuticals, inc", "country": "united states", "market_cap": 18330000000, "sector": "healthcare"}
+{"name": "aeon co ltd", "country": "japan", "market_cap": 18320000000, "sector": "consumer discretionary"}
+{"name": "link real estate investment trust", "country": "hong kong", "market_cap": 18270000000, "sector": "real estate"}
+{"name": "shionogi & co ltd", "country": "japan", "market_cap": 18270000000, "sector": "healthcare"}
+{"name": "ubiquiti inc", "country": "united states", "market_cap": 18250000000, "sector": "technology"}
+{"name": "quanta services, inc", "country": "united states", "market_cap": 18250000000, "sector": "industrials"}
+{"name": "catalent, inc", "country": "united states", "market_cap": 18240000000, "sector": "healthcare"}
+{"name": "haitong securities co ltd", "country": "china", "market_cap": 18230000000, "sector": "financials"}
+{"name": "asahi group holdings ltd", "country": "japan", "market_cap": 18210000000, "sector": "consumer staples"}
+{"name": "capitec bank holdings ltd", "country": "south africa", "market_cap": 18210000000, "sector": "financials"}
+{"name": "restaurant brands international inc", "country": "canada", "market_cap": 18190000000, "sector": "consumer discretionary"}
+{"name": "yum china holdings, inc", "country": "china", "market_cap": 18180000000, "sector": "consumer discretionary"}
+{"name": "cez as", "country": "", "market_cap": "", "sector": ""}
+{"name": "veolia environnement sa", "country": "france", "market_cap": 18140000000, "sector": "industrials"}
+{"name": "avis budget group, inc", "country": "united states", "market_cap": 18120000000, "sector": "industrials"}
+

@@ -1,0 +1,1439 @@
+{"industry": "diversified financials", "founded": "1939", "revenue": 276, "name": "berkshire hathaway", "country": "omaha, nebraska"}
+{"industry": "banking", "founded": "1984", "revenue": 208, "name": "icbc", "country": "beijing, china"}
+{"industry": "oil & gas operations", "founded": "1933", "revenue": 400, "name": "saudi arabian oil company saudi aramco", "country": "dhahran, saudi arabia"}
+{"industry": "banking and financial services", "founded": "2000", "revenue": 124, "name": "jpmorgan chase", "country": "new york, new york"}
+{"industry": "banking", "founded": "2014", "revenue": 202, "name": "china construction bank", "country": "beijing, china"}
+{"industry": "retail and wholesale", "founded": "1994", "revenue": 469, "name": "amazon", "country": "seattle, washington"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1976", "revenue": 378, "name": "apple", "country": "cupertino, california"}
+{"industry": "banking", "founded": "1979", "revenue": 181, "name": "agricultural bank of china", "country": "beijing, china"}
+{"industry": "banking and financial services", "founded": "1904", "revenue": 96, "name": "bank of america", "country": "charlotte, north carolina"}
+{"industry": "consumer durables", "founded": "1937", "revenue": 281, "name": "toyota motor", "country": "toyota, japan"}
+{"industry": "it, internet, software & services", "founded": "1998", "revenue": 257, "name": "alphabet", "country": "mountain view, california"}
+{"industry": "it, internet, software & services", "founded": "1975", "revenue": 184, "name": "microsoft", "country": "redmond, washington"}
+{"industry": "banking", "founded": "1929", "revenue": 152, "name": "bank of china", "country": "beijing, china"}
+{"industry": "conglomerate", "founded": "1938", "revenue": 244, "name": "saung group", "country": "seoul, south korea"}
+{"industry": "oil & gas operations", "founded": "1999", "revenue": 280, "name": "exxonmobil", "country": "irving, texas"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1907", "revenue": 261, "name": "shell", "country": "london, united kingdom"}
+{"industry": "insurance", "founded": "1988", "revenue": 181, "name": "ping an insurance group", "country": "shenzhen, china"}
+{"industry": "banking", "founded": "1852", "revenue": 84, "name": "wells fargo", "country": "san francisco, california"}
+{"industry": "telecommunications services, cable supplier", "founded": "1983", "revenue": 134, "name": "verizon communications", "country": "new york, new york"}
+{"industry": "telecommunications services", "founded": "1876", "revenue": 163, "name": "at&t", "country": "dallas, texas"}
+{"industry": "oil & gas operations", "founded": "1999", "revenue": 380, "name": "petrochina", "country": "beijing, china"}
+{"industry": "insurance", "founded": "1977", "revenue": 297, "name": "unitedhealth group", "country": "minnetonka, minnesota"}
+{"industry": "retailing", "founded": "1962", "revenue": 572, "name": "walmart", "country": "bentonville, arkansas"}
+{"industry": "banking", "founded": "1987", "revenue": 71, "name": "china merchants bank", "country": "shenzhen, china"}
+{"industry": "consumer durables", "founded": "1937", "revenue": 295, "name": "volkswagen group", "country": "wolfsburg, germany"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1879", "revenue": 156, "name": "chevron", "country": "san ramon, california"}
+{"industry": "banking and financial services", "founded": "1812", "revenue": 79, "name": "citigroup", "country": "new york, new york"}
+{"industry": "it software & services", "founded": "1998", "revenue": 86, "name": "tencent holdings", "country": "shenzhen, china"}
+{"industry": "oil & gas operations", "founded": "1924", "revenue": 185, "name": "total", "country": "paris, france"}
+{"industry": "banking", "founded": "1919", "revenue": 77, "name": "postal savings bank of china psbc", "country": "beijing, china"}
+{"industry": "telecommunications services", "founded": "1997", "revenue": 131, "name": "china mobile", "country": "hong kong, hong kong"}
+{"industry": "media & advertising", "founded": "1963", "revenue": 116, "name": "comcast", "country": "philadelphia, pennsylvania"}
+{"industry": "retailing", "founded": "1999", "revenue": 129, "name": "alibaba group", "country": "hangzhou, china"}
+{"industry": "it, internet, software & services", "founded": "2004", "revenue": 117, "name": "meta platfor", "country": "menlo park, california"}
+{"industry": "insurance", "founded": "1890", "revenue": 138, "name": "allianz", "country": "munich, germany"}
+{"industry": "diversified financials", "founded": "1924", "revenue": 60, "name": "morgan stanley", "country": "new york, new york"}
+{"industry": "diversified financials", "founded": "1869", "revenue": 62, "name": "goldman sachs group", "country": "new york, new york"}
+{"industry": "banking", "founded": "1865", "revenue": 59, "name": "hsbc holdings", "country": "london, united kingdom"}
+{"industry": "banking", "founded": "1953", "revenue": 127, "name": "bnp paribas", "country": "paris, france"}
+{"industry": "drugs & biotechnology", "founded": "1886", "revenue": 94, "name": "johnson & johnson", "country": "new brunswick, new jersey"}
+{"industry": "consumer durables", "founded": "1883", "revenue": 178, "name": "mercedes-benz group", "country": "stuttgart, germany"}
+{"industry": "retailing", "founded": "1963", "revenue": 292, "name": "cvs health", "country": "woonsocket, rhode island"}
+{"industry": "telecommunications services", "founded": "1981", "revenue": 96, "name": "softbank", "country": "tokyo, japan"}
+{"industry": "oil & gas operations", "founded": "2000", "revenue": 384, "name": "sinopec", "country": "beijing, china"}
+{"industry": "banking and financial services", "founded": "1864", "revenue": 45, "name": "rbc", "country": "montreal, canada"}
+{"industry": "food, drink & tobacco", "founded": "1866", "revenue": 95, "name": "nestle", "country": "vevey, switzerland"}
+{"industry": "insurance", "founded": "1816", "revenue": 145, "name": "axa group", "country": "paris, france"}
+{"industry": "oil & gas operations", "founded": "1989", "revenue": 117, "name": "gazprom", "country": "st. petersburg, russia"}
+{"industry": "oil & gas operations", "founded": "1909", "revenue": 158, "name": "bp", "country": "london, united kingdom"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1968", "revenue": 79, "name": "intel", "country": "santa clara, california"}
+{"industry": "banking and financial services", "founded": "1855", "revenue": 38, "name": "td bank group", "country": "toronto, canada"}
+{"industry": "telecommunications services", "founded": "1952", "revenue": 110, "name": "nippon telegraph & tel", "country": "tokyo, japan"}
+{"industry": "oil & gas operations", "founded": "1973", "revenue": 86, "name": "reliance industries", "country": "mumbai, india"}
+{"industry": "banking", "founded": "1988", "revenue": 60, "name": "industrial bank", "country": "fuzhou, china"}
+{"industry": "consumer durables", "founded": "1960", "revenue": 89, "name": "sony", "country": "tokyo , japan"}
+{"industry": "banking and financial services", "founded": "1857", "revenue": 78, "name": "santander", "country": "madrid, spain"}
+{"industry": "banking", "founded": "2005", "revenue": 48, "name": "mitsubishi ufj financial", "country": "tokyo, japan"}
+{"industry": "semiconductors", "founded": "1987", "revenue": 61, "name": "taiwan semiconductor", "country": "hsinchu, taiwan"}
+{"industry": "automotive  automotive and suppliers ", "founded": "1903", "revenue": 136, "name": "ford motor", "country": "oakville, ontario"}
+{"industry": "clothing, shoes, sports equipment", "founded": "1987", "revenue": 75, "name": "lvmh moet hennessy louis vuitton", "country": "paris, france"}
+{"industry": "banking", "founded": "1908", "revenue": 76, "name": "bank of communications", "country": "shanghai, china"}
+{"industry": "packaged goods", "founded": "1837", "revenue": 79, "name": "procter & gamble", "country": "cincinnati, ohio"}
+{"industry": "consumer durables", "founded": "1916", "revenue": 131, "name": "bmw group", "country": "munich, germany"}
+{"industry": "oil & gas operations", "founded": "1953", "revenue": 83, "name": "petrobras", "country": "rio de janeiro, brazil"}
+{"industry": "telecommunications services, cable supplier", "founded": "1995", "revenue": 128, "name": "deutsche telekom", "country": "bonn, germany"}
+{"industry": "drugs & biotechnology", "founded": "2013", "revenue": 56, "name": "abbvie", "country": "north chicago, illinois"}
+{"industry": "drugs & biotechnology", "founded": "1996", "revenue": 51, "name": "novartis", "country": "basel, switzerland"}
+{"industry": "automotive  automotive and suppliers ", "founded": "1908", "revenue": 127, "name": "general motors", "country": "detroit, michigan"}
+{"industry": "oil & gas operations", "founded": "1972", "revenue": 88, "name": "equinor", "country": "stavanger, norway"}
+{"industry": "insurance", "founded": "2003", "revenue": 130, "name": "china life insurance", "country": "beijing, china"}
+{"industry": "drugs & biotechnology", "founded": "1896", "revenue": 68, "name": "roche holding", "country": "basel, switzerland"}
+{"industry": "insurance", "founded": "1919", "revenue": 45, "name": "aia group", "country": "hong kong, hong kong"}
+{"industry": "insurance", "founded": "1868", "revenue": 71, "name": "metlife", "country": "new york, new york"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1885", "revenue": 65, "name": "bhp group", "country": "melbourne, australia"}
+{"industry": "banking and financial services", "founded": "1850", "revenue": 46, "name": "american express", "country": "new york, new york"}
+{"industry": "consumer durables", "founded": "2021", "revenue": 176, "name": "stellantis", "country": "a terdam, netherlands"}
+{"industry": "insurance", "founded": "1872", "revenue": 69, "name": "zurich insurance group", "country": "zurich, switzerland"}
+{"industry": "oil & gas operations", "founded": "1993", "revenue": 111, "name": "rosneft", "country": "moscow, russia"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1873", "revenue": 63, "name": "rio tinto", "country": "london, united kingdom"}
+{"industry": "banking and financial services", "founded": "1899", "revenue": 78, "name": "brookfield asset management", "country": "toronto, canada"}
+{"industry": "insurance", "founded": "1792", "revenue": 174, "name": "cigna", "country": "bloomfield, connecticut"}
+{"industry": "banking and financial services", "founded": "1875", "revenue": 70, "name": "prudential financial", "country": "newark, new jersey"}
+{"industry": "food, drink & tobacco", "founded": "1965", "revenue": 79, "name": "pepsico", "country": "purchase, new york"}
+{"industry": "drugs & biotechnology", "founded": "1891", "revenue": 50, "name": "merck & co", "country": "kenilworth, new jersey"}
+{"industry": "drugs & biotechnology", "founded": "2004", "revenue": 144, "name": "elevance health", "country": "indianapolis, indiana"}
+{"industry": "banking", "founded": "1832", "revenue": 30, "name": "bank of nova scotia", "country": "toronto, canada"}
+{"industry": "insurance", "founded": "1919", "revenue": 52, "name": "american international group", "country": "new york, new york"}
+{"industry": "materials", "founded": "1974", "revenue": 203, "name": "glencore international", "country": "baar, switzerland"}
+{"industry": "it, internet, software & services", "founded": "1984", "revenue": 51, "name": "cisco syste", "country": "san jose, california"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "2008", "revenue": 54, "name": "anheuser-busch inbev", "country": "leuven, belgium"}
+{"industry": "media & advertising", "founded": "1923", "revenue": 73, "name": "walt disney", "country": "burbank, california"}
+{"industry": "insurance", "founded": "1985", "revenue": 41, "name": "chubb", "country": "zurich, switzerland"}
+{"industry": "trading companies", "founded": "1979", "revenue": 91, "name": "citic", "country": "hong kong, hong kong"}
+{"industry": "banking", "founded": "2009", "revenue": 58, "name": "lloyds banking group", "country": "london, united kingdom"}
+{"industry": "it, internet, software & services", "founded": "1911", "revenue": 67, "name": "ibm", "country": "armonk, new york"}
+{"industry": "drugs & biotechnology", "founded": "2004", "revenue": 44, "name": "sanofi", "country": "paris, france"}
+{"industry": "transportation and logistics", "founded": "1907", "revenue": 97, "name": "united parcel service", "country": "atlanta, georgia"}
+{"industry": "food, drink & tobacco", "founded": "1902", "revenue": 35, "name": "british american tobacco", "country": "london, united kingdom"}
+{"industry": "banking", "founded": "1862", "revenue": 35, "name": "ubs", "country": "zurich, switzerland"}
+{"industry": "automotive  automotive and suppliers ", "founded": "1959", "revenue": 130, "name": "honda motor", "country": "tokyo, japan"}
+{"industry": "trading companies", "founded": "1870", "revenue": 146, "name": "mitsubishi", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "1982", "revenue": 205, "name": "china state construction engineering", "country": "beijing, china"}
+{"industry": "banking", "founded": "1955", "revenue": 54, "name": "state bank of india", "country": "mumbai, india"}
+{"industry": "banking", "founded": "1911", "revenue": 21, "name": "commonwealth bank", "country": "sydney, australia"}
+{"industry": "banking", "founded": "1992", "revenue": 54, "name": "shanghai pudong development", "country": "shanghai, china"}
+{"industry": "aerospace & defense", "founded": "1922", "revenue": 64, "name": "raytheon technologies", "country": "waltham, massachusetts"}
+{"industry": "utilities", "founded": "1962", "revenue": 99, "name": "enel", "country": "rome, italy"}
+{"industry": "oil & gas operations", "founded": "1953", "revenue": 90, "name": "eni", "country": "rome, italy"}
+{"industry": "banking and financial services", "founded": "1994", "revenue": 32, "name": "capital one", "country": "mclean, virginia"}
+{"industry": "drugs & biotechnology", "founded": "1933", "revenue": 46, "name": "bristol myers squibb", "country": "new york, new york"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "1892", "revenue": 38, "name": "coca-cola", "country": "atlanta, georgia"}
+{"industry": "it, internet, software & services", "founded": "1977", "revenue": 41, "name": "oracle", "country": "redwood shores, california"}
+{"industry": "banking", "founded": "1841", "revenue": 57, "name": "sberbank", "country": "moscow, russia"}
+{"industry": "banking and financial services", "founded": "1817", "revenue": 26, "name": "bank of montreal", "country": "montreal, canada"}
+{"industry": "materials", "founded": "1942", "revenue": 54, "name": "vale", "country": "rio de janeiro, brazil"}
+{"industry": "utilities", "founded": "1955", "revenue": 99, "name": "edf", "country": "paris, france"}
+{"industry": "drugs & biotechnology", "founded": "1983", "revenue": 39, "name": "thermo fisher scientific", "country": "waltham, massachusetts"}
+{"industry": "banking and financial services", "founded": "1894", "revenue": 73, "name": "credit agricole", "country": "montrouge, france"}
+{"industry": "engineering, manufacturing", "founded": "1970", "revenue": 61, "name": "airbus", "country": "leiden, netherlands"}
+{"industry": "retail and wholesale", "founded": "1983", "revenue": 210, "name": "costco wholesale", "country": "issaquah, washington"}
+{"industry": "technology hardware & equipment", "founded": "1974", "revenue": 214, "name": "hon hai precision", "country": "new taipei, taiwan"}
+{"industry": "packaged goods", "founded": "1929", "revenue": 62, "name": "unilever", "country": "london, united kingdom"}
+{"industry": "media", "founded": "1993", "revenue": 51, "name": "charter communications", "country": "stamford, connecticut"}
+{"industry": "banking", "founded": "2002", "revenue": 35, "name": "sumitomo mitsui financial", "country": "tokyo, japan"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1875", "revenue": 46, "name": "conocophillips", "country": "houston, texas"}
+{"industry": "drugs & biotechnology", "founded": "2000", "revenue": 46, "name": "glaxosmithkline", "country": "london, united kingdom"}
+{"industry": "banking", "founded": "2007", "revenue": 47, "name": "intesa sanpaolo", "country": "turin, italy"}
+{"industry": "banking and financial services", "founded": "1887", "revenue": 47, "name": "manulife", "country": "toronto, canada"}
+{"industry": "banking", "founded": "1929", "revenue": 23, "name": "us bancorp", "country": "minneapolis, minnesota"}
+{"industry": "chemicals", "founded": "1865", "revenue": 92, "name": "basf", "country": "ludwigshafen am rhein, germany"}
+{"industry": "oil & gas operations", "founded": "1999", "revenue": 37, "name": "cnooc", "country": "hong kong, hong kong"}
+{"industry": "health care equipment & services", "founded": "1888", "revenue": 44, "name": "abbott laboratories", "country": "chicago, illinois"}
+{"industry": "utilities", "founded": "1992", "revenue": 46, "name": "iberdrola", "country": "bilbao, spain"}
+{"industry": "materials", "founded": "2004", "revenue": 52, "name": "china shenhua energy", "country": "beijing, china"}
+{"industry": "banking", "founded": "1944", "revenue": 36, "name": "itau unibanco holding", "country": "sao paulo, brazil"}
+{"industry": "engineering, manufacturing", "founded": "1925", "revenue": 51, "name": "caterpillar", "country": "deerfield, illinois"}
+{"industry": "trading companies", "founded": "1947", "revenue": 108, "name": "mitsui", "country": "tokyo, japan"}
+{"industry": "trading companies", "founded": "1858", "revenue": 108, "name": "itochu", "country": "tokyo, japan"}
+{"industry": "banking and financial services", "founded": "1971", "revenue": 19, "name": "charles schwab", "country": "san francisco, california"}
+{"industry": "banking", "founded": "1872", "revenue": 23, "name": "truist financial", "country": "charlotte, north carolina"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1949", "revenue": 37, "name": "enbridge", "country": "calgary, canada"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1910", "revenue": 91, "name": "hitachi", "country": "tokyo, japan"}
+{"industry": "telecommunications services", "founded": "1984", "revenue": 49, "name": "kddi", "country": "tokyo, japan"}
+{"industry": "consumer durables", "founded": "1967", "revenue": 102, "name": "hyundai motor", "country": "seoul, south korea"}
+{"industry": "banking", "founded": "1987", "revenue": 57, "name": "china citic bank", "country": "chaoyang, china"}
+{"industry": "banking and financial services", "founded": "1958", "revenue": 25, "name": "visa", "country": "san francisco, california"}
+{"industry": "retail and wholesale", "founded": "1902", "revenue": 106, "name": "target", "country": "minneapolis, minnesota"}
+{"industry": "banking", "founded": "1999", "revenue": 42, "name": "bbva-banco bilbao vizcaya", "country": "madrid, spain"}
+{"industry": "consumer durables", "founded": "2003", "revenue": 53, "name": "tesla", "country": "austin, texas"}
+{"industry": "capital goods", "founded": "1837", "revenue": 44, "name": "deere & company", "country": "moline, illinois"}
+{"industry": "banking", "founded": "1994", "revenue": 22, "name": "hdfc bank", "country": "mumbai, india"}
+{"industry": "banking and financial services", "founded": "1896", "revenue": 30, "name": "barclays", "country": "london, united kingdom"}
+{"industry": "insurance", "founded": "1880", "revenue": 84, "name": "munich re", "country": "munich, germany"}
+{"industry": "insurance", "founded": "1871", "revenue": 103, "name": "japan post holdings", "country": "tokyo, japan"}
+{"industry": "retail and wholesale", "founded": "1901", "revenue": 135, "name": "walgreens", "country": "deerfield, illinois"}
+{"industry": "engineering, manufacturing", "founded": "1984", "revenue": 30, "name": "danaher", "country": "washington, district of columbia"}
+{"industry": "insurance", "founded": "1831", "revenue": 102, "name": "generali group", "country": "trieste, italy"}
+{"industry": "transportation", "founded": "2009", "revenue": 62, "name": "mller-maersk", "country": "copenhagen, denmark"}
+{"industry": "retailing", "founded": "1921", "revenue": 96, "name": "lowe's", "country": "mooresville, north carolina"}
+{"industry": "transportation and logistics", "founded": "1971", "revenue": 91, "name": "fedex", "country": "memphis, tennessee"}
+{"industry": "transportation", "founded": "1995", "revenue": 96, "name": "deutsche post", "country": "bonn, germany"}
+{"industry": "banking and financial services", "founded": "1845", "revenue": 19, "name": "pnc financial services", "country": "pittsburgh, pennsylvania"}
+{"industry": "semiconductors", "founded": "1961", "revenue": 28, "name": "broadcom", "country": "san jose, california"}
+{"industry": "oil & gas operations", "founded": "1991", "revenue": 125, "name": "lukoil", "country": "moscow, russia"}
+{"industry": "health care equipment & services", "founded": "1949", "revenue": 31, "name": "medtronic", "country": "dublin, ireland"}
+{"industry": "it, internet, software & services", "founded": "1972", "revenue": 33, "name": "sap", "country": "walldorf, germany"}
+{"industry": "semiconductors", "founded": "1949", "revenue": 37, "name": "sk hynix", "country": "icheon, south korea"}
+{"industry": "oil & gas operations", "founded": "2008", "revenue": 68, "name": "engie", "country": "la defense, france"}
+{"industry": "aerospace & defense", "founded": "1912", "revenue": 65, "name": "lockheed martin", "country": "bethesda, maryland"}
+{"industry": "diversified financials", "founded": "1988", "revenue": 20, "name": "blackrock", "country": "new york, new york"}
+{"industry": "banking", "founded": "1817", "revenue": 20, "name": "westpac banking group", "country": "sydney, australia"}
+{"industry": "utilities", "founded": "1904", "revenue": 25, "name": "duke energy", "country": "charlotte, north carolina"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1984", "revenue": 106, "name": "dell technologies", "country": "round rock, texas"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1899", "revenue": 59, "name": "vinci", "country": "nanterre, france"}
+{"industry": "insurance", "founded": "1879", "revenue": 50, "name": "tokio marine holdings", "country": "tokyo, japan"}
+{"industry": "telecommunications services, cable supplier", "founded": "2000", "revenue": 48, "name": "america movil", "country": "mexico city, mexico"}
+{"industry": "utilities", "founded": "2000", "revenue": 91, "name": "eon", "country": "essen, germany"}
+{"industry": "materials", "founded": "1917", "revenue": 41, "name": "anglo american", "country": "london, united kingdom"}
+{"industry": "banking", "founded": "1943", "revenue": 28, "name": "banco bradesco", "country": "osasco, brazil"}
+{"industry": "diversified financials", "founded": "1991", "revenue": 21, "name": "ing group", "country": "a terdam, netherlands"}
+{"industry": "professional services", "founded": "1955", "revenue": 56, "name": "accenture", "country": "dulin, ireland"}
+{"industry": "conglomerates", "founded": "1906", "revenue": 34, "name": "honeywell international", "country": "charlotte, north carolina"}
+{"industry": "banking", "founded": "2003", "revenue": 26, "name": "mizuho financial", "country": "tokyo, japan"}
+{"industry": "chemicals", "founded": "1879", "revenue": 30, "name": "linde", "country": "guildford, united kingdom"}
+{"industry": "materials", "founded": "2006", "revenue": 76, "name": "arcelormittal", "country": "luxembourg, luxembourg"}
+{"industry": "banking", "founded": "1867", "revenue": 18, "name": "canadian imperial bank", "country": "toronto, canada"}
+{"industry": "construction", "founded": "1992", "revenue": 42, "name": "poly developments & holdings group", "country": "guangzhou, china"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1978", "revenue": 31, "name": "micron technology", "country": "boise, idaho"}
+{"industry": "banking and financial services", "founded": "1835", "revenue": 18, "name": "anz", "country": "melbourne, australia"}
+{"industry": "insurance", "founded": "2001", "revenue": 33, "name": "fubon financial", "country": "taipei, taiwan"}
+{"industry": "telecommunications services", "founded": "2002", "revenue": 68, "name": "china telecom", "country": "beijing, china"}
+{"industry": "health care equipment & services", "founded": "1968", "revenue": 59, "name": "hca healthcare", "country": "nashville, tennessee"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1897", "revenue": 58, "name": "dow", "country": "midland, michigan"}
+{"industry": "telecommunications services", "founded": "1924", "revenue": 46, "name": "telefonica", "country": "madrid, spain"}
+{"industry": "construction", "founded": "1984", "revenue": 71, "name": "china vanke", "country": "shenzhen, china"}
+{"industry": "banking", "founded": "1981", "revenue": 15, "name": "nab - national australia bank", "country": "melbourne, australia"}
+{"industry": "insurance", "founded": "1975", "revenue": 34, "name": "cathay financial", "country": "taipei, taiwan"}
+{"industry": "semiconductors", "founded": "1985", "revenue": 36, "name": "qualcomm", "country": "san diego, california"}
+{"industry": "packaged goods", "founded": "1909", "revenue": 38, "name": "l'oreal", "country": "clichy, france"}
+{"industry": "insurance", "founded": "1931", "revenue": 50, "name": "allstate", "country": "markham, ontario"}
+{"industry": "consumer durables", "founded": "1955", "revenue": 121, "name": "saic motor", "country": "shanghai, china"}
+{"industry": "banking", "founded": "1994", "revenue": 21, "name": "icici bank", "country": "vadodara, india"}
+{"industry": "banking", "founded": "1992", "revenue": 42, "name": "china everbright bank", "country": "beijing, china"}
+{"industry": "drugs & biotechnology", "founded": "1987", "revenue": 27, "name": "gilead sciences", "country": "foster city, california"}
+{"industry": "insurance", "founded": "1991", "revenue": 68, "name": "china pacific insurance", "country": "shanghai, china"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1993", "revenue": 26, "name": "nvidia", "country": "santa clara, california"}
+{"industry": "drugs & biotechnology", "founded": "1980", "revenue": 26, "name": "amgen", "country": "thousand oaks, california"}
+{"industry": "transportation", "founded": "1862", "revenue": 22, "name": "union pacific", "country": "omaha, nebraska"}
+{"industry": "insurance", "founded": "1902", "revenue": 66, "name": "dai-ichi life insurance", "country": "tokyo, japan"}
+{"industry": "clothing, shoes, sports equipment", "founded": "1964", "revenue": 46, "name": "nike", "country": "beaverton, oregon"}
+{"industry": "drugs & biotechnology", "founded": "1781", "revenue": 31, "name": "takeda pharmaceutical", "country": "tokyo, japan"}
+{"industry": "food, drink & tobacco", "founded": "1847", "revenue": 31, "name": "philip morris international", "country": "new york, new york"}
+{"industry": "banking and financial services", "founded": "1998", "revenue": 25, "name": "paypal", "country": "san jose, california"}
+{"industry": "construction", "founded": "1994", "revenue": 33, "name": "china resources land", "country": "hong kong, hong kong"}
+{"industry": "banking", "founded": "1912", "revenue": 22, "name": "oversea-chinese banking", "country": "singapore, singapore"}
+{"industry": "engineering, manufacturing", "founded": "1968", "revenue": 50, "name": "midea group", "country": "guandong, china"}
+{"industry": "insurance", "founded": "1864", "revenue": 35, "name": "travelers", "country": "new york, new york"}
+{"industry": "drugs & biotechnology", "founded": "1876", "revenue": 28, "name": "eli lilly", "country": "indianapolis, indiana"}
+{"industry": "food, drink & tobacco", "founded": "2012", "revenue": 28, "name": "mondelez international", "country": "chicago, illinois"}
+{"industry": "hotels, restaurants & leisure", "founded": "1955", "revenue": 23, "name": "mcdonald's", "country": "chicago, illinois"}
+{"industry": "engineering, manufacturing", "founded": "1892", "revenue": 74, "name": "general electric", "country": "mississauga, ontario"}
+{"industry": "banking and financial services", "founded": "1864", "revenue": 35, "name": "societe generale", "country": "paris, france"}
+{"industry": "engineering, manufacturing", "founded": "1836", "revenue": 34, "name": "schneider electric", "country": "rueil-malmaison, france"}
+{"industry": "packaged goods", "founded": "1902", "revenue": 35, "name": "3m", "country": "st. paul, minnesota"}
+{"industry": "insurance", "founded": "1955", "revenue": 22, "name": "aflac", "country": "columbus, ohio"}
+{"industry": "oil & gas operations", "founded": "1956", "revenue": 66, "name": "oil & natural gas", "country": "new delhi, india"}
+{"industry": "utilities", "founded": "1945", "revenue": 23, "name": "southern company", "country": "atlanta, georgia"}
+{"industry": "banking", "founded": "1870", "revenue": 36, "name": "deutsche bank", "country": "frankfurt, germany"}
+{"industry": "oil & gas operations", "founded": "1978", "revenue": 70, "name": "ptt", "country": "bangkok, thailand"}
+{"industry": "conglomerates", "founded": "2014", "revenue": 36, "name": "ck hutchison", "country": "hong kong, hong kong"}
+{"industry": "oil & gas operations", "founded": "1973", "revenue": 24, "name": "canadian natural resources", "country": "calgary, canada"}
+{"industry": "banking and financial services", "founded": "1865", "revenue": 29, "name": "sun life financial", "country": "toronto, canada"}
+{"industry": "aerospace & defense", "founded": "1939", "revenue": 35, "name": "northrop grumman", "country": "falls church, virginia"}
+{"industry": "food, drink & tobacco", "founded": "1902", "revenue": 85, "name": "archer daniels midland", "country": "chicago, illinois"}
+{"industry": "oil & gas operations", "founded": "2009", "revenue": 119, "name": "marathon petroleum", "country": "findlay, ohio"}
+{"industry": "banking", "founded": "1996", "revenue": 50, "name": "china minsheng bank", "country": "beijing, china"}
+{"industry": "insurance", "founded": "1836", "revenue": 62, "name": "legal & general group", "country": "london, united kingdom"}
+{"industry": "media & advertising", "founded": "1997", "revenue": 30, "name": "netflix", "country": "los gatos, california"}
+{"industry": "insurance", "founded": "1937", "revenue": 48, "name": "progressive", "country": "mayfield village, ohio"}
+{"industry": "construction", "founded": "1993", "revenue": 34, "name": "longfor group holdings", "country": "beijing, china"}
+{"industry": "banking", "founded": "1968", "revenue": 12, "name": "dbs", "country": "singapore, singapore"}
+{"industry": "transportation", "founded": "2005", "revenue": 51, "name": "cosco shipping", "country": "tianjin, china"}
+{"industry": "construction", "founded": "2006", "revenue": 108, "name": "china communications construction", "country": "beijing, china"}
+{"industry": "banking", "founded": "1968", "revenue": 17, "name": "natwest group", "country": "edinburgh, united kingdom"}
+{"industry": "utilities", "founded": "2000", "revenue": 39, "name": "exelon", "country": "chicago, illinois"}
+{"industry": "drugs & biotechnology", "founded": "1961", "revenue": 84, "name": "humana", "country": "louisville, kentucky"}
+{"industry": "aerospace & defense", "founded": "1952", "revenue": 38, "name": "general dynamics", "country": "reston, virginia"}
+{"industry": "diversified financials", "founded": "1925", "revenue": 57, "name": "power corp of canada", "country": "montreal, canada"}
+{"industry": "banking", "founded": "1964", "revenue": 14, "name": "qatar national bank", "country": "doha, qatar"}
+{"industry": "drugs & biotechnology", "founded": "1863", "revenue": 52, "name": "bayer", "country": "leverkusen, germany"}
+{"industry": "diversified financials", "founded": "1976", "revenue": 19, "name": "kkr", "country": "new york, new york"}
+{"industry": "construction", "founded": "1992", "revenue": 81, "name": "country garden holdings", "country": "foshan, china"}
+{"industry": "utilities", "founded": "1984", "revenue": 23, "name": "nextera energy", "country": "juno beach, florida"}
+{"industry": "banking", "founded": "1963", "revenue": 33, "name": "kb financial group", "country": "seoul, south korea"}
+{"industry": "construction", "founded": "1989", "revenue": 166, "name": "china railway group", "country": "beijing, china"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1939", "revenue": 65, "name": "hp", "country": "palo alto, california"}
+{"industry": "banking", "founded": "1974", "revenue": 13, "name": "nordea bank", "country": "helsinki, finland"}
+{"industry": "food markets", "founded": "2005", "revenue": 78, "name": "seven & i holdings", "country": "tokyo, japan"}
+{"industry": "oil & gas operations", "founded": "1919", "revenue": 31, "name": "suncor energy", "country": "calgary, canada"}
+{"industry": "it, internet, software & services", "founded": "1999", "revenue": 26, "name": "salesforcecom", "country": "san francisco, california"}
+{"industry": "chemicals", "founded": "1902", "revenue": 27, "name": "air liquide", "country": "paris, france"}
+{"industry": "consumer durables", "founded": "1949", "revenue": 49, "name": "denso", "country": "kariya, japan"}
+{"industry": "banking", "founded": "1965", "revenue": 16, "name": "bank of new york mellon", "country": "new york, new york"}
+{"industry": "business services & supplies", "founded": "1966", "revenue": 18, "name": "mastercard", "country": "new york, new york"}
+{"industry": "banking", "founded": "1808", "revenue": 29, "name": "banco do brasil", "country": "brasilia, brazil"}
+{"industry": "drugs & biotechnology", "founded": "1984", "revenue": 126, "name": "centene", "country": "st. louis, missouri"}
+{"industry": "business services & supplies", "founded": "1977", "revenue": 18, "name": "hdfc", "country": "mumbai, india"}
+{"industry": "materials", "founded": "1897", "revenue": 24, "name": "freeport-mcmoran", "country": "phoenix, arizona"}
+{"industry": "drugs & biotechnology", "founded": "1668", "revenue": 23, "name": "merck kgaa, dartadt, germany and its affiliates", "country": "dar tadt, germany"}
+{"industry": "banking", "founded": "1980", "revenue": 14, "name": "caixabank", "country": "valencia, spain"}
+{"industry": "conglomerates", "founded": "1883", "revenue": 28, "name": "abb", "country": "zurich, switzerland"}
+{"industry": "consumer durables", "founded": "1927", "revenue": 43, "name": "volvo group", "country": "goteborg, sweden"}
+{"industry": "oil & gas operations", "founded": "1920", "revenue": 26, "name": "occidental petroleum", "country": "houston, texas"}
+{"industry": "utilities", "founded": "1990", "revenue": 20, "name": "national grid", "country": "london, united kingdom"}
+{"industry": "drugs & biotechnology", "founded": "1833", "revenue": 257, "name": "mckesson", "country": "irving, texas"}
+{"industry": "diversified financials", "founded": "2001", "revenue": 29, "name": "shinhan financial group", "country": "seoul, south korea"}
+{"industry": "semiconductors", "founded": "1984", "revenue": 20, "name": "asml holding", "country": "veldhoven, netherlands"}
+{"industry": "chemicals", "founded": "2017", "revenue": 27, "name": "nutrien", "country": "saskatoon, canada"}
+{"industry": "diversified financials", "founded": "1916", "revenue": 12, "name": "investor ab", "country": "stockholm, sweden"}
+{"industry": "consumer durables", "founded": "1944", "revenue": 61, "name": "kia", "country": "seoul, south korea"}
+{"industry": "construction", "founded": "1665", "revenue": 52, "name": "saint-gobain", "country": "la defense, france"}
+{"industry": "drugs & biotechnology", "founded": "1989", "revenue": 22, "name": "novo nordisk", "country": "bagsvrd, denmark"}
+{"industry": "materials", "founded": "1968", "revenue": 66, "name": "posco", "country": "seoul, south korea"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "1997", "revenue": 19, "name": "diageo", "country": "london, united kingdom"}
+{"industry": "food markets", "founded": "2016", "revenue": 89, "name": "royal ahold delhaize nv", "country": "zaandam, netherlands"}
+{"industry": "insurance", "founded": "1949", "revenue": 90, "name": "picc", "country": "beijing, china"}
+{"industry": "utilities", "founded": "1983", "revenue": 14, "name": "dominion energy", "country": "richmond, virginia"}
+{"industry": "food markets", "founded": "1883", "revenue": 137, "name": "kroger", "country": "cincinnati, ohio"}
+{"industry": "materials", "founded": "2000", "revenue": 55, "name": "baoshan iron & steel", "country": "shanghai, china"}
+{"industry": "food, drink & tobacco", "founded": "1999", "revenue": 14, "name": "kweichow moutai", "country": "renhuai, china"}
+{"industry": "technology hardware & equipment", "founded": "2010", "revenue": 50, "name": "xiaomi", "country": "beijing, china"}
+{"industry": "banking", "founded": "1997", "revenue": 13, "name": "bank of ningbo", "country": "ningbo, china"}
+{"industry": "oil & gas operations", "founded": "1948", "revenue": 23, "name": "ecopetrol", "country": "bogota, colombia"}
+{"industry": "chemicals", "founded": "2007", "revenue": 46, "name": "lyondellbasell industries", "country": "london, united kingdom"}
+{"industry": "capital goods", "founded": "2011", "revenue": 20, "name": "contemporary amperex technology", "country": "ningde, china"}
+{"industry": "banking", "founded": "1998", "revenue": 27, "name": "unicredit", "country": "milan, italy"}
+{"industry": "drugs & biotechnology", "founded": "1969", "revenue": 221, "name": "amerisourcebergen", "country": "chesterbrook, pennsylvania"}
+{"industry": "health care equipment & services", "founded": "2018", "revenue": 23, "name": "essilorluxottica", "country": "paris, france"}
+{"industry": "retail and wholesale", "founded": "1985", "revenue": 32, "name": "inditex", "country": "arteixo, spain"}
+{"industry": "restaurants", "founded": "1971", "revenue": 30, "name": "starbucks", "country": "seattle, washington"}
+{"industry": "materials", "founded": "1905", "revenue": 40, "name": "nucor", "country": "charlotte, north carolina"}
+{"industry": "diversified financials", "founded": "2000", "revenue": 10, "name": "intercontinentalexchange", "country": "atlanta, georgia"}
+{"industry": "retailing", "founded": "1976", "revenue": 48, "name": "tjx cos", "country": "framingham, massachusetts"}
+{"industry": "banking", "founded": "1935", "revenue": 14, "name": "kbc group", "country": "brussels, belgium"}
+{"industry": "retail and wholesale", "founded": "1919", "revenue": 84, "name": "tesco", "country": "welwyn garden city, united kingdom"}
+{"industry": "technology hardware & equipment", "founded": "1993", "revenue": 33, "name": "boe technology group", "country": "beijing, china"}
+{"industry": "diversified financials", "founded": "1985", "revenue": 15, "name": "blackstone", "country": "new york, new york"}
+{"industry": "utilities", "founded": "1906", "revenue": 16, "name": "american electric", "country": "columbus, ohio"}
+{"industry": "diversified financials", "founded": "1985", "revenue": 11, "name": "macquarie group", "country": "sydney, australia"}
+{"industry": "trading companies", "founded": "1858", "revenue": 72, "name": "marubeni", "country": "tokyo, japan"}
+{"industry": "insurance", "founded": "1863", "revenue": 46, "name": "swiss re", "country": "zurich, switzerland"}
+{"industry": "oil & gas operations", "founded": "1985", "revenue": 19, "name": "eog resources", "country": "houston, texas"}
+{"industry": "insurance", "founded": "1959", "revenue": 51, "name": "cnp assurances", "country": "paris, france"}
+{"industry": "business services & supplies", "founded": "1949", "revenue": 15, "name": "automatic data processing", "country": "roseland, new jersey"}
+{"industry": "oil & gas operations", "founded": "2012", "revenue": 111, "name": "phillips 66", "country": "houston, texas"}
+{"industry": "food, drink & tobacco", "founded": "1935", "revenue": 49, "name": "tyson foods", "country": "springdale, arkansas"}
+{"industry": "oil & gas operations", "founded": "1987", "revenue": 58, "name": "repsol", "country": "madrid, spain"}
+{"industry": "trading companies", "founded": "1952", "revenue": 48, "name": "sumitomo", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "1912", "revenue": 29, "name": "holcim", "country": "zug, switzerland"}
+{"industry": "food, drink & tobacco", "founded": "1919", "revenue": 21, "name": "altria group", "country": "richmond, virginia"}
+{"industry": "semiconductors", "founded": "1967", "revenue": 24, "name": "applied materials", "country": "santa clara, california"}
+{"industry": "transportation", "founded": "", "revenue": 47, "name": "daimler truck holding", "country": "leinfelden-echterdingen, germany"}
+{"industry": "materials", "founded": "1986", "revenue": 37, "name": "zijin mining group", "country": "longyan, china"}
+{"industry": "banking", "founded": "1953", "revenue": 8, "name": "the saudi national bank", "country": "riyadh, saudi arabia"}
+{"industry": "clothing, shoes, sports equipment", "founded": "1988", "revenue": 19, "name": "richemont", "country": "bellevue, switzerland"}
+{"industry": "clothing, shoes, sports equipment", "founded": "1963", "revenue": 20, "name": "kering", "country": "paris, france"}
+{"industry": "utilities", "founded": "2000", "revenue": 18, "name": "saudi electricity", "country": "riyadh, saudi arabia"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "1919", "revenue": 28, "name": "da", "country": "paris, france"}
+{"industry": "materials", "founded": "1950", "revenue": 57, "name": "nippon steel", "country": "tokyo, japan"}
+{"industry": "chemicals", "founded": "1947", "revenue": 37, "name": "lg chem", "country": "seoul, south korea"}
+{"industry": "banking and financial services", "founded": "1985", "revenue": 12, "name": "discover financial services", "country": "riverwoods, illinois"}
+{"industry": "food markets", "founded": "1980", "revenue": 58, "name": "couche tard", "country": "laval, canada"}
+{"industry": "banking", "founded": "1992", "revenue": 26, "name": "huaxia bank", "country": "beijing, china"}
+{"industry": "insurance", "founded": "1845", "revenue": 22, "name": "nn group", "country": "the hague, netherlands"}
+{"industry": "business services & supplies", "founded": "1938", "revenue": 100, "name": "fannie mae", "country": "washington, district of columbia"}
+{"industry": "health care equipment & services", "founded": "1912", "revenue": 44, "name": "fresenius", "country": "bad homburg, germany"}
+{"industry": "insurance", "founded": "1905", "revenue": 20, "name": "marsh & mclennan", "country": "new york, new york"}
+{"industry": "diversified financials", "founded": "1894", "revenue": 13, "name": "ameriprise financial", "country": "minneapolis, minnesota"}
+{"industry": "health care equipment & services", "founded": "1897", "revenue": 19, "name": "becton dickinson", "country": "franklin lakes, new jersey"}
+{"industry": "consumer durables", "founded": "1918", "revenue": 66, "name": "panasonic", "country": "osaka, japan"}
+{"industry": "insurance", "founded": "2008", "revenue": 41, "name": "&ad insurance", "country": "tokyo, japan"}
+{"industry": "business services & supplies", "founded": "1964", "revenue": 22, "name": "orix", "country": "tokyo, japan"}
+{"industry": "diversified financials", "founded": "1995", "revenue": 11, "name": "citic securities", "country": "shenzhen, china"}
+{"industry": "banking", "founded": "1968", "revenue": 8, "name": "first abu dhabi bank", "country": "abu dhabi, united arab emirates"}
+{"industry": "telecommunications services", "founded": "1970", "revenue": 18, "name": "bce", "country": "verdun, canada"}
+{"industry": "oil & gas operations", "founded": "1926", "revenue": 23, "name": "schlumberger", "country": "sugar land, texas"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1930", "revenue": 18, "name": "texas instruments", "country": "dallas, texas"}
+{"industry": "banking", "founded": "1895", "revenue": 12, "name": "bank rakyat indonesia bri", "country": "jakarta, indonesia"}
+{"industry": "banking", "founded": "1969", "revenue": 18, "name": "standard chartered", "country": "london, united kingdom"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1970", "revenue": 31, "name": "crh", "country": "dublin, ireland"}
+{"industry": "banking", "founded": "1995", "revenue": 19, "name": "bank of beijing", "country": "beijing, china"}
+{"industry": "media", "founded": "2019", "revenue": 28, "name": "paramount", "country": "norwood, new york"}
+{"industry": "banking", "founded": "2007", "revenue": 17, "name": "bank of jiangsu", "country": "nanjing, china"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "2017", "revenue": 16, "name": "dupont de nemours", "country": "wilmington, delaware"}
+{"industry": "consumer durables", "founded": "1991", "revenue": 27, "name": "gree electric appliances", "country": "zhuhai, china"}
+{"industry": "oil & gas operations", "founded": "1959", "revenue": 72, "name": "indian oil", "country": "new delhi, india"}
+{"industry": "retailing", "founded": "1939", "revenue": 34, "name": "dollar general", "country": "goodlettsville, tennessee"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "2015", "revenue": 26, "name": "kraft heinz company", "country": "chicago, illinois"}
+{"industry": "food, drink & tobacco", "founded": "1991", "revenue": 65, "name": "wilmar international", "country": "singapore, singapore"}
+{"industry": "business services & supplies", "founded": "1970", "revenue": 62, "name": "freddie mac", "country": "mclean, virginia"}
+{"industry": "it, internet, software & services", "founded": "2015", "revenue": 27, "name": "hewlett packard enterprise", "country": "spring, texas"}
+{"industry": "food, drink & tobacco", "founded": "1985", "revenue": 21, "name": "japan tobacco", "country": "tokyo, japan"}
+{"industry": "insurance", "founded": "1925", "revenue": 37, "name": "poste italiane", "country": "rome, italy"}
+{"industry": "banking", "founded": "1935", "revenue": 8, "name": "united overseas bank", "country": "singapore, singapore"}
+{"industry": "telecommunications services", "founded": "2000", "revenue": 50, "name": "china unicom", "country": "victoria, hong kong"}
+{"industry": "oil & gas operations", "founded": "1980", "revenue": 114, "name": "valero energy", "country": "san antonio, texas"}
+{"industry": "transportation", "founded": "1827", "revenue": 13, "name": "csx", "country": "jacksonville, florida"}
+{"industry": "banking", "founded": "1871", "revenue": 24, "name": "danske bank", "country": "copenhagen, denmark"}
+{"industry": "materials", "founded": "2003", "revenue": 20, "name": "fortescue metals group", "country": "east perth, australia"}
+{"industry": "construction", "founded": "1948", "revenue": 157, "name": "china railway construction", "country": "beijing, china"}
+{"industry": "drugs & biotechnology", "founded": "2010", "revenue": 18, "name": "moderna", "country": "camebridge, massachusetts"}
+{"industry": "food markets", "founded": "1924", "revenue": 38, "name": "woolworths", "country": "sydney, australia"}
+{"industry": "construction", "founded": "1997", "revenue": 26, "name": "anhui conch cement", "country": "wuhu city, china"}
+{"industry": "it, internet, software & services", "founded": "1982", "revenue": 16, "name": "adobe", "country": "san jose, california"}
+{"industry": "insurance", "founded": "1810", "revenue": 22, "name": "hartford financial services", "country": "hartford, connecticut"}
+{"industry": "diversified financials", "founded": "1792", "revenue": 11, "name": "state street", "country": "boston, massachusetts"}
+{"industry": "banking", "founded": "1957", "revenue": 6, "name": "al rajhi bank", "country": "riyadh, saudi arabia"}
+{"industry": "construction", "founded": "2009", "revenue": 70, "name": "power construction corporation of china", "country": "beijing, china"}
+{"industry": "chemicals", "founded": "1926", "revenue": 17, "name": "shin-etsu chemical", "country": "tokyo, japan"}
+{"industry": "business services & supplies", "founded": "1984", "revenue": 16, "name": "fiserv", "country": "brookfield, wisconsin"}
+{"industry": "drugs & biotechnology", "founded": "1988", "revenue": 16, "name": "regeneron pharmaceuticals", "country": "tarrytown, new york"}
+{"industry": "oil & gas operations", "founded": "2010", "revenue": 90, "name": "eneos holdings", "country": "tokyo, japan"}
+{"industry": "it software & services", "founded": "1968", "revenue": 25, "name": "tata consultancy services", "country": "mumbai, india"}
+{"industry": "insurance", "founded": "2010", "revenue": 35, "name": "sompo", "country": "tokyo, japan"}
+{"industry": "oil & gas operations", "founded": "1956", "revenue": 42, "name": "omv group", "country": "vienna, austria"}
+{"industry": "insurance", "founded": "1857", "revenue": 23, "name": "swiss life holding", "country": "zurich, switzerland"}
+{"industry": "banking", "founded": "1995", "revenue": 15, "name": "bank of shanghai", "country": "shanghai, china"}
+{"industry": "telecommunications services, cable supplier", "founded": "1995", "revenue": 9, "name": "american tower", "country": "boston, massachusetts"}
+{"industry": "oil & gas operations", "founded": "1997", "revenue": 17, "name": "pioneer natural resources", "country": "irving, texas"}
+{"industry": "construction", "founded": "1963", "revenue": 10, "name": "sun hung kai properties", "country": "hong kong, hong kong"}
+{"industry": "chemicals", "founded": "1998", "revenue": 22, "name": "wanhua chemical group", "country": "yantai, china"}
+{"industry": "insurance", "founded": "1909", "revenue": 15, "name": "sampo", "country": "helsinki, finland"}
+{"industry": "construction", "founded": "", "revenue": 23, "name": "china merchants shekou industrial zone holdings", "country": "shenzhen, china"}
+{"industry": "consumer durables", "founded": "1984", "revenue": 35, "name": "haier smart home", "country": "shangdong, china"}
+{"industry": "capital goods", "founded": "1911", "revenue": 19, "name": "eaton", "country": "dublin, ireland"}
+{"industry": "oil & gas operations", "founded": "1962", "revenue": 85, "name": "sk", "country": "seoul, south korea"}
+{"industry": "business services & supplies", "founded": "1885", "revenue": 24, "name": "johnson controls international", "country": "cork, ireland"}
+{"industry": "food, drink & tobacco", "founded": "1953", "revenue": 65, "name": "jbs", "country": "vila jaguara, brazil"}
+{"industry": "telecommunications services", "founded": "1998", "revenue": 16, "name": "saudi telecom", "country": "riyadh, saudi arabia"}
+{"industry": "conglomerates", "founded": "1832", "revenue": 35, "name": "jardine matheson", "country": "hamilton, bermuda"}
+{"industry": "transportation", "founded": "1832", "revenue": 11, "name": "canadian national railway", "country": "montreal, canada"}
+{"industry": "health care equipment & services", "founded": "1941", "revenue": 17, "name": "stryker", "country": "kalamazoo, michigan"}
+{"industry": "telecommunications services, cable supplier", "founded": "1865", "revenue": 26, "name": "nokia", "country": "espoo, finland"}
+{"industry": "capital goods", "founded": "1921", "revenue": 40, "name": "mitsubishi electric", "country": "tokyo, japan"}
+{"industry": "consumer durables", "founded": "1933", "revenue": 79, "name": "nissan motor", "country": "yokohama, japan"}
+{"industry": "materials", "founded": "1907", "revenue": 31, "name": "tata steel", "country": "mumbai, india"}
+{"industry": "food, drink & tobacco", "founded": "1864", "revenue": 25, "name": "heineken", "country": "a terdam, netherlands"}
+{"industry": "aerospace & defense", "founded": "1999", "revenue": 26, "name": "bae syste", "country": "farnborough, united kingdom"}
+{"industry": "telecommunications services", "founded": "2004", "revenue": 14, "name": "etisalat", "country": "abu dhabi, united arab emirates"}
+{"industry": "telecommunications services, cable supplier", "founded": "1980", "revenue": 28, "name": "bt group", "country": "london, united kingdom"}
+{"industry": "banking", "founded": "1966", "revenue": 14, "name": "ctbc financial", "country": "taipei, taiwan"}
+{"industry": "oil & gas operations", "founded": "1994", "revenue": 15, "name": "novatek", "country": "moscow, russia"}
+{"industry": "construction", "founded": "", "revenue": 84, "name": "greenland holdings group", "country": "shanghai, china"}
+{"industry": "utilities", "founded": "1898", "revenue": 29, "name": "rwe group", "country": "essen, germany"}
+{"industry": "engineering, manufacturing", "founded": "1924", "revenue": 26, "name": "daikin industries", "country": "osaka, japan"}
+{"industry": "insurance", "founded": "1844", "revenue": 26, "name": "aegon", "country": "the hague, netherlands"}
+{"industry": "it software & services", "founded": "2000", "revenue": 19, "name": "baidu", "country": "beijing, china"}
+{"industry": "technology hardware & equipment", "founded": "1876", "revenue": 27, "name": "ericsson", "country": "stockholm, sweden"}
+{"industry": "business services & supplies", "founded": "1937", "revenue": 32, "name": "canon", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "1954", "revenue": 28, "name": "lennar", "country": "miami, florida"}
+{"industry": "banking", "founded": "1996", "revenue": 12, "name": "bank of nanjing", "country": "nanjing, china"}
+{"industry": "health care equipment & services", "founded": "1891", "revenue": 20, "name": "philips", "country": "a terdam, netherlands"}
+{"industry": "food, drink & tobacco", "founded": "2018", "revenue": 12, "name": "keurig dr pepper", "country": "plano, texas"}
+{"industry": "utilities", "founded": "2002", "revenue": 8, "name": "china yangtze power", "country": "beijing, china"}
+{"industry": "banking", "founded": "2003", "revenue": 7, "name": "dnb bank", "country": "oslo, norway"}
+{"industry": "capital goods", "founded": "1890", "revenue": 18, "name": "emerson electric", "country": "st. louis, missouri"}
+{"industry": "food, drink & tobacco", "founded": "1901", "revenue": 22, "name": "imperial brands", "country": "bristol, united kingdom"}
+{"industry": "aerospace & defense", "founded": "1916", "revenue": 62, "name": "boeing", "country": "arlington, virginia"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "1866", "revenue": 18, "name": "general mills", "country": "minneapolis, minnesota"}
+{"industry": "banking", "founded": "1993", "revenue": 11, "name": "axis bank", "country": "mumbai, india"}
+{"industry": "banking and financial services", "founded": "1979", "revenue": 9, "name": "national bank of canada", "country": "montreal, canada"}
+{"industry": "media & advertising", "founded": "1946", "revenue": 17, "name": "the estee lauder companies", "country": "new york, new york"}
+{"industry": "capital goods", "founded": "1996", "revenue": 33, "name": "cnh industrial", "country": "london, united kingdom"}
+{"industry": "insurance", "founded": "1951", "revenue": 23, "name": "fairfax financial", "country": "toronto, canada"}
+{"industry": "clothing, shoes, sports equipment", "founded": "1949", "revenue": 25, "name": "adidas", "country": "herzogenaurach, germany"}
+{"industry": "automotive  automotive and suppliers ", "founded": "1889", "revenue": 28, "name": "michelin group", "country": "clermont-ferrand, france"}
+{"industry": "transportation", "founded": "1883", "revenue": 11, "name": "norfolk southern", "country": "atlanta, georgia"}
+{"industry": "banking and financial services", "founded": "1879", "revenue": 14, "name": "principal financial group", "country": "des moines, iowa"}
+{"industry": "oil & gas operations", "founded": "1998", "revenue": 13, "name": "sempra", "country": "san diego, california"}
+{"industry": "utilities", "founded": "1998", "revenue": 132, "name": "fortum", "country": "espoo, finland"}
+{"industry": "materials", "founded": "1942", "revenue": 14, "name": "grupo mexico", "country": "mexico city, mexico"}
+{"industry": "construction", "founded": "1978", "revenue": 28, "name": "dr horton", "country": "arlington, texas"}
+{"industry": "aerospace & defense", "founded": "2019", "revenue": 17, "name": "l3harris technologies", "country": "melbourne, florida"}
+{"industry": "media", "founded": "1915", "revenue": 7, "name": "naspers", "country": "cape town, south africa"}
+{"industry": "banking", "founded": "1862", "revenue": 15, "name": "standard bank group", "country": "johannesburg, south africa"}
+{"industry": "oil & gas operations", "founded": "1951", "revenue": 10, "name": "tc energy", "country": "calgary, canada"}
+{"industry": "materials", "founded": "1993", "revenue": 17, "name": "norilsk nickel", "country": "moscow, russia"}
+{"industry": "oil & gas operations", "founded": "1843", "revenue": 26, "name": "naturgy energy group", "country": "barcelona, spain"}
+{"industry": "household & personal products", "founded": "1876", "revenue": 23, "name": "henkel", "country": "dusseldorf, germany"}
+{"industry": "semiconductors", "founded": "1997", "revenue": 17, "name": "mediatek", "country": "hsinchu, taiwan"}
+{"industry": "business services & supplies", "founded": "1960", "revenue": 24, "name": "recruit holdings", "country": "tokyo, japan"}
+{"industry": "capital goods", "founded": "1999", "revenue": 30, "name": "hengli petrochemical", "country": "dalian, china"}
+{"industry": "utilities", "founded": "1909", "revenue": 13, "name": "xcel energy", "country": "minneapolis, minnesota"}
+{"industry": "chemicals", "founded": "2019", "revenue": 15, "name": "corteva", "country": "wilmington, delaware"}
+{"industry": "business services & supplies", "founded": "2003", "revenue": 11, "name": "synchrony financial", "country": "stamford, connecticut"}
+{"industry": "trading companies", "founded": "1948", "revenue": 69, "name": "toyota tsusho", "country": "nagoya, japan"}
+{"industry": "consumer durables", "founded": "1926", "revenue": 23, "name": "toyota industries", "country": "kariya, japan"}
+{"industry": "drugs & biotechnology", "founded": "1999", "revenue": 38, "name": "astrazeneca", "country": "cambridge, united kingdom"}
+{"industry": "construction", "founded": "2003", "revenue": 38, "name": "sunac china holdings", "country": "tianjin, china"}
+{"industry": "construction", "founded": "2006", "revenue": 70, "name": "china evergrande group", "country": "shenzhen, china"}
+{"industry": "consumer durables", "founded": "1931", "revenue": 29, "name": "bridgestone", "country": "tokyo, japan"}
+{"industry": "banking", "founded": "1963", "revenue": 8, "name": "emirates nbd", "country": "dubai, united arab emirates"}
+{"industry": "construction", "founded": "1947", "revenue": 38, "name": "daiwa house industry", "country": "osaka, japan"}
+{"industry": "retailing", "founded": "1998", "revenue": 147, "name": "jdcom", "country": "beijing, china"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1997", "revenue": 16, "name": "kinder morgan", "country": "houston, texas"}
+{"industry": "construction", "founded": "2005", "revenue": 42, "name": "china national building", "country": "beijing, china"}
+{"industry": "diversified financials", "founded": "1966", "revenue": 10, "name": "firstrand", "country": "johannesburg, south africa"}
+{"industry": "retail and wholesale", "founded": "1959", "revenue": 87, "name": "carrefour", "country": "massy, france"}
+{"industry": "technology hardware & equipment", "founded": "1935", "revenue": 32, "name": "fujitsu", "country": "tokyo, japan"}
+{"industry": "banking", "founded": "1972", "revenue": 7, "name": "seb ab", "country": "stockholm, sweden"}
+{"industry": "oil & gas operations", "founded": "1990", "revenue": 19, "name": "surgutneftegas", "country": "surgut, russia"}
+{"industry": "insurance", "founded": "1996", "revenue": 34, "name": "new china life insurance", "country": "beijing, china"}
+{"industry": "materials", "founded": "1983", "revenue": 11, "name": "barrick gold", "country": "toronto, canada"}
+{"industry": "transportation", "founded": "1976", "revenue": 29, "name": "dsv panalpina", "country": "hedehusene, denmark"}
+{"industry": "insurance", "founded": "1990", "revenue": 51, "name": "talanx", "country": "hannover, germany"}
+{"industry": "telecommunications services, cable supplier", "founded": "1984", "revenue": 53, "name": "vodafone", "country": "berkshire, united kingdom"}
+{"industry": "consumer durables", "founded": "1889", "revenue": 15, "name": "nintendo", "country": "kyoto, japan"}
+{"industry": "banking", "founded": "2005", "revenue": 13, "name": "hana financial group", "country": "seoul, south korea"}
+{"industry": "capital goods", "founded": "1977", "revenue": 36, "name": "hyundai mobis", "country": "seoul, south korea"}
+{"industry": "utilities", "founded": "1975", "revenue": 17, "name": "ntpc", "country": "new delhi, india"}
+{"industry": "banking and financial services", "founded": "1960", "revenue": 9, "name": "maybank", "country": "kuala lumpur, malaysia"}
+{"industry": "diversified financials", "founded": "1898", "revenue": 4, "name": "cme group", "country": "chicago, illinois"}
+{"industry": "utilities", "founded": "2005", "revenue": 12, "name": "taqa", "country": "abu dhabi, united arab emirates"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "1975", "revenue": 11, "name": "pernod ricard", "country": "paris, france"}
+{"industry": "banking", "founded": "1824", "revenue": 9, "name": "bank mandiri", "country": "jakarta, indonesia"}
+{"industry": "food, drink & tobacco", "founded": "1890", "revenue": 27, "name": "fea", "country": "monterrey , mexico"}
+{"industry": "automotive  automotive and suppliers ", "founded": "1972", "revenue": 23, "name": "paccar", "country": "bellevue, washington"}
+{"industry": "utilities", "founded": "1823", "revenue": 13, "name": "consolidated edison", "country": "new york, new york"}
+{"industry": "construction", "founded": "1941", "revenue": 18, "name": "mitsui fudosan", "country": "tokyo, japan"}
+{"industry": "transportation", "founded": "", "revenue": 17, "name": "evergreen marine corp taiwan", "country": "taipei, taiwan"}
+{"industry": "capital goods", "founded": "1921", "revenue": 24, "name": "komatsu", "country": "tokyo, japan"}
+{"industry": "materials", "founded": "2008", "revenue": 22, "name": "shaanxi coal industry", "country": "xi'an, china"}
+{"industry": "technology hardware & equipment", "founded": "1984", "revenue": 70, "name": "lenovo group", "country": "quarry bay, hong kong"}
+{"industry": "retailing", "founded": "1963", "revenue": 19, "name": "fast retailing", "country": "yamaguchi, japan"}
+{"industry": "diversified financials", "founded": "1802", "revenue": 9, "name": "london stock exchange", "country": "london, united kingdom"}
+{"industry": "construction", "founded": "1998", "revenue": 6, "name": "vonovia", "country": "bochum, germany"}
+{"industry": "insurance", "founded": "2000", "revenue": 45, "name": "aviva", "country": "london, united kingdom"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1866", "revenue": 19, "name": "sherwin-willia", "country": "cleveland, ohio"}
+{"industry": "consumer durables", "founded": "1934", "revenue": 22, "name": "fujifilm holdings", "country": "tokyo, japan"}
+{"industry": "it software & services", "founded": "1983", "revenue": 11, "name": "intuit", "country": "mountain view, california"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1980", "revenue": 16, "name": "lam research", "country": "fremont, california"}
+{"industry": "banking and financial services", "founded": "2008", "revenue": 11, "name": "erste group bank", "country": "vienna, austria"}
+{"industry": "insurance", "founded": "1968", "revenue": 19, "name": "lincoln national", "country": "radnor, pennsylvania"}
+{"industry": "capital goods", "founded": "1915", "revenue": 20, "name": "carrier global", "country": "palm beach gardens, florida"}
+{"industry": "media", "founded": "1980", "revenue": 17, "name": "dish network", "country": "englewood, colorado"}
+{"industry": "materials", "founded": "2006", "revenue": 35, "name": "china coal energy", "country": "beijing, china"}
+{"industry": "automotive  automotive and suppliers ", "founded": "1871", "revenue": 39, "name": "continental", "country": "hanover, germany"}
+{"industry": "banking", "founded": "1990", "revenue": 21, "name": "vtb bank", "country": "moscow, russia"}
+{"industry": "technology hardware & equipment", "founded": "1944", "revenue": 16, "name": "murata manufacturing", "country": "nagaokakyo, japan"}
+{"industry": "construction", "founded": "1938", "revenue": 20, "name": "larsen & toubro", "country": "mumbai, india"}
+{"industry": "banking and financial services", "founded": "1919", "revenue": 10, "name": "ally financial", "country": "detroit, michigan"}
+{"industry": "it software & services", "founded": "1997", "revenue": 13, "name": "netease", "country": "hangzhou, china"}
+{"industry": "banking", "founded": "1955", "revenue": 6, "name": "bank central asia", "country": "jakarta, indonesia"}
+{"industry": "consumer durables", "founded": "2010", "revenue": 32, "name": "volvo car", "country": "gothenburg, sweden"}
+{"industry": "insurance", "founded": "1809", "revenue": 14, "name": "intact financial", "country": "toronto, canada"}
+{"industry": "oil & gas operations", "founded": "1972", "revenue": 11, "name": "orsted", "country": "fredericia, denmark"}
+{"industry": "engineering, manufacturing", "founded": "1919", "revenue": 24, "name": "cummins", "country": "columbus, ohio"}
+{"industry": "oil & gas operations", "founded": "1908", "revenue": 10, "name": "willia", "country": "tulsa, oklahoma"}
+{"industry": "it software & services", "founded": "1967", "revenue": 21, "name": "capgemini", "country": "paris, france"}
+{"industry": "real estate", "founded": "1993", "revenue": 4, "name": "prologis", "country": "denver, colorado"}
+{"industry": "aerospace & defense", "founded": "1949", "revenue": 19, "name": "thales", "country": "paris, france"}
+{"industry": "construction", "founded": "1952", "revenue": 44, "name": "bouygues", "country": "paris, france"}
+{"industry": "banking", "founded": "1899", "revenue": 10, "name": "banorte", "country": "san pedro garza garcia, mexico"}
+{"industry": "construction", "founded": "2015", "revenue": 8, "name": "ck asset holdings", "country": "hong kong, hong kong"}
+{"industry": "telecommunications services", "founded": "1988", "revenue": 50, "name": "orange", "country": "paris, france"}
+{"industry": "transportation", "founded": "1890", "revenue": 35, "name": "kuehne & nagel international", "country": "schindellegi, switzerland"}
+{"industry": "food, drink & tobacco", "founded": "1818", "revenue": 59, "name": "bunge", "country": "st. louis, missouri"}
+{"industry": "insurance", "founded": "1957", "revenue": 25, "name": "saung life insurance", "country": "seoul, south korea"}
+{"industry": "it software & services", "founded": "1998", "revenue": 12, "name": "vmware", "country": "palo alto, california"}
+{"industry": "food markets", "founded": "1939", "revenue": 71, "name": "albertsons", "country": "boise, idaho"}
+{"industry": "capital goods", "founded": "2007", "revenue": 34, "name": "crrc", "country": "beijing, china"}
+{"industry": "construction", "founded": "1906", "revenue": 27, "name": "cbre group", "country": "dallas, texas"}
+{"industry": "conglomerate", "founded": "1875", "revenue": 30, "name": "toshiba", "country": "tokyo, japan"}
+{"industry": "trading companies", "founded": "1963", "revenue": 30, "name": "saung c&t", "country": "seoul, south korea"}
+{"industry": "it software & services", "founded": "1981", "revenue": 16, "name": "infosys", "country": "bangalore, india"}
+{"industry": "banking and financial services", "founded": "1848", "revenue": 26, "name": "prudential", "country": "hong kong, london, united kingdom"}
+{"industry": "materials", "founded": "1997", "revenue": 16, "name": "yankuang energy group", "country": "zoucheng, china"}
+{"industry": "transportation", "founded": "1881", "revenue": 6, "name": "canadian pacific railway", "country": "calgary, canada"}
+{"industry": "insurance", "founded": "1954", "revenue": 14, "name": "loews", "country": "new york, new york"}
+{"industry": "semiconductors", "founded": "1963", "revenue": 17, "name": "tokyo electron", "country": "tokyo, japan"}
+{"industry": "consumer durables", "founded": "1958", "revenue": 66, "name": "lg electronics", "country": "seoul, south korea"}
+{"industry": "drugs & biotechnology", "founded": "1916", "revenue": 10, "name": "csl", "country": "parkville, australia"}
+{"industry": "consumer durables", "founded": "1957", "revenue": 36, "name": "magna international", "country": "aurora, canada"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1965", "revenue": 8, "name": "analog devices", "country": "wilmington, massachusetts"}
+{"industry": "capital goods", "founded": "1890", "revenue": 20, "name": "kubota", "country": "osaka, japan"}
+{"industry": "chemicals", "founded": "1940", "revenue": 10, "name": "air products & chemicals", "country": "allentown, pennsylvania"}
+{"industry": "materials", "founded": "1921", "revenue": 12, "name": "newmont mining", "country": "denver, colorado"}
+{"industry": "technology hardware & equipment", "founded": "2007", "revenue": 15, "name": "te connectivity", "country": "schaffhausen, switzerland"}
+{"industry": "insurance", "founded": "1982", "revenue": 12, "name": "aon", "country": "dublin, ireland"}
+{"industry": "business services & supplies", "founded": "1990", "revenue": 13, "name": "telus", "country": "vancouver, canada"}
+{"industry": "retailing", "founded": "1986", "revenue": 26, "name": "dollar tree", "country": "chesapeake, virginia"}
+{"industry": "banking", "founded": "1958", "revenue": 7, "name": "keycorp", "country": "cleveland, ohio"}
+{"industry": "insurance", "founded": "1828", "revenue": 9, "name": "wtw", "country": "london, united kingdom"}
+{"industry": "banking", "founded": "1993", "revenue": 16, "name": "china zheshang bank", "country": "hangzhou, china"}
+{"industry": "food markets", "founded": "1914", "revenue": 25, "name": "wesfarmers", "country": "perth, australia"}
+{"industry": "consumer durables", "founded": "1909", "revenue": 32, "name": "suzuki motor", "country": "hamamatsu, japan"}
+{"industry": "retail and wholesale", "founded": "1966", "revenue": 51, "name": "best buy", "country": "richfield, minnesota"}
+{"industry": "banking", "founded": "1983", "revenue": 6, "name": "svb financial group", "country": "santa clara, california"}
+{"industry": "semiconductors", "founded": "1969", "revenue": 16, "name": "advanced micro devices", "country": "santa clara, california"}
+{"industry": "banking and financial services", "founded": "1930", "revenue": 12, "name": "markel", "country": "glen allen, virginia"}
+{"industry": "food, drink & tobacco", "founded": "2000", "revenue": 11, "name": "muyuan foodstuff", "country": "nanyang, china"}
+{"industry": "packaged goods", "founded": "1872", "revenue": 19, "name": "kimberly-clark", "country": "irving, texas"}
+{"industry": "banking", "founded": "1991", "revenue": 6, "name": "swedbank", "country": "sundbyberg, sweden"}
+{"industry": "it software & services", "founded": "1994", "revenue": 18, "name": "cognizant", "country": "teaneck, new jersey"}
+{"industry": "engineering, manufacturing", "founded": "1851", "revenue": 14, "name": "corning", "country": "corning, new york"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1999", "revenue": 13, "name": "infineon technologies", "country": "neubiberg, germany"}
+{"industry": "banking", "founded": "1828", "revenue": 6, "name": "citizens financial group", "country": "providence, rhode island"}
+{"industry": "oil & gas operations", "founded": "1971", "revenue": 13, "name": "devon energy", "country": "oklahoma city, oklahoma"}
+{"industry": "food, drink & tobacco", "founded": "1949", "revenue": 20, "name": "asahi group holdings", "country": "tokyo, japan"}
+{"industry": "materials", "founded": "1994", "revenue": 17, "name": "jsw steel", "country": "mumbai, india"}
+{"industry": "telecommunications services, cable supplier", "founded": "1968", "revenue": 19, "name": "lumen technologies", "country": "monroe, louisiana"}
+{"industry": "banking and financial services", "founded": "1971", "revenue": 6, "name": "regions financial", "country": "birmingham, alabama"}
+{"industry": "banking and financial services", "founded": "1871", "revenue": 6, "name": "svenska handelsbanken", "country": "stockholm, sweden"}
+{"industry": "diversified financials", "founded": "1962", "revenue": 10, "name": "raymond james financial", "country": "saint petersburg, florida"}
+{"industry": "consumer durables", "founded": "1995", "revenue": 32, "name": "byd", "country": "shenzhen, china"}
+{"industry": "capital goods", "founded": "1912", "revenue": 14, "name": "illinois tool works", "country": "glenview, illinois"}
+{"industry": "retailing", "founded": "", "revenue": 14, "name": "pinduoduo", "country": "shanghai, china"}
+{"industry": "consumer durables", "founded": "2008", "revenue": 8, "name": "activision blizzard", "country": "santa monica, california"}
+{"industry": "media", "founded": "2005", "revenue": 10, "name": "liberty global", "country": "london, united kingdom"}
+{"industry": "household & personal products", "founded": "1806", "revenue": 17, "name": "colgate-palmolive", "country": "new york, new york"}
+{"industry": "utilities", "founded": "1989", "revenue": 10, "name": "sse", "country": "perth, united kingdom"}
+{"industry": "chemicals", "founded": "1958", "revenue": 14, "name": "nan ya plastics", "country": "kaohsiung city, taiwan"}
+{"industry": "telecommunications services", "founded": "1853", "revenue": 11, "name": "vivendi", "country": "paris, france"}
+{"industry": "health care equipment & services", "founded": "1931", "revenue": 12, "name": "baxter international", "country": "deerfield, illinois"}
+{"industry": "insurance", "founded": "1992", "revenue": 25, "name": "fosun international", "country": "shanghai, china"}
+{"industry": "capital goods", "founded": "2002", "revenue": 31, "name": "weichai power", "country": "weifang, china"}
+{"industry": "insurance", "founded": "1847", "revenue": 15, "name": "fidelity national financial", "country": "jacksonville, florida"}
+{"industry": "capital goods", "founded": "1918", "revenue": 15, "name": "parker-hannifin", "country": "cleveland, ohio"}
+{"industry": "materials", "founded": "1976", "revenue": 16, "name": "vedanta limited", "country": "mumbai, india"}
+{"industry": "diversified financials", "founded": "2001", "revenue": 11, "name": "woori financial group", "country": "seoul, south korea"}
+{"industry": "food markets", "founded": "1969", "revenue": 60, "name": "sysco", "country": "houston, texas"}
+{"industry": "telecommunications services", "founded": "1975", "revenue": 15, "name": "telstra", "country": "melbourne, australia"}
+{"industry": "banking", "founded": "1856", "revenue": 30, "name": "credit suisse group", "country": "zurich, switzerland"}
+{"industry": "telecommunications services", "founded": "1960", "revenue": 11, "name": "rogers communications", "country": "toronto, canada"}
+{"industry": "banking", "founded": "1856", "revenue": 5, "name": "m&t bank", "country": "buffalo, new york"}
+{"industry": "health care equipment & services", "founded": "1979", "revenue": 11, "name": "boston scientific", "country": "marlborough, massachusetts"}
+{"industry": "utilities", "founded": "1886", "revenue": 14, "name": "edison international", "country": "rosemead, california"}
+{"industry": "transportation", "founded": "1929", "revenue": 23, "name": "financiere de l'odet", "country": "paris, france"}
+{"industry": "banking", "founded": "2002", "revenue": 10, "name": "sumitomo mitsui trust", "country": "tokyo, japan"}
+{"industry": "utilities", "founded": "1913", "revenue": 11, "name": "entergy", "country": "new orleans, louisiana"}
+{"industry": "telecommunications services", "founded": "1998", "revenue": 12, "name": "swisscom", "country": "worblaufen, switzerland"}
+{"industry": "utilities", "founded": "1997", "revenue": 38, "name": "enbw-energie baden", "country": "karlsruhe, germany"}
+{"industry": "technology hardware & equipment", "founded": "2001", "revenue": 13, "name": "hikvision", "country": "hangzhou, china"}
+{"industry": "transportation", "founded": "1885", "revenue": 19, "name": "nippon yusen", "country": "tokyo, japan"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1843", "revenue": 16, "name": "stanley black & decker", "country": "new britain, connecticut"}
+{"industry": "oil & gas operations", "founded": "1906", "revenue": 17, "name": "oneok", "country": "tulsa, oklahoma"}
+{"industry": "travel & leisure", "founded": "1927", "revenue": 13, "name": "marriott international", "country": "bethesda, maryland"}
+{"industry": "media", "founded": "2022", "revenue": 12, "name": "warner bros discovery", "country": "new york, new york"}
+{"industry": "business services & supplies", "founded": "1993", "revenue": 32, "name": "sf holding", "country": "shenzhen, china"}
+{"industry": "transportation and logistics", "founded": "1924", "revenue": 35, "name": "delta air lines", "country": "atlanta, georgia"}
+{"industry": "oil & gas operations", "founded": "1928", "revenue": 43, "name": "bharat petroleum", "country": "mumbai, india"}
+{"industry": "oil & gas operations", "founded": "1919", "revenue": 16, "name": "halliburton", "country": "houston, texas"}
+{"industry": "construction", "founded": "2008", "revenue": 77, "name": "metallurgical corp of china", "country": "beijing, china"}
+{"industry": "banking", "founded": "1889", "revenue": 6, "name": "northern trust", "country": "chicago, illinois"}
+{"industry": "construction", "founded": "1874", "revenue": 22, "name": "heidelbergcement", "country": "heidelberg, germany"}
+{"industry": "materials", "founded": "1971", "revenue": 16, "name": "china steel", "country": "kaohsiung city, taiwan"}
+{"industry": "utilities", "founded": "1996", "revenue": 9, "name": "eversource energy", "country": "hartford, connecticut"}
+{"industry": "capital goods", "founded": "1994", "revenue": 17, "name": "sany heavy industry", "country": "beijing, china"}
+{"industry": "retail and wholesale", "founded": "1837", "revenue": 10, "name": "hermes international", "country": "paris, france"}
+{"industry": "materials", "founded": "1898", "revenue": 21, "name": "international paper", "country": "memphis, tennessee"}
+{"industry": "oil & gas operations", "founded": "1963", "revenue": 38, "name": "koc holding", "country": "istanbul, turkey"}
+{"industry": "capital goods", "founded": "1973", "revenue": 17, "name": "nidec", "country": "kyoto, japan"}
+{"industry": "it software & services", "founded": "2010", "revenue": 27, "name": "meituan", "country": "beijing, china"}
+{"industry": "diversified financials", "founded": "1985", "revenue": 7, "name": "kotak mahindra bank", "country": "mumbai, india"}
+{"industry": "materials", "founded": "1906", "revenue": 10, "name": "teck resources", "country": "vancouver, canada"}
+{"industry": "transportation and logistics", "founded": "1967", "revenue": 15, "name": "southwest airlines", "country": "dallas, texas"}
+{"industry": "diversified financials", "founded": "1990", "revenue": 5, "name": "deutsche boerse", "country": "eschborn, germany"}
+{"industry": "health care equipment & services", "founded": "1978", "revenue": 16, "name": "labcorp", "country": "burlington, north carolina"}
+{"industry": "telecommunications services", "founded": "2014", "revenue": 13, "name": "china tower corp", "country": "beijing, china"}
+{"industry": "oil & gas operations", "founded": "2006", "revenue": 11, "name": "inpex", "country": "tokyo, japan"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "2016", "revenue": 16, "name": "coca-cola european partners", "country": "uxbridge, united kingdom"}
+{"industry": "food, drink & tobacco", "founded": "1998", "revenue": 8, "name": "wuliangye yibin", "country": "yibin, china"}
+{"industry": "construction", "founded": "2004", "revenue": 21, "name": "shimao property holdings", "country": "hong kong, hong kong"}
+{"industry": "oil & gas operations", "founded": "1911", "revenue": 54, "name": "idemitsu kosan", "country": "tokyo, japan"}
+{"industry": "oil & gas operations", "founded": "1992", "revenue": 22, "name": "formosa petrochemical", "country": "taipei, taiwan"}
+{"industry": "diversified financials", "founded": "1994", "revenue": 6, "name": "crown castle international", "country": "houston, texas"}
+{"industry": "utilities", "founded": "1997", "revenue": 11, "name": "firstenergy", "country": "akron, ohio"}
+{"industry": "household & personal products", "founded": "1995", "revenue": 27, "name": "rongsheng petrochemical", "country": "hangzhou, china"}
+{"industry": "materials", "founded": "1958", "revenue": 24, "name": "hindalco industries", "country": "mumbai, india"}
+{"industry": "banking", "founded": "1996", "revenue": 8, "name": "bank of hangzhou", "country": "hangzhou, china"}
+{"industry": "consumer durables", "founded": "1898", "revenue": 54, "name": "renault", "country": "boulogne-billancourt, france"}
+{"industry": "food, drink & tobacco", "founded": "1998", "revenue": 7, "name": "international holding company", "country": "abu dhabi, united arab emirates"}
+{"industry": "insurance", "founded": "1950", "revenue": 9, "name": "cincinnati financial", "country": "fairfield, ohio"}
+{"industry": "construction", "founded": "1937", "revenue": 12, "name": "mitsubishi estate", "country": "tokyo, japan"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1847", "revenue": 22, "name": "cleveland-cliffs", "country": "cleveland, ohio"}
+{"industry": "construction", "founded": "1997", "revenue": 32, "name": "grupo acs", "country": "madrid, spain"}
+{"industry": "utilities", "founded": "2014", "revenue": 12, "name": "cgn power", "country": "shenzhen, china"}
+{"industry": "semiconductors", "founded": "1984", "revenue": 21, "name": "ase technology holding", "country": "kaohsiung city, taiwan"}
+{"industry": "materials", "founded": "2002", "revenue": 36, "name": "jfe holdings", "country": "tokyo, japan"}
+{"industry": "utilities", "founded": "1996", "revenue": 15, "name": "dte energy", "country": "detroit, michigan"}
+{"industry": "materials", "founded": "1994", "revenue": 17, "name": "china hongqiao group", "country": "binzhou, china"}
+{"industry": "semiconductors", "founded": "2006", "revenue": 11, "name": "nxp semiconductors", "country": "eindhoven, netherlands"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1970", "revenue": 18, "name": "western digital", "country": "san jose, california"}
+{"industry": "business services & supplies", "founded": "1996", "revenue": 11, "name": "booking holdings", "country": "norwalk, connecticut"}
+{"industry": "food markets", "founded": "1926", "revenue": 78, "name": "aeon", "country": "chiba, japan"}
+{"industry": "banking", "founded": "1985", "revenue": 5, "name": "first republic bank", "country": "san francisco, california"}
+{"industry": "it software & services", "founded": "2005", "revenue": 9, "name": "lufax holding", "country": "shanghai, china"}
+{"industry": "engineering, manufacturing", "founded": "1873", "revenue": 12, "name": "atlas copco", "country": "nacka, sweden"}
+{"industry": "it, internet, software & services", "founded": "2006", "revenue": 13, "name": "fidelity national information fis", "country": "jacksonville, florida"}
+{"industry": "chemicals", "founded": "2005", "revenue": 34, "name": "mitsubishi chemical", "country": "tokyo, japan"}
+{"industry": "utilities", "founded": "1976", "revenue": 17, "name": "edp-energias de portugal", "country": "lisbon, portugal"}
+{"industry": "technology hardware & equipment", "founded": "1959", "revenue": 16, "name": "kyocera", "country": "kyoto, japan"}
+{"industry": "trading companies", "founded": "1998", "revenue": 109, "name": "xiamen c&d", "country": "xiamen, china"}
+{"industry": "retailing", "founded": "1979", "revenue": 15, "name": "autozone", "country": "memphis, tennessee"}
+{"industry": "insurance", "founded": "1931", "revenue": 40, "name": "china taiping insurance", "country": "hong kong, hong kong"}
+{"industry": "oil & gas operations", "founded": "1881", "revenue": 37, "name": "cenovus energy", "country": "calgary, canada"}
+{"industry": "oil & gas operations", "founded": "1948", "revenue": 17, "name": "neste", "country": "espoo, finland"}
+{"industry": "consumer durables", "founded": "1930", "revenue": 151, "name": "porsche automobil holding", "country": "stuttgart, germany"}
+{"industry": "clothing, shoes, sports equipment", "founded": "1947", "revenue": 23, "name": "h&m - hennes & mauritz", "country": "stockholm, sweden"}
+{"industry": "business services & supplies", "founded": "1903", "revenue": 10, "name": "relx", "country": "london, united kingdom"}
+{"industry": "utilities", "founded": "1995", "revenue": 20, "name": "pg&e", "country": "san francisco, california"}
+{"industry": "business services & supplies", "founded": "1998", "revenue": 11, "name": "republic services", "country": "phoenix, arizona"}
+{"industry": "retailing", "founded": "1982", "revenue": 18, "name": "ross stores", "country": "dublin, california"}
+{"industry": "utilities", "founded": "1981", "revenue": 8, "name": "wec energy group", "country": "milwaukee, wisconsin"}
+{"industry": "retail and wholesale", "founded": "1971", "revenue": 171, "name": "cardinal health", "country": "dublin, delaware"}
+{"industry": "retailing", "founded": "1993", "revenue": 31, "name": "carmax", "country": "richmond, virginia"}
+{"industry": "banking", "founded": "2001", "revenue": 12, "name": "china development financial", "country": "taipei, taiwan"}
+{"industry": "banking", "founded": "1983", "revenue": 3, "name": "riyad bank", "country": "riyadh, saudi arabia"}
+{"industry": "media & advertising", "founded": "2008", "revenue": 6, "name": "thoon reuters", "country": "eagan, minnesota"}
+{"industry": "oil & gas operations", "founded": "1993", "revenue": 14, "name": "transneft", "country": "moscow, russia"}
+{"industry": "trading companies", "founded": "1887", "revenue": 22, "name": "ferguson", "country": "wokingham, united kingdom"}
+{"industry": "drugs & biotechnology", "founded": "1982", "revenue": 13, "name": "iqvia", "country": "durham, north carolina"}
+{"industry": "diversified financials", "founded": "2000", "revenue": 2, "name": "hong kong exchanges", "country": "hong kong, hong kong"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1883", "revenue": 17, "name": "ppg", "country": "pittsburgh, pennsylvania"}
+{"industry": "technology hardware & equipment", "founded": "1984", "revenue": 76, "name": "legend holding", "country": "beijing, china"}
+{"industry": "business services & supplies", "founded": "1923", "revenue": 12, "name": "ecolab", "country": "saint paul, minnesota"}
+{"industry": "drugs & biotechnology", "founded": "2003", "revenue": 80, "name": "sinopharm group", "country": "shanghai, china"}
+{"industry": "technology hardware & equipment", "founded": "2004", "revenue": 23, "name": "luxshare precision industry", "country": "dongguan, china"}
+{"industry": "construction", "founded": "1996", "revenue": 26, "name": "seazen group", "country": "shanghai, china"}
+{"industry": "business services & supplies", "founded": "2000", "revenue": 8, "name": "global payments", "country": "atlanta, georgia"}
+{"industry": "construction", "founded": "2014", "revenue": 49, "name": "china energy engineering", "country": "beijing, china"}
+{"industry": "aerospace & defense", "founded": "1984", "revenue": 17, "name": "safran", "country": "paris, france"}
+{"industry": "business services & supplies", "founded": "1888", "revenue": 8, "name": "s&p global", "country": "new york, new york"}
+{"industry": "banking", "founded": "1866", "revenue": 6, "name": "huntington bank", "country": "columbus, ohio"}
+{"industry": "insurance", "founded": "1995", "revenue": 8, "name": "arch capital group", "country": "pembroke, bermuda"}
+{"industry": "diversified financials", "founded": "", "revenue": 8, "name": "jackson financial", "country": "lansing, michigan"}
+{"industry": "banking", "founded": "1902", "revenue": 5, "name": "bank leumi", "country": "tel aviv, israel"}
+{"industry": "conglomerates", "founded": "1885", "revenue": 14, "name": "trane technologies", "country": "dublin, ireland"}
+{"industry": "utilities", "founded": "1853", "revenue": 33, "name": "veolia environnement", "country": "paris, france"}
+{"industry": "retailing", "founded": "1957", "revenue": 13, "name": "o'reilly automotive", "country": "springfield, missouri"}
+{"industry": "drugs & biotechnology", "founded": "1978", "revenue": 10, "name": "biogen", "country": "cambridge, massachusetts"}
+{"industry": "media", "founded": "1926", "revenue": 13, "name": "publicis groupe", "country": "paris, france"}
+{"industry": "trading companies", "founded": "1952", "revenue": 46, "name": "hanwha", "country": "seoul, south korea"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "2004", "revenue": 12, "name": "the mosaic company", "country": "tampa, florida"}
+{"industry": "telecommunications services", "founded": "1995", "revenue": 15, "name": "bharti airtel", "country": "new delhi, india"}
+{"industry": "transportation", "founded": "2004", "revenue": 11, "name": "daqin railway", "country": "datong, china"}
+{"industry": "it software & services", "founded": "2009", "revenue": 17, "name": "uber", "country": "san francisco, california"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1987", "revenue": 12, "name": "stmicroelectronics", "country": "geneva, switzerland"}
+{"industry": "construction", "founded": "1988", "revenue": 14, "name": "gemdale", "country": "shenzhen, china"}
+{"industry": "insurance", "founded": "1824", "revenue": 14, "name": "ageas", "country": "brussels, belgium"}
+{"industry": "technology hardware & equipment", "founded": "1988", "revenue": 40, "name": "quanta computer", "country": "taoyuan, taiwan"}
+{"industry": "food markets", "founded": "1882", "revenue": 43, "name": "george weston", "country": "toronto, canada"}
+{"industry": "diversified financials", "founded": "1900", "revenue": 10, "name": "weyerhaeuser", "country": "federal way, washington"}
+{"industry": "utilities", "founded": "1915", "revenue": 52, "name": "korea electric power", "country": "naju, south korea"}
+{"industry": "media", "founded": "2015", "revenue": 13, "name": "fox", "country": "new york, new york"}
+{"industry": "capital goods", "founded": "1934", "revenue": 34, "name": "mitsubishi heavy industries", "country": "tokyo, japan"}
+{"industry": "engineering, manufacturing", "founded": "1993", "revenue": 20, "name": "steel dynamics", "country": "fort wayne, indiana"}
+{"industry": "technology hardware & equipment", "founded": "1972", "revenue": 6, "name": "keyence", "country": "osaka, japan"}
+{"industry": "semiconductors", "founded": "2000", "revenue": 11, "name": "longi green energy technology", "country": "xi'an, china"}
+{"industry": "household & personal products", "founded": "1823", "revenue": 18, "name": "reckitt benckiser group", "country": "slough, united kingdom"}
+{"industry": "materials", "founded": "1973", "revenue": 14, "name": "coal india", "country": "kolkata, india"}
+{"industry": "consumer durables", "founded": "1949", "revenue": 35, "name": "aisin seiki", "country": "kariya, japan"}
+{"industry": "diversified financials", "founded": "2004", "revenue": 4, "name": "digital realty trust", "country": "austin, texas"}
+{"industry": "consumer durables", "founded": "1945", "revenue": 39, "name": "tata motors", "country": "mumbai, india"}
+{"industry": "banking", "founded": "2001", "revenue": 7, "name": "resona holdings", "country": "tokyo, japan"}
+{"industry": "diversified financials", "founded": "1993", "revenue": 5, "name": "simon property group", "country": "indianapolis, indiana"}
+{"industry": "banking", "founded": "1961", "revenue": 9, "name": "industrial bank of korea", "country": "seoul, south korea"}
+{"industry": "utilities", "founded": "1901", "revenue": 10, "name": "clp holdings", "country": "hong kong, hong kong"}
+{"industry": "banking", "founded": "1952", "revenue": 3, "name": "national bank of kuwait", "country": "kuwait city, kuwait"}
+{"industry": "telecommunications services", "founded": "1879", "revenue": 11, "name": "singtel", "country": "singapore, singapore"}
+{"industry": "it software & services", "founded": "2012", "revenue": 7, "name": "coinbase", "country": "san francisco, california"}
+{"industry": "utilities", "founded": "1882", "revenue": 8, "name": "centerpoint energy", "country": "houston, texas"}
+{"industry": "materials", "founded": "1997", "revenue": 7, "name": "saudi arabian mining", "country": "riyadh, saudi arabia"}
+{"industry": "diversified financials", "founded": "1999", "revenue": 10, "name": "china cinda asset management", "country": "beijing, china"}
+{"industry": "chemicals", "founded": "1931", "revenue": 21, "name": "asahi kasei", "country": "tokyo, japan"}
+{"industry": "technology hardware & equipment", "founded": "1899", "revenue": 27, "name": "nec", "country": "tokyo, japan"}
+{"industry": "transportation", "founded": "1968", "revenue": 29, "name": "united airlines holdings", "country": "chicago, illinois"}
+{"industry": "hotels, restaurants & leisure", "founded": "1986", "revenue": 9, "name": "mgm resorts", "country": "las vegas, nevada"}
+{"industry": "materials", "founded": "1902", "revenue": 10, "name": "dsm", "country": "heerlen, netherlands"}
+{"industry": "telecommunications services", "founded": "1965", "revenue": 10, "name": "telkom indonesia", "country": "jakarta, indonesia"}
+{"industry": "oil & gas operations", "founded": "1999", "revenue": 34, "name": "pkn orlen", "country": "p ock, poland"}
+{"industry": "diversified financials", "founded": "1999", "revenue": 6, "name": "guotai junan securities", "country": "wanchai, china"}
+{"industry": "materials", "founded": "1905", "revenue": 16, "name": "norsk hydro", "country": "oslo, norway"}
+{"industry": "chemicals", "founded": "1954", "revenue": 9, "name": "formosa plastics", "country": "kaohsiung city, taiwan"}
+{"industry": "utilities", "founded": "1989", "revenue": 26, "name": "nrg energy", "country": "houston, texas"}
+{"industry": "banking", "founded": "1966", "revenue": 4, "name": "public bank", "country": "kuala lumpur, malaysia"}
+{"industry": "technology hardware & equipment", "founded": "1981", "revenue": 25, "name": "tcl", "country": "huizhou, china"}
+{"industry": "diversified financials", "founded": "1990", "revenue": 6, "name": "huatai securities", "country": "nanjing, china"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "1906", "revenue": 14, "name": "kellogg", "country": "battle creek, michigan"}
+{"industry": "food, drink & tobacco", "founded": "", "revenue": 16, "name": "inner mongolia yili", "country": "hohhot, china"}
+{"industry": "media", "founded": "1971", "revenue": 17, "name": "wpp", "country": "london, united kingdom"}
+{"industry": "media", "founded": "1986", "revenue": 14, "name": "omnicom group", "country": "new york, new york"}
+{"industry": "construction", "founded": "1960", "revenue": 23, "name": "sekisui house", "country": "osaka, japan"}
+{"industry": "oil & gas operations", "founded": "1983", "revenue": 17, "name": "cheniere energy", "country": "houston, texas"}
+{"industry": "capital goods", "founded": "1862", "revenue": 11, "name": "sandvik", "country": "stockholm, sweden"}
+{"industry": "chemicals", "founded": "1913", "revenue": 16, "name": "siam cement", "country": "bangkok, thailand"}
+{"industry": "transportation", "founded": "1987", "revenue": 17, "name": "east japan railway", "country": "tokyo, japan"}
+{"industry": "banking", "founded": "1985", "revenue": 4, "name": "abu dhabi commercial bank", "country": "abu dhabi, united arab emirates"}
+{"industry": "banking", "founded": "1997", "revenue": 10, "name": "huishang bank", "country": "hefei, china"}
+{"industry": "consumer durables", "founded": "1984", "revenue": 20, "name": "great wall motor", "country": "baoding, china"}
+{"industry": "diversified financials", "founded": "1988", "revenue": 7, "name": "haitong securities", "country": "shanghai, china"}
+{"industry": "consumer durables", "founded": "1969", "revenue": 17, "name": "dongfeng motor group", "country": "wuhan, china"}
+{"industry": "insurance", "founded": "1996", "revenue": 25, "name": "china reinsurance group", "country": "beijing, china"}
+{"industry": "construction", "founded": "1976", "revenue": 3, "name": "henderson land", "country": "hong kong, hong kong"}
+{"industry": "technology hardware & equipment", "founded": "1970", "revenue": 11, "name": "saung sdi", "country": "yongin, south korea"}
+{"industry": "utilities", "founded": "1987", "revenue": 7, "name": "fortis canada", "country": "st. john's, canada"}
+{"industry": "telecommunications services", "founded": "1984", "revenue": 14, "name": "sk telecom", "country": "seoul, south korea"}
+{"industry": "diversified financials", "founded": "1977", "revenue": 8, "name": "hal trust", "country": "wille tad, netherlands"}
+{"industry": "diversified financials", "founded": "1979", "revenue": 2, "name": "banco btg pactual", "country": "rio de janeiro, brazil"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1987", "revenue": 20, "name": "baker hughes company", "country": "houston, texas"}
+{"industry": "insurance", "founded": "2016", "revenue": 8, "name": "gallagher", "country": "rolling meadows, illinois"}
+{"industry": "insurance", "founded": "1999", "revenue": 11, "name": "everest re group", "country": "hamilton, bermuda"}
+{"industry": "technology hardware & equipment", "founded": "1932", "revenue": 10, "name": "amphenol", "country": "wallingford, connecticut"}
+{"industry": "transportation and logistics", "founded": "1930", "revenue": 34, "name": "american airlines group", "country": "fort worth, texas"}
+{"industry": "it, internet, software & services", "founded": "1997", "revenue": 8, "name": "kla", "country": "milpitas, california"}
+{"industry": "drugs & biotechnology", "founded": "2005", "revenue": 11, "name": "astellas pharma", "country": "tokyo, japan"}
+{"industry": "drugs & biotechnology", "founded": "1950", "revenue": 13, "name": "otsuka holding", "country": "tokyo, japan"}
+{"industry": "banking", "founded": "2005", "revenue": 10, "name": "china bohai bank", "country": "tianjin, china"}
+{"industry": "banking", "founded": "1993", "revenue": 8, "name": "kasikornbank", "country": "bangkok, thailand"}
+{"industry": "banking", "founded": "1921", "revenue": 5, "name": "bank hapoalim", "country": "tel aviv, israel"}
+{"industry": "oil & gas operations", "founded": "1954", "revenue": 7, "name": "woodside petroleum", "country": "perth, australia"}
+{"industry": "transportation", "founded": "2000", "revenue": 6, "name": "mtr", "country": "hong kong, hong kong"}
+{"industry": "oil & gas operations", "founded": "1950", "revenue": 17, "name": "tatneft", "country": "almetyevsk, russia"}
+{"industry": "business services & supplies", "founded": "1986", "revenue": 10, "name": "power finance", "country": "new delhi, india"}
+{"industry": "drugs & biotechnology", "founded": "1952", "revenue": 7, "name": "zoetis", "country": "parsippany, new jersey"}
+{"industry": "drugs & biotechnology", "founded": "1897", "revenue": 5, "name": "lonza group", "country": "basel, switzerland"}
+{"industry": "construction", "founded": "1992", "revenue": 22, "name": "eiffage", "country": "velizy-villacoublay, france"}
+{"industry": "chemicals", "founded": "1913", "revenue": 24, "name": "sumitomo chemical", "country": "tokyo, japan"}
+{"industry": "drugs & biotechnology", "founded": "1989", "revenue": 7, "name": "vertex pharmaceuticals", "country": "boston, massachusetts"}
+{"industry": "utilities", "founded": "", "revenue": 19, "name": "constellation energy", "country": "baltimore, maryland"}
+{"industry": "construction", "founded": "2000", "revenue": 16, "name": "cifi holdings group", "country": "shanghai, china"}
+{"industry": "banking", "founded": "2010", "revenue": 9, "name": "raiffeisen bank international", "country": "vienna, austria"}
+{"industry": "consumer durables", "founded": "1911", "revenue": 22, "name": "whirlpool", "country": "benton harbor, michigan"}
+{"industry": "capital goods", "founded": "1866", "revenue": 32, "name": "siemens energy", "country": "munich, germany"}
+{"industry": "materials", "founded": "2015", "revenue": 19, "name": "westrock", "country": "atlanta, georgia"}
+{"industry": "insurance", "founded": "1952", "revenue": 18, "name": "saung fire & marine", "country": "seoul, south korea"}
+{"industry": "materials", "founded": "1901", "revenue": 20, "name": "us steel", "country": "pittsburgh, pennsylvania"}
+{"industry": "materials", "founded": "1978", "revenue": 11, "name": "upm-kymmene", "country": "helsinki, finland"}
+{"industry": "chemicals", "founded": "1965", "revenue": 13, "name": "formosa chemicals", "country": "changhua, taiwan"}
+{"industry": "oil & gas operations", "founded": "1962", "revenue": 40, "name": "sk innovation", "country": "seoul, south korea"}
+{"industry": "telecommunications services", "founded": "1966", "revenue": 10, "name": "telia", "country": "solna, sweden"}
+{"industry": "insurance", "founded": "2004", "revenue": 20, "name": "t&d holdings", "country": "tokyo, japan"}
+{"industry": "insurance", "founded": "1935", "revenue": 23, "name": "mapfre", "country": "majadahonda, spain"}
+{"industry": "it software & services", "founded": "1976", "revenue": 11, "name": "hcl technologies", "country": "noida, india"}
+{"industry": "construction", "founded": "1949", "revenue": 8, "name": "sumitomo realty", "country": "tokyo, japan"}
+{"industry": "chemicals", "founded": "1986", "revenue": 11, "name": "westlake chemical", "country": "houston, texas"}
+{"industry": "diversified financials", "founded": "1990", "revenue": 4, "name": "apollo global management", "country": "new york, new york"}
+{"industry": "business services & supplies", "founded": "1997", "revenue": 9, "name": "united rentals", "country": "stamford, connecticut"}
+{"industry": "oil & gas operations", "founded": "2007", "revenue": 6, "name": "diamondback energy", "country": "midland, texas"}
+{"industry": "engineering, manufacturing", "founded": "1853", "revenue": 14, "name": "otis worldwide", "country": "farmington, connecticut"}
+{"industry": "banking", "founded": "2008", "revenue": 8, "name": "chongqing rural bank", "country": "chongqing, china"}
+{"industry": "materials", "founded": "1880", "revenue": 13, "name": "ball", "country": "westminster, colorado"}
+{"industry": "materials", "founded": "1996", "revenue": 12, "name": "stora enso", "country": "helsinki, finland"}
+{"industry": "transportation", "founded": "", "revenue": 11, "name": "yang ming marine transport", "country": "keelung, taiwan"}
+{"industry": "insurance", "founded": "1857", "revenue": 33, "name": "phoenix group holdings", "country": "london, united kingdom"}
+{"industry": "it software & services", "founded": "1945", "revenue": 10, "name": "wipro", "country": "bengaluru, india"}
+{"industry": "utilities", "founded": "1989", "revenue": 5, "name": "power grid of india", "country": "gurgaon, india"}
+{"industry": "banking and financial services", "founded": "1991", "revenue": 9, "name": "absa group", "country": "johannesburg, south africa"}
+{"industry": "materials", "founded": "1934", "revenue": 16, "name": "novolipetsk steel", "country": "moscow, russia"}
+{"industry": "capital goods", "founded": "1911", "revenue": 30, "name": "sumitomo electric", "country": "osaka, japan"}
+{"industry": "insurance", "founded": "", "revenue": 24, "name": "st james's place", "country": "cirencester, united kingdom"}
+{"industry": "construction", "founded": "1947", "revenue": 12, "name": "grasim industries", "country": "mumbai, india"}
+{"industry": "diversified financials", "founded": "1920", "revenue": 751, "name": "segro", "country": "london, united kingdom"}
+{"industry": "diversified financials", "founded": "2002", "revenue": 2, "name": "mega financial holding", "country": "taipei, taiwan"}
+{"industry": "retailing", "founded": "2008", "revenue": 27, "name": "zhongsheng group holdings", "country": "dalian, china"}
+{"industry": "insurance", "founded": "2002", "revenue": 15, "name": "shin kong financial", "country": "taipei, taiwan"}
+{"industry": "utilities", "founded": "1987", "revenue": 7, "name": "c energy", "country": "jackson, michigan"}
+{"industry": "conglomerates", "founded": "1957", "revenue": 8, "name": "quinenco", "country": "las condes, chile"}
+{"industry": "chemicals", "founded": "2007", "revenue": 18, "name": "evonik industries", "country": "essen, germany"}
+{"industry": "it software & services", "founded": "2004", "revenue": 2, "name": "east money information", "country": "shanghai, china"}
+{"industry": "insurance", "founded": "1886", "revenue": 13, "name": "qbe insurance group", "country": "sydney, australia"}
+{"industry": "utilities", "founded": "1949", "revenue": 12, "name": "tenaga nasional", "country": "kuala lumpur, malaysia"}
+{"industry": "it software & services", "founded": "1999", "revenue": 6, "name": "naver", "country": "seongnam, south korea"}
+{"industry": "technology hardware & equipment", "founded": "1935", "revenue": 16, "name": "tdk", "country": "tokyo, japan"}
+{"industry": "diversified financials", "founded": "1925", "revenue": 12, "name": "nomura", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "1987", "revenue": 15, "name": "jinke property group", "country": "chongqing, china"}
+{"industry": "utilities", "founded": "1951", "revenue": 47, "name": "tokyo electric power", "country": "tokyo, japan"}
+{"industry": "it, internet, software & services", "founded": "1984", "revenue": 20, "name": "cdw", "country": "vernon hills, illinois"}
+{"industry": "food, soft beverages, alcohol & tobacco", "founded": "1894", "revenue": 9, "name": "the hershey company", "country": "derry township, pennsylvania"}
+{"industry": "food, drink & tobacco", "founded": "1910", "revenue": 7, "name": "itc", "country": "kolkata, india"}
+{"industry": "oil & gas operations", "founded": "1976", "revenue": 18, "name": "pgnig group", "country": "warsaw, poland"}
+{"industry": "telecommunications services", "founded": "1994", "revenue": 12, "name": "mtn group", "country": "roodepoort, south africa"}
+{"industry": "hotels, restaurants & leisure", "founded": "1994", "revenue": 24, "name": "compass group", "country": "chertsey, united kingdom"}
+{"industry": "insurance", "founded": "1967", "revenue": 9, "name": "wr berkley", "country": "greenwich, connecticut"}
+{"industry": "business services & supplies", "founded": "1909", "revenue": 6, "name": "moody's", "country": "new york, new york"}
+{"industry": "trading companies", "founded": "1928", "revenue": 19, "name": "genuine parts", "country": "atlanta, georgia"}
+{"industry": "transportation", "founded": "2007", "revenue": 4, "name": "beijing-shanghai high-speed railway", "country": "beijing, china"}
+{"industry": "materials", "founded": "2001", "revenue": 41, "name": "aluminum corp of china", "country": "beijing, china"}
+{"industry": "utilities", "founded": "1951", "revenue": 26, "name": "kansai electric power", "country": "osaka, japan"}
+{"industry": "diversified financials", "founded": "1972", "revenue": 3, "name": "public storage", "country": "glendale, california"}
+{"industry": "business services & supplies", "founded": "1984", "revenue": 10, "name": "china international travel service", "country": "beijing, china"}
+{"industry": "chemicals", "founded": "1910", "revenue": 10, "name": "sika", "country": "baar, switzerland"}
+{"industry": "banking", "founded": "2000", "revenue": 2, "name": "signature bank", "country": "new york, new york"}
+{"industry": "diversified financials", "founded": "1937", "revenue": 7, "name": "t rowe price", "country": "baltimore, maryland"}
+{"industry": "household & personal products", "founded": "1833", "revenue": 11, "name": "international flavors & fragrances", "country": "new york, new york"}
+{"industry": "transportation", "founded": "1982", "revenue": 6, "name": "atlantia", "country": "rome, italy"}
+{"industry": "conglomerates", "founded": "1981", "revenue": 6, "name": "roper technologies", "country": "sarasota, florida"}
+{"industry": "transportation", "founded": "1993", "revenue": 5, "name": "shanghai international port", "country": "shanghai, china"}
+{"industry": "drugs & biotechnology", "founded": "2005", "revenue": 9, "name": "daiichi sankyo", "country": "tokyo, japan"}
+{"industry": "business services & supplies", "founded": "1997", "revenue": 15, "name": "rakuten", "country": "tokyo, japan"}
+{"industry": "diversified financials", "founded": "1947", "revenue": 8, "name": "franklin resources", "country": "san mateo, california"}
+{"industry": "banking", "founded": "1783", "revenue": 8, "name": "bank of ireland", "country": "dublin, ireland"}
+{"industry": "transportation", "founded": "1942", "revenue": 10, "name": "mitsui osk lines", "country": "tokyo, japan"}
+{"industry": "banking", "founded": "1978", "revenue": 2, "name": "saudi british bank", "country": "riyadh, saudi arabia"}
+{"industry": "utilities", "founded": "1902", "revenue": 6, "name": "ameren", "country": "st. louis, missouri"}
+{"industry": "telecommunications services, cable supplier", "founded": "1996", "revenue": 7, "name": "chunghwa telecom", "country": "teipei city, taiwan"}
+{"industry": "capital goods", "founded": "1994", "revenue": 11, "name": "assa abloy", "country": "stockholm, sweden"}
+{"industry": "telecommunications services, cable supplier", "founded": "1985", "revenue": 17, "name": "zte", "country": "shenzhen, china"}
+{"industry": "insurance", "founded": "2000", "revenue": 11, "name": "asr nederland", "country": "utrecht, netherlands"}
+{"industry": "food, drink & tobacco", "founded": "1919", "revenue": 11, "name": "conagra brands", "country": "chicago, illinois"}
+{"industry": "banking", "founded": "1870", "revenue": 14, "name": "commerzbank", "country": "frankfurt, germany"}
+{"industry": "conglomerates", "founded": "2007", "revenue": 8, "name": "bajaj finserv", "country": "pune, india"}
+{"industry": "materials", "founded": "1953", "revenue": 20, "name": "hyundai steel", "country": "inchon, south korea"}
+{"industry": "trading companies", "founded": "1985", "revenue": 26, "name": "lg display", "country": "seoul, south korea"}
+{"industry": "telecommunications services", "founded": "1981", "revenue": 21, "name": "kt", "country": "seongnam, south korea"}
+{"industry": "construction", "founded": "2010", "revenue": 12, "name": "logan property holdings", "country": "shenzhen, china"}
+{"industry": "utilities", "founded": "1903", "revenue": 8, "name": "public service enterprise group", "country": "newark, new jersey"}
+{"industry": "materials", "founded": "2002", "revenue": 14, "name": "en group international", "country": "kaliningrad, russia"}
+{"industry": "banking", "founded": "1924", "revenue": 12, "name": "isbank", "country": "istanbul, turkey"}
+{"industry": "transportation", "founded": "1979", "revenue": 16, "name": "expeditors international", "country": "seattle, washington"}
+{"industry": "materials", "founded": "1961", "revenue": 16, "name": "ternium", "country": "luxembourg, luxembourg"}
+{"industry": "utilities", "founded": "1992", "revenue": 10, "name": "cez group", "country": "prague, czech republic"}
+{"industry": "consumer durables", "founded": "1916", "revenue": 21, "name": "isuzu motors", "country": "yokohama, japan"}
+{"industry": "semiconductors", "founded": "2002", "revenue": 9, "name": "renesas electronics", "country": "tokyo, japan"}
+{"industry": "banking and financial services", "founded": "1961", "revenue": 16, "name": "unipol gruppo", "country": "bologna, italy"}
+{"industry": "diversified financials", "founded": "1999", "revenue": 5, "name": "sbi holdings", "country": "tokyo, japan"}
+{"industry": "consumer durables", "founded": "1985", "revenue": 13, "name": "techtronic industries", "country": "hong kong, hong kong"}
+{"industry": "transportation", "founded": "1952", "revenue": 8, "name": "ferrovial", "country": "madrid, spain"}
+{"industry": "banking", "founded": "1924", "revenue": 5, "name": "cimb group holdings", "country": "kuala lumpur, malaysia"}
+{"industry": "construction", "founded": "1910", "revenue": 12, "name": "kone", "country": "helsinki, finland"}
+{"industry": "retailing", "founded": "1993", "revenue": 21, "name": "e-mart", "country": "seoul, south korea"}
+{"industry": "diversified financials", "founded": "1991", "revenue": 5, "name": "gf securities", "country": "guangzhou, china"}
+{"industry": "diversified financials", "founded": "1991", "revenue": 5, "name": "china merchants securities", "country": "shenzhen, china"}
+{"industry": "diversified financials", "founded": "1996", "revenue": 731, "name": "annaly capital management", "country": "new york, new york"}
+{"industry": "food markets", "founded": "1914", "revenue": 29, "name": "coles group", "country": "melbourne, australia"}
+{"industry": "transportation", "founded": "1987", "revenue": 8, "name": "central japan railway", "country": "nagoya, japan"}
+{"industry": "diversified financials", "founded": "1966", "revenue": 10, "name": "sabanci holding", "country": "istanbul, turkey"}
+{"industry": "diversified financials", "founded": "2002", "revenue": 5, "name": "yuanta financial holding", "country": "taipei, taiwan"}
+{"industry": "diversified financials", "founded": "2003", "revenue": 24, "name": "antarchile", "country": "las condes, chile"}
+{"industry": "transportation", "founded": "", "revenue": 12, "name": "hmm", "country": "seoul, south korea"}
+{"industry": "technology hardware & equipment", "founded": "1978", "revenue": 12, "name": "seagate technology", "country": "dublin, ireland"}
+{"industry": "insurance", "founded": "1929", "revenue": 12, "name": "alleghany", "country": "new york, new york"}
+{"industry": "diversified financials", "founded": "1994", "revenue": 3, "name": "guosen securities", "country": "shenzhen, china"}
+{"industry": "business services & supplies", "founded": "1946", "revenue": 9, "name": "avis budget group", "country": "parsippany, new jersey"}
+{"industry": "materials", "founded": "1997", "revenue": 68, "name": "jiangxi copper", "country": "nanchang, china"}
+{"industry": "business services & supplies", "founded": "1971", "revenue": 14, "name": "mitsubishi ufj lease", "country": "tokyo, japan"}
+{"industry": "materials", "founded": "1950", "revenue": 10, "name": "sumitomo metal mining", "country": "tokyo, japan"}
+{"industry": "technology hardware & equipment", "founded": "1989", "revenue": 19, "name": "asustek computer", "country": "taipei, taiwan"}
+{"industry": "food, drink & tobacco", "founded": "1935", "revenue": 19, "name": "associated british foods", "country": "london, united kingdom"}
+{"industry": "utilities", "founded": "2008", "revenue": 9, "name": "china national nuclear power", "country": "beijing, china"}
+{"industry": "diversified financials", "founded": "1995", "revenue": 3, "name": "china international capital", "country": "beijing, china"}
+{"industry": "materials", "founded": "2006", "revenue": 26, "name": "china molybdenum", "country": "luoyang, china"}
+{"industry": "diversified financials", "founded": "1859", "revenue": 11, "name": "equitable holdings", "country": "new york, new york"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "2015", "revenue": 18, "name": "covestro", "country": "leverkusen, germany"}
+{"industry": "diversified financials", "founded": "2018", "revenue": 23, "name": "m&g", "country": "london, united kingdom"}
+{"industry": "it, internet, software & services", "founded": "2006", "revenue": 4, "name": "shopify", "country": "ottawa, canada"}
+{"industry": "construction", "founded": "1994", "revenue": 43, "name": "shanghai construction", "country": "shanghai, china"}
+{"industry": "household & personal products", "founded": "1929", "revenue": 14, "name": "essity", "country": "stockholm, sweden"}
+{"industry": "trading companies", "founded": "1927", "revenue": 13, "name": "ww grainger", "country": "lake forest, illinois"}
+{"industry": "banking", "founded": "1906", "revenue": 12, "name": "canara bank", "country": "bangalore, india"}
+{"industry": "drugs & biotechnology", "founded": "1961", "revenue": 17, "name": "viatris", "country": "canonsburg, pennsylvania"}
+{"industry": "utilities", "founded": "1886", "revenue": 3, "name": "american water works", "country": "camden, new jersey"}
+{"industry": "semiconductors", "founded": "1980", "revenue": 7, "name": "united microelectronics", "country": "hsinchu, taiwan"}
+{"industry": "clothing, shoes, sports equipment", "founded": "1899", "revenue": 11, "name": "vf", "country": "denver, colorado"}
+{"industry": "health care equipment & services", "founded": "1995", "revenue": 5, "name": "intuitive surgical", "country": "sunnyvale, california"}
+{"industry": "oil & gas operations", "founded": "1941", "revenue": 3, "name": "snam", "country": "milan, italy"}
+{"industry": "capital goods", "founded": "1945", "revenue": 18, "name": "vestas wind syste", "country": "aarhus, denmark"}
+{"industry": "consumer durables", "founded": "1953", "revenue": 25, "name": "subaru", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "1998", "revenue": 14, "name": "jiangsu zhongnan construction group", "country": "shanghai, china"}
+{"industry": "food, drink & tobacco", "founded": "1847", "revenue": 10, "name": "carlsberg", "country": "copenhagen, denmark"}
+{"industry": "construction", "founded": "1998", "revenue": 19, "name": "builders firstsource", "country": "dallas, texas"}
+{"industry": "semiconductors", "founded": "2000", "revenue": 5, "name": "semiconductor manufacturing international", "country": "shanghai, china"}
+{"industry": "banking", "founded": "1919", "revenue": 4, "name": "pko bank polski", "country": "warsaw, poland"}
+{"industry": "oil & gas operations", "founded": "1992", "revenue": 14, "name": "enn energy holdings", "country": "langfang, china"}
+{"industry": "food, drink & tobacco", "founded": "2006", "revenue": 27, "name": "wh group", "country": "hong kong, hong kong"}
+{"industry": "materials", "founded": "1860", "revenue": 13, "name": "amcor", "country": "warmley, united kingdom"}
+{"industry": "oil & gas operations", "founded": "1983", "revenue": 24, "name": "korea gas", "country": "daegu, south korea"}
+{"industry": "conglomerates", "founded": "1968", "revenue": 8, "name": "jefferies financial", "country": "new york, new york"}
+{"industry": "materials", "founded": "1955", "revenue": 11, "name": "severstal", "country": "cherepovets, russia"}
+{"industry": "diversified financials", "founded": "1994", "revenue": 2, "name": "alexandria real estate equities", "country": "pasadena, california"}
+{"industry": "banking", "founded": "1890", "revenue": 5, "name": "julius baer group", "country": "zurich, switzerland"}
+{"industry": "diversified financials", "founded": "1918", "revenue": 14, "name": "sanlam", "country": "bellville, south africa"}
+{"industry": "construction", "founded": "1997", "revenue": 7, "name": "emaar properties", "country": "dubai, united arab emirates"}
+{"industry": "banking", "founded": "1955", "revenue": 3, "name": "joint stock commercial bank for foreign trade of vietnam", "country": "ha noi, vietnam"}
+{"industry": "aerospace & defense", "founded": "2011", "revenue": 8, "name": "motorola solutions", "country": "chicago, illinois"}
+{"industry": "banking", "founded": "2005", "revenue": 5, "name": "shanghai rural commercial bank", "country": "shanghai, china"}
+{"industry": "chemicals", "founded": "2002", "revenue": 19, "name": "braskem", "country": "butanta, brazil"}
+{"industry": "banking", "founded": "1957", "revenue": 12, "name": "bank of baroda", "country": "vadodara, india"}
+{"industry": "oil & gas operations", "founded": "1976", "revenue": 24, "name": "s-oil", "country": "seoul, south korea"}
+{"industry": "retailing", "founded": "1938", "revenue": 13, "name": "tractor supply", "country": "brentwood, tennessee"}
+{"industry": "insurance", "founded": "1996", "revenue": 9, "name": "suncorp group", "country": "brisbane, australia"}
+{"industry": "oil & gas operations", "founded": "1991", "revenue": 19, "name": "mol hungarian oil", "country": "budapest, hungary"}
+{"industry": "consumer durables", "founded": "1994", "revenue": 15, "name": "aptiv", "country": "dublin, ireland"}
+{"industry": "insurance", "founded": "1999", "revenue": 4, "name": "voya financial", "country": "new york, new york"}
+{"industry": "conglomerates", "founded": "1966", "revenue": 17, "name": "gs holdings", "country": "seoul, south korea"}
+{"industry": "materials", "founded": "1901", "revenue": 14, "name": "gerdau cosigua", "country": "sao paulo, brazil"}
+{"industry": "diversified financials", "founded": "1993", "revenue": 2, "name": "equity residential", "country": "chicago, illinois"}
+{"industry": "banking", "founded": "1982", "revenue": 1, "name": "qatar islamic bank", "country": "doha, qatar"}
+{"industry": "food, drink & tobacco", "founded": "1891", "revenue": 12, "name": "hormel foods", "country": "austin, minnesota"}
+{"industry": "diversified financials", "founded": "1996", "revenue": 6, "name": "shenwan hongyuan group", "country": "urumqi, china"}
+{"industry": "insurance", "founded": "1973", "revenue": 16, "name": "reinsurance group of america", "country": "chesterfield, missouri"}
+{"industry": "health care equipment & services", "founded": "1967", "revenue": 10, "name": "quest diagnostics", "country": "secaucus, new jersey"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1863", "revenue": 13, "name": "solvay", "country": "brussels, belgium"}
+{"industry": "oil & gas operations", "founded": "1997", "revenue": 6, "name": "pembina pipeline", "country": "calgary, canada"}
+{"industry": "banking", "founded": "1977", "revenue": 2, "name": "banque saudi fransi", "country": "riyadh, saudi arabia"}
+{"industry": "capital goods", "founded": "1959", "revenue": 6, "name": "smc", "country": "tokyo, japan"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1950", "revenue": 15, "name": "sasol", "country": "sandton, south africa"}
+{"industry": "food, drink & tobacco", "founded": "1786", "revenue": 10, "name": "molson coors brewing", "country": "golden, colorado"}
+{"industry": "retailing", "founded": "1929", "revenue": 25, "name": "macy's", "country": "new york, new york"}
+{"industry": "banking", "founded": "1945", "revenue": 6, "name": "bancolombia", "country": "medellin, colombia"}
+{"industry": "business services & supplies", "founded": "1968", "revenue": 7, "name": "cintas", "country": "cincinnati, ohio"}
+{"industry": "capital goods", "founded": "1980", "revenue": 25, "name": "china international marine", "country": "shenzhen, china"}
+{"industry": "utilities", "founded": "1994", "revenue": 31, "name": "huaneng power international", "country": "beijing, china"}
+{"industry": "hotels, restaurants & leisure", "founded": "2014", "revenue": 5, "name": "restaurant brands international", "country": "toronto, canada"}
+{"industry": "insurance", "founded": "1803", "revenue": 10, "name": "grupa pzu", "country": "warsaw, poland"}
+{"industry": "household & personal products", "founded": "1887", "revenue": 12, "name": "kao", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "2005", "revenue": 11, "name": "agile group holdings", "country": "guangzhou, china"}
+{"industry": "trading companies", "founded": "1946", "revenue": 34, "name": "arrow electronics", "country": "centennial, colorado"}
+{"industry": "business services & supplies", "founded": "1997", "revenue": 14, "name": "shenzhen overseas", "country": "shenzhen, china"}
+{"industry": "health care equipment & services", "founded": "1967", "revenue": 19, "name": "tenet healthcare", "country": "dallas, texas"}
+{"industry": "diversified financials", "founded": "1994", "revenue": 10, "name": "grupo aval", "country": "bogota, colombia"}
+{"industry": "food markets", "founded": "1988", "revenue": 17, "name": "cp all", "country": "bangkok, thailand"}
+{"industry": "consumer durables", "founded": "1973", "revenue": 15, "name": "geely automobile holdings", "country": "hong kong, hong kong"}
+{"industry": "utilities", "founded": "1997", "revenue": 20, "name": "centrica", "country": "windsor, united kingdom"}
+{"industry": "banking", "founded": "1975", "revenue": 3, "name": "dubai islamic bank", "country": "dubai, united arab emirates"}
+{"industry": "materials", "founded": "1924", "revenue": 7, "name": "suzano papel e celulose", "country": "salvador, brazil"}
+{"industry": "diversified financials", "founded": "2005", "revenue": 1, "name": "link reit", "country": "hong kong, hong kong"}
+{"industry": "hotels, restaurants & leisure", "founded": "1997", "revenue": 6, "name": "yum brands", "country": "louisville, canada"}
+{"industry": "materials", "founded": "1983", "revenue": 8, "name": "first quantum minerals", "country": "vancouver, canada"}
+{"industry": "business services & supplies", "founded": "1995", "revenue": 4, "name": "aercap holdings", "country": "dublin, ireland"}
+{"industry": "banking", "founded": "1864", "revenue": 3, "name": "first horizon", "country": "memphis, tennessee"}
+{"industry": "media", "founded": "2001", "revenue": 9, "name": "dentsu", "country": "tokyo, japan"}
+{"industry": "drugs & biotechnology", "founded": "1980", "revenue": 27, "name": "molina healthcare", "country": "long beach, california"}
+{"industry": "banking", "founded": "1919", "revenue": 11, "name": "union bank of india", "country": "mumbai, india"}
+{"industry": "household & personal products", "founded": "1926", "revenue": 19, "name": "toray industries", "country": "tokyo, japan"}
+{"industry": "it software & services", "founded": "2009", "revenue": 17, "name": "block", "country": "san francisco, california"}
+{"industry": "utilities", "founded": "1962", "revenue": 7, "name": "eletrobras", "country": "rio de janeiro, brazil"}
+{"industry": "food, drink & tobacco", "founded": "2004", "revenue": 13, "name": "china mengniu dairy", "country": "hong kong, hong kong"}
+{"industry": "insurance", "founded": "1968", "revenue": 15, "name": "db insurance", "country": "seoul, south korea"}
+{"industry": "banking", "founded": "1992", "revenue": 3, "name": "esun financial", "country": "taipei, taiwan"}
+{"industry": "banking", "founded": "1949", "revenue": 5, "name": "otp bank", "country": "budapest, hungary"}
+{"industry": "retailing", "founded": "1958", "revenue": 8, "name": "sm investments", "country": "manila, philippines"}
+{"industry": "business services & supplies", "founded": "1995", "revenue": 10, "name": "ebay", "country": "san jose, california"}
+{"industry": "drugs & biotechnology", "founded": "1958", "revenue": 5, "name": "edwards lifesciences", "country": "irvine, california"}
+{"industry": "banking", "founded": "1946", "revenue": 2, "name": "taiwan cooperative financial", "country": "taipei, taiwan"}
+{"industry": "food, drink & tobacco", "founded": "1945", "revenue": 8, "name": "constellation brands", "country": "victor, new york"}
+{"industry": "construction", "founded": "2004", "revenue": 14, "name": "china jinmao", "country": "hong kong, hong kong"}
+{"industry": "capital goods", "founded": "1972", "revenue": 6, "name": "fanuc", "country": "minamitsuru, japan"}
+{"industry": "construction", "founded": "", "revenue": 12, "name": "yango group", "country": "shanghai, china"}
+{"industry": "capital goods", "founded": "1860", "revenue": 8, "name": "legrand", "country": "limoges, france"}
+{"industry": "drugs & biotechnology", "founded": "1994", "revenue": 33, "name": "shanghai pharmaceuticals", "country": "shanghai, china"}
+{"industry": "chemicals", "founded": "1907", "revenue": 15, "name": "agc", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "", "revenue": 23, "name": "shaanxi construction engineering group", "country": "xi'an, china"}
+{"industry": "materials", "founded": "1997", "revenue": 25, "name": "hunan valin steel", "country": "changsha, china"}
+{"industry": "construction", "founded": "1989", "revenue": 1, "name": "goodman group", "country": "sydney, australia"}
+{"industry": "insurance", "founded": "1892", "revenue": 13, "name": "ia financial corporation", "country": "quebec, canada"}
+{"industry": "insurance", "founded": "1848", "revenue": 12, "name": "unum", "country": "chattanooga, tennessee"}
+{"industry": "household & personal products", "founded": "1991", "revenue": 7, "name": "anta sports products", "country": "xiamen, china"}
+{"industry": "oil & gas operations", "founded": "1967", "revenue": 5, "name": "continental resources", "country": "oklahoma city, oklahoma"}
+{"industry": "insurance", "founded": "1864", "revenue": 11, "name": "baloise group", "country": "basel, switzerland"}
+{"industry": "technology hardware & equipment", "founded": "2007", "revenue": 45, "name": "pegatron", "country": "taipei, taiwan"}
+{"industry": "construction", "founded": "1783", "revenue": 19, "name": "jones lang lasalle", "country": "chicago, illinois"}
+{"industry": "insurance", "founded": "1959", "revenue": 6, "name": "american financial group", "country": "cincinnati, ohio"}
+{"industry": "diversified financials", "founded": "1902", "revenue": 5, "name": "daiwa securities", "country": "tokyo, japan"}
+{"industry": "transportation", "founded": "1953", "revenue": 19, "name": "deutsche lufthansa", "country": "cologne, germany"}
+{"industry": "diversified financials", "founded": "1935", "revenue": 7, "name": "invesco", "country": "atlanta, georgia"}
+{"industry": "diversified financials", "founded": "1971", "revenue": 5, "name": "nasdaq", "country": "new york, new york"}
+{"industry": "capital goods", "founded": "1874", "revenue": 12, "name": "schindler holding", "country": "hergiswil, switzerland"}
+{"industry": "banking", "founded": "1849", "revenue": 3, "name": "comerica", "country": "dallas, texas"}
+{"industry": "banking", "founded": "1923", "revenue": 4, "name": "mizrahi tefahot bank", "country": "ramat gan, israel"}
+{"industry": "health care equipment & services", "founded": "1952", "revenue": 2, "name": "bio-rad laboratories", "country": "hercules, california"}
+{"industry": "chemicals", "founded": "2003", "revenue": 4, "name": "industries qatar", "country": "doha, qatar"}
+{"industry": "it software & services", "founded": "1995", "revenue": 5, "name": "kakao", "country": "jejusi, south korea"}
+{"industry": "business services & supplies", "founded": "1984", "revenue": 7, "name": "ashtead group", "country": "london, united kingdom"}
+{"industry": "banking", "founded": "1895", "revenue": 12, "name": "punjab national bank", "country": "new delhi, india"}
+{"industry": "technology hardware & equipment", "founded": "1975", "revenue": 11, "name": "delta electronics", "country": "taipei, taiwan"}
+{"industry": "health care equipment & services", "founded": "1945", "revenue": 8, "name": "alcon", "country": "geneva, switzerland"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1980", "revenue": 42, "name": "td synnex", "country": "fremont, california"}
+{"industry": "materials", "founded": "1888", "revenue": 7, "name": "antofagasta", "country": "london, united kingdom"}
+{"industry": "construction", "founded": "1950", "revenue": 13, "name": "pultegroup", "country": "atlanta, georgia"}
+{"industry": "transportation", "founded": "", "revenue": 8, "name": "wan hai lines", "country": "taipei, taiwan"}
+{"industry": "diversified financials", "founded": "1998", "revenue": 6, "name": "equinix", "country": "redwood city, california"}
+{"industry": "materials", "founded": "1939", "revenue": 14, "name": "reliance steel", "country": "los angeles, california"}
+{"industry": "chemicals", "founded": "1978", "revenue": 14, "name": "ptt global chemical", "country": "bangkok, thailand"}
+{"industry": "banking", "founded": "1965", "revenue": 2, "name": "bankinter", "country": "madrid, spain"}
+{"industry": "drugs & biotechnology", "founded": "1944", "revenue": 15, "name": "teva pharmaceutical", "country": "tel aviv, israel"}
+{"industry": "transportation", "founded": "1905", "revenue": 23, "name": "ch robinson", "country": "eden prairie, minnesota"}
+{"industry": "utilities", "founded": "1947", "revenue": 5, "name": "verbund", "country": "vienna , austria"}
+{"industry": "banking", "founded": "1955", "revenue": 3, "name": "zions bancorp", "country": "salt lake city, utah"}
+{"industry": "banking", "founded": "1996", "revenue": 4, "name": "bank of chengdu", "country": "chengdu, china"}
+{"industry": "diversified financials", "founded": "", "revenue": 331, "name": "3i group", "country": "london, united kingdom"}
+{"industry": "banking", "founded": "2006", "revenue": 1, "name": "alinma bank", "country": "riyadh, saudi arabia"}
+{"industry": "food & drink", "founded": "2018", "revenue": 8, "name": "jde peet's", "country": "a terdam, netherlands"}
+{"industry": "oil & gas operations", "founded": "2015", "revenue": 21, "name": "cosmo energy holdings", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "1996", "revenue": 10, "name": "risesun real estate development", "country": "langfang, china"}
+{"industry": "food, drink & tobacco", "founded": "1967", "revenue": 17, "name": "uni-president", "country": "tainan, taiwan"}
+{"industry": "consumer durables", "founded": "1945", "revenue": 11, "name": "mahindra & mahindra", "country": "mumbai, india"}
+{"industry": "telecommunications services", "founded": "1855", "revenue": 13, "name": "telenor", "country": "fornebu, norway"}
+{"industry": "drugs & biotechnology", "founded": "1928", "revenue": 6, "name": "ucb", "country": "brussels, belgium"}
+{"industry": "business services & supplies", "founded": "1930", "revenue": 10, "name": "interpublic group", "country": "new york, new york"}
+{"industry": "chemicals", "founded": "1969", "revenue": 11, "name": "akzo nobel", "country": "a terdam, netherlands"}
+{"industry": "chemicals", "founded": "1918", "revenue": 8, "name": "celanese", "country": "irving, texas"}
+{"industry": "diversified financials", "founded": "1978", "revenue": 2, "name": "avalonbay communities", "country": "arlington, virginia"}
+{"industry": "business services & supplies", "founded": "1960", "revenue": 29, "name": "randstad nv", "country": "diemen, netherlands"}
+{"industry": "materials", "founded": "2002", "revenue": 11, "name": "sibanye stillwater", "country": "weltevreden park, south africa"}
+{"industry": "banking", "founded": "2003", "revenue": 2, "name": "first financial holding", "country": "taipei, taiwan"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1989", "revenue": 6, "name": "microchip technology", "country": "chandler, arizona"}
+{"industry": "technology hardware & equipment", "founded": "1969", "revenue": 25, "name": "flex", "country": "singapore, singapore"}
+{"industry": "media", "founded": "1991", "revenue": 11, "name": "liberty media corporation series a liberty formula one", "country": "englewood, colorado"}
+{"industry": "health care equipment & services", "founded": "1999", "revenue": 6, "name": "agilent technologies", "country": "santa clara, california"}
+{"industry": "consumer durables", "founded": "1997", "revenue": 11, "name": "guangzhou automobile group", "country": "guangzhou, china"}
+{"industry": "utilities", "founded": "", "revenue": 14, "name": "rosseti", "country": "moscow, russia"}
+{"industry": "materials", "founded": "", "revenue": 20, "name": "beijing shougang", "country": "beijing, china"}
+{"industry": "it software & services", "founded": "1976", "revenue": 9, "name": "cgi", "country": "montreal, canada"}
+{"industry": "diversified financials", "founded": "2005", "revenue": 6, "name": "csc financial", "country": "beijing, china"}
+{"industry": "conglomerates", "founded": "1999", "revenue": 42, "name": "thyssenkrupp group", "country": "essen, germany"}
+{"industry": "health care equipment & services", "founded": "1991", "revenue": 4, "name": "shenzhen mindray bio-medical electronics", "country": "shenzhen, china"}
+{"industry": "technology hardware & equipment", "founded": "1944", "revenue": 5, "name": "hoya", "country": "tokyo, japan"}
+{"industry": "food, drink & tobacco", "founded": "1995", "revenue": 9, "name": "tongwei", "country": "chengdu, china"}
+{"industry": "banking", "founded": "1977", "revenue": 3, "name": "kuwait finance house", "country": "kuwait city, kuwait"}
+{"industry": "food, drink & tobacco", "founded": "1945", "revenue": 17, "name": "grupo bimbo", "country": "mexico city, mexico"}
+{"industry": "consumer durables", "founded": "1998", "revenue": 13, "name": "lkq", "country": "chicago, illinois"}
+{"industry": "utilities", "founded": "1951", "revenue": 24, "name": "chubu electric power", "country": "nagoya, japan"}
+{"industry": "retailing", "founded": "1946", "revenue": 25, "name": "lithia motors", "country": "medford, oregon"}
+{"industry": "conglomerates", "founded": "1816", "revenue": 11, "name": "swire pacific", "country": "hong kong, hong kong"}
+{"industry": "banking", "founded": "2011", "revenue": 1, "name": "unicaja banco", "country": "malaga, spain"}
+{"industry": "automotive  automotive and suppliers ", "founded": "1920", "revenue": 28, "name": "mazda motor", "country": "hiroshima, japan"}
+{"industry": "telecommunications services", "founded": "1994", "revenue": 18, "name": "telecom italia", "country": "rome, italy"}
+{"industry": "diversified financials", "founded": "2007", "revenue": 5, "name": "china galaxy securities", "country": "beijing, china"}
+{"industry": "capital goods", "founded": "1920", "revenue": 5, "name": "cnpc capital", "country": "beijing, china"}
+{"industry": "transportation", "founded": "1988", "revenue": 15, "name": "china southern airlines", "country": "guangzhou, china"}
+{"industry": "it software & services", "founded": "1981", "revenue": 5, "name": "dassault systemes", "country": "velizy-villacoublay, france"}
+{"industry": "utilities", "founded": "1992", "revenue": 23, "name": "gd power development", "country": "beijing, china"}
+{"industry": "business services & supplies", "founded": "1971", "revenue": 4, "name": "paychex", "country": "rochester, new york"}
+{"industry": "insurance", "founded": "1871", "revenue": 7, "name": "genworth financial", "country": "richmond, virginia"}
+{"industry": "food, drink & tobacco", "founded": "1985", "revenue": 5, "name": "monster beverage", "country": "corona, california"}
+{"industry": "utilities", "founded": "1993", "revenue": 5, "name": "china longyuan power", "country": "beijing, china"}
+{"industry": "oil & gas operations", "founded": "1881", "revenue": 10, "name": "ovintiv", "country": "denver, colorado"}
+{"industry": "banking", "founded": "1967", "revenue": 4, "name": "bdo unibank", "country": "makati city, philippines"}
+{"industry": "retailing", "founded": "1991", "revenue": 26, "name": "autonation", "country": "fort lauderdale, florida"}
+{"industry": "construction", "founded": "2007", "revenue": 10, "name": "china aoyuan group", "country": "guangzhou, china"}
+{"industry": "oil & gas operations", "founded": "1989", "revenue": 7, "name": "chesapeake energy", "country": "oklahoma city, oklahoma"}
+{"industry": "transportation", "founded": "1961", "revenue": 13, "name": "jb hunt transport services", "country": "lowell, arkansas"}
+{"industry": "banking", "founded": "1946", "revenue": 3, "name": "mediobanca", "country": "milan, italy"}
+{"industry": "banking", "founded": "1995", "revenue": 4, "name": "credicorp", "country": "lima, peru"}
+{"industry": "diversified financials", "founded": "1969", "revenue": 2, "name": "realty income", "country": "san diego, california"}
+{"industry": "conglomerates", "founded": "1997", "revenue": 10, "name": "beijing enterprises", "country": "hong kong, hong kong"}
+{"industry": "oil & gas operations", "founded": "1989", "revenue": 3, "name": "coterra energy", "country": "houston, texas"}
+{"industry": "banking", "founded": "1907", "revenue": 5, "name": "siam commercial bank", "country": "bangkok, thailand"}
+{"industry": "food & drink", "founded": "1996", "revenue": 4, "name": "nongfu spring", "country": "hangzhou, china"}
+{"industry": "trading companies", "founded": "1971", "revenue": 36, "name": "finatis", "country": "paris, france"}
+{"industry": "construction", "founded": "1995", "revenue": 15, "name": "greentown china holdings", "country": "hangzhou, china"}
+{"industry": "insurance", "founded": "2007", "revenue": 11, "name": "meritz financial group", "country": "seoul, south korea"}
+{"industry": "capital goods", "founded": "", "revenue": 9, "name": "tbea", "country": "changji, china"}
+{"industry": "capital goods", "founded": "1903", "revenue": 7, "name": "rockwell automation", "country": "milwaukee, wisconsin"}
+{"industry": "materials", "founded": "", "revenue": 10, "name": "west fraser timber co", "country": "vancouver, canada"}
+{"industry": "insurance", "founded": "1996", "revenue": 13, "name": "helvetia holding", "country": "st. gallen, switzerland"}
+{"industry": "consumer durables", "founded": "1929", "revenue": 11, "name": "chow tai fook jewellery", "country": "hong kong, hong kong"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1895", "revenue": 7, "name": "givaudan", "country": "vernier, switzerland"}
+{"industry": "materials", "founded": "2006", "revenue": 5, "name": "polyus", "country": "moscow, russia"}
+{"industry": "retailing", "founded": "1998", "revenue": 6, "name": "lululemon athletica", "country": "sumner, washington"}
+{"industry": "retailing", "founded": "1990", "revenue": 11, "name": "bath & body works", "country": "columbus, ohio"}
+{"industry": "technology hardware & equipment", "founded": "1966", "revenue": 30, "name": "jabil circuit", "country": "st. petersburg, florida"}
+{"industry": "technology hardware & equipment", "founded": "2003", "revenue": 12, "name": "innolux", "country": "miaoli, taiwan"}
+{"industry": "diversified financials", "founded": "1996", "revenue": 3, "name": "partners group holding", "country": "baar, switzerland"}
+{"industry": "food, drink & tobacco", "founded": "1573", "revenue": 2, "name": "luzhou lao jiao", "country": "luzhou, china"}
+{"industry": "insurance", "founded": "1855", "revenue": 17, "name": "scor", "country": "paris, france"}
+{"industry": "conglomerates", "founded": "1955", "revenue": 8, "name": "dover", "country": "downers grove, illinois"}
+{"industry": "banking", "founded": "1998", "revenue": 1, "name": "east west bancorp", "country": "pasadena, california"}
+{"industry": "retail and wholesale", "founded": "1869", "revenue": 40, "name": "j sainsbury", "country": "london, united kingdom"}
+{"industry": "construction", "founded": "1999", "revenue": 9, "name": "kaisa group holdings", "country": "shenzhen, china"}
+{"industry": "diversified financials", "founded": "1999", "revenue": 11, "name": "china huarong asset management", "country": "beijing, china"}
+{"industry": "technology hardware & equipment", "founded": "1996", "revenue": 13, "name": "au optronics", "country": "hsinchu, taiwan"}
+{"industry": "retailing", "founded": "1990", "revenue": 8, "name": "ulta beauty", "country": "bolingbrook, illinois"}
+{"industry": "diversified financials", "founded": "1968", "revenue": 3, "name": "korea investment holdings", "country": "seoul, south korea"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1966", "revenue": 1, "name": "itausa", "country": "sao paulo, brazil"}
+{"industry": "consumer durables", "founded": "1958", "revenue": 27, "name": "baic motor", "country": "beijing, china"}
+{"industry": "telecommunications services", "founded": "2008", "revenue": 3, "name": "cellnex telecom", "country": "barcelona, spain"}
+{"industry": "utilities", "founded": "1981", "revenue": 11, "name": "aes", "country": "arlington, virginia"}
+{"industry": "materials", "founded": "1992", "revenue": 13, "name": "evraz group", "country": "london, united kingdom"}
+{"industry": "aerospace & defense", "founded": "1948", "revenue": 16, "name": "leonardo", "country": "rome, italy"}
+{"industry": "materials", "founded": "1967", "revenue": 8, "name": "impala platinum holdings", "country": "northlands, south africa"}
+{"industry": "chemicals", "founded": "1976", "revenue": 15, "name": "lotte chemical", "country": "seoul, south korea"}
+{"industry": "food, drink & tobacco", "founded": "1995", "revenue": 3, "name": "foshan haitian flavouring and food", "country": "foshan, china"}
+{"industry": "engineering, manufacturing", "founded": "1906", "revenue": 15, "name": "rolls-royce holdings", "country": "london, united kingdom"}
+{"industry": "business services & supplies", "founded": "1966", "revenue": 22, "name": "sodexo", "country": "issy-les-moulineaux, france"}
+{"industry": "media", "founded": "2001", "revenue": 10, "name": "altice usa", "country": "long island city, new york"}
+{"industry": "banking", "founded": "1946", "revenue": 4, "name": "bank negara indonesia", "country": "jakarta, indonesia"}
+{"industry": "health care equipment & services", "founded": "2000", "revenue": 11, "name": "davita", "country": "denver, colorado"}
+{"industry": "diversified financials", "founded": "2017", "revenue": 16, "name": "old mutual", "country": "cape town, south africa"}
+{"industry": "hotels, restaurants & leisure", "founded": "1987", "revenue": 9, "name": "yum china holdings", "country": "shanghai, china"}
+{"industry": "retail and wholesale", "founded": "1992", "revenue": 25, "name": "penske automotive", "country": "bloomfield hills, michigan"}
+{"industry": "consumer durables", "founded": "1918", "revenue": 16, "name": "yamaha motor", "country": "iwata, japan"}
+{"industry": "retailing", "founded": "1982", "revenue": 18, "name": "kingfisher", "country": "london, united kingdom"}
+{"industry": "insurance", "founded": "1982", "revenue": 13, "name": "storebrand", "country": "lysaker, norway"}
+{"industry": "hotels, restaurants & leisure", "founded": "1968", "revenue": 9, "name": "darden restaurants", "country": "orlando, florida"}
+{"industry": "oil & gas operations", "founded": "1920", "revenue": 7, "name": "hess", "country": "new york, new york"}
+{"industry": "food, drink & tobacco", "founded": "1953", "revenue": 30, "name": "cj corporation", "country": "seoul, south korea"}
+{"industry": "retailing", "founded": "1937", "revenue": 15, "name": "falabella", "country": "santiago, chile"}
+{"industry": "retailing", "founded": "2010", "revenue": 18, "name": "coupang", "country": "seoul, south korea"}
+{"industry": "construction", "founded": "2000", "revenue": 1, "name": "capitaland investment", "country": "singapore, singapore"}
+{"industry": "construction", "founded": "2005", "revenue": 1, "name": "fastighets balder", "country": "gothenburg, sweden"}
+{"industry": "diversified financials", "founded": "1970", "revenue": 4, "name": "welltower", "country": "toledo, ohio"}
+{"industry": "construction", "founded": "1840", "revenue": 18, "name": "kajima", "country": "tokyo, japan"}
+{"industry": "materials", "founded": "1954", "revenue": 13, "name": "steel authority of india", "country": "new delhi, india"}
+{"industry": "travel & leisure", "founded": "1937", "revenue": 9, "name": "caesars entertainment", "country": "las vegas, nevada"}
+{"industry": "construction", "founded": "1970", "revenue": 8, "name": "new world development", "country": "hong kong, hong kong"}
+{"industry": "aerospace & defense", "founded": "1923", "revenue": 12, "name": "textron", "country": "providence, rhode island"}
+{"industry": "construction", "founded": "1906", "revenue": 14, "name": "cemex", "country": "san pedro garza garcia, mexico"}
+{"industry": "conglomerates", "founded": "1969", "revenue": 5, "name": "hexagon", "country": "stockholm, sweden"}
+{"industry": "transportation", "founded": "1945", "revenue": 10, "name": "zim integrated shipping services", "country": "haifa, israel"}
+{"industry": "construction", "founded": "1953", "revenue": 20, "name": "china national chemical", "country": "beijing, china"}
+{"industry": "trading companies", "founded": "1967", "revenue": 6, "name": "fastenal", "country": "winona, minnesota"}
+{"industry": "drugs & biotechnology", "founded": "1995", "revenue": 4, "name": "chongqing zhifei biological products", "country": "chongqing, china"}
+{"industry": "business services & supplies", "founded": "1962", "revenue": 9, "name": "secom", "country": "tokyo, japan"}
+{"industry": "materials", "founded": "1997", "revenue": 21, "name": "angang steel", "country": "anshan, china"}
+{"industry": "construction", "founded": "2001", "revenue": 39, "name": "sto express", "country": "shanghai, china"}
+{"industry": "it software & services", "founded": "2011", "revenue": 4, "name": "zoom video communications", "country": "san jose, california"}
+{"industry": "materials", "founded": "1932", "revenue": 11, "name": "magnitogorsk iron & steel", "country": "magnitogorsk, russia"}
+{"industry": "construction", "founded": "", "revenue": 8, "name": "nvr", "country": "reston, virginia"}
+{"industry": "utilities", "founded": "1909", "revenue": 5, "name": "evergy", "country": "kansas city, missouri"}
+{"industry": "construction", "founded": "2013", "revenue": 5, "name": "alpha dhabi holding", "country": "abu dhabi, united arab emirates"}
+{"industry": "food, drink & tobacco", "founded": "1907", "revenue": 16, "name": "kirin holdings", "country": "tokyo, japan"}
+{"industry": "banking", "founded": "1997", "revenue": 5, "name": "bank of changsha", "country": "changsha, china"}
+{"industry": "materials", "founded": "1938", "revenue": 16, "name": "voestalpine", "country": "linz, austria"}
+{"industry": "drugs & biotechnology", "founded": "1938", "revenue": 30, "name": "china resources pharmaceutical group", "country": "hong kong, hong kong"}
+{"industry": "it software & services", "founded": "2014", "revenue": 12, "name": "kuaishou technology", "country": "beijing, china"}
+{"industry": "construction", "founded": "2005", "revenue": 18, "name": "bbmg", "country": "beijing, china"}
+{"industry": "retailing", "founded": "1996", "revenue": 28, "name": "suningcom", "country": "nanjing, china"}
+{"industry": "banking", "founded": "1841", "revenue": 2, "name": "national bank of greece", "country": "athens, greece"}
+{"industry": "oil & gas operations", "founded": "2005", "revenue": 17, "name": "targa resources", "country": "houston, texas"}
+{"industry": "technology hardware & equipment", "founded": "1968", "revenue": 7, "name": "olympus", "country": "tokyo, japan"}
+{"industry": "materials", "founded": "1904", "revenue": 28, "name": "umicore", "country": "brussels, belgium"}
+{"industry": "business services & supplies", "founded": "1996", "revenue": 8, "name": "expedia group", "country": "seattle, washington"}
+{"industry": "diversified financials", "founded": "1919", "revenue": 2, "name": "hua nan financial", "country": "taipei, taiwan"}
+{"industry": "food, drink & tobacco", "founded": "2002", "revenue": 3, "name": "jiangsu yanghe brewery", "country": "suqian, china"}
+{"industry": "food, drink & tobacco", "founded": "1972", "revenue": 8, "name": "kerry group", "country": "tralee, ireland"}
+{"industry": "household & personal products", "founded": "1882", "revenue": 9, "name": "beiersdorf", "country": "hamburg, germany"}
+{"industry": "it, internet, software & services", "founded": "1969", "revenue": 13, "name": "leidos", "country": "reston, virginia"}
+{"industry": "chemicals", "founded": "1920", "revenue": 10, "name": "eastman", "country": "kingsport, tennessee"}
+{"industry": "utilities", "founded": "", "revenue": 13, "name": "vistra energy", "country": "irving, texas"}
+{"industry": "utilities", "founded": "1951", "revenue": 19, "name": "tohoku electric power", "country": "sendai, japan"}
+{"industry": "insurance", "founded": "1997", "revenue": 6, "name": "banca mediolanum", "country": "basiglio, italy"}
+{"industry": "utilities", "founded": "1990", "revenue": 12, "name": "pge polska grupa energetyczna", "country": "warsaw, poland"}
+{"industry": "aerospace & defense", "founded": "2003", "revenue": 4, "name": "transdigm group", "country": "cleveland, ohio"}
+{"industry": "business services & supplies", "founded": "1996", "revenue": 5, "name": "experian", "country": "dublin, ireland"}
+{"industry": "diversified financials", "founded": "1999", "revenue": 3, "name": "mirae asset financial group", "country": "seoul, south korea"}
+{"industry": "diversified financials", "founded": "2011", "revenue": 1, "name": "eqt ab", "country": "stockholm, sweden"}
+{"industry": "oil & gas operations", "founded": "1984", "revenue": 11, "name": "gail india", "country": "new delhi, india"}
+{"industry": "materials", "founded": "1999", "revenue": 13, "name": "inner mongolia baotou steel", "country": "baotou, china"}
+{"industry": "oil & gas operations", "founded": "1982", "revenue": 6, "name": "towngas", "country": "hong kong, hong kong"}
+{"industry": "semiconductors", "founded": "1999", "revenue": 6, "name": "on semiconductor corp", "country": "phoenix, arizona"}
+{"industry": "utilities", "founded": "1999", "revenue": 3, "name": "terna", "country": "rome, italy"}
+{"industry": "travel & leisure      ", "founded": "1972", "revenue": 3, "name": "carnival corporation", "country": "miami, florida"}
+{"industry": "diversified financials", "founded": "2016", "revenue": 1, "name": "vici properties", "country": "new york, new york"}
+{"industry": "hotels, restaurants & leisure", "founded": "1993", "revenue": 7, "name": "chipotle mexican grill", "country": "newport beach, california"}
+{"industry": "business services & supplies", "founded": "1900", "revenue": 13, "name": "toppan printing", "country": "tokyo, japan"}
+{"industry": "capital goods", "founded": "2004", "revenue": 19, "name": "shanghai electric group", "country": "shanghai, china"}
+{"industry": "transportation", "founded": "1933", "revenue": 10, "name": "turkish airlines", "country": "istanbul, turkey"}
+{"industry": "consumer durables", "founded": "1947", "revenue": 5, "name": "ferrari", "country": "maranello, italy"}
+{"industry": "insurance", "founded": "1887", "revenue": 9, "name": "old republic international", "country": "chicago, illinois"}
+{"industry": "food markets", "founded": "1792", "revenue": 24, "name": "jeronimo martins", "country": "lisbon, portugal"}
+{"industry": "health care equipment & services", "founded": "1927", "revenue": 7, "name": "zimmer biomet", "country": "warsaw, indiana"}
+{"industry": "materials", "founded": "1888", "revenue": 12, "name": "alcoa", "country": "pittsburgh, pennsylvania"}
+{"industry": "oil & gas operations", "founded": "1954", "revenue": 4, "name": "santos", "country": "adelaide, australia"}
+{"industry": "capital goods", "founded": "1928", "revenue": 15, "name": "alstom", "country": "saint-ouen-sur-seine, france"}
+{"industry": "utilities", "founded": "1951", "revenue": 16, "name": "kyushu electric power", "country": "fukuoka, japan"}
+{"industry": "automotive  automotive and suppliers ", "founded": "1898", "revenue": 17, "name": "goodyear", "country": "akron, ohio"}
+{"industry": "materials", "founded": "2001", "revenue": 6, "name": "tenaris", "country": "luxembourg, luxembourg"}
+{"industry": "materials", "founded": "2002", "revenue": 12, "name": "bluescope steel", "country": "melbourne, australia"}
+{"industry": "chemicals", "founded": "1998", "revenue": 5, "name": "petronas chemicals", "country": "kuala lumpur, malaysia"}
+{"industry": "drugs & biotechnology", "founded": "1998", "revenue": 4, "name": "illumina", "country": "san diego, california"}
+{"industry": "it software & services", "founded": "1986", "revenue": 4, "name": "synopsys", "country": "mountain view, california"}
+{"industry": "utilities", "founded": "1994", "revenue": 15, "name": "datang international power", "country": "beijing, china"}
+{"industry": "oil & gas operations", "founded": "2008", "revenue": 17, "name": "top frontier investment holdings", "country": "makati, philippines"}
+{"industry": "chemicals", "founded": "2004", "revenue": 11, "name": "arkema", "country": "colombes, france"}
+{"industry": "chemicals", "founded": "1881", "revenue": 9, "name": "nippon paint", "country": "osaka, japan"}
+{"industry": "materials", "founded": "1905", "revenue": 18, "name": "kobe steel", "country": "kobe, japan"}
+{"industry": "banking", "founded": "1927", "revenue": 1, "name": "bank of greece", "country": "athens, greece"}
+{"industry": "banking", "founded": "1997", "revenue": 4, "name": "bank of guiyang", "country": "guiyang, china"}
+{"industry": "capital goods", "founded": "1972", "revenue": 24, "name": "hd hyundai", "country": "daegu, south korea"}
+{"industry": "transportation and logistics", "founded": "1516", "revenue": 17, "name": "royal mail", "country": "london, united kingdom"}
+{"industry": "diversified financials", "founded": "1944", "revenue": 3, "name": "lundbergs", "country": "stockholm, sweden"}
+{"industry": "construction", "founded": "1994", "revenue": 12, "name": "guangzhou r&f", "country": "guangzhou, china"}
+{"industry": "utilities", "founded": "1995", "revenue": 10, "name": "china gas holdings", "country": "hong kong, hong kong"}
+{"industry": "food, drink & tobacco", "founded": "", "revenue": 2, "name": "shanxi xinghuacun fen wine factory", "country": "luliang, china"}
+{"industry": "health care equipment & services", "founded": "1985", "revenue": 5, "name": "hologic", "country": "marlborough, massachusetts"}
+{"industry": "banking", "founded": "1995", "revenue": 2, "name": "western alliance bancorp", "country": "phoenix, arizona"}
+{"industry": "trading companies", "founded": "1992", "revenue": 87, "name": "wuchan zhongda group", "country": "hangzhou, china"}
+{"industry": "food markets", "founded": "1947", "revenue": 14, "name": "metro", "country": "montreal, canada"}
+{"industry": "retailing", "founded": "", "revenue": 30, "name": "raizen", "country": "rio de janeiro, brazil"}
+{"industry": "transportation", "founded": "1934", "revenue": 5, "name": "old dominion freight line", "country": "thomasville, north carolina"}
+{"industry": "banking", "founded": "1935", "revenue": 3, "name": "israel discount bank", "country": "tel aviv, israel"}
+{"industry": "banking", "founded": "1993", "revenue": 5, "name": "bangkok bank", "country": "bangkok, thailand"}
+{"industry": "banking", "founded": "1948", "revenue": 6, "name": "akbank", "country": "istanbul, turkey"}
+{"industry": "chemicals", "founded": "1997", "revenue": 13, "name": "mitsui chemicals", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "2017", "revenue": 11, "name": "midea real estate holding", "country": "foshan city, china"}
+{"industry": "consumer durables", "founded": "1912", "revenue": 22, "name": "sharp", "country": "sakai, japan"}
+{"industry": "telecommunications services", "founded": "1989", "revenue": 6, "name": "kpn", "country": "rotterdam, netherlands"}
+{"industry": "retailing", "founded": "1962", "revenue": 19, "name": "kohl's", "country": "menomonee falls, wisconsin"}
+{"industry": "consumer durables", "founded": "1996", "revenue": 16, "name": "chongqing changan auto", "country": "chongqing, china"}
+{"industry": "conglomerate", "founded": "1922", "revenue": 13, "name": "canadian tire", "country": "toronto, canada"}
+{"industry": "insurance", "founded": "1824", "revenue": 12, "name": "vienna insurance group", "country": "vienna, austria"}
+{"industry": "food, drink & tobacco", "founded": "1998", "revenue": 19, "name": "new hope liuhe", "country": "chengdu, china"}
+{"industry": "construction", "founded": "", "revenue": 13, "name": "sichuan road & bridge", "country": "chengdu, china"}
+{"industry": "business services & supplies", "founded": "1982", "revenue": 3, "name": "copart", "country": "dallas, texas"}
+{"industry": "retail and wholesale", "founded": "1948", "revenue": 12, "name": "dick's sporting goods", "country": "coraopolis, pennsylvania"}
+{"industry": "drugs & biotechnology", "founded": "1970", "revenue": 4, "name": "jiangsu hengrui medicine", "country": "lianyungang, china"}
+{"industry": "health care equipment & services", "founded": "1979", "revenue": 12, "name": "universal health services", "country": "king of prussia, pennsylvania"}
+{"industry": "banking", "founded": "1985", "revenue": 3, "name": "grupo inbursa", "country": "mexico city, mexico"}
+{"industry": "banking", "founded": "1952", "revenue": 3, "name": "dongguan rural commercial bank", "country": "dongguan, china"}
+{"industry": "aerospace & defense", "founded": "1911", "revenue": 8, "name": "dassault aviation", "country": "paris, france"}
+{"industry": "chemicals", "founded": "2003", "revenue": 16, "name": "yara international", "country": "oslo, norway"}
+{"industry": "banking", "founded": "1881", "revenue": 7, "name": "banco de sabadell", "country": "alicante, spain"}
+{"industry": "food, drink & tobacco", "founded": "1989", "revenue": 35, "name": "olam group", "country": "singapore, singapore"}
+{"industry": "drugs & biotechnology", "founded": "2000", "revenue": 3, "name": "wuxi apptec", "country": "shanghai, china"}
+{"industry": "banking", "founded": "1893", "revenue": 2, "name": "popular", "country": "san juan, united states"}
+{"industry": "utilities", "founded": "2015", "revenue": 5, "name": "hydro one", "country": "toronto, canada"}
+{"industry": "transportation", "founded": "2006", "revenue": 13, "name": "sg holdings", "country": "kyoto, japan"}
+{"industry": "trading companies", "founded": "2003", "revenue": 18, "name": "sojitz", "country": "tokyo, japan"}
+{"industry": "technology hardware & equipment", "founded": "2001", "revenue": 12, "name": "goertek", "country": "weifang, china"}
+{"industry": "telecommunications services", "founded": "", "revenue": 6, "name": "frontier communications parent", "country": "norwalk, connecticut"}
+{"industry": "construction", "founded": "", "revenue": 692, "name": "samhallsbyggnadsbolaget i norden", "country": "stockholm, sweden"}
+{"industry": "consumer durables", "founded": "1905", "revenue": 16, "name": "schaeffler", "country": "herzogenaurach, germany"}
+{"industry": "insurance", "founded": "1974", "revenue": 11, "name": "migdal insurance", "country": "petach tikva, israel"}
+{"industry": "utilities", "founded": "1997", "revenue": 15, "name": "inter rao", "country": "moscow, russia"}
+{"industry": "banking", "founded": "1888", "revenue": 6, "name": "nedbank", "country": "sandton, south africa"}
+{"industry": "construction", "founded": "1992", "revenue": 4, "name": "hopson development holdings", "country": "hong kong, hong kong"}
+{"industry": "conglomerates", "founded": "1930", "revenue": 5, "name": "ametek", "country": "berwyn, pennsylvania"}
+{"industry": "chemicals", "founded": "1958", "revenue": 4, "name": "lg", "country": "seoul, south korea"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1887", "revenue": 16, "name": "skanska", "country": "stockholm, sweden"}
+{"industry": "materials", "founded": "2008", "revenue": 15, "name": "hbis", "country": "shijiazhuang, china"}
+{"industry": "banking", "founded": "2017", "revenue": 5, "name": "banco bpm", "country": "milan, italy"}
+{"industry": "construction", "founded": "", "revenue": 10, "name": "china fortune land development", "country": "beijing, china"}
+{"industry": "it software & services", "founded": "2006", "revenue": 7, "name": "adyen", "country": "a terdam, netherlands"}
+{"industry": "transportation and logistics", "founded": "2004", "revenue": 16, "name": "air france-klm", "country": "paris, france"}
+{"industry": "construction, oil & gas operations, mining and chemicals", "founded": "1947", "revenue": 14, "name": "jacobs engineering", "country": "dallas, texas"}
+{"industry": "utilities", "founded": "2001", "revenue": 11, "name": "china resources power", "country": "hong kong, hong kong"}
+{"industry": "utilities", "founded": "1994", "revenue": 5, "name": "ppl", "country": "allentown, pennsylvania"}
+{"industry": "banking", "founded": "1825", "revenue": 3, "name": "aib group", "country": "dublin, ireland"}
+{"industry": "transportation", "founded": "1996", "revenue": 2, "name": "transurban group", "country": "docklands, australia"}
+{"industry": "oil & gas operations", "founded": "2008", "revenue": 3, "name": "tourmaline oil", "country": "calgary, canada"}
+{"industry": "banking", "founded": "1949", "revenue": 1, "name": "arab national bank", "country": "riyadh, saudi arabia"}
+{"industry": "semiconductors", "founded": "1995", "revenue": 4, "name": "marvell technology", "country": "wilmington, delaware"}
+{"industry": "semiconductors", "founded": "2002", "revenue": 5, "name": "skyworks solutions", "country": "irvine, california"}
+{"industry": "technology hardware & equipment", "founded": "2004", "revenue": 2, "name": "arista networks", "country": "santa clara, california"}
+{"industry": "utilities", "founded": "1985", "revenue": 1, "name": "china three gorges renewables group", "country": "beijing, china"}
+{"industry": "consumer durables", "founded": "1982", "revenue": 6, "name": "electronic arts", "country": "redwood city, california"}
+{"industry": "hotels, restaurants & leisure", "founded": "1988", "revenue": 8, "name": "flutter entertainment", "country": "dublin, ireland"}
+{"industry": "insurance", "founded": "1863", "revenue": 7, "name": "brighthouse financial", "country": "charlotte, north carolina"}
+{"industry": "transportation", "founded": "1974", "revenue": 9, "name": "international airlines", "country": "london, united kingdom"}
+{"industry": "materials", "founded": "1925", "revenue": 8, "name": "boliden", "country": "stockholm, sweden"}
+{"industry": "chemicals", "founded": "1946", "revenue": 6, "name": "cf industries holdings", "country": "deerfield, illinois"}
+{"industry": "banking", "founded": "1966", "revenue": 4, "name": "krung thai bank", "country": "bangkok, thailand"}
+{"industry": "it software & services", "founded": "2013", "revenue": 26, "name": "didi global", "country": "beijing, china"}
+{"industry": "insurance", "founded": "1955", "revenue": 13, "name": "hyundai marine & fire", "country": "seoul, south korea"}
+{"industry": "materials", "founded": "1941", "revenue": 8, "name": "csn", "country": "sao paulo, brazil"}
+{"industry": "oil & gas operations", "founded": "1954", "revenue": 8, "name": "apa", "country": "houston, texas"}
+{"industry": "materials", "founded": "", "revenue": 11, "name": "ssab ab", "country": "stockholm, sweden"}
+{"industry": "business services & supplies", "founded": "1978", "revenue": 8, "name": "teleperformance", "country": "paris, france"}
+{"industry": "food, drink & tobacco", "founded": "1869", "revenue": 8, "name": "campbell soup", "country": "camden, new jersey"}
+{"industry": "diversified financials", "founded": "1956", "revenue": 118, "name": "sofina", "country": "brussels, belgium"}
+{"industry": "trading companies", "founded": "1854", "revenue": 14, "name": "bunzl", "country": "london, united kingdom"}
+{"industry": "food, drink & tobacco", "founded": "2007", "revenue": 23, "name": "cj cheiljedang", "country": "seoul, south korea"}
+{"industry": "food markets", "founded": "1994", "revenue": 25, "name": "magnit", "country": "krasnodar, russia"}
+{"industry": "construction", "founded": "1994", "revenue": 15, "name": "huadian power international", "country": "beijing, china"}
+{"industry": "capital goods", "founded": "", "revenue": 6, "name": "nari technology development", "country": "nanjing, china"}
+{"industry": "oil & gas operations", "founded": "1887", "revenue": 5, "name": "marathon oil", "country": "houston, texas"}
+{"industry": "diversified financials", "founded": "1969", "revenue": 7, "name": "eurazeo", "country": "paris, france"}
+{"industry": "oil & gas operations", "founded": "1885", "revenue": 17, "name": "tokyo gas", "country": "tokyo, japan"}
+{"industry": "banking", "founded": "1998", "revenue": 7, "name": "guangzhou rural commercial bank", "country": "guangzhou, china"}
+{"industry": "construction", "founded": "", "revenue": 1, "name": "heitaden ab pref shs", "country": "malmo, sweden"}
+{"industry": "technology hardware & equipment", "founded": "2014", "revenue": 5, "name": "keysight technologies", "country": "santa rosa, california"}
+{"industry": "diversified financials", "founded": "1804", "revenue": 4, "name": "schroders", "country": "london, united kingdom"}
+{"industry": "diversified financials", "founded": "", "revenue": 47, "name": "stonex group", "country": "new york, new york"}
+{"industry": "materials", "founded": "1866", "revenue": 20, "name": "aurubis", "country": "hamburg, germany"}
+{"industry": "semiconductors, electronics, electrical engineering, technology hardware & equipment", "founded": "1989", "revenue": 5, "name": "garmin", "country": "schaffhausen, switzerland"}
+{"industry": "technology hardware & equipment", "founded": "1984", "revenue": 44, "name": "compal electronics", "country": "taipei, taiwan"}
+{"industry": "chemicals", "founded": "", "revenue": 17, "name": "enn natural gas", "country": "shijiazhuang, china"}
+{"industry": "insurance", "founded": "", "revenue": 8, "name": "phoenix holdings", "country": "givatayim, israel"}
+{"industry": "food, drink & tobacco", "founded": "1889", "revenue": 6, "name": "mccormick", "country": "baltimore, maryland"}
+{"industry": "banking", "founded": "1907", "revenue": 6, "name": "indian bank", "country": "chennai, india"}
+{"industry": "health care equipment & services", "founded": "1983", "revenue": 3, "name": "idexx laboratories", "country": "westbrook, maine"}
+{"industry": "materials", "founded": "1934", "revenue": 11, "name": "smurfit kappa group", "country": "dublin, ireland"}
+{"industry": "materials", "founded": "2011", "revenue": 2, "name": "xinjiang daqo new energy", "country": "shihezi, china"}
+{"industry": "banking", "founded": "1933", "revenue": 7, "name": "halkbank", "country": "istanbul, turkey"}
+{"industry": "business services & supplies", "founded": "2002", "revenue": 6, "name": "waste connections", "country": "woodbridge, canada"}
+{"industry": "consumer durables", "founded": "1983", "revenue": 8, "name": "swatch group", "country": "biel, switzerland"}
+{"industry": "materials", "founded": "2015", "revenue": 6, "name": "south32", "country": "perth, australia"}
+{"industry": "construction", "founded": "1955", "revenue": 8, "name": "china overseas grand oceans group", "country": "hong kong, hong kong"}
+{"industry": "business services & supplies", "founded": "1969", "revenue": 11, "name": "tokyo century", "country": "tokyo, japan"}
+{"industry": "diversified financials", "founded": "1878", "revenue": 1, "name": "japan exchange group", "country": "tokyo, japan"}
+{"industry": "health care equipment & services", "founded": "1921", "revenue": 6, "name": "terumo", "country": "tokyo, japan"}
+{"industry": "construction", "founded": "2008", "revenue": 1, "name": "leg immobilien ag", "country": "dusseldorf, germany"}
+{"industry": "drugs & biotechnology", "founded": "1993", "revenue": 5, "name": "sun pharma industries", "country": "mumbai, india"}
+{"industry": "food, drink & tobacco", "founded": "1870", "revenue": 3, "name": "brown-forman", "country": "louisville, kentucky"}
+{"industry": "insurance", "founded": "1892", "revenue": 10, "name": "assurant", "country": "new york, new york"}
+{"industry": "food, drink & tobacco", "founded": "1917", "revenue": 10, "name": "ajinomoto", "country": "tokyo, japan"}
+{"industry": "chemicals", "founded": "2003", "revenue": 14, "name": "indorama ventures", "country": "bangkok, thailand"}
+{"industry": "diversified financials", "founded": "2002", "revenue": 2, "name": "taishin financial holdings", "country": "taipei, taiwan"}
+{"industry": "capital goods", "founded": "1992", "revenue": 10, "name": "zoomlion heavy industry", "country": "changsha, china"}
+{"industry": "capital goods", "founded": "", "revenue": 13, "name": "xcmg construction machinery", "country": "xuzhou, china"}
+{"industry": "construction", "founded": "2007", "revenue": 6, "name": "powerlong real estate", "country": "shanghai, china"}
+{"industry": "construction", "founded": "", "revenue": 8, "name": "yuexiu property", "country": "hong kong, hong kong"}
+{"industry": "health care equipment & services", "founded": "", "revenue": 7, "name": "sonic healthcare", "country": "sydney, australia"}
+{"industry": "technology hardware & equipment", "founded": "1992", "revenue": 6, "name": "netapp", "country": "san jose, california"}
+{"industry": "media", "founded": "1987", "revenue": 5, "name": "wolters kluwer", "country": "alphen aan den rijn, netherlands"}
+{"industry": "oil & gas operations", "founded": "1999", "revenue": 19, "name": "galp energia", "country": "lisbon, portugal"}
+{"industry": "it software & services", "founded": "2002", "revenue": 2, "name": "nexon", "country": "tokyo, japan"}
+{"industry": "hotels, restaurants & leisure", "founded": "1997", "revenue": 1, "name": "royal caribbean group", "country": "miami, florida"}
+{"industry": "diversified financials", "founded": "2004", "revenue": 1, "name": "extra space storage", "country": "salt lake city, utah"}
+{"industry": "banking", "founded": "1997", "revenue": 6, "name": "shengjing bank", "country": "shenyang, china"}
+{"industry": "food markets", "founded": "1975", "revenue": 29, "name": "x5 retail group", "country": "moscow, russia"}
+{"industry": "it software & services", "founded": "", "revenue": 3, "name": "cadence design", "country": "san jose, california"}
+{"industry": "banking", "founded": "1954", "revenue": 7, "name": "vakifbank", "country": "istanbul, turkey"}
+{"industry": "capital goods", "founded": "1990", "revenue": 11, "name": "agco", "country": "duluth, georgia"}
+{"industry": "materials", "founded": "1934", "revenue": 15, "name": "shanxi taigang stainless", "country": "taiyuan, china"}
+{"industry": "retailing", "founded": "1950", "revenue": 7, "name": "grupo elektra", "country": "mexico city, mexico"}
+{"industry": "utilities", "founded": "1989", "revenue": 6, "name": "sdic power holdings", "country": "beijing, china"}
+{"industry": "diversified financials", "founded": "1999", "revenue": 8, "name": "wuestenrot & wuerttembergische", "country": "stuttgart, germany"}
+{"industry": "business services & supplies", "founded": "1998", "revenue": 2, "name": "ci", "country": "new york, new york"}
+{"industry": "banking", "founded": "1867", "revenue": 4, "name": "bper banca", "country": "modena, italy"}
+{"industry": "construction", "founded": "1936", "revenue": 17, "name": "obayashi", "country": "tokyo, japan"}
+{"industry": "banking", "founded": "2011", "revenue": 4, "name": "bnk financial group", "country": "busan, south korea"}
+{"industry": "materials", "founded": "1949", "revenue": 13, "name": "oji holdings", "country": "tokyo, japan"}
+{"industry": "it software & services", "founded": "2007", "revenue": 11, "name": "spotify technology", "country": "luxembourg, luxembourg"}
+{"industry": "health care equipment & services", "founded": "1957", "revenue": 3, "name": "coloplast", "country": "humlebaek, denmark"}
+{"industry": "trading companies", "founded": "2006", "revenue": 17, "name": "brenntag", "country": "essen, germany"}
+{"industry": "food, drink & tobacco", "founded": "1993", "revenue": 10, "name": "wens foodstuff group", "country": "yunfu, china"}
+{"industry": "insurance", "founded": "", "revenue": 9, "name": "first american financial", "country": "santa ana, california"}
+{"industry": "diversified financials", "founded": "2014", "revenue": 1, "name": "euronext", "country": "a terdam, netherlands"}
+{"industry": "banking", "founded": "2006", "revenue": 1, "name": "masraf al rayan", "country": "doha, qatar"}
+{"industry": "it software & services", "founded": "1999", "revenue": 7, "name": "mercadolibre", "country": "montevideo, uruguay"}
+{"industry": "materials", "founded": "1959", "revenue": 7, "name": "packaging corp of america", "country": "lake forest, illinois"}
+{"industry": "materials", "founded": "1871", "revenue": 15, "name": "mitsubishi materials", "country": "tokyo, japan"}
+{"industry": "diversified financials", "founded": "", "revenue": 2, "name": "wharf real estate investment", "country": "hong kong"}
+{"industry": "materials", "founded": "1967", "revenue": 14, "name": "berry global group", "country": "evansville, indiana"}
+{"industry": "materials", "founded": "1993", "revenue": 17, "name": "maanshan iron & steel", "country": "wanchai, china"}
+{"industry": "health care equipment & services", "founded": "1947", "revenue": 5, "name": "perkinelmer", "country": "waltham, massachusetts"}
+{"industry": "diversified financials", "founded": "2013", "revenue": 3, "name": "navient", "country": "wilmington, delaware"}
+{"industry": "media", "founded": "1973", "revenue": 7, "name": "rtl group", "country": "luxembourg, luxembourg"}
+{"industry": "food markets", "founded": "1940", "revenue": 13, "name": "kesko", "country": "helsinki, finland"}
+{"industry": "diversified financials", "founded": "1982", "revenue": 2, "name": "saung securities", "country": "seoul, south korea"}
+{"industry": "construction", "founded": "1997", "revenue": 13, "name": "quanta services", "country": "houston, texas"}
+{"industry": "construction", "founded": "1993", "revenue": 10, "name": "beijing capital development", "country": "beijing, china"}
+{"industry": "business services & supplies", "founded": "2008", "revenue": 5, "name": "far east horizon", "country": "hong kong, hong kong"}
+{"industry": "automotive  automotive and suppliers ", "founded": "1997", "revenue": 18, "name": "faurecia", "country": "paris, france"}
+{"industry": "business services & supplies", "founded": "1986", "revenue": 2, "name": "indian railway finance", "country": "new delhi, india"}
+{"industry": "telecommunications services", "founded": "1991", "revenue": 988, "name": "liberty broadband", "country": "englewood, colorado"}
+{"industry": "trading companies", "founded": "", "revenue": 72, "name": "xiamen international trade group", "country": "xiamen, china"}
+{"industry": "travel & leisure      ", "founded": "2008", "revenue": 6, "name": "airbnb", "country": "san francisco, california"}
+{"industry": "retailing", "founded": "", "revenue": 26, "name": "china grand automotive services", "country": "shanghai, china"}
+{"industry": "transportation", "founded": "1995", "revenue": 10, "name": "china eastern airlines", "country": "shanghai, china"}
+{"industry": "business services & supplies", "founded": "1996", "revenue": 24, "name": "adecco", "country": "zurich, switzerland"}
+{"industry": "diversified financials", "founded": "2008", "revenue": 2, "name": "agnc investment", "country": "bethesda, maryland"}
+{"industry": "capital goods", "founded": "1869", "revenue": 7, "name": "westinghouse air brake technologies", "country": "pittsburgh, pennsylvania"}
+{"industry": "transportation", "founded": "1919", "revenue": 6, "name": "kawasaki kisen kaisha", "country": "tokyo, japan"}
+{"industry": "food markets", "founded": "1963", "revenue": 23, "name": "empire", "country": "stellarton, canada"}
+{"industry": "food, drink & tobacco", "founded": "1998", "revenue": 14, "name": "guangdong haid group", "country": "guangzhou, china"}
+{"industry": "consumer durables", "founded": "1921", "revenue": 5, "name": "shimano", "country": "sakai, japan"}
+{"industry": "banking", "founded": "1911", "revenue": 4, "name": "attijariwafa bank", "country": "casablanca, morocco"}
+{"industry": "business services & supplies", "founded": "2009", "revenue": 2, "name": "chailease holding", "country": "taipei, taiwan"}
+{"industry": "health care equipment & services", "founded": "1932", "revenue": 12, "name": "henry schein", "country": "melville, new york"}
+{"industry": "food, drink & tobacco", "founded": "1899", "revenue": 11, "name": "suntory beverage & food", "country": "tokyo, japan"}
+{"industry": "conglomerates", "founded": "1991", "revenue": 3, "name": "mettler-toledo international", "country": "columbus, ohio"}
+{"industry": "diversified financials", "founded": "1704", "revenue": 8, "name": "wendel", "country": "paris, france"}
+{"industry": "oil & gas operations", "founded": "1897", "revenue": 13, "name": "osaka gas", "country": "osaka, japan"}
+{"industry": "consumer durables", "founded": "1980", "revenue": 14, "name": "thor industries", "country": "elkhart, indiana"}
+{"industry": "retail and wholesale", "founded": "1956", "revenue": 8, "name": "willia-sonoma", "country": "san francisco, california"}
+{"industry": "transportation", "founded": "", "revenue": 71, "name": "xiamen xiangyu", "country": "xiamen, china"}
+{"industry": "automotive", "founded": "2009", "revenue": 55, "name": "rivian", "country": "irvine, california"}
+{"industry": "transportation and logistics", "founded": "2006", "revenue": 12, "name": "kion group", "country": "frankfurt am main, germany"}
+{"industry": "construction", "founded": "1993", "revenue": 10, "name": "sino-ocean group holding", "country": "beijing, china"}
+{"industry": "chemicals", "founded": "1892", "revenue": 8, "name": "olin", "country": "clayton, missouri"}
+{"industry": "diversified financials", "founded": "1973", "revenue": 1, "name": "kimco realty", "country": "jericho, new york"}
+{"industry": "banking", "founded": "1996", "revenue": 3, "name": "bank of chongqing", "country": "chongqing, china"}
+{"industry": "technology hardware & equipment", "founded": "2000", "revenue": 3, "name": "fortinet", "country": "sunnyvale, california"}
+{"industry": "household & personal products", "founded": "1846", "revenue": 5, "name": "church & dwight", "country": "ewing, new jersey"}
+
