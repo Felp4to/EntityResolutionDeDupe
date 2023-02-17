@@ -555,7 +555,7 @@
 {"name": "sartorius stedim biotech", "ceo": "joachim kreuzburg", "country": "germany", "employees": "9,016", "categories": "healthcare, biopharmaceutical, biotechnology", "revenue": 3180000, "link": "https://www.sartorius.com"}
 {"name": "china pacific insurance group cpic", "ceo": "kong qingwei", "country": "china", "employees": "111,247", "categories": "financial services, insurance", "revenue": 68415000, "link": "http://www.cpic.com.cn"}
 {"name": "compagnie de saint-gobain", "ceo": "benoit bazin", "country": "france", "employees": "167,552", "categories": "ceramic products, glass products, building products and equipment", "revenue": 48664000, "link": "https://www.saint-gobain.com"}
-{"name": "kuehne  nagel international ag", "ceo": "detlef trefzger", "country": "switzerland", "employees": "78,249", "categories": "industries, freight transport, transportation", "revenue": 34867000, "link": "https://home.kuehne-nagel.com"}
+{"name": "kuehne nagel international ag", "ceo": "detlef trefzger", "country": "switzerland", "employees": "78,249", "categories": "industries, freight transport, transportation", "revenue": 34867000, "link": "https://home.kuehne-nagel.com"}
 {"name": "ferguson", "ceo": "kevin murphy", "country": "uk", "employees": "34,352", "categories": "industries, home improvement, building products and equipment", "revenue": 22792000, "link": "https://www.ferguson.com"}
 {"name": "old dominion freight line", "ceo": "greg c gantt", "country": "usa", "employees": "23,663", "categories": "industries, transportation, freight transport", "revenue": 5256000, "link": "https://www.odfl.com/"}
 {"name": "welltower", "ceo": "shankh mitra", "country": "usa", "employees": "464", "categories": "real estate, property investments, investments", "revenue": 4742000, "link": "https://welltower.com/"}
@@ -3460,7 +3460,7 @@
 {"name": "spirit aerosysteholdings", "ceo": "", "country": "usa", "employees": "16,100", "categories": "industries, aerospace and defense, aerospace products", "revenue": 3953000, "link": "https://www.spiritaero.com/"}
 {"name": "deliveroo plc", "ceo": "", "country": "uk", "employees": "2,300", "categories": "online food delivery, internet or mobile app based business, ecommerce", "revenue": 2148000, "link": "https://deliveroo.co.uk/"}
 {"name": "pt bank brisyariah tbk", "ceo": "", "country": "indonesia", "employees": "", "categories": "financial services, banking services", "revenue": "", "link": "https://www.bankbsi.co.id/"}
-{"name": "travel  leisure co", "ceo": "", "country": "usa", "employees": "16,800", "categories": "consumer cyclical, travel and transport", "revenue": 3134000, "link": "https://www.travelandleisureco.com/"}
+{"name": "travel leisure co", "ceo": "", "country": "usa", "employees": "16,800", "categories": "consumer cyclical, travel and transport", "revenue": 3134000, "link": "https://www.travelandleisureco.com/"}
 {"name": "securitas ab", "ceo": "", "country": "sweden", "employees": "355,000", "categories": "industries, security systems and solutions", "revenue": 11416000, "link": "https://www.securitas.com/"}
 {"name": "rabigh refining and petrochemical company", "ceo": "", "country": "saudi arabia", "employees": "", "categories": "energy, petrochemicals, oil and gas", "revenue": 12170000, "link": "https://www.petrorabigh.com/"}
 {"name": "polycab india limited", "ceo": "", "country": "india", "employees": "", "categories": "industries, electrical products", "revenue": 1503000, "link": "https://polycab.com/"}

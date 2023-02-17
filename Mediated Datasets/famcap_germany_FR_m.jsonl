@@ -1,7 +1,7 @@
 {"name": "volkswagen group", "employees": "665,260", "founded": 1937, "type": "public", "sector": "automotive", "headquarters": "wolfsburg"}
 {"name": "schwarz group aka lidl kaufland ", "employees": "429,000", "founded": 1930, "type": "private", "sector": "retail", "headquarters": "neckarsulm"}
 {"name": "bmw group", "employees": "134,682", "founded": 1916, "type": "public", "sector": "automotive", "headquarters": "munchen"}
-{"name": "aldi discounter nord  sud", "employees": "208,000", "founded": 1913, "type": "private", "sector": "retail", "headquarters": "e en and mulheim an der ruhr"}
+{"name": "aldi discounter nord sud", "employees": "208,000", "founded": 1913, "type": "private", "sector": "retail", "headquarters": "e en and mulheim an der ruhr"}
 {"name": "robert bosch group", "employees": "409,881", "founded": 1886, "type": "private", "sector": "automotive", "headquarters": "gerlingen-schillerhohe"}
 {"name": "continental ag", "employees": "245,686", "founded": 1871, "type": "public", "sector": "automotive", "headquarters": "hannover"}
 {"name": "metro group", "employees": "150,000", "founded": 1963, "type": "public", "sector": "retail", "headquarters": "du eldorf"}
@@ -18,7 +18,7 @@
 {"name": "marquard & bahls ag", "employees": "7,561", "founded": 1947, "type": "private", "sector": "energy and utilities", "headquarters": "hamburg"}
 {"name": "mahle gmbh", "employees": "79,564", "founded": 1920, "type": "private", "sector": "automotive", "headquarters": "stuttgart"}
 {"name": "droege international group ag", "employees": "58,500", "founded": 1988, "type": "private", "sector": "profe ional services", "headquarters": "du eldorf"}
-{"name": "dm-drogerie markt gmbh  co kg", "employees": "61,721", "founded": 1973, "type": "private", "sector": "retail", "headquarters": "karlsruhe"}
+{"name": "dm-drogerie markt gmbh co kg", "employees": "61,721", "founded": 1973, "type": "private", "sector": "retail", "headquarters": "karlsruhe"}
 {"name": "dirk ro mann gmbh", "employees": "56,000", "founded": 1972, "type": "private", "sector": "consumer products", "headquarters": "burgwedel"}
 {"name": "maxingvest ag", "employees": "29,712", "founded": 1949, "type": "private", "sector": "consumer products", "headquarters": "hamburg"}
 {"name": "freudenberg group", "employees": "49,137", "founded": 1849, "type": "private", "sector": "industrial manufacturing", "headquarters": "weinheim"}
@@ -39,7 +39,7 @@
 {"name": "enercon group", "employees": "4,510", "founded": 1984, "type": "private", "sector": "industrial manufacturing", "headquarters": "aurich"}
 {"name": "deichmann se", "employees": "26,075", "founded": 1913, "type": "private", "sector": "retail", "headquarters": "e en"}
 {"name": "united internet ag", "employees": "9,115", "founded": 1988, "type": "public", "sector": "telecommunications", "headquarters": "montabaur"}
-{"name": "bartels-langne  gmbh & co kg aka bela-group", "employees": "18,500", "founded": 1892, "type": "private", "sector": "consumer products", "headquarters": "kiel"}
+{"name": "bartels-langne gmbh & co kg aka bela-group", "employees": "18,500", "founded": 1892, "type": "private", "sector": "consumer products", "headquarters": "kiel"}
 {"name": "wacker chemie ag", "employees": "14,744", "founded": 1914, "type": "public", "sector": "industrial manufacturing", "headquarters": "munchen"}
 {"name": "franz haniel & cie gmbh", "employees": "18,824", "founded": 1756, "type": "private", "sector": "a et & wealth management", "headquarters": "duisburg"}
 {"name": "eberspacher gruppe gmbh & co kg", "employees": "9,489", "founded": 1865, "type": "private", "sector": "automotive", "headquarters": "e lingen"}
@@ -61,7 +61,7 @@
 {"name": "gauselmann group", "employees": "13,395", "founded": 1957, "type": "private", "sector": "industrial manufacturing", "headquarters": "espelkamp"}
 {"name": "norma discounter group", "employees": "15,000", "founded": 1964, "type": "public", "sector": "industrial manufacturing", "headquarters": "nurnberg"}
 {"name": "wilh werhahn kg", "employees": "10,161", "founded": 1841, "type": "private", "sector": "industrial manufacturing", "headquarters": "neu "}
-{"name": "trumpf gmbh  co kg", "employees": "13,420", "founded": 1923, "type": "private", "sector": "industrial manufacturing", "headquarters": "ditzingen"}
+{"name": "trumpf gmbh co kg", "employees": "13,420", "founded": 1923, "type": "private", "sector": "industrial manufacturing", "headquarters": "ditzingen"}
 {"name": "webasto se", "employees": "13,435", "founded": 1901, "type": "private", "sector": "automotive", "headquarters": "stockdorf"}
 {"name": "asklepios kliniken gmbh", "employees": "35,327", "founded": 1985, "type": "private", "sector": "healthcare", "headquarters": "hamburg"}
 {"name": "wieland group", "employees": "7,000", "founded": 1820, "type": "private", "sector": "industrial manufacturing", "headquarters": "ulm"}
@@ -163,7 +163,7 @@
 {"name": "grunenthal pharma gmbh & co kg", "employees": "5,471", "founded": 1946, "type": "private", "sector": "pharmaceuticals and life sciences", "headquarters": "aachen"}
 {"name": "verlagsgruppe georg von holtzbrinck gmbh", "employees": "4,816", "founded": 1931, "type": "private", "sector": "media and entertainment", "headquarters": "stuttgart"}
 {"name": "hafele gmbh & co kg", "employees": "7,600", "founded": 1923, "type": "private", "sector": "industrial manufacturing", "headquarters": "nagold"}
-{"name": "leonhard wei  gmbh & co kg", "employees": "5,107", "founded": 1900, "type": "private", "sector": "industrial manufacturing", "headquarters": "satteldorf"}
+{"name": "leonhard wei gmbh & co kg", "employees": "5,107", "founded": 1900, "type": "private", "sector": "industrial manufacturing", "headquarters": "satteldorf"}
 {"name": "trimet se", "employees": "1,619", "founded": 1985, "type": "private", "sector": "industrial manufacturing", "headquarters": "e en"}
 {"name": "c thywi en gmbh", "employees": "120", "founded": 1839, "type": "private", "sector": "foods and beverages", "headquarters": "neu "}
 {"name": "me er industrie gmbh", "employees": "5,805", "founded": 1897, "type": "private", "sector": "industrial manufacturing", "headquarters": "bad soden"}
@@ -172,7 +172,7 @@
 {"name": "delton ag", "employees": "5,383", "founded": 1989, "type": "private", "sector": "transportation and logistics", "headquarters": "bad homburg vor der hohe"}
 {"name": "sto se & co kgaa", "employees": "5,333", "founded": 1955, "type": "public", "sector": "industrial manufacturing", "headquarters": "stuhlingen"}
 {"name": "otto krahn gmbh & co kg", "employees": "1,381", "founded": 1909, "type": "private", "sector": "industrial manufacturing", "headquarters": "hamburg"}
-{"name": "richter  frenzel gmbh  co kg", "employees": "3,600", "founded": 1895, "type": "private", "sector": "industrial manufacturing", "headquarters": "wurzburg"}
+{"name": "richter frenzel gmbh co kg", "employees": "3,600", "founded": 1895, "type": "private", "sector": "industrial manufacturing", "headquarters": "wurzburg"}
 {"name": "marquardt gmbh", "employees": "11,226", "founded": 1925, "type": "private", "sector": "industrial manufacturing", "headquarters": "rietheim-weilheim"}
 {"name": "stulz gmbh", "employees": "7,182", "founded": 1947, "type": "private", "sector": "industrial manufacturing", "headquarters": "hamburg"}
 {"name": "rohlig logistics gmbh & co kg", "employees": "2,200", "founded": 1852, "type": "private", "sector": "transportation and logistics", "headquarters": "bremen"}
@@ -224,7 +224,7 @@
 {"name": "alois dallmayr kg", "employees": "4,122", "founded": 1700, "type": "private", "sector": "foods and beverages", "headquarters": "munchen"}
 {"name": "wortmann schuh-holding kg", "employees": "1,154", "founded": 1967, "type": "private", "sector": "consumer products", "headquarters": "detmold"}
 {"name": "pfeifer & langen group", "employees": "2,400", "founded": 1962, "type": "private", "sector": "foods and beverages", "headquarters": "koln"}
-{"name": "engelbert strau  gmbh & co kg", "employees": "1,300", "founded": 1948, "type": "private", "sector": "profe ional services", "headquarters": "biebergemund"}
+{"name": "engelbert strau gmbh & co kg", "employees": "1,300", "founded": 1948, "type": "private", "sector": "profe ional services", "headquarters": "biebergemund"}
 {"name": "zott se & co kg", "employees": "2,983", "founded": 1926, "type": "private", "sector": "foods and beverages", "headquarters": "mertingen"}
 {"name": "dalli-werke gmbh & co kg", "employees": "1,897", "founded": 1851, "type": "private", "sector": "consumer products", "headquarters": "stolberg"}
 {"name": "wepa industrieholding se", "employees": "2,900", "founded": 1948, "type": "private", "sector": "consumer products", "headquarters": "arnsberg"}
@@ -303,7 +303,7 @@
 {"name": "wanzl gmbh & co holding kg", "employees": "4,900", "founded": 1918, "type": "private", "sector": "profe ional services", "headquarters": "leipheim"}
 {"name": "eder familien holding gmbh & co kg", "employees": "1,992", "founded": 1487, "type": "private", "sector": "industrial manufacturing", "headquarters": "tuntenhausen"}
 {"name": "klett gruppe", "employees": "6,641", "founded": 1897, "type": "private", "sector": "media and entertainment", "headquarters": "stuttgart"}
-{"name": "arburg gmbh  co kg", "employees": "3,000", "founded": 1923, "type": "private", "sector": "industrial manufacturing", "headquarters": "loburg"}
+{"name": "arburg gmbh co kg", "employees": "3,000", "founded": 1923, "type": "private", "sector": "industrial manufacturing", "headquarters": "loburg"}
 {"name": "igus gmbh", "employees": "4,150", "founded": 1964, "type": "private", "sector": "industrial manufacturing", "headquarters": "koln"}
 {"name": "geobra brandstatter stiftung & co kg aka playmobil", "employees": "4,635", "founded": 1876, "type": "private", "sector": "consumer products", "headquarters": "zirndorf"}
 {"name": "groz-beckert kg", "employees": "9,282", "founded": 1852, "type": "private", "sector": "industrial manufacturing", "headquarters": "albstadt"}
@@ -368,12 +368,12 @@
 {"name": "gebr dingerkus gmbh & co kg", "employees": "4,200", "founded": 1910, "type": "private", "sector": "automotive", "headquarters": "attendorn"}
 {"name": "tts tooltechnic systeag & co kg", "employees": "2,800", "founded": 1925, "type": "private", "sector": "industrial manufacturing", "headquarters": "wendlingen"}
 {"name": "witte automotive gmbh", "employees": "5,300", "founded": 1899, "type": "private", "sector": "automotive", "headquarters": "velbert"}
-{"name": "pepperl  fuchs gmbh", "employees": "6,000", "founded": 1945, "type": "private", "sector": "technology", "headquarters": "mannheim"}
+{"name": "pepperl fuchs gmbh", "employees": "6,000", "founded": 1945, "type": "private", "sector": "technology", "headquarters": "mannheim"}
 {"name": "veritas ag", "employees": "3,807", "founded": 1849, "type": "private", "sector": "automotive", "headquarters": "gelnhausen"}
 {"name": "witzenmann gmbh", "employees": "4,300", "founded": 1854, "type": "private", "sector": "industrial manufacturing", "headquarters": "pforzheim"}
 {"name": "kohl medical ag", "employees": "800", "founded": 1979, "type": "private", "sector": "healthcare", "headquarters": "merzig"}
 {"name": "medien union gmbh", "employees": "3,648", "founded": 1945, "type": "private", "sector": "media and entertainment", "headquarters": "ludwigshafen am rhein"}
-{"name": "mapal fabrik fur prazisionswerkzeuge kre  kg", "employees": "5,133", "founded": 1950, "type": "private", "sector": "industrial manufacturing", "headquarters": "aalen"}
+{"name": "mapal fabrik fur prazisionswerkzeuge kre kg", "employees": "5,133", "founded": 1950, "type": "private", "sector": "industrial manufacturing", "headquarters": "aalen"}
 {"name": "dumont mediengruppe gmbh & cokg", "employees": "4,000", "founded": 1620, "type": "private", "sector": "media and entertainment", "headquarters": "koln"}
 {"name": "karl mayer holding gmbh & co kg", "employees": "2,500", "founded": 1937, "type": "private", "sector": "industrial manufacturing", "headquarters": "obertshausen"}
 {"name": "samson ag", "employees": "4,400", "founded": 1907, "type": "private", "sector": "industrial manufacturing", "headquarters": "frankfurt am main"}
@@ -389,7 +389,7 @@
 {"name": "fricke group gmbh & co kg", "employees": "2,842", "founded": 1923, "type": "private", "sector": "industrial manufacturing", "headquarters": "heeslingen"}
 {"name": "hormann holding gmbh & co kg", "employees": "3,200", "founded": 1955, "type": "private", "sector": "industrial manufacturing", "headquarters": "kirchseeon"}
 {"name": "scherer holding gmbh & co kg", "employees": "1,900", "founded": 1937, "type": "private", "sector": "industrial manufacturing", "headquarters": "simmern"}
-{"name": "thimm holding gmbh  co kg", "employees": "3,028", "founded": 1949, "type": "private", "sector": "industrial manufacturing", "headquarters": "northeim"}
+{"name": "thimm holding gmbh co kg", "employees": "3,028", "founded": 1949, "type": "private", "sector": "industrial manufacturing", "headquarters": "northeim"}
 {"name": "vetter pharma-fertigung gmbh & co kg", "employees": "4,500", "founded": 1950, "type": "private", "sector": "healthcare", "headquarters": "ravensburg"}
 {"name": "dehner gmbh & co kg", "employees": "5,000", "founded": 1947, "type": "private", "sector": "retail", "headquarters": "rain"}
 {"name": "gebr huttenes gmbh & co kg", "employees": "1,444", "founded": 1905, "type": "private", "sector": "industrial manufacturing", "headquarters": "du eldorf"}
@@ -400,7 +400,7 @@
 {"name": "zschimmer & schwarz holding gmbh & co kg", "employees": "1,312", "founded": 1894, "type": "private", "sector": "industrial manufacturing", "headquarters": "lahnstein"}
 {"name": "s&g leasing gmbh & co kg", "employees": "1,396", "founded": 1898, "type": "private", "sector": "financial services", "headquarters": "karlsruhe"}
 {"name": "wdi - westfalische drahtindustrie gmbh", "employees": "1,404", "founded": 1987, "type": "private", "sector": "industrial manufacturing", "headquarters": "hamm"}
-{"name": "heinrich winkelmann vermogen  kapital gmbh & co kg", "employees": "4,000", "founded": 1898, "type": "private", "sector": "industrial manufacturing", "headquarters": "ahlen"}
+{"name": "heinrich winkelmann vermogen kapital gmbh & co kg", "employees": "4,000", "founded": 1898, "type": "private", "sector": "industrial manufacturing", "headquarters": "ahlen"}
 {"name": "h broring gmbh & co kg", "employees": "660", "founded": 1891, "type": "private", "sector": "foods and beverages", "headquarters": "dinklage"}
 {"name": "hgdf familienholding ltd & co kg", "employees": "2,200", "founded": 1738, "type": "private", "sector": "industrial manufacturing", "headquarters": "flensburg"}
 {"name": "cam eisenholding gmbh & co kg", "employees": "3,700", "founded": 1951, "type": "private", "sector": "industrial manufacturing", "headquarters": "stadtallendorf"}
@@ -410,7 +410,7 @@
 {"name": "musikhaus thomann ek", "employees": "1,500", "founded": 1954, "type": "private", "sector": "retail", "headquarters": "burgebrach"}
 {"name": "polifilm holding gmbh", "employees": "1,572", "founded": 1972, "type": "private", "sector": "industrial manufacturing", "headquarters": "koln"}
 {"name": "heller gmbh", "employees": "2,930", "founded": 1894, "type": "private", "sector": "industrial manufacturing", "headquarters": "nurtingen"}
-{"name": "bischof  klein group", "employees": "2,580", "founded": 1892, "type": "private", "sector": "industrial manufacturing", "headquarters": "lengerich"}
+{"name": "bischof klein group", "employees": "2,580", "founded": 1892, "type": "private", "sector": "industrial manufacturing", "headquarters": "lengerich"}
 {"name": "kk klaas & kock bv & co kg", "employees": "6,649", "founded": 1950, "type": "private", "sector": "consumer products", "headquarters": "gronau"}
 {"name": "lohr & becker ag", "employees": "1,288", "founded": 1892, "type": "private", "sector": "retail", "headquarters": "koblenz"}
 {"name": "emag gmbh & co kg", "employees": "2,973", "founded": 1867, "type": "private", "sector": "industrial manufacturing", "headquarters": "salach"}
@@ -428,7 +428,7 @@
 {"name": "paul bauder gmbh & co kg", "employees": "1,017", "founded": 1857, "type": "private", "sector": "industrial manufacturing", "headquarters": "stuttgart"}
 {"name": "max luning gmbh & co kg", "employees": "1,625", "founded": 1853, "type": "private", "sector": "consumer products", "headquarters": "rietberg"}
 {"name": "heidemark gruppe", "employees": "355", "founded": 1968, "type": "private", "sector": "foods and beverages", "headquarters": "ahlhorn"}
-{"name": "piepenbrock unternehmensgruppe gmbh  co kg", "employees": "26,506", "founded": 1913, "type": "private", "sector": "profe ional services", "headquarters": "osnabruck"}
+{"name": "piepenbrock unternehmensgruppe gmbh co kg", "employees": "26,506", "founded": 1913, "type": "private", "sector": "profe ional services", "headquarters": "osnabruck"}
 {"name": "thomas philipps beteiligungs gmbh", "employees": "3,100", "founded": 1987, "type": "private", "sector": "retail", "headquarters": "bi endorf"}
 {"name": "recaro holding gmbh", "employees": "2,521", "founded": 1965, "type": "private", "sector": "automotive", "headquarters": "stuttgart"}
 {"name": "muller fleisch gmbh", "employees": "460", "founded": 1959, "type": "private", "sector": "foods and beverages", "headquarters": "birkenfeld"}
@@ -442,7 +442,7 @@
 {"name": "molkerei gropper gmbh & co kg", "employees": "800", "founded": 1929, "type": "private", "sector": "foods and beverages", "headquarters": "bi ingen"}
 {"name": "schneider holding gmbh", "employees": "4,000", "founded": 1927, "type": "private", "sector": "automotive", "headquarters": "kronach"}
 {"name": "w cla en group", "employees": "1,500", "founded": 1963, "type": "private", "sector": "industrial manufacturing", "headquarters": "kaisersesch"}
-{"name": "witron logistik  informatik gmbh", "employees": "3,500", "founded": 1971, "type": "private", "sector": "industrial manufacturing", "headquarters": "parkstein"}
+{"name": "witron logistik informatik gmbh", "employees": "3,500", "founded": 1971, "type": "private", "sector": "industrial manufacturing", "headquarters": "parkstein"}
 {"name": "hama hamaphot hanke & thomas gmbh & co", "employees": "2,330", "founded": 1923, "type": "private", "sector": "consumer products", "headquarters": "monheim"}
 {"name": "f volckmar gmbh & co kg", "employees": "1,900", "founded": 1829, "type": "private", "sector": "retail", "headquarters": "stuttgart"}
 {"name": "brillux gmbh & co kg", "employees": "2,500", "founded": 1889, "type": "private", "sector": "industrial manufacturing", "headquarters": "munster"}
@@ -464,7 +464,7 @@
 {"name": "kogel trailer gmbh & co kg", "employees": "1,350", "founded": 1934, "type": "private", "sector": "industrial manufacturing", "headquarters": "burtenbach"}
 {"name": "ei mann automotive deutschland gmbh", "employees": "5,000", "founded": 1964, "type": "private", "sector": "automotive", "headquarters": "bad urach"}
 {"name": "ke ebohmer holding ek", "employees": "2,550", "founded": 1954, "type": "private", "sector": "consumer products", "headquarters": "bad e en"}
-{"name": "automobil-verkaufs-gesellschaft joseph bra  gmbh & co kg", "employees": "1,104", "founded": 1937, "type": "private", "sector": "retail", "headquarters": "aschaffenburg"}
+{"name": "automobil-verkaufs-gesellschaft joseph bra gmbh & co kg", "employees": "1,104", "founded": 1937, "type": "private", "sector": "retail", "headquarters": "aschaffenburg"}
 {"name": "ejot holding gmbh & co kg", "employees": "3,119", "founded": 1922, "type": "private", "sector": "industrial manufacturing", "headquarters": "bad berleburg"}
 {"name": "hawesko holding gmbh", "employees": "1,170", "founded": 1964, "type": "public", "sector": "consumer products", "headquarters": "hamburg"}
 {"name": "berger holding gmbh", "employees": "2,572", "founded": 1905, "type": "private", "sector": "industrial manufacturing", "headquarters": "pa au"}
@@ -491,7 +491,7 @@
 {"name": "trox gmbh", "employees": "4,000", "founded": 1951, "type": "private", "sector": "industrial manufacturing", "headquarters": "neukirchen-vluyn"}
 {"name": "birkenstock gmbh & co kg", "employees": "2,552", "founded": 1774, "type": "private", "sector": "retail", "headquarters": "neustadt  wied "}
 {"name": "lukad holding gmbh & co kg", "employees": "2,512", "founded": 1955, "type": "private", "sector": "industrial manufacturing", "headquarters": "werdohl"}
-{"name": "linde  wiemann gmbh-kg", "employees": "2,330", "founded": 1939, "type": "private", "sector": "automotive", "headquarters": "dillenburg"}
+{"name": "linde wiemann gmbh-kg", "employees": "2,330", "founded": 1939, "type": "private", "sector": "automotive", "headquarters": "dillenburg"}
 {"name": "dieffenbacher gmbh", "employees": "1,700", "founded": 1873, "type": "private", "sector": "industrial manufacturing", "headquarters": "eppingen"}
 {"name": "mediengruppe pre edruck", "employees": "3,600", "founded": 1945, "type": "private", "sector": "media and entertainment", "headquarters": "augsburg"}
 {"name": "index-werke gmbh & co kg", "employees": "2,032", "founded": 1914, "type": "private", "sector": "industrial manufacturing", "headquarters": "e lingen"}

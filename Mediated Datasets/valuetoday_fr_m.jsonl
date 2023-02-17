@@ -12,7 +12,7 @@
 {"founded": null, "employees": "271,025", "country": "usa", "ceo": "jamie dimon", "name": "j p morgan chase & co"}
 {"founded": null, "employees": "21,500", "country": "usa", "ceo": "alfred f kelly jr", "name": "visa"}
 {"founded": null, "employees": "141,700", "country": "usa", "ceo": "joaquin duato", "name": "johnson & johnson"}
-{"founded": null, "employees": "113,753", "country": "south korea", "ceo": "kim hyun suk\r koh dong-jin\r kim ki nam", "name": "samsung electronics"}
+{"founded": null, "employees": "113,753", "country": "south korea", "ceo": "kim hyun suk koh dong-jin kim ki nam", "name": "samsung electronics"}
 {"founded": null, "employees": "350,000", "country": "usa", "ceo": "andrew witty", "name": "unitedhealth group"}
 {"founded": null, "employees": "500,000", "country": "usa", "ceo": "craig menear", "name": "home depot"}
 {"founded": null, "employees": "150,000", "country": "france", "ceo": "bernard arnault", "name": "lvmh"}
@@ -41,7 +41,7 @@
 {"founded": null, "employees": "42,595", "country": "usa", "ceo": "michael wirth", "name": "chevron corporation"}
 {"founded": null, "employees": "309,000", "country": "usa", "ceo": "ramon laguarta", "name": "pepsico"}
 {"founded": null, "employees": "113,000", "country": "usa", "ceo": "robert ford", "name": "abbott laboratories"}
-{"founded": null, "employees": "12,135", "country": "usa", "ceo": "ted sarandos\r reed hastings", "name": "netflix"}
+{"founded": null, "employees": "12,135", "country": "usa", "ceo": "ted sarandos reed hastings", "name": "netflix"}
 {"founded": "", "employees": "750,000", "country": "india", "ceo": "", "name": "tata group"}
 {"founded": null, "employees": "130,000", "country": "usa", "ceo": "marc n casper", "name": "thermo fisher scientific"}
 {"founded": null, "employees": "50,000", "country": "usa", "ceo": "richard a gonzalez", "name": "abbvie"}
@@ -324,7 +324,7 @@
 {"founded": null, "employees": "47,313", "country": "japan", "ceo": "masayoshi son", "name": "softbank corp"}
 {"founded": null, "employees": "103,100", "country": "usa", "ceo": "phebe novakovic", "name": "general dynamics corporation"}
 {"founded": null, "employees": "2,700", "country": "australia", "ceo": "peter kenneth allen", "name": "scentre group"}
-{"founded": null, "employees": "31,000", "country": "netherlands", "ceo": "kurt sievers\r richard l clemmer", "name": "nxp semiconductors"}
+{"founded": null, "employees": "31,000", "country": "netherlands", "ceo": "kurt sievers richard l clemmer", "name": "nxp semiconductors"}
 {"founded": null, "employees": "245,642", "country": "india", "ceo": "vinay m tonse", "name": "state bank of india"}
 {"founded": null, "employees": "33,500", "country": "uk", "ceo": "erik engstrom", "name": "relx"}
 {"founded": null, "employees": "33,427", "country": "china", "ceo": "lei jun", "name": "xiaomi corporation"}
@@ -407,7 +407,7 @@
 {"founded": null, "employees": "4,092", "country": "usa", "ceo": "hilton schlosberg", "name": "monster beverage corporation"}
 {"founded": "", "employees": "", "country": "uae", "ceo": "", "name": "first gulf bank"}
 {"founded": null, "employees": "13,777", "country": "mexico", "ceo": "oscar gonzalez rocha", "name": "southern copper corporation"}
-{"founded": null, "employees": "28,051", "country": "finland", "ceo": "frank vang-jensen\r casper von koskull", "name": "nordea bank abp"}
+{"founded": null, "employees": "28,051", "country": "finland", "ceo": "frank vang-jensen casper von koskull", "name": "nordea bank abp"}
 {"founded": null, "employees": "18,687", "country": "uk", "ceo": "charles f lowrey", "name": "prudential"}
 {"founded": null, "employees": "86,800", "country": "japan", "ceo": "makoto takashima", "name": "sumitomo mitsui financial group"}
 {"founded": null, "employees": "18,703", "country": "china", "ceo": "yang hua", "name": "cnooc limited"}
@@ -555,7 +555,7 @@
 {"founded": null, "employees": "9,016", "country": "germany", "ceo": "joachim kreuzburg", "name": "sartorius stedim biotech"}
 {"founded": null, "employees": "111,247", "country": "china", "ceo": "kong qingwei", "name": "china pacific insurance group cpic"}
 {"founded": null, "employees": "167,552", "country": "france", "ceo": "benoit bazin", "name": "compagnie de saint-gobain"}
-{"founded": null, "employees": "78,249", "country": "switzerland", "ceo": "detlef trefzger", "name": "kuehne  nagel international ag"}
+{"founded": null, "employees": "78,249", "country": "switzerland", "ceo": "detlef trefzger", "name": "kuehne nagel international ag"}
 {"founded": null, "employees": "34,352", "country": "uk", "ceo": "kevin murphy", "name": "ferguson"}
 {"founded": null, "employees": "23,663", "country": "usa", "ceo": "greg c gantt", "name": "old dominion freight line"}
 {"founded": null, "employees": "464", "country": "usa", "ceo": "shankh mitra", "name": "welltower"}

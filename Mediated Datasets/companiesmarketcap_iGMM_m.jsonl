@@ -920,7 +920,7 @@
 {"name": "alteryx", "market_cap": 2960000000, "country": "usa", "share_price": 42, "categories": "software, tech"}
 {"name": "sinch", "market_cap": 2970000000, "country": "sweden", "share_price": 3, "categories": "telecommunication"}
 {"name": "vz holding", "market_cap": 2970000000, "country": "switzerland", "share_price": 75, "categories": "assetmanagement, financialservices, investment"}
-{"name": "travel  leisure", "market_cap": 2970000000, "country": "usa", "share_price": 36, "categories": "travel, mediapress"}
+{"name": "travel leisure", "market_cap": 2970000000, "country": "usa", "share_price": 36, "categories": "travel, mediapress"}
 {"name": "quantumscape", "market_cap": 2980000000, "country": "usa", "share_price": 6, "categories": "electricity, batteries"}
 {"name": "select medical holdings", "market_cap": 2980000000, "country": "usa", "share_price": 23, "categories": "medicalcarefacilities, healthcare"}
 {"name": "thermax", "market_cap": 2980000000, "country": "india", "share_price": 25, "categories": "engineering"}
@@ -5503,7 +5503,7 @@
 {"name": "petro rio", "market_cap": 5320000000, "country": "brazil", "share_price": 6, "categories": "oilgas, energy"}
 {"name": "envista", "market_cap": 5320000000, "country": "usa", "share_price": 32, "categories": ""}
 {"name": "marriott vacations worldwide", "market_cap": 5330000000, "country": "usa", "share_price": 139, "categories": ""}
-{"name": "bausch  lomb", "market_cap": 5330000000, "country": "canada", "share_price": 15, "categories": "glassesandcontactlenses"}
+{"name": "bausch lomb", "market_cap": 5330000000, "country": "canada", "share_price": 15, "categories": "glassesandcontactlenses"}
 {"name": "boc aviation", "market_cap": 5340000000, "country": "singapore", "share_price": 7, "categories": "aircraftleasing, rentalleasingservices"}
 {"name": "tecan", "market_cap": 5350000000, "country": "switzerland", "share_price": 420, "categories": ""}
 {"name": "grupo simec", "market_cap": 5350000000, "country": "mexico", "share_price": 31, "categories": ""}
@@ -6628,7 +6628,7 @@
 {"name": "sociedad quimica y minera", "market_cap": 27260000000, "country": "chile", "share_price": 95, "categories": "chemicals"}
 {"name": "hp", "market_cap": 27330000000, "country": "usa", "share_price": 27, "categories": "tech, techhardware, electronics"}
 {"name": "wipro", "market_cap": 27360000000, "country": "india", "share_price": 4, "categories": "professionalservices, itservices"}
-{"name": "kuhne  nagel", "market_cap": 27380000000, "country": "switzerland", "share_price": 229, "categories": "transportation"}
+{"name": "kuhne nagel", "market_cap": 27380000000, "country": "switzerland", "share_price": 229, "categories": "transportation"}
 {"name": "nokia", "market_cap": 27450000000, "country": "finland", "share_price": 4, "categories": "tech"}
 {"name": "franco-nevada", "market_cap": 27470000000, "country": "canada", "share_price": 142, "categories": "mining, investment, goldmining"}
 {"name": "fomento economico mexicano", "market_cap": 27550000000, "country": "mexico", "share_price": 77, "categories": "beverages"}

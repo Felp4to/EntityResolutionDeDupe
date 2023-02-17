@@ -622,7 +622,7 @@
 {"name": "loblaw companies", "market_cap": 28580000000, "country": "canada", "share_price": 88}
 {"name": "ferguson", "market_cap": 28550000000, "country": "uk", "share_price": 138}
 {"name": "verisk analytics", "market_cap": 28400000000, "country": "usa", "share_price": 181}
-{"name": "kuhne  nagel", "market_cap": 28390000000, "country": "switzerland", "share_price": 237}
+{"name": "kuhne nagel", "market_cap": 28390000000, "country": "switzerland", "share_price": 237}
 {"name": "eqt", "market_cap": 28390000000, "country": "sweden", "share_price": 21}
 {"name": "discover financial services", "market_cap": 28330000000, "country": "usa", "share_price": 106}
 {"name": "w w grainger", "market_cap": 28300000000, "country": "usa", "share_price": 560}
@@ -2135,7 +2135,7 @@
 {"name": "envista", "market_cap": 6000000000, "country": "usa", "share_price": 36}
 {"name": "hk electric investments", "market_cap": 5990000000, "country": "hong kong", "share_price": 0}
 {"name": "kose", "market_cap": 5990000000, "country": "japan", "share_price": 105}
-{"name": "bausch  lomb", "market_cap": 5990000000, "country": "canada", "share_price": 17}
+{"name": "bausch lomb", "market_cap": 5990000000, "country": "canada", "share_price": 17}
 {"name": "topbuild", "market_cap": 5990000000, "country": "usa", "share_price": 187}
 {"name": "telus international", "market_cap": 5980000000, "country": "canada", "share_price": 22}
 {"name": "m&g plc", "market_cap": 5980000000, "country": "uk", "share_price": 2}
@@ -2957,7 +2957,7 @@
 {"name": "vienna insurance group", "market_cap": 3410000000, "country": "", "share_price": 26}
 {"name": "vontier", "market_cap": 3410000000, "country": "usa", "share_price": 21}
 {"name": "nelnet", "market_cap": 3410000000, "country": "usa", "share_price": 91}
-{"name": "travel  leisure", "market_cap": 3410000000, "country": "usa", "share_price": 41}
+{"name": "travel leisure", "market_cap": 3410000000, "country": "usa", "share_price": 41}
 {"name": "nikon", "market_cap": 3400000000, "country": "japan", "share_price": 9}
 {"name": "logista compania de distribucion integral logista", "market_cap": 3400000000, "country": "spain", "share_price": 25}
 {"name": "staar surgical", "market_cap": 3400000000, "country": "usa", "share_price": 70}

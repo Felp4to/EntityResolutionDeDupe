@@ -619,7 +619,7 @@
 {"name": "rwe", "market_cap": "27860000000", "country": "germany"}
 {"name": "hp", "market_cap": "27850000000", "country": "usa"}
 {"name": "vestas wind systems", "market_cap": "27850000000", "country": "denmark"}
-{"name": "kuhne  nagel", "market_cap": "27810000000", "country": "switzerland"}
+{"name": "kuhne nagel", "market_cap": "27810000000", "country": "switzerland"}
 {"name": "smc corp", "market_cap": "27750000000", "country": "japan"}
 {"name": "alnylam pharmaceuticals", "market_cap": "27680000000", "country": "usa"}
 {"name": "fastenal", "market_cap": "27590000000", "country": "usa"}
@@ -2122,7 +2122,7 @@
 {"name": "mapletree logistics trust", "market_cap": "5720000000", "country": "singapore"}
 {"name": "banco sabadell", "market_cap": "5700000000", "country": "spain"}
 {"name": "h&r block", "market_cap": "5700000000", "country": "usa"}
-{"name": "bausch  lomb", "market_cap": "5700000000", "country": "canada"}
+{"name": "bausch lomb", "market_cap": "5700000000", "country": "canada"}
 {"name": "yamana gold", "market_cap": "5690000000", "country": "canada"}
 {"name": "dillard's", "market_cap": "5690000000", "country": "usa"}
 {"name": "firstservice", "market_cap": "5680000000", "country": "canada"}
@@ -3029,7 +3029,7 @@
 {"name": "acea", "market_cap": "3070000000", "country": "italy"}
 {"name": "chargepoint", "market_cap": "3070000000", "country": "usa"}
 {"name": "exxaro resources", "market_cap": "3070000000", "country": "south africa"}
-{"name": "travel  leisure", "market_cap": "3070000000", "country": "usa"}
+{"name": "travel leisure", "market_cap": "3070000000", "country": "usa"}
 {"name": "elf cosmetics", "market_cap": "3070000000", "country": "usa"}
 {"name": "texas capital bancshares", "market_cap": "3070000000", "country": "usa"}
 {"name": "billerudkorsnas", "market_cap": "3070000000", "country": "sweden"}

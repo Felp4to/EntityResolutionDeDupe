@@ -557,7 +557,7 @@
 {"name": "sea garena", "market_cap": 34470000000, "country": "singapore", "share_price": 61, "categories": "internet, video games, e-commerce, financial services, entertainment, tech"}
 {"name": "m&t bank", "market_cap": 29180000000, "country": "usa", "share_price": 169, "categories": "banks, financial services"}
 {"name": "jd health", "market_cap": 29190000000, "country": "china", "share_price": 9, "categories": "drugstore, internet, e-commerce, healthcare, tech"}
-{"name": "kuhne  nagel", "market_cap": 29250000000, "country": "switzerland", "share_price": 244, "categories": "transportation"}
+{"name": "kuhne nagel", "market_cap": 29250000000, "country": "switzerland", "share_price": 244, "categories": "transportation"}
 {"name": "loblaw companies", "market_cap": 29410000000, "country": "canada", "share_price": 90, "categories": ""}
 {"name": "fastenal", "market_cap": 29450000000, "country": "usa", "share_price": 51, "categories": ""}
 {"name": "hyundai", "market_cap": 29410000000, "country": "south korea", "share_price": 31, "categories": "automakers, manufacturing"}
@@ -5625,7 +5625,7 @@
 {"name": "staar surgical", "market_cap": 3400000000, "country": "usa", "share_price": 70, "categories": ""}
 {"name": "logista compania de distribucion integral logista", "market_cap": 3400000000, "country": "spain", "share_price": 25, "categories": "transportation"}
 {"name": "nikon", "market_cap": 3400000000, "country": "japan", "share_price": 9, "categories": "electronics, tech, tech hardware"}
-{"name": "travel  leisure", "market_cap": 3410000000, "country": "usa", "share_price": 41, "categories": "travel, media/press"}
+{"name": "travel leisure", "market_cap": 3410000000, "country": "usa", "share_price": 41, "categories": "travel, media/press"}
 {"name": "nelnet", "market_cap": 3410000000, "country": "usa", "share_price": 91, "categories": ""}
 {"name": "vontier", "market_cap": 3410000000, "country": "usa", "share_price": 21, "categories": ""}
 {"name": "vienna insurance group", "market_cap": 3410000000, "country": "", "share_price": 26, "categories": "insurance"}

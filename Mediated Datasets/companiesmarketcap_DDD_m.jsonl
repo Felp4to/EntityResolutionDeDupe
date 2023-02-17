@@ -550,7 +550,7 @@
 {"name": "acushnet holdings ", "market_cap": 3380000000, "country": "usa", "share_price": 48, "categories": "sports "}
 {"name": "ollie's bargain outlet ", "market_cap": 3340000000, "country": "usa", "share_price": 53, "categories": " "}
 {"name": "newmarket corp", "market_cap": 3360000000, "country": "usa", "share_price": 341, "categories": " "}
-{"name": "travel  leisure", "market_cap": 3380000000, "country": "usa", "share_price": 41, "categories": "travel media-press "}
+{"name": "travel leisure", "market_cap": 3380000000, "country": "usa", "share_price": 41, "categories": "travel media-press "}
 {"name": "cvr energy", "market_cap": 3360000000, "country": "usa", "share_price": 33, "categories": " "}
 {"name": "ameris bancorp ", "market_cap": 3360000000, "country": "usa", "share_price": 48, "categories": " "}
 {"name": "sprouts farmers market", "market_cap": 3360000000, "country": "usa", "share_price": 31, "categories": "food retail "}
@@ -1502,7 +1502,7 @@
 {"name": "dun & bradstreet ", "market_cap": 5990000000, "country": "usa", "share_price": 13, "categories": "financial-services "}
 {"name": "raiffeisen bank international", "market_cap": 6010000000, "country": " ", "share_price": 18, "categories": "banks financial-services "}
 {"name": "beijer ref", "market_cap": 5990000000, "country": "sweden", "share_price": 16, "categories": " "}
-{"name": "bausch  lomb", "market_cap": 6030000000, "country": "canada", "share_price": 17, "categories": "glasses-and-contact-lenses "}
+{"name": "bausch lomb", "market_cap": 6030000000, "country": "canada", "share_price": 17, "categories": "glasses-and-contact-lenses "}
 {"name": "coherent ", "market_cap": 6050000000, "country": "usa", "share_price": 43, "categories": "semiconductors tech tech-hardware "}
 {"name": "axfood", "market_cap": 6020000000, "country": "sweden", "share_price": 26, "categories": "retail "}
 {"name": "sumitomo chemical ", "market_cap": 6050000000, "country": "japan", "share_price": 3, "categories": "chemicals "}
@@ -3385,7 +3385,7 @@
 {"name": "on semiconductor", "market_cap": 29240000000, "country": "usa", "share_price": 67, "categories": "semiconductors electronics tech "}
 {"name": "swiss re", "market_cap": 29210000000, "country": "switzerland", "share_price": 101, "categories": "insurance "}
 {"name": "w w grainger ", "market_cap": 29080000000, "country": "usa", "share_price": 575, "categories": " "}
-{"name": "kuhne  nagel ", "market_cap": 29320000000, "country": "switzerland", "share_price": 245, "categories": "transportation "}
+{"name": "kuhne nagel ", "market_cap": 29320000000, "country": "switzerland", "share_price": 245, "categories": "transportation "}
 {"name": "adidas", "market_cap": 29690000000, "country": "germany", "share_price": 162, "categories": "footwear sports dax clothing "}
 {"name": "ptt pcl", "market_cap": 29560000000, "country": "thailand", "share_price": 1, "categories": "oil-gas energy "}
 {"name": "chunghwa telecom", "market_cap": 29360000000, "country": "taiwan", "share_price": 37, "categories": "telecommunication "}

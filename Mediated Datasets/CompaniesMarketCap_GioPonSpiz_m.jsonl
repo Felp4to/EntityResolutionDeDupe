@@ -623,7 +623,7 @@
 {"name": "dell", "market_cap": 28770000000, "country": "usa"}
 {"name": "verisk analytics", "market_cap": 28760000000, "country": "usa"}
 {"name": "woolworths group", "market_cap": 28750000000, "country": "australia"}
-{"name": "kuhne  nagel", "market_cap": 28730000000, "country": "switzerland"}
+{"name": "kuhne nagel", "market_cap": 28730000000, "country": "switzerland"}
 {"name": "imperial oil", "market_cap": 28710000000, "country": "canada"}
 {"name": "orange", "market_cap": 28620000000, "country": "france"}
 {"name": "swiss re", "market_cap": 28580000000, "country": "switzerland"}
@@ -2176,7 +2176,7 @@
 {"name": "konami holdings", "market_cap": 5810000000, "country": "japan"}
 {"name": "envista", "market_cap": 5800000000, "country": "usa"}
 {"name": "grupo simec", "market_cap": 5800000000, "country": "mexico"}
-{"name": "bausch  lomb", "market_cap": 5800000000, "country": "canada"}
+{"name": "bausch lomb", "market_cap": 5800000000, "country": "canada"}
 {"name": "marriott vacations worldwide", "market_cap": 5800000000, "country": "usa"}
 {"name": "silgan holdings", "market_cap": 5800000000, "country": "usa"}
 {"name": "saic", "market_cap": 5780000000, "country": "usa"}
@@ -3012,7 +3012,7 @@
 {"name": "workman", "market_cap": 3320000000, "country": "japan"}
 {"name": "metsa board", "market_cap": 3320000000, "country": "finland"}
 {"name": "mbank", "market_cap": 3320000000, "country": "poland"}
-{"name": "travel  leisure", "market_cap": 3320000000, "country": "usa"}
+{"name": "travel leisure", "market_cap": 3320000000, "country": "usa"}
 {"name": "lazard", "market_cap": 3320000000, "country": "bermuda"}
 {"name": "bellway", "market_cap": 3310000000, "country": "uk"}
 {"name": "vienna insurance group", "market_cap": 3310000000, "country": "austria"}
