@@ -623,7 +623,7 @@
 {"name":"dell","codice":"dell","pricecap":28770000000,"price":40,"country":"usa"}
 {"name":"verisk analytics","codice":"vrsk","pricecap":28760000000,"price":183,"country":"usa"}
 {"name":"woolworths group","codice":"wow.ax","pricecap":28750000000,"price":23,"country":"australia"}
-{"name":"kuhne  nagel","codice":"knin.sw","pricecap":28730000000,"price":240,"country":"switzerland"}
+{"name":"kuhne nagel","codice":"knin.sw","pricecap":28730000000,"price":240,"country":"switzerland"}
 {"name":"imperial oil","codice":"imo","pricecap":28710000000,"price":49,"country":"canada"}
 {"name":"orange","codice":"oran","pricecap":28620000000,"price":10,"country":"france"}
 {"name":"swiss re","codice":"sren.sw","pricecap":28580000000,"price":98,"country":"switzerland"}
@@ -2176,7 +2176,7 @@
 {"name":"konami holdings","codice":"9766.t","pricecap":5810000000,"price":43,"country":"japan"}
 {"name":"envista","codice":"nvst","pricecap":5800000000,"price":35,"country":"usa"}
 {"name":"grupo simec","codice":"sim","pricecap":5800000000,"price":32,"country":"mexico"}
-{"name":"bausch  lomb","codice":"blco","pricecap":5800000000,"price":16,"country":"canada"}
+{"name":"bausch lomb","codice":"blco","pricecap":5800000000,"price":16,"country":"canada"}
 {"name":"marriott vacations worldwide","codice":"vac","pricecap":5800000000,"price":151,"country":"usa"}
 {"name":"silgan holdings","codice":"slgn","pricecap":5800000000,"price":52,"country":"usa"}
 {"name":"saic","codice":"saic","pricecap":5780000000,"price":105,"country":"usa"}
@@ -3012,7 +3012,7 @@
 {"name":"workman","codice":"7564.t","pricecap":3320000000,"price":40,"country":"japan"}
 {"name":"metsa board","codice":"metsa.he","pricecap":3320000000,"price":11,"country":"finland"}
 {"name":"mbank","codice":"mbk.wa","pricecap":3320000000,"price":78,"country":"poland"}
-{"name":"travel  leisure","codice":"tnl","pricecap":3320000000,"price":40,"country":"usa"}
+{"name":"travel leisure","codice":"tnl","pricecap":3320000000,"price":40,"country":"usa"}
 {"name":"lazard","codice":"laz","pricecap":3320000000,"price":38,"country":"bermuda"}
 {"name":"bellway","codice":"bwy.l","pricecap":3310000000,"price":26,"country":"uk"}
 {"name":"vienna insurance group","codice":"wsv2.f","pricecap":3310000000,"price":25,"country":"austria"}

@@ -920,7 +920,7 @@
 {"name":"alteryx","code":"ayx","rank":"3088","marketcap":2960000000,"country":"usa","share_price":42,"change(1day)":"6.26%","change(1year)":"-34.59%","categories":"software, tech"}
 {"name":"sinch","code":"sinch.st","rank":"3085","marketcap":2970000000,"country":"sweden","share_price":3,"change(1day)":"-0.25%","change(1year)":"-72.57%","categories":"telecommunication"}
 {"name":"vz holding","code":"vzn.sw","rank":"3084","marketcap":2970000000,"country":"switzerland","share_price":75,"change(1day)":"0.42%","change(1year)":"-22.36%","categories":"assetmanagement, financialservices, investment"}
-{"name":"travel  leisure","code":"tnl","rank":"3083","marketcap":2970000000,"country":"usa","share_price":36,"change(1day)":"0.33%","change(1year)":"-28.36%","categories":"travel, mediapress"}
+{"name":"travel leisure","code":"tnl","rank":"3083","marketcap":2970000000,"country":"usa","share_price":36,"change(1day)":"0.33%","change(1year)":"-28.36%","categories":"travel, mediapress"}
 {"name":"quantumscape","code":"qs","rank":"3081","marketcap":2980000000,"country":"usa","share_price":6,"change(1day)":"-0.87%","change(1year)":"-73.90%","categories":"electricity, batteries"}
 {"name":"select medical holdings","code":"sem","rank":"3082","marketcap":2980000000,"country":"usa","share_price":23,"change(1day)":"-3.30%","change(1year)":"-22.10%","categories":"medicalcarefacilities, healthcare"}
 {"name":"thermax","code":"thermax.ns","rank":"3080","marketcap":2980000000,"country":"india","share_price":25,"change(1day)":"0.37%","change(1year)":"10.41%","categories":"engineering"}
@@ -5503,7 +5503,7 @@
 {"name":"petro rio","code":"prio3.sa","rank":"2232","marketcap":5320000000,"country":"brazil","share_price":6,"change(1day)":"-5.69%","change(1year)":"62.69%","categories":"oilgas, energy"}
 {"name":"envista","code":"nvst","rank":"2231","marketcap":5320000000,"country":"usa","share_price":32,"change(1day)":"-0.55%","change(1year)":"-21.20%","categories":""}
 {"name":"marriott vacations worldwide","code":"vac","rank":"2230","marketcap":5330000000,"country":"usa","share_price":139,"change(1day)":"0.77%","change(1year)":"-11.95%","categories":""}
-{"name":"bausch  lomb","code":"blco","rank":"2229","marketcap":5330000000,"country":"canada","share_price":15,"change(1day)":"0.39%","change(1year)":"","categories":"glassesandcontactlenses"}
+{"name":"bausch lomb","code":"blco","rank":"2229","marketcap":5330000000,"country":"canada","share_price":15,"change(1day)":"0.39%","change(1year)":"","categories":"glassesandcontactlenses"}
 {"name":"boc aviation","code":"2588.hk","rank":"2228","marketcap":5340000000,"country":"singapore","share_price":7,"change(1day)":"-3.54%","change(1year)":"4.05%","categories":"aircraftleasing, rentalleasingservices"}
 {"name":"tecan","code":"tecn.sw","rank":"2226","marketcap":5350000000,"country":"switzerland","share_price":420,"change(1day)":"-1.64%","change(1year)":"-26.50%","categories":""}
 {"name":"grupo simec","code":"sim","rank":"2227","marketcap":5350000000,"country":"mexico","share_price":31,"change(1day)":"0.00%","change(1year)":"33.38%","categories":""}
@@ -6628,7 +6628,7 @@
 {"name":"sociedad quimica y minera","code":"sqm","rank":"637","marketcap":27260000000,"country":"chile","share_price":95,"change(1day)":"1.51%","change(1year)":"63.83%","categories":"chemicals"}
 {"name":"hp","code":"hpq","rank":"636","marketcap":27330000000,"country":"usa","share_price":27,"change(1day)":"-1.70%","change(1year)":"-25.37%","categories":"tech, techhardware, electronics"}
 {"name":"wipro","code":"wit","rank":"635","marketcap":27360000000,"country":"india","share_price":4,"change(1day)":"-0.41%","change(1year)":"-43.81%","categories":"professionalservices, itservices"}
-{"name":"kuhne  nagel","code":"knin.sw","rank":"634","marketcap":27380000000,"country":"switzerland","share_price":229,"change(1day)":"-1.28%","change(1year)":"-22.58%","categories":"transportation"}
+{"name":"kuhne nagel","code":"knin.sw","rank":"634","marketcap":27380000000,"country":"switzerland","share_price":229,"change(1day)":"-1.28%","change(1year)":"-22.58%","categories":"transportation"}
 {"name":"nokia","code":"nok","rank":"633","marketcap":27450000000,"country":"finland","share_price":4,"change(1day)":"-1.03%","change(1year)":"-18.31%","categories":"tech"}
 {"name":"franco-nevada","code":"fnv","rank":"631","marketcap":27470000000,"country":"canada","share_price":142,"change(1day)":"0.83%","change(1year)":"5.82%","categories":"mining, investment, goldmining"}
 {"name":"fomento economico mexicano","code":"fmx","rank":"630","marketcap":27550000000,"country":"mexico","share_price":77,"change(1day)":"0.82%","change(1year)":"7.69%","categories":"beverages"}

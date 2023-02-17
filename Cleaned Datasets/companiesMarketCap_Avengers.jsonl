@@ -557,7 +557,7 @@
 {"name":"sea garena","rank":"503","market_cap":34470000000,"country":"singapore","share_price":61,"change_1_day":"0.38%","change_1_year":"-76.49%","categories":"internet, video games, e-commerce, financial services, entertainment, tech"}
 {"name":"m&t bank","rank":"600","market_cap":29180000000,"country":"usa","share_price":169,"change_1_day":"0.46%","change_1_year":"12.19%","categories":"banks, financial services"}
 {"name":"jd health","rank":"599","market_cap":29190000000,"country":"china","share_price":9,"change_1_day":"9.33%","change_1_year":"13.33%","categories":"drugstore, internet, e-commerce, healthcare, tech"}
-{"name":"kuhne  nagel","rank":"598","market_cap":29250000000,"country":"switzerland","share_price":244,"change_1_day":"-0.35%","change_1_year":"-14.72%","categories":"transportation"}
+{"name":"kuhne nagel","rank":"598","market_cap":29250000000,"country":"switzerland","share_price":244,"change_1_day":"-0.35%","change_1_year":"-14.72%","categories":"transportation"}
 {"name":"loblaw companies","rank":"597","market_cap":29410000000,"country":"canada","share_price":90,"change_1_day":"0.62%","change_1_year":"18.94%","categories":""}
 {"name":"fastenal","rank":"595","market_cap":29450000000,"country":"usa","share_price":51,"change_1_day":"-0.25%","change_1_year":"-13.79%","categories":""}
 {"name":"hyundai","rank":"596","market_cap":29410000000,"country":"south korea","share_price":31,"change_1_day":"3.47%","change_1_year":"-23.31%","categories":"automakers, manufacturing"}
@@ -5625,7 +5625,7 @@
 {"name":"staar surgical","rank":"2977","market_cap":3400000000,"country":"usa","share_price":70,"change_1_day":"1.58%","change_1_year":"-1.30%","categories":""}
 {"name":"logista compania de distribucion integral logista","rank":"2976","market_cap":3400000000,"country":"spain","share_price":25,"change_1_day":"-0.17%","change_1_year":"26.17%","categories":"transportation"}
 {"name":"nikon","rank":"2975","market_cap":3400000000,"country":"japan","share_price":9,"change_1_day":"0.95%","change_1_year":"-9.44%","categories":"electronics, tech, tech hardware"}
-{"name":"travel  leisure","rank":"2974","market_cap":3410000000,"country":"usa","share_price":41,"change_1_day":"3.89%","change_1_year":"-21.74%","categories":"travel, media/press"}
+{"name":"travel leisure","rank":"2974","market_cap":3410000000,"country":"usa","share_price":41,"change_1_day":"3.89%","change_1_year":"-21.74%","categories":"travel, media/press"}
 {"name":"nelnet","rank":"2973","market_cap":3410000000,"country":"usa","share_price":91,"change_1_day":"0.98%","change_1_year":"4.81%","categories":""}
 {"name":"vontier","rank":"2972","market_cap":3410000000,"country":"usa","share_price":21,"change_1_day":"2.37%","change_1_year":"-23.49%","categories":""}
 {"name":"vienna insurance group","rank":"2971","market_cap":3410000000,"country":"","share_price":26,"change_1_day":"0.62%","change_1_year":"-8.49%","categories":"insurance"}

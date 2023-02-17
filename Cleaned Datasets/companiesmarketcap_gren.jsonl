@@ -619,7 +619,7 @@
 {"name":"rwe","market_capitalization_usd":"27860000000","price":41,"country":"germany"}
 {"name":"hp","market_capitalization_usd":"27850000000","price":28,"country":"usa"}
 {"name":"vestas wind systems","market_capitalization_usd":"27850000000","price":28,"country":"denmark"}
-{"name":"kuhne  nagel","market_capitalization_usd":"27810000000","price":233,"country":"switzerland"}
+{"name":"kuhne nagel","market_capitalization_usd":"27810000000","price":233,"country":"switzerland"}
 {"name":"smc corp","market_capitalization_usd":"27750000000","price":425,"country":"japan"}
 {"name":"alnylam pharmaceuticals","market_capitalization_usd":"27680000000","price":225,"country":"usa"}
 {"name":"fastenal","market_capitalization_usd":"27590000000","price":48,"country":"usa"}
@@ -2122,7 +2122,7 @@
 {"name":"mapletree logistics trust","market_capitalization_usd":"5720000000","price":1,"country":"singapore"}
 {"name":"banco sabadell","market_capitalization_usd":"5700000000","price":1,"country":"spain"}
 {"name":"h&r block","market_capitalization_usd":"5700000000","price":37,"country":"usa"}
-{"name":"bausch  lomb","market_capitalization_usd":"5700000000","price":16,"country":"canada"}
+{"name":"bausch lomb","market_capitalization_usd":"5700000000","price":16,"country":"canada"}
 {"name":"yamana gold","market_capitalization_usd":"5690000000","price":6,"country":"canada"}
 {"name":"dillard's","market_capitalization_usd":"5690000000","price":332,"country":"usa"}
 {"name":"firstservice","market_capitalization_usd":"5680000000","price":128,"country":"canada"}
@@ -3029,7 +3029,7 @@
 {"name":"acea","market_capitalization_usd":"3070000000","price":14,"country":"italy"}
 {"name":"chargepoint","market_capitalization_usd":"3070000000","price":9,"country":"usa"}
 {"name":"exxaro resources","market_capitalization_usd":"3070000000","price":12,"country":"south africa"}
-{"name":"travel  leisure","market_capitalization_usd":"3070000000","price":38,"country":"usa"}
+{"name":"travel leisure","market_capitalization_usd":"3070000000","price":38,"country":"usa"}
 {"name":"elf cosmetics","market_capitalization_usd":"3070000000","price":58,"country":"usa"}
 {"name":"texas capital bancshares","market_capitalization_usd":"3070000000","price":62,"country":"usa"}
 {"name":"billerudkorsnas","market_capitalization_usd":"3070000000","price":12,"country":"sweden"}

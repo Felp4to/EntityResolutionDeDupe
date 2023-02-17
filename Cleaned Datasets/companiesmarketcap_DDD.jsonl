@@ -550,7 +550,7 @@
 {"name":"acushnet holdings ","rank":"3004","marketcap":3380000000,"country":"usa","share_price":48,"change1d":"-0.21%","change1y":"-2.23%","categories":"sports "}
 {"name":"ollie's bargain outlet ","rank":"3018","marketcap":3340000000,"country":"usa","share_price":53,"change1d":"0.72%","change1y":"18.99%","categories":" "}
 {"name":"newmarket corp","rank":"3008","marketcap":3360000000,"country":"usa","share_price":341,"change1d":"0.40%","change1y":"-2.65%","categories":" "}
-{"name":"travel  leisure","rank":"3005","marketcap":3380000000,"country":"usa","share_price":41,"change1d":"1.61%","change1y":"-26.14%","categories":"travel media-press "}
+{"name":"travel leisure","rank":"3005","marketcap":3380000000,"country":"usa","share_price":41,"change1d":"1.61%","change1y":"-26.14%","categories":"travel media-press "}
 {"name":"cvr energy","rank":"3009","marketcap":3360000000,"country":"usa","share_price":33,"change1d":"2.71%","change1y":"50.70%","categories":" "}
 {"name":"ameris bancorp ","rank":"3010","marketcap":3360000000,"country":"usa","share_price":48,"change1d":"-0.94%","change1y":"-12.25%","categories":" "}
 {"name":"sprouts farmers market","rank":"3012","marketcap":3360000000,"country":"usa","share_price":31,"change1d":"0.06%","change1y":"8.58%","categories":"food retail "}
@@ -1502,7 +1502,7 @@
 {"name":"dun & bradstreet ","rank":"2143","marketcap":5990000000,"country":"usa","share_price":13,"change1d":"0.95%","change1y":"-30.20%","categories":"financial-services "}
 {"name":"raiffeisen bank international","rank":"2139","marketcap":6010000000,"country":" ","share_price":18,"change1d":"0.48%","change1y":"-37.16%","categories":"banks financial-services "}
 {"name":"beijer ref","rank":"2142","marketcap":5990000000,"country":"sweden","share_price":16,"change1d":"0.72%","change1y":"-11.55%","categories":" "}
-{"name":"bausch  lomb","rank":"2135","marketcap":6030000000,"country":"canada","share_price":17,"change1d":"1.00%","change1y":" ","categories":"glasses-and-contact-lenses "}
+{"name":"bausch lomb","rank":"2135","marketcap":6030000000,"country":"canada","share_price":17,"change1d":"1.00%","change1y":" ","categories":"glasses-and-contact-lenses "}
 {"name":"coherent ","rank":"2131","marketcap":6050000000,"country":"usa","share_price":43,"change1d":"2.71%","change1y":"-83.19%","categories":"semiconductors tech tech-hardware "}
 {"name":"axfood","rank":"2137","marketcap":6020000000,"country":"sweden","share_price":26,"change1d":"1.67%","change1y":"-1.21%","categories":"retail "}
 {"name":"sumitomo chemical ","rank":"2132","marketcap":6050000000,"country":"japan","share_price":3,"change1d":"0.42%","change1y":"-28.02%","categories":"chemicals "}
@@ -3385,7 +3385,7 @@
 {"name":"on semiconductor","rank":"619","marketcap":29240000000,"country":"usa","share_price":67,"change1d":"2.69%","change1y":"2.18%","categories":"semiconductors electronics tech "}
 {"name":"swiss re","rank":"620","marketcap":29210000000,"country":"switzerland","share_price":101,"change1d":"1.80%","change1y":"-4.69%","categories":"insurance "}
 {"name":"w w grainger ","rank":"622","marketcap":29080000000,"country":"usa","share_price":575,"change1d":"0.67%","change1y":"14.06%","categories":" "}
-{"name":"kuhne  nagel ","rank":"616","marketcap":29320000000,"country":"switzerland","share_price":245,"change1d":"0.75%","change1y":"-15.37%","categories":"transportation "}
+{"name":"kuhne nagel ","rank":"616","marketcap":29320000000,"country":"switzerland","share_price":245,"change1d":"0.75%","change1y":"-15.37%","categories":"transportation "}
 {"name":"adidas","rank":"606","marketcap":29690000000,"country":"germany","share_price":162,"change1d":"-0.53%","change1y":"-43.56%","categories":"footwear sports dax clothing "}
 {"name":"ptt pcl","rank":"610","marketcap":29560000000,"country":"thailand","share_price":1,"change1d":"0.00%","change1y":"-12.82%","categories":"oil-gas energy "}
 {"name":"chunghwa telecom","rank":"614","marketcap":29360000000,"country":"taiwan","share_price":37,"change1d":"-0.03%","change1y":"-11.29%","categories":"telecommunication "}

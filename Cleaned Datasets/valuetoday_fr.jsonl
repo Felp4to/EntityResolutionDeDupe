@@ -12,7 +12,7 @@
 {"ipo_year":"","number_of_employees":"271,025","country":"usa","ceo":"jamie dimon","founded_year":null,"market_value":494000000000,"name":"j p morgan chase & co"}
 {"ipo_year":"","number_of_employees":"21,500","country":"usa","ceo":"alfred f kelly jr","founded_year":null,"market_value":471630000000,"name":"visa"}
 {"ipo_year":"","number_of_employees":"141,700","country":"usa","ceo":"joaquin duato","founded_year":null,"market_value":457940000000,"name":"johnson & johnson"}
-{"ipo_year":"","number_of_employees":"113,753","country":"south korea","ceo":"kim hyun suk\r koh dong-jin\r kim ki nam","founded_year":null,"market_value":438840000000,"name":"samsung electronics"}
+{"ipo_year":"","number_of_employees":"113,753","country":"south korea","ceo":"kim hyun suk koh dong-jin kim ki nam","founded_year":null,"market_value":438840000000,"name":"samsung electronics"}
 {"ipo_year":"","number_of_employees":"350,000","country":"usa","ceo":"andrew witty","founded_year":null,"market_value":431930000000,"name":"unitedhealth group"}
 {"ipo_year":"","number_of_employees":"500,000","country":"usa","ceo":"craig menear","founded_year":null,"market_value":411020000000,"name":"home depot"}
 {"ipo_year":"","number_of_employees":"150,000","country":"france","ceo":"bernard arnault","founded_year":null,"market_value":409480000000,"name":"lvmh"}
@@ -41,7 +41,7 @@
 {"ipo_year":"","number_of_employees":"42,595","country":"usa","ceo":"michael wirth","founded_year":null,"market_value":241020000000,"name":"chevron corporation"}
 {"ipo_year":"","number_of_employees":"309,000","country":"usa","ceo":"ramon laguarta","founded_year":null,"market_value":240690000000,"name":"pepsico"}
 {"ipo_year":"","number_of_employees":"113,000","country":"usa","ceo":"robert ford","founded_year":null,"market_value":239710000000,"name":"abbott laboratories"}
-{"ipo_year":null,"number_of_employees":"12,135","country":"usa","ceo":"ted sarandos\r reed hastings","founded_year":null,"market_value":239660000000,"name":"netflix"}
+{"ipo_year":null,"number_of_employees":"12,135","country":"usa","ceo":"ted sarandos reed hastings","founded_year":null,"market_value":239660000000,"name":"netflix"}
 {"ipo_year":"","number_of_employees":"750,000","country":"india","ceo":"","founded_year":"","market_value":"","name":"tata group"}
 {"ipo_year":"","number_of_employees":"130,000","country":"usa","ceo":"marc n casper","founded_year":null,"market_value":239220000000,"name":"thermo fisher scientific"}
 {"ipo_year":null,"number_of_employees":"50,000","country":"usa","ceo":"richard a gonzalez","founded_year":null,"market_value":238450000000,"name":"abbvie"}
@@ -324,7 +324,7 @@
 {"ipo_year":"","number_of_employees":"47,313","country":"japan","ceo":"masayoshi son","founded_year":null,"market_value":59240000000,"name":"softbank corp"}
 {"ipo_year":"","number_of_employees":"103,100","country":"usa","ceo":"phebe novakovic","founded_year":null,"market_value":59220000000,"name":"general dynamics corporation"}
 {"ipo_year":"","number_of_employees":"2,700","country":"australia","ceo":"peter kenneth allen","founded_year":null,"market_value":59070000000,"name":"scentre group"}
-{"ipo_year":null,"number_of_employees":"31,000","country":"netherlands","ceo":"kurt sievers\r richard l clemmer","founded_year":null,"market_value":58860000000,"name":"nxp semiconductors"}
+{"ipo_year":null,"number_of_employees":"31,000","country":"netherlands","ceo":"kurt sievers richard l clemmer","founded_year":null,"market_value":58860000000,"name":"nxp semiconductors"}
 {"ipo_year":"","number_of_employees":"245,642","country":"india","ceo":"vinay m tonse","founded_year":null,"market_value":58770000000,"name":"state bank of india"}
 {"ipo_year":null,"number_of_employees":"33,500","country":"uk","ceo":"erik engstrom","founded_year":null,"market_value":58740000000,"name":"relx"}
 {"ipo_year":"","number_of_employees":"33,427","country":"china","ceo":"lei jun","founded_year":null,"market_value":58450000000,"name":"xiaomi corporation"}
@@ -407,7 +407,7 @@
 {"ipo_year":"","number_of_employees":"4,092","country":"usa","ceo":"hilton schlosberg","founded_year":null,"market_value":49770000000,"name":"monster beverage corporation"}
 {"ipo_year":"","number_of_employees":"","country":"uae","ceo":"","founded_year":"","market_value":"","name":"first gulf bank"}
 {"ipo_year":"","number_of_employees":"13,777","country":"mexico","ceo":"oscar gonzalez rocha","founded_year":null,"market_value":49750000000,"name":"southern copper corporation"}
-{"ipo_year":"","number_of_employees":"28,051","country":"finland","ceo":"frank vang-jensen\r casper von koskull","founded_year":null,"market_value":49610000000,"name":"nordea bank abp"}
+{"ipo_year":"","number_of_employees":"28,051","country":"finland","ceo":"frank vang-jensen casper von koskull","founded_year":null,"market_value":49610000000,"name":"nordea bank abp"}
 {"ipo_year":"","number_of_employees":"18,687","country":"uk","ceo":"charles f lowrey","founded_year":null,"market_value":49340000000,"name":"prudential"}
 {"ipo_year":"","number_of_employees":"86,800","country":"japan","ceo":"makoto takashima","founded_year":null,"market_value":49240000000,"name":"sumitomo mitsui financial group"}
 {"ipo_year":null,"number_of_employees":"18,703","country":"china","ceo":"yang hua","founded_year":null,"market_value":49170000000,"name":"cnooc limited"}
@@ -555,7 +555,7 @@
 {"ipo_year":"","number_of_employees":"9,016","country":"germany","ceo":"joachim kreuzburg","founded_year":null,"market_value":38530000000,"name":"sartorius stedim biotech"}
 {"ipo_year":"","number_of_employees":"111,247","country":"china","ceo":"kong qingwei","founded_year":null,"market_value":38510000000,"name":"china pacific insurance group cpic"}
 {"ipo_year":"","number_of_employees":"167,552","country":"france","ceo":"benoit bazin","founded_year":null,"market_value":38480000000,"name":"compagnie de saint-gobain"}
-{"ipo_year":"","number_of_employees":"78,249","country":"switzerland","ceo":"detlef trefzger","founded_year":null,"market_value":38470000000,"name":"kuehne  nagel international ag"}
+{"ipo_year":"","number_of_employees":"78,249","country":"switzerland","ceo":"detlef trefzger","founded_year":null,"market_value":38470000000,"name":"kuehne nagel international ag"}
 {"ipo_year":"","number_of_employees":"34,352","country":"uk","ceo":"kevin murphy","founded_year":null,"market_value":38470000000,"name":"ferguson"}
 {"ipo_year":null,"number_of_employees":"23,663","country":"usa","ceo":"greg c gantt","founded_year":null,"market_value":38250000000,"name":"old dominion freight line"}
 {"ipo_year":"","number_of_employees":"464","country":"usa","ceo":"shankh mitra","founded_year":null,"market_value":38230000000,"name":"welltower"}

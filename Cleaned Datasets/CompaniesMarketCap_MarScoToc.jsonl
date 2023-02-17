@@ -622,7 +622,7 @@
 {"name":"loblaw companies","master_cap":28580000000,"country":"canada","rank":" 624","share_price":88}
 {"name":"ferguson","master_cap":28550000000,"country":"uk","rank":" 625","share_price":138}
 {"name":"verisk analytics","master_cap":28400000000,"country":"usa","rank":" 626","share_price":181}
-{"name":"kuhne  nagel","master_cap":28390000000,"country":"switzerland","rank":" 627","share_price":237}
+{"name":"kuhne nagel","master_cap":28390000000,"country":"switzerland","rank":" 627","share_price":237}
 {"name":"eqt","master_cap":28390000000,"country":"sweden","rank":" 628","share_price":21}
 {"name":"discover financial services","master_cap":28330000000,"country":"usa","rank":" 629","share_price":106}
 {"name":"w w grainger","master_cap":28300000000,"country":"usa","rank":" 630","share_price":560}
@@ -2135,7 +2135,7 @@
 {"name":"envista","master_cap":6000000000,"country":"usa","rank":" 2142","share_price":36}
 {"name":"hk electric investments","master_cap":5990000000,"country":"hong kong","rank":" 2143","share_price":0}
 {"name":"kose","master_cap":5990000000,"country":"japan","rank":" 2144","share_price":105}
-{"name":"bausch  lomb","master_cap":5990000000,"country":"canada","rank":" 2145","share_price":17}
+{"name":"bausch lomb","master_cap":5990000000,"country":"canada","rank":" 2145","share_price":17}
 {"name":"topbuild","master_cap":5990000000,"country":"usa","rank":" 2146","share_price":187}
 {"name":"telus international","master_cap":5980000000,"country":"canada","rank":" 2147","share_price":22}
 {"name":"m&g plc","master_cap":5980000000,"country":"uk","rank":" 2148","share_price":2}
@@ -2957,7 +2957,7 @@
 {"name":"vienna insurance group","master_cap":3410000000,"country":"","rank":" 2964","share_price":26}
 {"name":"vontier","master_cap":3410000000,"country":"usa","rank":" 2965","share_price":21}
 {"name":"nelnet","master_cap":3410000000,"country":"usa","rank":" 2966","share_price":91}
-{"name":"travel  leisure","master_cap":3410000000,"country":"usa","rank":" 2967","share_price":41}
+{"name":"travel leisure","master_cap":3410000000,"country":"usa","rank":" 2967","share_price":41}
 {"name":"nikon","master_cap":3400000000,"country":"japan","rank":" 2968","share_price":9}
 {"name":"logista compania de distribucion integral logista","master_cap":3400000000,"country":"spain","rank":" 2969","share_price":25}
 {"name":"staar surgical","master_cap":3400000000,"country":"usa","rank":" 2970","share_price":70}
