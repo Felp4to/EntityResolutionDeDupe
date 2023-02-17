@@ -42,7 +42,7 @@
 {"name": "china yangtze power", "market_cap": 68170000000, "country": "china", "share_price": 3, "categories": "electricity, utilitycompanies"}
 {"name": "humana", "market_cap": 69520000000, "country": "usa", "share_price": 549, "categories": "insurance"}
 {"name": "iberdrola", "market_cap": 69790000000, "country": "spain", "share_price": 11, "categories": "electricity, energy"}
-{"name": "moderna", "market_cap": 68760000000, "country": "usa", "share_price": 179, "categories": "pharmaceuticals,  natherapeutics, biotech"}
+{"name": "moderna", "market_cap": 68760000000, "country": "usa", "share_price": 179, "categories": "pharmaceuticals, mrnatherapeutics, biotech"}
 {"name": "air products and chemicals", "market_cap": 70010000000, "country": "usa", "share_price": 315, "categories": "chemicals"}
 {"name": "mercedes-benz", "market_cap": 70560000000, "country": "germany", "share_price": 65, "categories": "automakers, manufacturing, dax, autonomousdriving"}
 {"name": "becton dickinson", "market_cap": 69840000000, "country": "usa", "share_price": 246, "categories": "medicaldevices"}
@@ -87,10 +87,10 @@
 {"name": "united heavy machinery", "market_cap": 53580000000, "country": "russia", "share_price": 63, "categories": "machinerymanufacturing, manufacturing"}
 {"name": "anglo american", "market_cap": 53730000000, "country": "uk", "share_price": 39, "categories": "mining"}
 {"name": "china telecom", "market_cap": 53920000000, "country": "china", "share_price": 0, "categories": "telecommunication"}
-{"name": "keurig dr pepper", "market_cap": 53730000000, "country": "usa", "share_price": 37, "categories": "beverages"}
+{"name": "keurig pepper", "market_cap": 53730000000, "country": "usa", "share_price": 37, "categories": "beverages"}
 {"name": "general motors", "market_cap": 53920000000, "country": "usa", "share_price": 37, "categories": "automakers, manufacturing"}
 {"name": "maaden", "market_cap": 44770000000, "country": "saudi arabia", "share_price": 18, "categories": "mining"}
-{"name": "saung biologics", "market_cap": 44620000000, "country": "south korea", "share_price": 626, "categories": "biotech, manufacturing"}
+{"name": "samsung biologics", "market_cap": 44620000000, "country": "south korea", "share_price": 626, "categories": "biotech, manufacturing"}
 {"name": "hess", "market_cap": 41550000000, "country": "usa", "share_price": 134, "categories": "oilgas, energy"}
 {"name": "autodesk", "market_cap": 41710000000, "country": "usa", "share_price": 193, "categories": "software, tech"}
 {"name": "wanhua chemical", "market_cap": 41630000000, "country": "china", "share_price": 13, "categories": "chemicals"}
@@ -113,7 +113,7 @@
 {"name": "fortescue", "market_cap": 43110000000, "country": "australia", "share_price": 14, "categories": "mining"}
 {"name": "the travelers companies", "market_cap": 44060000000, "country": "usa", "share_price": 188, "categories": "dowjones, insurance"}
 {"name": "ing", "market_cap": 43920000000, "country": "netherlands", "share_price": 11, "categories": "banks, financialservices"}
-{"name": "cadence design syste", "market_cap": 44050000000, "country": "usa", "share_price": 160, "categories": "software, tech, electronics, techhardware"}
+{"name": "cadence design systems", "market_cap": 44050000000, "country": "usa", "share_price": 160, "categories": "software, tech, electronics, techhardware"}
 {"name": "paychex", "market_cap": 43400000000, "country": "usa", "share_price": 120, "categories": "professionalservices"}
 {"name": "consolidated edison", "market_cap": 34270000000, "country": "usa", "share_price": 96, "categories": "electricity, energy"}
 {"name": "marvell technology group", "market_cap": 34470000000, "country": "usa", "share_price": 40, "categories": "tech, semiconductors, techhardware, manufacturing"}
@@ -135,7 +135,7 @@
 {"name": "7-eleven", "market_cap": 35480000000, "country": "japan", "share_price": 40, "categories": "supermarketchains, retail"}
 {"name": "jardine matheson", "market_cap": 35500000000, "country": "hong kong", "share_price": 49, "categories": "conglomerate, investment"}
 {"name": "cenovus energy", "market_cap": 35210000000, "country": "canada", "share_price": 18, "categories": "oilgas, energy"}
-{"name": "saung sdi", "market_cap": 35240000000, "country": "south korea", "share_price": 240, "categories": "electricity, batteries"}
+{"name": "samsung sdi", "market_cap": 35240000000, "country": "south korea", "share_price": 240, "categories": "electricity, batteries"}
 {"name": "china state construction engineering", "market_cap": 35480000000, "country": "china", "share_price": 0, "categories": "construction, engineering"}
 {"name": "jiangsu hengrui medicine", "market_cap": 35560000000, "country": "china", "share_price": 5, "categories": "pharmaceuticals, biotech"}
 {"name": "anta sports", "market_cap": 33970000000, "country": "china", "share_price": 12, "categories": "sportsgoods"}
@@ -247,7 +247,7 @@
 {"name": "bollore", "market_cap": 16309999999, "country": "france", "share_price": 5, "categories": ""}
 {"name": "geberit", "market_cap": 16309999999, "country": "switzerland", "share_price": 472, "categories": ""}
 {"name": "etsy", "market_cap": 16350000000, "country": "usa", "share_price": 130, "categories": "ecommerce, internet, tech"}
-{"name": "hydro one", "market_cap": 16320000000, "country": "canada", "share_price": 27, "categories": "electricity, utilitycompanies, energy"}
+{"name": "hyone", "market_cap": 16320000000, "country": "canada", "share_price": 27, "categories": "electricity, utilitycompanies, energy"}
 {"name": "avangrid", "market_cap": 16360000000, "country": "usa", "share_price": 42, "categories": ""}
 {"name": "live nation", "market_cap": 16420000000, "country": "usa", "share_price": 71, "categories": "entertainment"}
 {"name": "itausa", "market_cap": 16430000000, "country": "brazil", "share_price": 1, "categories": ""}
@@ -266,7 +266,7 @@
 {"name": "swedish match", "market_cap": 16640000000, "country": "sweden", "share_price": 10, "categories": "tobacco"}
 {"name": "jm smucker company", "market_cap": 16600000000, "country": "usa", "share_price": 155, "categories": "food"}
 {"name": "magna international", "market_cap": 16649999999, "country": "canada", "share_price": 58, "categories": "automotivesuppliers"}
-{"name": "e-chemie", "market_cap": 15970000000, "country": "switzerland", "share_price": 683, "categories": "chemicals"}
+{"name": "ems-chemie", "market_cap": 15970000000, "country": "switzerland", "share_price": 683, "categories": "chemicals"}
 {"name": "align technology", "market_cap": 14630000000, "country": "usa", "share_price": 187, "categories": "medicaldevices, tech"}
 {"name": "spotify", "market_cap": 14620000000, "country": "sweden", "share_price": 75, "categories": "internet, tech, entertainment"}
 {"name": "essex property trust", "market_cap": 14260000000, "country": "usa", "share_price": 212, "categories": "realestate, investment"}
@@ -304,14 +304,14 @@
 {"name": "international paper", "market_cap": 12850000000, "country": "usa", "share_price": 36, "categories": "pulpandpaper"}
 {"name": "tyler technologies", "market_cap": 12850000000, "country": "usa", "share_price": 308, "categories": "software, tech"}
 {"name": "capitec bank", "market_cap": 12860000000, "country": "south africa", "share_price": 110, "categories": "banks, financialservices"}
-{"name": "bangkok dusit medical services bd", "market_cap": 12900000000, "country": "thailand", "share_price": 0, "categories": "healthcare, medicalcarefacilities"}
+{"name": "bangkok dusit medical services bdms", "market_cap": 12900000000, "country": "thailand", "share_price": 0, "categories": "healthcare, medicalcarefacilities"}
 {"name": "tdk", "market_cap": 12910000000, "country": "japan", "share_price": 34, "categories": "electronics"}
 {"name": "telenor", "market_cap": 12900000000, "country": "norway", "share_price": 9, "categories": "telecommunication"}
 {"name": "novolipetsk steel", "market_cap": 12940000000, "country": "russia", "share_price": 2, "categories": "steelproducers, steelindustry"}
 {"name": "ck infrastructure", "market_cap": 12940000000, "country": "hong kong", "share_price": 5, "categories": "infrastructure"}
 {"name": "burlington stores", "market_cap": 12940000000, "country": "usa", "share_price": 198, "categories": "retail, clothing"}
 {"name": "corebridge financial", "market_cap": 12960000000, "country": "usa", "share_price": 20, "categories": "assetmanagement, financialservices, insurance, investment"}
-{"name": "chandra asri petrochemical", "market_cap": 12960000000, "country": "indonesia", "share_price": 0, "categories": "oilgas, energy"}
+{"name": "chanasri petrochemical", "market_cap": 12960000000, "country": "indonesia", "share_price": 0, "categories": "oilgas, energy"}
 {"name": "carlisle companies", "market_cap": 12970000000, "country": "usa", "share_price": 250, "categories": ""}
 {"name": "secom", "market_cap": 13030000000, "country": "japan", "share_price": 60, "categories": ""}
 {"name": "dabur", "market_cap": 12990000000, "country": "india", "share_price": 7, "categories": "consumergoods"}
@@ -447,7 +447,7 @@
 {"name": "sibanye-stillwater", "market_cap": 7960000000, "country": "south africa", "share_price": 10, "categories": "mining, goldmining"}
 {"name": "banque cantonale vaudoise", "market_cap": 7940000000, "country": "switzerland", "share_price": 92, "categories": "banks, financialservices"}
 {"name": "punjab national bank", "market_cap": 7710000000, "country": "india", "share_price": 0, "categories": "banks, financialservices"}
-{"name": "advanced drainage syste", "market_cap": 7350000000, "country": "usa", "share_price": 88, "categories": ""}
+{"name": "advanced drainage systems", "market_cap": 7350000000, "country": "usa", "share_price": 88, "categories": ""}
 {"name": "chemed", "market_cap": 7710000000, "country": "usa", "share_price": 518, "categories": "healthcare"}
 {"name": "singapore exchange", "market_cap": 7210000000, "country": "singapore", "share_price": 6, "categories": "stockexchanges, financialservices, stockcryptoexchanges"}
 {"name": "unimicron", "market_cap": 7210000000, "country": "taiwan", "share_price": 4, "categories": "electronics, tech, techhardware"}
@@ -470,7 +470,7 @@
 {"name": "hankyu hanshin holdings", "market_cap": 7310000000, "country": "japan", "share_price": 30, "categories": "railways, transportation"}
 {"name": "misc berhad", "market_cap": 7320000000, "country": "malaysia", "share_price": 1, "categories": "transportation, maritimetransportation"}
 {"name": "covestro", "market_cap": 7330000000, "country": "germany", "share_price": 37, "categories": "dax, chemicals"}
-{"name": "saung electro-mechanics", "market_cap": 7340000000, "country": "south korea", "share_price": 50, "categories": "electronics"}
+{"name": "samsung electro-mechanics", "market_cap": 7340000000, "country": "south korea", "share_price": 50, "categories": "electronics"}
 {"name": "phoenix group", "market_cap": 7340000000, "country": "uk", "share_price": 7, "categories": "insurance"}
 {"name": "union bank of india", "market_cap": 7340000000, "country": "india", "share_price": 1, "categories": "banks, financialservices"}
 {"name": "cpfl energia", "market_cap": 7350000000, "country": "brazil", "share_price": 6, "categories": "electricity, utilitycompanies, energy"}
@@ -561,7 +561,7 @@
 {"name": "acuity brands", "market_cap": 5850000000, "country": "usa", "share_price": 182, "categories": ""}
 {"name": "kingfisher", "market_cap": 5850000000, "country": "uk", "share_price": 2, "categories": "retail"}
 {"name": "valley bank", "market_cap": 5860000000, "country": "usa", "share_price": 11, "categories": ""}
-{"name": "toa", "market_cap": 5870000000, "country": "norway", "share_price": 19, "categories": ""}
+{"name": "tomra", "market_cap": 5870000000, "country": "norway", "share_price": 19, "categories": ""}
 {"name": "indian overseas bank", "market_cap": 5870000000, "country": "india", "share_price": 0, "categories": "banks, financialservices"}
 {"name": "littelfuse", "market_cap": 5880000000, "country": "usa", "share_price": 237, "categories": ""}
 {"name": "mirvac group", "market_cap": 5890000000, "country": "australia", "share_price": 1, "categories": "realestate, investment, reits"}
@@ -781,7 +781,7 @@
 {"name": "altra industrial motion", "market_cap": 3870000000, "country": "usa", "share_price": 59, "categories": ""}
 {"name": "appfolio", "market_cap": 3870000000, "country": "usa", "share_price": 110, "categories": ""}
 {"name": "ks", "market_cap": 3870000000, "country": "germany", "share_price": 19, "categories": ""}
-{"name": "g sports", "market_cap": 3870000000, "country": "usa", "share_price": 159, "categories": ""}
+{"name": "sports", "market_cap": 3870000000, "country": "usa", "share_price": 159, "categories": ""}
 {"name": "triton international", "market_cap": 3880000000, "country": "bermuda", "share_price": 66, "categories": "rentalleasingservices"}
 {"name": "indofood", "market_cap": 3870000000, "country": "indonesia", "share_price": 0, "categories": "food"}
 {"name": "new relic", "market_cap": 3890000000, "country": "usa", "share_price": 56, "categories": "software, tech"}
@@ -921,7 +921,7 @@
 {"name": "sinch", "market_cap": 2970000000, "country": "sweden", "share_price": 3, "categories": "telecommunication"}
 {"name": "vz holding", "market_cap": 2970000000, "country": "switzerland", "share_price": 75, "categories": "assetmanagement, financialservices, investment"}
 {"name": "travel  leisure", "market_cap": 2970000000, "country": "usa", "share_price": 36, "categories": "travel, mediapress"}
-{"name": "quantucape", "market_cap": 2980000000, "country": "usa", "share_price": 6, "categories": "electricity, batteries"}
+{"name": "quantumscape", "market_cap": 2980000000, "country": "usa", "share_price": 6, "categories": "electricity, batteries"}
 {"name": "select medical holdings", "market_cap": 2980000000, "country": "usa", "share_price": 23, "categories": "medicalcarefacilities, healthcare"}
 {"name": "thermax", "market_cap": 2980000000, "country": "india", "share_price": 25, "categories": "engineering"}
 {"name": "suntec reit", "market_cap": 2980000000, "country": "singapore", "share_price": 1, "categories": "realestate, investment, reits"}
@@ -986,7 +986,7 @@
 {"name": "360 digitech", "market_cap": 2630000000, "country": "china", "share_price": 16, "categories": "financialservices, tech"}
 {"name": "sig semen indonesia", "market_cap": 2640000000, "country": "indonesia", "share_price": 0, "categories": "cement, buildingmaterials"}
 {"name": "vector limited", "market_cap": 2640000000, "country": "new zealand", "share_price": 2, "categories": "electricity, oilgas, utilitycompanies, energy"}
-{"name": "harmonic drive syste", "market_cap": 2640000000, "country": "japan", "share_price": 27, "categories": ""}
+{"name": "harmonic drive systems", "market_cap": 2640000000, "country": "japan", "share_price": 27, "categories": ""}
 {"name": "transocean", "market_cap": 2640000000, "country": "switzerland", "share_price": 3, "categories": "oilgas"}
 {"name": "liontown resources", "market_cap": 2640000000, "country": "australia", "share_price": 1, "categories": "mining"}
 {"name": "ct reit", "market_cap": 2650000000, "country": "canada", "share_price": 11, "categories": "realestate, investment, reits"}
@@ -1021,7 +1021,7 @@
 {"name": "ebro foods", "market_cap": 2460000000, "country": "spain", "share_price": 16, "categories": "food"}
 {"name": "xerox", "market_cap": 2450000000, "country": "usa", "share_price": 15, "categories": "tech, techhardware, electronics"}
 {"name": "fletcher building", "market_cap": 2460000000, "country": "new zealand", "share_price": 3, "categories": "construction"}
-{"name": "dr lal pathlabs", "market_cap": 2460000000, "country": "india", "share_price": 29, "categories": "diagnosticsandtesting"}
+{"name": "lal pathlabs", "market_cap": 2460000000, "country": "india", "share_price": 29, "categories": "diagnosticsandtesting"}
 {"name": "fannie mae", "market_cap": 2460000000, "country": "usa", "share_price": 3, "categories": "financialservices"}
 {"name": "keppel reit", "market_cap": 2460000000, "country": "singapore", "share_price": 0, "categories": "reits, realestate, investment"}
 {"name": "piper sandler", "market_cap": 2460000000, "country": "usa", "share_price": 138, "categories": "banks, financialservices, investment"}
@@ -1186,7 +1186,7 @@
 {"name": "wacker neuson", "market_cap": 1270000000, "country": "germany", "share_price": 18, "categories": ""}
 {"name": "the north west company", "market_cap": 1270000000, "country": "canada", "share_price": 26, "categories": "supermarketchains, retail"}
 {"name": "skycity entertainment group", "market_cap": 1270000000, "country": "new zealand", "share_price": 1, "categories": "entertainment, gambling, hotels"}
-{"name": "enghouse syste", "market_cap": 1270000000, "country": "canada", "share_price": 23, "categories": "software, tech, itservices, professionalservices"}
+{"name": "enghouse systems", "market_cap": 1270000000, "country": "canada", "share_price": 23, "categories": "software, tech, itservices, professionalservices"}
 {"name": "cts corporation", "market_cap": 1270000000, "country": "usa", "share_price": 40, "categories": "electronics, manufacturing"}
 {"name": "patrick industries", "market_cap": 1270000000, "country": "usa", "share_price": 56, "categories": ""}
 {"name": "jindal stainless", "market_cap": 1270000000, "country": "india", "share_price": 2, "categories": "transportation"}
@@ -1207,7 +1207,7 @@
 {"name": "stewart information services", "market_cap": 1160000000, "country": "usa", "share_price": 43, "categories": "realestate, professionalservices"}
 {"name": "encore capital group", "market_cap": 1160000000, "country": "usa", "share_price": 49, "categories": "financialservices"}
 {"name": "ecovyst", "market_cap": 1160000000, "country": "usa", "share_price": 8, "categories": "chemicals"}
-{"name": "telephone and data syste", "market_cap": 1160000000, "country": "usa", "share_price": 10, "categories": ""}
+{"name": "telephone and data systems", "market_cap": 1160000000, "country": "usa", "share_price": 10, "categories": ""}
 {"name": "ero copper", "market_cap": 1160000000, "country": "canada", "share_price": 12, "categories": "mining"}
 {"name": "barloworld", "market_cap": 1160000000, "country": "south africa", "share_price": 6, "categories": "conglomerate"}
 {"name": "tennant company", "market_cap": 1170000000, "country": "usa", "share_price": 62, "categories": ""}
@@ -1271,7 +1271,7 @@
 {"name": "shentel", "market_cap": 910000000, "country": "usa", "share_price": 18, "categories": ""}
 {"name": "prog holdings", "market_cap": 910000000, "country": "usa", "share_price": 18, "categories": "tech, financialservices"}
 {"name": "summit hotel properties", "market_cap": 830000000, "country": "usa", "share_price": 7, "categories": "realestate, investment, reits, hotels, travel"}
-{"name": "ichor syste", "market_cap": 830000000, "country": "usa", "share_price": 28, "categories": "semiconductors, tech, techhardware"}
+{"name": "ichor systems", "market_cap": 830000000, "country": "usa", "share_price": 28, "categories": "semiconductors, tech, techhardware"}
 {"name": "polypeptide group", "market_cap": 830000000, "country": "switzerland", "share_price": 25, "categories": "pharmaceuticals, biotech, chemicals"}
 {"name": "viewray", "market_cap": 830000000, "country": "usa", "share_price": 4, "categories": "biotech, medicaldevices"}
 {"name": "oatly", "market_cap": 830000000, "country": "sweden", "share_price": 1, "categories": "food"}
@@ -1287,7 +1287,7 @@
 {"name": "first watch restaurant", "market_cap": 830000000, "country": "usa", "share_price": 14, "categories": "restaurantchains, food"}
 {"name": "riskified", "market_cap": 830000000, "country": "israel", "share_price": 4, "categories": "software, tech, financialservices"}
 {"name": "borosil", "market_cap": 840000000, "country": "india", "share_price": 6, "categories": "glassware"}
-{"name": "idreaky", "market_cap": 760000000, "country": "china", "share_price": 0, "categories": "videogames, entertainment"}
+{"name": "idreamsky", "market_cap": 760000000, "country": "china", "share_price": 0, "categories": "videogames, entertainment"}
 {"name": "walkme", "market_cap": 760000000, "country": "israel", "share_price": 9, "categories": "software, tech"}
 {"name": "new found gold", "market_cap": 770000000, "country": "canada", "share_price": 4, "categories": "mining, goldmining"}
 {"name": "westlake chemical partners", "market_cap": 770000000, "country": "usa", "share_price": 21, "categories": "chemicals"}
@@ -1411,7 +1411,7 @@
 {"name": "power mech projects", "market_cap": 420000000, "country": "india", "share_price": 28, "categories": "construction"}
 {"name": "xperi", "market_cap": 420000000, "country": "usa", "share_price": 10, "categories": "semiconductors, tech"}
 {"name": "beazer homes usa", "market_cap": 420000000, "country": "usa", "share_price": 13, "categories": "construction"}
-{"name": "mahindra logistics", "market_cap": 420000000, "country": "india", "share_price": 5, "categories": ""}
+{"name": "mahinlogistics", "market_cap": 420000000, "country": "india", "share_price": 5, "categories": ""}
 {"name": "bluegreen vacations", "market_cap": 420000000, "country": "usa", "share_price": 21, "categories": "hotels, travel"}
 {"name": "digimarc", "market_cap": 430000000, "country": "usa", "share_price": 21, "categories": "software, tech"}
 {"name": "entravision communications", "market_cap": 420000000, "country": "usa", "share_price": 5, "categories": "mediapress"}
@@ -1620,7 +1620,7 @@
 {"name": "syros pharmaceuticals", "market_cap": 69980000, "country": "usa", "share_price": 3, "categories": "pharmaceuticals, biotech"}
 {"name": "curis", "market_cap": 70170000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals, biotech"}
 {"name": "armata pharmaceuticals", "market_cap": 70480000, "country": "usa", "share_price": 1, "categories": "pharmaceuticals, biotech"}
-{"name": "orion energy syste", "market_cap": 70360000, "country": "usa", "share_price": 2, "categories": ""}
+{"name": "orion energy systems", "market_cap": 70360000, "country": "usa", "share_price": 2, "categories": ""}
 {"name": "galectin therapeutics", "market_cap": 70710000, "country": "usa", "share_price": 1, "categories": "pharmaceuticals, biotech"}
 {"name": "cave interactive", "market_cap": 70840000, "country": "japan", "share_price": 11, "categories": "entertainment, videogames"}
 {"name": "lucid diagnostics", "market_cap": 70780000, "country": "usa", "share_price": 1, "categories": "diagnosticsandtesting, biotech"}
@@ -1703,7 +1703,7 @@
 {"name": "direct digital holdings", "market_cap": 9550000, "country": "usa", "share_price": 2, "categories": "advertising"}
 {"name": "ontrak", "market_cap": 10480000, "country": "usa", "share_price": 0, "categories": "healthcare"}
 {"name": "hallmark financial services", "market_cap": 10540000, "country": "usa", "share_price": 0, "categories": "insurance"}
-{"name": "ra medical syste", "market_cap": 10460000, "country": "usa", "share_price": 4, "categories": ""}
+{"name": "ra medical systems", "market_cap": 10460000, "country": "usa", "share_price": 4, "categories": ""}
 {"name": "ifresh", "market_cap": 170000, "country": "usa", "share_price": "n/a", "categories": "retail, supermarketchains"}
 {"name": "fednat holding company", "market_cap": 170000, "country": "usa", "share_price": 0, "categories": "insurance"}
 {"name": "trulite", "market_cap": 210000, "country": "usa", "share_price": "n/a", "categories": ""}
@@ -1713,7 +1713,7 @@
 {"name": "freeze tag", "market_cap": 1270000, "country": "usa", "share_price": 0, "categories": "videogames, entertainment"}
 {"name": "kuuhubb", "market_cap": 1460000, "country": "canada", "share_price": 0, "categories": "videogames, entertainment"}
 {"name": "allena pharmaceuticals", "market_cap": 1370000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals, biotech"}
-{"name": "versus syste", "market_cap": 1630000, "country": "canada", "share_price": 0, "categories": "videogames, tech"}
+{"name": "versus systems", "market_cap": 1630000, "country": "canada", "share_price": 0, "categories": "videogames, tech"}
 {"name": "baudax bio", "market_cap": 1790000, "country": "usa", "share_price": 3, "categories": "pharmaceuticals"}
 {"name": "g medical innovations", "market_cap": 1870000, "country": "israel", "share_price": 2, "categories": "software, tech, healthcare"}
 {"name": "punkpirates", "market_cap": 2029999, "country": "poland", "share_price": 0, "categories": "videogames, entertainment"}
@@ -1744,7 +1744,7 @@
 {"name": "greene concepts", "market_cap": 3550000, "country": "usa", "share_price": "n/a", "categories": "beverages"}
 {"name": "ampio pharmaceuticals", "market_cap": 3930000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals"}
 {"name": "akerna", "market_cap": 3950000, "country": "usa", "share_price": 0, "categories": "cannabis"}
-{"name": "quanergy syste", "market_cap": 3710000, "country": "usa", "share_price": 0, "categories": "lidar, tech, techhardware"}
+{"name": "quanergy systems", "market_cap": 3710000, "country": "usa", "share_price": 0, "categories": "lidar, tech, techhardware"}
 {"name": "mighty kingdom", "market_cap": 3950000, "country": "australia", "share_price": 0, "categories": "videogames, entertainment"}
 {"name": "liquid media group", "market_cap": 4240000, "country": "canada", "share_price": 0, "categories": "mediapress"}
 {"name": "painreform", "market_cap": 4310000, "country": "israel", "share_price": 0, "categories": "pharmaceuticals, biotech"}
@@ -1811,11 +1811,11 @@
 {"name": "wearable health solutions", "market_cap": 8270000, "country": "usa", "share_price": 0, "categories": "medicaldevices"}
 {"name": "games operators", "market_cap": 10730000, "country": "poland", "share_price": 1, "categories": "videogames, entertainment"}
 {"name": "advanced human imaging", "market_cap": 10610000, "country": "australia", "share_price": 0, "categories": "telehealth, software, tech, medicaldevices"}
-{"name": "t2 biosyste", "market_cap": 10750000, "country": "usa", "share_price": 1, "categories": ""}
+{"name": "t2 biosystems", "market_cap": 10750000, "country": "usa", "share_price": 1, "categories": ""}
 {"name": "kingstone companies", "market_cap": 11110000, "country": "usa", "share_price": 1, "categories": "insurance"}
 {"name": "cingulate", "market_cap": 10970000, "country": "usa", "share_price": 0, "categories": "biotech, pharmaceuticals"}
 {"name": "chembio diagnostics", "market_cap": 10970000, "country": "usa", "share_price": 0, "categories": "diagnosticsandtesting, biotech"}
-{"name": "tivic health syste", "market_cap": 11120000, "country": "usa", "share_price": 1, "categories": "medicaldevices"}
+{"name": "tivic health systems", "market_cap": 11120000, "country": "usa", "share_price": 1, "categories": "medicaldevices"}
 {"name": "heart test laboratories", "market_cap": 11480000, "country": "usa", "share_price": 1, "categories": "diagnosticsandtesting"}
 {"name": "biocept", "market_cap": 11510000, "country": "usa", "share_price": 0, "categories": "diagnosticsandtesting, biotech"}
 {"name": "rockwell medical", "market_cap": 11570000, "country": "usa", "share_price": 1, "categories": "pharmaceuticals, biotech"}
@@ -1951,7 +1951,7 @@
 {"name": "cyngn", "market_cap": 26340000, "country": "usa", "share_price": 0, "categories": "software, tech"}
 {"name": "fun yours technology", "market_cap": 26460000, "country": "taiwan", "share_price": 1, "categories": "videogames, entertainment"}
 {"name": "biofrontera", "market_cap": 26420000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals, biotech"}
-{"name": "cotock mining", "market_cap": 26650000, "country": "usa", "share_price": 0, "categories": "mining"}
+{"name": "comstock mining", "market_cap": 26650000, "country": "usa", "share_price": 0, "categories": "mining"}
 {"name": "sos limited", "market_cap": 26840000, "country": "china", "share_price": 4, "categories": "tech"}
 {"name": "zynerba pharmaceuticals", "market_cap": 27290000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals"}
 {"name": "sientra", "market_cap": 26760000, "country": "usa", "share_price": 0, "categories": "medicaldevices"}
@@ -1965,7 +1965,7 @@
 {"name": "toughbuilt industries", "market_cap": 28080000, "country": "usa", "share_price": 2, "categories": ""}
 {"name": "hepion pharmaceuticals", "market_cap": 28000000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals, biotech"}
 {"name": "beasley broadcast group", "market_cap": 28590000, "country": "usa", "share_price": 0, "categories": "mediapress"}
-{"name": "document security syste", "market_cap": 28830000, "country": "usa", "share_price": 0, "categories": ""}
+{"name": "document security systems", "market_cap": 28830000, "country": "usa", "share_price": 0, "categories": ""}
 {"name": "shapeways", "market_cap": 28970000, "country": "usa", "share_price": 0, "categories": "3dprinting, tech"}
 {"name": "zee learn", "market_cap": 29350000, "country": "india", "share_price": 0, "categories": "education"}
 {"name": "athenex", "market_cap": 29490000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals, biotech"}
@@ -1984,7 +1984,7 @@
 {"name": "avrobio", "market_cap": 34210000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals, biotech, genetherapy"}
 {"name": "realnetworks", "market_cap": 34420000, "country": "usa", "share_price": 0, "categories": "telecommunication, software, tech, videogames, entertainment"}
 {"name": "boyaa interactive", "market_cap": 35100000, "country": "china", "share_price": 0, "categories": "videogames, entertainment"}
-{"name": "ageagle aerial syste", "market_cap": 35260000, "country": "usa", "share_price": 0, "categories": "aerospace, tech, agriculture"}
+{"name": "ageagle aerial systems", "market_cap": 35260000, "country": "usa", "share_price": 0, "categories": "aerospace, tech, agriculture"}
 {"name": "ocean power technologies", "market_cap": 35170000, "country": "usa", "share_price": 0, "categories": "electricity, energy"}
 {"name": "fragbite group", "market_cap": 35240000, "country": "sweden", "share_price": 0, "categories": "videogames, entertainment, esports"}
 {"name": "uphealth", "market_cap": 35480000, "country": "usa", "share_price": 0, "categories": "telehealth, healthcare, software, tech"}
@@ -2025,7 +2025,7 @@
 {"name": "brazil minerals", "market_cap": 41280000, "country": "brazil", "share_price": 0, "categories": "mining"}
 {"name": "heartbeam", "market_cap": 41700000, "country": "usa", "share_price": 5, "categories": "medicaldevices"}
 {"name": "silver one resources", "market_cap": 41460000, "country": "canada", "share_price": 0, "categories": "mining, silvermining"}
-{"name": "rekor syste", "market_cap": 41830000, "country": "usa", "share_price": 0, "categories": "software, tech"}
+{"name": "rekor systems", "market_cap": 41830000, "country": "usa", "share_price": 0, "categories": "software, tech"}
 {"name": "tose software", "market_cap": 41750000, "country": "japan", "share_price": 5, "categories": "software, tech, videogames, entertainment"}
 {"name": "zordix", "market_cap": 42060000, "country": "sweden", "share_price": 0, "categories": "videogames, entertainment"}
 {"name": "cimbeton", "market_cap": 42180000, "country": "turkey", "share_price": 23, "categories": "cement, buildingmaterials"}
@@ -2097,7 +2097,7 @@
 {"name": "castellum", "market_cap": 57730000, "country": "usa", "share_price": 1, "categories": "tech, itsecurity, itservices, software"}
 {"name": "logan ridge finance", "market_cap": 57980000, "country": "usa", "share_price": 21, "categories": "financialservices, assetmanagement"}
 {"name": "pavmed", "market_cap": 58100000, "country": "usa", "share_price": 0, "categories": "medicaldevices"}
-{"name": "balaji telefil", "market_cap": 58360000, "country": "india", "share_price": 0, "categories": "entertainment"}
+{"name": "balaji telefilms", "market_cap": 58360000, "country": "india", "share_price": 0, "categories": "entertainment"}
 {"name": "solar integrated roofing", "market_cap": 58410000, "country": "usa", "share_price": 0, "categories": "energy, electricity, renewableenergy"}
 {"name": "atyr pharma", "market_cap": 58590000, "country": "usa", "share_price": 2, "categories": "pharmaceuticals, biotech"}
 {"name": "kaival brands innovations", "market_cap": 58410000, "country": "usa", "share_price": 1, "categories": "tobacco"}
@@ -2138,7 +2138,7 @@
 {"name": "pieris pharmaceuticals", "market_cap": 72170000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals"}
 {"name": "longeveron", "market_cap": 72510000, "country": "usa", "share_price": 3, "categories": "pharmaceuticals, biotech"}
 {"name": "volta", "market_cap": 73230000, "country": "usa", "share_price": 0, "categories": "energy, electricity"}
-{"name": "rapid micro biosyste", "market_cap": 73490000, "country": "usa", "share_price": 1, "categories": "medicaldevices"}
+{"name": "rapid micro biosystems", "market_cap": 73490000, "country": "usa", "share_price": 1, "categories": "medicaldevices"}
 {"name": "viomi technology", "market_cap": 73450000, "country": "china", "share_price": 1, "categories": "iot, tech, furniture, homekitchenappliances"}
 {"name": "societal cdmo", "market_cap": 73710000, "country": "usa", "share_price": 1, "categories": "pharmaceuticals, biotech"}
 {"name": "viracta therapeutics", "market_cap": 73720000, "country": "usa", "share_price": 1, "categories": "pharmaceuticals, biotech"}
@@ -2148,7 +2148,7 @@
 {"name": "quicklogic", "market_cap": 75000000, "country": "usa", "share_price": 5, "categories": "semiconductors, tech"}
 {"name": "dare bioscience", "market_cap": 75510000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals, biotech"}
 {"name": "energous", "market_cap": 74560000, "country": "usa", "share_price": 0, "categories": "electronics, tech, techhardware"}
-{"name": "nn, inc", "market_cap": 75890000, "country": "usa", "share_price": 1, "categories": ""}
+{"name": "nn inc", "market_cap": 75890000, "country": "usa", "share_price": 1, "categories": ""}
 {"name": "pixelworks", "market_cap": 75700000, "country": "usa", "share_price": 1, "categories": "semiconductors, tech"}
 {"name": "great elm capital", "market_cap": 76010000, "country": "usa", "share_price": 10, "categories": "financialservices, investment"}
 {"name": "embark technology", "market_cap": 76350000, "country": "usa", "share_price": 3, "categories": "tech, software"}
@@ -2257,7 +2257,7 @@
 {"name": "cellectis", "market_cap": 100000000, "country": "france", "share_price": 2, "categories": "pharmaceuticals, biotech"}
 {"name": "kokuyo camlin", "market_cap": 100000000, "country": "india", "share_price": 1, "categories": ""}
 {"name": "inflarx", "market_cap": 100000000, "country": "germany", "share_price": 2, "categories": "pharmaceuticals"}
-{"name": "bitfar", "market_cap": 100000000, "country": "canada", "share_price": 0, "categories": "bitcoin, tech, bitcoinmining"}
+{"name": "bitfarms", "market_cap": 100000000, "country": "canada", "share_price": 0, "categories": "bitcoin, tech, bitcoinmining"}
 {"name": "cbak energy", "market_cap": 100000000, "country": "china", "share_price": 1, "categories": "batteries, electricity"}
 {"name": "creepy jar", "market_cap": 100000000, "country": "poland", "share_price": 156, "categories": "videogames, entertainment"}
 {"name": "stabilis solutions", "market_cap": 100000000, "country": "usa", "share_price": 5, "categories": "energy, oilgas"}
@@ -2265,7 +2265,7 @@
 {"name": "neovolta", "market_cap": 100000000, "country": "usa", "share_price": 3, "categories": "batteries, electricity, manufacturing"}
 {"name": "tattooed chef", "market_cap": 100000000, "country": "usa", "share_price": 1, "categories": "food"}
 {"name": "ascent solar technologies", "market_cap": 100000000, "country": "usa", "share_price": 3, "categories": "renewableenergy, energy, electricity, manufacturing"}
-{"name": "cocore", "market_cap": 100000000, "country": "usa", "share_price": 1, "categories": "mediapress, advertising"}
+{"name": "comscore", "market_cap": 100000000, "country": "usa", "share_price": 1, "categories": "mediapress, advertising"}
 {"name": "allied tecnologia", "market_cap": 100000000, "country": "brazil", "share_price": 1, "categories": "tech, software, ecommerce"}
 {"name": "anup engineering", "market_cap": 100000000, "country": "india", "share_price": 10, "categories": "engineering, professionalservices"}
 {"name": "cel-sci", "market_cap": 100000000, "country": "usa", "share_price": 2, "categories": "pharmaceuticals, biotech"}
@@ -2345,7 +2345,7 @@
 {"name": "nyxoah", "market_cap": 120000000, "country": "belgium", "share_price": 4, "categories": "medicaldevices"}
 {"name": "pexip", "market_cap": 120000000, "country": "norway", "share_price": 1, "categories": ""}
 {"name": "cenntro electric group", "market_cap": 120000000, "country": "usa", "share_price": 0, "categories": "automakers, electricvehicles, manufacturing, specialtyvehicles"}
-{"name": "singular genomics syste", "market_cap": 120000000, "country": "usa", "share_price": 1, "categories": "biotech, genomics, scientifictechnicalinstruments"}
+{"name": "singular genomics systems", "market_cap": 120000000, "country": "usa", "share_price": 1, "categories": "biotech, genomics, scientifictechnicalinstruments"}
 {"name": "oconee federal financial", "market_cap": 130000000, "country": "usa", "share_price": 23, "categories": "financialservices"}
 {"name": "vbi vaccines", "market_cap": 130000000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals, biotech"}
 {"name": "precision biosciences", "market_cap": 130000000, "country": "usa", "share_price": 1, "categories": "pharmaceuticals, genomics, biotech"}
@@ -2423,7 +2423,7 @@
 {"name": "agrofresh", "market_cap": 150000000, "country": "usa", "share_price": 2, "categories": "agriculture"}
 {"name": "startek", "market_cap": 150000000, "country": "usa", "share_price": 3, "categories": ""}
 {"name": "hawthorn bancshares", "market_cap": 150000000, "country": "usa", "share_price": 23, "categories": "banks, financialservices"}
-{"name": "westport fuel syste", "market_cap": 150000000, "country": "canada", "share_price": 0, "categories": ""}
+{"name": "westport fuel systems", "market_cap": 150000000, "country": "canada", "share_price": 0, "categories": ""}
 {"name": "alaunos therapeutics", "market_cap": 150000000, "country": "usa", "share_price": 0, "categories": "pharmaceuticals, biotech"}
 {"name": "baioo family interactive", "market_cap": 150000000, "country": "china", "share_price": 0, "categories": "videogames, entertainment"}
 {"name": "milestone pharmaceuticals", "market_cap": 150000000, "country": "canada", "share_price": 4, "categories": "pharmaceuticals, biotech"}
@@ -2435,7 +2435,7 @@
 {"name": "klx energy services", "market_cap": 150000000, "country": "usa", "share_price": 13, "categories": "oilgas, oilgasequipmentservices, energy"}
 {"name": "drecom", "market_cap": 150000000, "country": "japan", "share_price": 5, "categories": "videogames, entertainment, tech"}
 {"name": "kitex garments", "market_cap": 160000000, "country": "india", "share_price": 2, "categories": "clothing"}
-{"name": "village far international", "market_cap": 150000000, "country": "canada", "share_price": 1, "categories": "agriculture, food, cannabis"}
+{"name": "village farinternational", "market_cap": 150000000, "country": "canada", "share_price": 1, "categories": "agriculture, food, cannabis"}
 {"name": "citius pharmaceuticals", "market_cap": 160000000, "country": "usa", "share_price": 1, "categories": "pharmaceuticals, biotech"}
 {"name": "nusantara pelabuhan handal", "market_cap": 160000000, "country": "indonesia", "share_price": 0, "categories": "ports, infrastructure"}
 {"name": "avita medical", "market_cap": 160000000, "country": "usa", "share_price": 6, "categories": ""}
@@ -2530,7 +2530,7 @@
 {"name": "wendt india", "market_cap": 190000000, "country": "india", "share_price": 96, "categories": ""}
 {"name": "cato fashion", "market_cap": 190000000, "country": "usa", "share_price": 9, "categories": "retail, clothing"}
 {"name": "smiledirectclub", "market_cap": 190000000, "country": "usa", "share_price": 0, "categories": ""}
-{"name": "china automotive syste", "market_cap": 190000000, "country": "china", "share_price": 6, "categories": "automotivesuppliers"}
+{"name": "china automotive systems", "market_cap": 190000000, "country": "china", "share_price": 6, "categories": "automotivesuppliers"}
 {"name": "vizsla silver", "market_cap": 190000000, "country": "canada", "share_price": 1, "categories": "mining, silvermining, goldmining"}
 {"name": "danimer scientific", "market_cap": 190000000, "country": "usa", "share_price": 1, "categories": "chemicals"}
 {"name": "summit midstream", "market_cap": 190000000, "country": "usa", "share_price": 19, "categories": "oilgas, energy"}
@@ -2650,7 +2650,7 @@
 {"name": "tway air", "market_cap": 240000000, "country": "south korea", "share_price": 1, "categories": "airlines, travel, transportation"}
 {"name": "homeland interactive technology", "market_cap": 240000000, "country": "china", "share_price": 0, "categories": "videogames, entertainment"}
 {"name": "first internet bancorp", "market_cap": 240000000, "country": "usa", "share_price": 26, "categories": "financialservices"}
-{"name": "oil-dri corporation of america", "market_cap": 240000000, "country": "usa", "share_price": 34, "categories": ""}
+{"name": "oil-corporation of america", "market_cap": 240000000, "country": "usa", "share_price": 34, "categories": ""}
 {"name": "ponce financial group", "market_cap": 240000000, "country": "usa", "share_price": 9, "categories": "banks, financialservices"}
 {"name": "ads-tec energy", "market_cap": 240000000, "country": "ireland", "share_price": 4, "categories": "evcharging, electricity, energy"}
 {"name": "hindustan sanitaryware & industries", "market_cap": 240000000, "country": "india", "share_price": 3, "categories": ""}
@@ -2660,10 +2660,10 @@
 {"name": "baycom united business bank", "market_cap": 240000000, "country": "usa", "share_price": 18, "categories": "banks, financialservices"}
 {"name": "luna innovations", "market_cap": 240000000, "country": "usa", "share_price": 7, "categories": "aerospace"}
 {"name": "molecular partners", "market_cap": 240000000, "country": "switzerland", "share_price": 6, "categories": "pharmaceuticals, biotech"}
-{"name": "jain irrigation syste", "market_cap": 240000000, "country": "india", "share_price": 0, "categories": ""}
+{"name": "jain irrigation systems", "market_cap": 240000000, "country": "india", "share_price": 0, "categories": ""}
 {"name": "dhi group", "market_cap": 240000000, "country": "usa", "share_price": 5, "categories": "financialservices"}
 {"name": "vst tillers tractors", "market_cap": 240000000, "country": "india", "share_price": 28, "categories": ""}
-{"name": "casa syste", "market_cap": 240000000, "country": "usa", "share_price": 2, "categories": "telecommunicationsequipment"}
+{"name": "casa systems", "market_cap": 240000000, "country": "usa", "share_price": 2, "categories": "telecommunicationsequipment"}
 {"name": "information services group", "market_cap": 240000000, "country": "usa", "share_price": 5, "categories": "professionalservices"}
 {"name": "force motors", "market_cap": 240000000, "country": "india", "share_price": 18, "categories": ""}
 {"name": "pure cycle water", "market_cap": 240000000, "country": "usa", "share_price": 10, "categories": "utilitycompanies"}
@@ -2674,7 +2674,7 @@
 {"name": "parke bancorp", "market_cap": 240000000, "country": "usa", "share_price": 20, "categories": "banks, financialservices"}
 {"name": "transglobe energy", "market_cap": 240000000, "country": "canada", "share_price": 3, "categories": "oilgas, energy"}
 {"name": "nacon", "market_cap": 250000000, "country": "france", "share_price": 2, "categories": "videogames, entertainment, tech"}
-{"name": "plaid,inc", "market_cap": 250000000, "country": "japan", "share_price": 6, "categories": "software, tech"}
+{"name": "plaidinc", "market_cap": 250000000, "country": "japan", "share_price": 6, "categories": "software, tech"}
 {"name": "vaxxinity", "market_cap": 250000000, "country": "usa", "share_price": 2, "categories": "pharmaceuticals, biotech"}
 {"name": "ocwen", "market_cap": 250000000, "country": "usa", "share_price": 33, "categories": "financialservices"}
 {"name": "southern states bancshares", "market_cap": 250000000, "country": "usa", "share_price": 28, "categories": "banks, financialservices"}
@@ -2718,7 +2718,7 @@
 {"name": "baozun", "market_cap": 260000000, "country": "china", "share_price": 4, "categories": "ecommerce, internet, tech"}
 {"name": "viemed healthcare", "market_cap": 260000000, "country": "usa", "share_price": 7, "categories": "medicalequipment"}
 {"name": "lovesac", "market_cap": 260000000, "country": "usa", "share_price": 17, "categories": "furniture"}
-{"name": "tc limited", "market_cap": 260000000, "country": "india", "share_price": 3, "categories": "ecommerce, tech, internet"}
+{"name": "mstc limited", "market_cap": 260000000, "country": "india", "share_price": 3, "categories": "ecommerce, tech, internet"}
 {"name": "zevia", "market_cap": 260000000, "country": "usa", "share_price": 4, "categories": "beverages"}
 {"name": "confidence petroleum", "market_cap": 270000000, "country": "india", "share_price": 0, "categories": "oilgas, energy"}
 {"name": "genie energy", "market_cap": 270000000, "country": "usa", "share_price": 10, "categories": "energy, oilgas, utilitycompanies"}
@@ -2774,7 +2774,7 @@
 {"name": "ni holdings", "market_cap": 290000000, "country": "usa", "share_price": 13, "categories": "insurance"}
 {"name": "sequent scientific", "market_cap": 280000000, "country": "india", "share_price": 1, "categories": "pharmaceuticals"}
 {"name": "emudhra", "market_cap": 290000000, "country": "india", "share_price": 3, "categories": "software, tech"}
-{"name": "view, inc", "market_cap": 290000000, "country": "usa", "share_price": 1, "categories": "manufacturing"}
+{"name": "view inc", "market_cap": 290000000, "country": "usa", "share_price": 1, "categories": "manufacturing"}
 {"name": "mvb financial", "market_cap": 290000000, "country": "usa", "share_price": 23, "categories": "financialservices, banks"}
 {"name": "mbm resources", "market_cap": 290000000, "country": "malaysia", "share_price": 0, "categories": ""}
 {"name": "orrstown financial services", "market_cap": 290000000, "country": "usa", "share_price": 27, "categories": "banks, financialservices"}
@@ -2845,7 +2845,7 @@
 {"name": "grupo supervielle", "market_cap": 320000000, "country": "argentina", "share_price": 1, "categories": "banks, financialservices"}
 {"name": "gabriel india", "market_cap": 320000000, "country": "india", "share_price": 2, "categories": ""}
 {"name": "tucows", "market_cap": 320000000, "country": "canada", "share_price": 30, "categories": "software, tech, internet"}
-{"name": "cosmo fil", "market_cap": 320000000, "country": "india", "share_price": 12, "categories": ""}
+{"name": "cosmo films", "market_cap": 320000000, "country": "india", "share_price": 12, "categories": ""}
 {"name": "lordstown motors", "market_cap": 320000000, "country": "usa", "share_price": 1, "categories": "automakers, electricvehicles"}
 {"name": "dynamic materials corporation", "market_cap": 320000000, "country": "usa", "share_price": 16, "categories": ""}
 {"name": "aeva technologies", "market_cap": 320000000, "country": "usa", "share_price": 1, "categories": "lidar, tech, techhardware, autonomousdriving"}
@@ -2894,7 +2894,7 @@
 {"name": "agoraio", "market_cap": 350000000, "country": "china", "share_price": 3, "categories": "software, tech"}
 {"name": "iradimed", "market_cap": 350000000, "country": "usa", "share_price": 28, "categories": "medicaldevices"}
 {"name": "sciplay", "market_cap": 350000000, "country": "usa", "share_price": 15, "categories": "videogames, entertainment, tech"}
-{"name": "hbl power syste", "market_cap": 350000000, "country": "india", "share_price": 1, "categories": "engineering, professionalservices"}
+{"name": "hbl power systems", "market_cap": 350000000, "country": "india", "share_price": 1, "categories": "engineering, professionalservices"}
 {"name": "eneti", "market_cap": 350000000, "country": "monaco", "share_price": 9, "categories": "energy, renewableenergy, construction"}
 {"name": "skillz", "market_cap": 360000000, "country": "usa", "share_price": 0, "categories": "videogames, entertainment, tech"}
 {"name": "trinity capital", "market_cap": 360000000, "country": "usa", "share_price": 10, "categories": "financialservices"}
@@ -3009,7 +3009,7 @@
 {"name": "allbirds", "market_cap": 400000000, "country": "usa", "share_price": 2, "categories": "footwear, clothing"}
 {"name": "magnachip", "market_cap": 400000000, "country": "luxembourg", "share_price": 9, "categories": "semiconductors, tech, techhardware"}
 {"name": "guaranty bancshares", "market_cap": 410000000, "country": "usa", "share_price": 34, "categories": "banks, financialservices"}
-{"name": "computer progra and syste", "market_cap": 410000000, "country": "usa", "share_price": 28, "categories": "software, tech"}
+{"name": "computer prograand systems", "market_cap": 410000000, "country": "usa", "share_price": 28, "categories": "software, tech"}
 {"name": "gaslog partners", "market_cap": 410000000, "country": "greece", "share_price": 7, "categories": "oilgas, transportation, maritimetransportation, energy"}
 {"name": "traeger", "market_cap": 410000000, "country": "usa", "share_price": 3, "categories": ""}
 {"name": "ao world", "market_cap": 410000000, "country": "uk", "share_price": 0, "categories": "homekitchenappliances, electronics, retail"}
@@ -3041,7 +3041,7 @@
 {"name": "gevo", "market_cap": 440000000, "country": "usa", "share_price": 1, "categories": "energy, biofuel, renewableenergy"}
 {"name": "phathom pharmaceuticals", "market_cap": 440000000, "country": "usa", "share_price": 10, "categories": ""}
 {"name": "indoco remedies", "market_cap": 440000000, "country": "india", "share_price": 4, "categories": "pharmaceuticals, biotech"}
-{"name": "mitek syste", "market_cap": 440000000, "country": "usa", "share_price": 9, "categories": "software, tech"}
+{"name": "mitek systems", "market_cap": 440000000, "country": "usa", "share_price": 9, "categories": "software, tech"}
 {"name": "dutch lady milk industries", "market_cap": 440000000, "country": "malaysia", "share_price": 6, "categories": "dairycompanies, beverages"}
 {"name": "gladstone investment", "market_cap": 440000000, "country": "usa", "share_price": 13, "categories": "investment"}
 {"name": "cue health", "market_cap": 440000000, "country": "usa", "share_price": 2, "categories": "healthcare, diagnosticsandtesting"}
@@ -3062,7 +3062,7 @@
 {"name": "bakhu holdings", "market_cap": 450000000, "country": "usa", "share_price": 1, "categories": ""}
 {"name": "qingci games", "market_cap": 450000000, "country": "china", "share_price": 0, "categories": "videogames, entertainment"}
 {"name": "archosaur games", "market_cap": 450000000, "country": "china", "share_price": 0, "categories": "videogames, entertainment"}
-{"name": "jindal poly fil", "market_cap": 450000000, "country": "india", "share_price": 10, "categories": "packaging"}
+{"name": "jindal poly films", "market_cap": 450000000, "country": "india", "share_price": 10, "categories": "packaging"}
 {"name": "pmv pharmaceuticals", "market_cap": 450000000, "country": "usa", "share_price": 9, "categories": "pharmaceuticals, biotech"}
 {"name": "preformed line products", "market_cap": 450000000, "country": "usa", "share_price": 92, "categories": ""}
 {"name": "contextlogic wishcom", "market_cap": 450000000, "country": "usa", "share_price": 0, "categories": "ecommerce, internet, tech"}
@@ -3074,7 +3074,7 @@
 {"name": "igg inc", "market_cap": 450000000, "country": "singapore", "share_price": 0, "categories": "videogames, entertainment"}
 {"name": "alerus financial", "market_cap": 460000000, "country": "usa", "share_price": 23, "categories": "banks, financialservices"}
 {"name": "south indian bank", "market_cap": 450000000, "country": "india", "share_price": 0, "categories": "banks, financialservices"}
-{"name": "the r group", "market_cap": 460000000, "country": "usa", "share_price": 27, "categories": "realestate, professionalservices"}
+{"name": "the rgroup", "market_cap": 460000000, "country": "usa", "share_price": 27, "categories": "realestate, professionalservices"}
 {"name": "ituran", "market_cap": 460000000, "country": "israel", "share_price": 22, "categories": ""}
 {"name": "southern missouri bancorp", "market_cap": 460000000, "country": "usa", "share_price": 50, "categories": "banks, financialservices"}
 {"name": "consolidated communications", "market_cap": 460000000, "country": "usa", "share_price": 4, "categories": "telecommunication"}
@@ -3095,8 +3095,8 @@
 {"name": "ifb industries", "market_cap": 460000000, "country": "india", "share_price": 11, "categories": ""}
 {"name": "orpea", "market_cap": 470000000, "country": "france", "share_price": 6, "categories": "medicalcarefacilities"}
 {"name": "dish tv", "market_cap": 470000000, "country": "india", "share_price": 0, "categories": "mediapress"}
-{"name": "arcturus therapeutics", "market_cap": 470000000, "country": "usa", "share_price": 17, "categories": "pharmaceuticals, biotech,  natherapeutics"}
-{"name": "community health syste", "market_cap": 470000000, "country": "usa", "share_price": 3, "categories": "healthcare, medicalcarefacilities"}
+{"name": "arcturus therapeutics", "market_cap": 470000000, "country": "usa", "share_price": 17, "categories": "pharmaceuticals, biotech, mrnatherapeutics"}
+{"name": "community health systems", "market_cap": 470000000, "country": "usa", "share_price": 3, "categories": "healthcare, medicalcarefacilities"}
 {"name": "amarin corporation", "market_cap": 470000000, "country": "ireland", "share_price": 1, "categories": "pharmaceuticals, biotech"}
 {"name": "solid power", "market_cap": 470000000, "country": "usa", "share_price": 2, "categories": "batteries, electricity"}
 {"name": "elringklinger", "market_cap": 470000000, "country": "germany", "share_price": 7, "categories": "automotivesuppliers, manufacturing"}
@@ -3108,7 +3108,7 @@
 {"name": "garrett motion", "market_cap": 480000000, "country": "switzerland", "share_price": 7, "categories": "automotivesuppliers"}
 {"name": "ramaco resources", "market_cap": 480000000, "country": "usa", "share_price": 10, "categories": ""}
 {"name": "onewater marine", "market_cap": 480000000, "country": "usa", "share_price": 31, "categories": ""}
-{"name": "ayt pharma", "market_cap": 480000000, "country": "uk", "share_price": 7, "categories": "pharmaceuticals, biotech"}
+{"name": "amryt pharma", "market_cap": 480000000, "country": "uk", "share_price": 7, "categories": "pharmaceuticals, biotech"}
 {"name": "clear channel outdoor", "market_cap": 480000000, "country": "usa", "share_price": 1, "categories": "advertising"}
 {"name": "one liberty properties", "market_cap": 480000000, "country": "usa", "share_price": 23, "categories": "reits, realestate, investment"}
 {"name": "seneca foods", "market_cap": 480000000, "country": "usa", "share_price": 64, "categories": "food"}
@@ -3211,7 +3211,7 @@
 {"name": "cion investment", "market_cap": 550000000, "country": "usa", "share_price": 10, "categories": "assetmanagement, investment, financialservices"}
 {"name": "enento group", "market_cap": 550000000, "country": "finland", "share_price": 23, "categories": "professionalservices"}
 {"name": "entrada therapeutics", "market_cap": 550000000, "country": "usa", "share_price": 17, "categories": "pharmaceuticals, biotech"}
-{"name": "cardiovascular syste", "market_cap": 550000000, "country": "usa", "share_price": 13, "categories": "medicaldevices"}
+{"name": "cardiovascular systems", "market_cap": 550000000, "country": "usa", "share_price": 13, "categories": "medicaldevices"}
 {"name": "tunas ridean", "market_cap": 550000000, "country": "indonesia", "share_price": 0, "categories": "retail, usedcarretailer, carretail"}
 {"name": "silence therapeutics", "market_cap": 550000000, "country": "uk", "share_price": 15, "categories": "biotech, pharmaceuticals"}
 {"name": "obsidian energy", "market_cap": 550000000, "country": "canada", "share_price": 6, "categories": "energy, oilgas"}
@@ -3228,7 +3228,7 @@
 {"name": "nuscale power", "market_cap": 560000000, "country": "usa", "share_price": 10, "categories": "energy, electricity"}
 {"name": "phillips carbon black", "market_cap": 560000000, "country": "india", "share_price": 3, "categories": ""}
 {"name": "arrow financial", "market_cap": 560000000, "country": "usa", "share_price": 34, "categories": "banks, financialservices"}
-{"name": "th international ti china", "market_cap": 560000000, "country": "china", "share_price": 3, "categories": "restaurantchains, food"}
+{"name": "th international tichina", "market_cap": 560000000, "country": "china", "share_price": 3, "categories": "restaurantchains, food"}
 {"name": "electrica", "market_cap": 560000000, "country": "romania", "share_price": 6, "categories": "electricity, utilitycompanies, energy"}
 {"name": "heidrick & struggles", "market_cap": 560000000, "country": "usa", "share_price": 28, "categories": "staffingemploymentservices, professionalservices"}
 {"name": "sight sciences", "market_cap": 560000000, "country": "usa", "share_price": 11, "categories": "biotech, medicaldevices"}
@@ -3257,7 +3257,7 @@
 {"name": "clover health investments", "market_cap": 570000000, "country": "usa", "share_price": 1, "categories": "healthcare"}
 {"name": "kelly services", "market_cap": 570000000, "country": "usa", "share_price": 15, "categories": "professionalservices, staffingemploymentservices"}
 {"name": "cloetta", "market_cap": 570000000, "country": "sweden", "share_price": 1, "categories": "food"}
-{"name": "cass information syste", "market_cap": 570000000, "country": "usa", "share_price": 42, "categories": "professionalservices, financialservices"}
+{"name": "cass information systems", "market_cap": 570000000, "country": "usa", "share_price": 42, "categories": "professionalservices, financialservices"}
 {"name": "fdc india", "market_cap": 580000000, "country": "india", "share_price": 3, "categories": "pharmaceuticals, biotech"}
 {"name": "couchbase", "market_cap": 580000000, "country": "usa", "share_price": 12, "categories": "software, tech"}
 {"name": "jsw holdings", "market_cap": 580000000, "country": "india", "share_price": 52, "categories": "financialservices"}
@@ -3286,7 +3286,7 @@
 {"name": "yg entertainment", "market_cap": 600000000, "country": "south korea", "share_price": 33, "categories": "entertainment"}
 {"name": "stoneridge", "market_cap": 600000000, "country": "usa", "share_price": 22, "categories": "automotivesuppliers"}
 {"name": "edenor", "market_cap": 600000000, "country": "argentina", "share_price": 6, "categories": "utilitycompanies, energy, electricity"}
-{"name": "vital far", "market_cap": 600000000, "country": "usa", "share_price": 14, "categories": "food, agriculture"}
+{"name": "vital farms", "market_cap": 600000000, "country": "usa", "share_price": 14, "categories": "food, agriculture"}
 {"name": "nhn corp", "market_cap": 600000000, "country": "south korea", "share_price": 18, "categories": "videogames, entertainment"}
 {"name": "syrma sgs technology", "market_cap": 600000000, "country": "india", "share_price": 3, "categories": "electronics, manufacturing"}
 {"name": "brightview", "market_cap": 600000000, "country": "usa", "share_price": 6, "categories": ""}
@@ -3360,7 +3360,7 @@
 {"name": "mbia", "market_cap": 660000000, "country": "usa", "share_price": 12, "categories": "insurance, financialservices"}
 {"name": "i-80 gold", "market_cap": 660000000, "country": "usa", "share_price": 2, "categories": "mining, goldmining"}
 {"name": "eagle bulk shipping", "market_cap": 660000000, "country": "usa", "share_price": 48, "categories": "transportation, maritimetransportation"}
-{"name": "aehr test syste", "market_cap": 660000000, "country": "usa", "share_price": 24, "categories": "semiconductors, tech"}
+{"name": "aehr test systems", "market_cap": 660000000, "country": "usa", "share_price": 24, "categories": "semiconductors, tech"}
 {"name": "istar", "market_cap": 660000000, "country": "usa", "share_price": 7, "categories": "realestate, investment, reits"}
 {"name": "forrester research", "market_cap": 660000000, "country": "usa", "share_price": 34, "categories": "professionalservices"}
 {"name": "barrett business services", "market_cap": 660000000, "country": "usa", "share_price": 95, "categories": "professionalservices"}
@@ -3419,7 +3419,7 @@
 {"name": "harborone bancorp", "market_cap": 700000000, "country": "usa", "share_price": 14, "categories": "banks, financialservices"}
 {"name": "cewe", "market_cap": 700000000, "country": "germany", "share_price": 97, "categories": "internet, ecommerce"}
 {"name": "azerion group", "market_cap": 700000000, "country": "netherlands", "share_price": 6, "categories": "videogames, entertainment"}
-{"name": "mahindra lifespaces", "market_cap": 700000000, "country": "india", "share_price": 4, "categories": "realestate"}
+{"name": "mahinlifespaces", "market_cap": 700000000, "country": "india", "share_price": 4, "categories": "realestate"}
 {"name": "vertical aerospace", "market_cap": 700000000, "country": "uk", "share_price": 3, "categories": "aerospace, aircraftmanufacturers, manufacturing"}
 {"name": "vtex", "market_cap": 700000000, "country": "uk", "share_price": 3, "categories": "software, tech, ecommerce"}
 {"name": "gujarat alkalies and chemicals", "market_cap": 700000000, "country": "india", "share_price": 9, "categories": "chemicals"}
@@ -3477,7 +3477,7 @@
 {"name": "northfield bancorp", "market_cap": 740000000, "country": "usa", "share_price": 15, "categories": "banks, financialservices"}
 {"name": "perfect corp", "market_cap": 740000000, "country": "taiwan", "share_price": 6, "categories": "software, tech, cosmeticsandbeauty"}
 {"name": "heritage-crystal clean", "market_cap": 740000000, "country": "usa", "share_price": 30, "categories": "wasterecycling"}
-{"name": "al moammar information syste", "market_cap": 740000000, "country": "saudi arabia", "share_price": 24, "categories": "itservices"}
+{"name": "al moammar information systems", "market_cap": 740000000, "country": "saudi arabia", "share_price": 24, "categories": "itservices"}
 {"name": "mapmyindia", "market_cap": 740000000, "country": "india", "share_price": 14, "categories": "tech, software"}
 {"name": "old second bancorp", "market_cap": 740000000, "country": "usa", "share_price": 16, "categories": "banks, financialservices"}
 {"name": "azul", "market_cap": 740000000, "country": "brazil", "share_price": 6, "categories": "airlines, travel, transportation"}
@@ -3694,7 +3694,7 @@
 {"name": "energy fuels", "market_cap": 930000000, "country": "usa", "share_price": 5, "categories": "mining"}
 {"name": "playa hotels & resorts", "market_cap": 930000000, "country": "usa", "share_price": 5, "categories": "hotels, travel"}
 {"name": "pros", "market_cap": 930000000, "country": "usa", "share_price": 20, "categories": ""}
-{"name": "perdoceo education", "market_cap": 930000000, "country": "usa", "share_price": 13, "categories": "education"}
+{"name": "perdoeducation", "market_cap": 930000000, "country": "usa", "share_price": 13, "categories": "education"}
 {"name": "alamar foods company", "market_cap": 930000000, "country": "saudi arabia", "share_price": 36, "categories": "food"}
 {"name": "cymbria", "market_cap": 930000000, "country": "canada", "share_price": 41, "categories": "investment"}
 {"name": "kalpataru power transmission", "market_cap": 930000000, "country": "india", "share_price": 6, "categories": "electricity, construction, energy"}
@@ -3705,7 +3705,7 @@
 {"name": "orthopediatrics", "market_cap": 940000000, "country": "usa", "share_price": 41, "categories": "medicaldevices"}
 {"name": "rpt realty", "market_cap": 940000000, "country": "usa", "share_price": 10, "categories": "realestate, investment, reits"}
 {"name": "network18", "market_cap": 940000000, "country": "india", "share_price": 0, "categories": "mediapress"}
-{"name": "c global", "market_cap": 940000000, "country": "usa", "share_price": 11, "categories": "industrialsupplies"}
+{"name": "global", "market_cap": 940000000, "country": "usa", "share_price": 11, "categories": "industrialsupplies"}
 {"name": "amerant bancorp", "market_cap": 940000000, "country": "usa", "share_price": 27, "categories": "banks, financialservices"}
 {"name": "gungho online entertainment", "market_cap": 940000000, "country": "japan", "share_price": 15, "categories": "videogames, internet, entertainment, tech"}
 {"name": "bse", "market_cap": 940000000, "country": "india", "share_price": 6, "categories": "stockexchanges, financialservices, stockcryptoexchanges"}
@@ -3733,7 +3733,7 @@
 {"name": "green dot", "market_cap": 960000000, "country": "usa", "share_price": 18, "categories": ""}
 {"name": "dole plc", "market_cap": 960000000, "country": "ireland", "share_price": 10, "categories": "food"}
 {"name": "matthews international corporation", "market_cap": 960000000, "country": "usa", "share_price": 31, "categories": "conglomerate"}
-{"name": "aest", "market_cap": 960000000, "country": "spain", "share_price": 4, "categories": "restaurantchains, food"}
+{"name": "amrest", "market_cap": 960000000, "country": "spain", "share_price": 4, "categories": "restaurantchains, food"}
 {"name": "regenxbio", "market_cap": 970000000, "country": "usa", "share_price": 22, "categories": "pharmaceuticals, biotech"}
 {"name": "veeco", "market_cap": 970000000, "country": "usa", "share_price": 18, "categories": "electronics, semiconductors, tech"}
 {"name": "sunopta", "market_cap": 970000000, "country": "canada", "share_price": 8, "categories": "food"}
@@ -3790,7 +3790,7 @@
 {"name": "arcutis biotherapeutics", "market_cap": 1030000000, "country": "usa", "share_price": 16, "categories": "biotech, pharmaceuticals"}
 {"name": "piedmont lithium", "market_cap": 1030000000, "country": "australia", "share_price": 57, "categories": "mining"}
 {"name": "kura oncology", "market_cap": 1030000000, "country": "usa", "share_price": 15, "categories": "pharmaceuticals, biotech"}
-{"name": "sturm, ruger & co", "market_cap": 1030000000, "country": "usa", "share_price": 58, "categories": ""}
+{"name": "sturm ruger & co", "market_cap": 1030000000, "country": "usa", "share_price": 58, "categories": ""}
 {"name": "global partners lp", "market_cap": 1030000000, "country": "usa", "share_price": 30, "categories": "oilgas, energy"}
 {"name": "outset medical", "market_cap": 1030000000, "country": "usa", "share_price": 21, "categories": "medicaldevices"}
 {"name": "stratec", "market_cap": 1030000000, "country": "germany", "share_price": 85, "categories": ""}
@@ -3875,7 +3875,7 @@
 {"name": "pdf solutions", "market_cap": 1120000000, "country": "usa", "share_price": 30, "categories": "software, tech, semiconductors, techhardware"}
 {"name": "magellan financial group", "market_cap": 1120000000, "country": "australia", "share_price": 6, "categories": "assetmanagement, investment"}
 {"name": "centerra gold", "market_cap": 1120000000, "country": "canada", "share_price": 5, "categories": "mining, goldmining"}
-{"name": "seush", "market_cap": 1120000000, "country": "usa", "share_price": 7, "categories": "software, tech, internet"}
+{"name": "semrush", "market_cap": 1120000000, "country": "usa", "share_price": 7, "categories": "software, tech, internet"}
 {"name": "cyient", "market_cap": 1120000000, "country": "india", "share_price": 10, "categories": "engineering"}
 {"name": "grendene", "market_cap": 1120000000, "country": "brazil", "share_price": 1, "categories": "footwear"}
 {"name": "aston martin", "market_cap": 1120000000, "country": "uk", "share_price": 1, "categories": "automakers"}
@@ -3951,7 +3951,7 @@
 {"name": "avanos medical", "market_cap": 1200000000, "country": "usa", "share_price": 25, "categories": "medicaldevices"}
 {"name": "meta financial group", "market_cap": 1200000000, "country": "usa", "share_price": 42, "categories": "banks, financialservices"}
 {"name": "tg therapeutics", "market_cap": 1200000000, "country": "usa", "share_price": 8, "categories": ""}
-{"name": "3d syste", "market_cap": 1200000000, "country": "usa", "share_price": 9, "categories": "3dprinting, tech, software"}
+{"name": "3d systems", "market_cap": 1200000000, "country": "usa", "share_price": 9, "categories": "3dprinting, tech, software"}
 {"name": "eplus", "market_cap": 1200000000, "country": "usa", "share_price": 44, "categories": "professionalservices, software, tech"}
 {"name": "alkami technology", "market_cap": 1210000000, "country": "usa", "share_price": 13, "categories": "software, tech, financialservices"}
 {"name": "perion network", "market_cap": 1210000000, "country": "israel", "share_price": 26, "categories": "advertising, tech"}
@@ -3977,7 +3977,7 @@
 {"name": "standex", "market_cap": 1240000000, "country": "usa", "share_price": 103, "categories": "manufacturing, conglomerate"}
 {"name": "techtarget", "market_cap": 1240000000, "country": "usa", "share_price": 42, "categories": "internet, advertising, tech"}
 {"name": "sweetgreen", "market_cap": 1240000000, "country": "usa", "share_price": 11, "categories": "restaurantchains, food"}
-{"name": "formula syste", "market_cap": 1240000000, "country": "israel", "share_price": 81, "categories": ""}
+{"name": "formula systems", "market_cap": 1240000000, "country": "israel", "share_price": 81, "categories": ""}
 {"name": "atea asa", "market_cap": 1240000000, "country": "norway", "share_price": 11, "categories": "itservices, professionalservices"}
 {"name": "b riley financial", "market_cap": 1240000000, "country": "usa", "share_price": 43, "categories": "financialservices"}
 {"name": "tellurian", "market_cap": 1240000000, "country": "usa", "share_price": 2, "categories": "energy, oilgas"}
@@ -4037,7 +4037,7 @@
 {"name": "partner communications", "market_cap": 1320000000, "country": "israel", "share_price": 7, "categories": ""}
 {"name": "allegiant air", "market_cap": 1320000000, "country": "usa", "share_price": 71, "categories": "airlines, travel, transportation"}
 {"name": "celestica", "market_cap": 1320000000, "country": "canada", "share_price": 10, "categories": ""}
-{"name": "mahindra cie", "market_cap": 1320000000, "country": "india", "share_price": 3, "categories": "automotivesuppliers"}
+{"name": "mahincie", "market_cap": 1320000000, "country": "india", "share_price": 3, "categories": "automotivesuppliers"}
 {"name": "precinct properties", "market_cap": 1320000000, "country": "new zealand", "share_price": 0, "categories": "realestate, investment, reits"}
 {"name": "pharma mar", "market_cap": 1320000000, "country": "spain", "share_price": 73, "categories": "pharmaceuticals, biotech"}
 {"name": "oceanfirst financial", "market_cap": 1320000000, "country": "usa", "share_price": 22, "categories": "financialservices, banks"}
@@ -4106,7 +4106,7 @@
 {"name": "jack in the box", "market_cap": 1400000000, "country": "usa", "share_price": 67, "categories": "food, restaurantchains"}
 {"name": "sovos brands", "market_cap": 1410000000, "country": "usa", "share_price": 13, "categories": "food"}
 {"name": "suzlon", "market_cap": 1410000000, "country": "india", "share_price": 0, "categories": "renewableenergy"}
-{"name": "osi syste", "market_cap": 1410000000, "country": "usa", "share_price": 83, "categories": ""}
+{"name": "osi systems", "market_cap": 1410000000, "country": "usa", "share_price": 83, "categories": ""}
 {"name": "tecnoglass", "market_cap": 1410000000, "country": "colombia", "share_price": 29, "categories": ""}
 {"name": "killam apartment reit", "market_cap": 1410000000, "country": "canada", "share_price": 12, "categories": "reits, realestate, investment"}
 {"name": "poshmark", "market_cap": 1410000000, "country": "usa", "share_price": 17, "categories": "ecommerce, tech, internet"}
@@ -4138,7 +4138,7 @@
 {"name": "model n", "market_cap": 1440000000, "country": "usa", "share_price": 38, "categories": "software, tech"}
 {"name": "dht holdings", "market_cap": 1430000000, "country": "bermuda", "share_price": 8, "categories": "oilgas, transportation, maritimetransportation"}
 {"name": "uniti", "market_cap": 1440000000, "country": "usa", "share_price": 6, "categories": "realestate, reits, investment, telecommunication, infrastructure"}
-{"name": "curevac", "market_cap": 1440000000, "country": "germany", "share_price": 7, "categories": " natherapeutics, pharmaceuticals, biotech"}
+{"name": "curevac", "market_cap": 1440000000, "country": "germany", "share_price": 7, "categories": "mrnatherapeutics, pharmaceuticals, biotech"}
 {"name": "parex resources", "market_cap": 1440000000, "country": "canada", "share_price": 13, "categories": "oilgas, energy"}
 {"name": "formosa taffeta", "market_cap": 1440000000, "country": "taiwan", "share_price": 0, "categories": "oilgas, energy"}
 {"name": "oceaneering international", "market_cap": 1440000000, "country": "usa", "share_price": 14, "categories": "engineering, professionalservices"}
@@ -4151,7 +4151,7 @@
 {"name": "fibrogen", "market_cap": 1440000000, "country": "usa", "share_price": 15, "categories": ""}
 {"name": "yanlord", "market_cap": 1450000000, "country": "singapore", "share_price": 0, "categories": "realestate"}
 {"name": "superior plus", "market_cap": 1450000000, "country": "canada", "share_price": 7, "categories": "oilgas, energy, utilitycompanies"}
-{"name": "hi & hers health", "market_cap": 1450000000, "country": "usa", "share_price": 7, "categories": "telehealth, healthcare, internet, tech"}
+{"name": "hi& hers health", "market_cap": 1450000000, "country": "usa", "share_price": 7, "categories": "telehealth, healthcare, internet, tech"}
 {"name": "aurora innovation", "market_cap": 1450000000, "country": "usa", "share_price": 1, "categories": "autonomousdriving, software, tech"}
 {"name": "live oak bank", "market_cap": 1450000000, "country": "usa", "share_price": 32, "categories": "banks, financialservices"}
 {"name": "seadrill", "market_cap": 1460000000, "country": "bermuda", "share_price": 29, "categories": "oilgas, energy"}
@@ -4274,11 +4274,11 @@
 {"name": "idfc", "market_cap": 1630000000, "country": "india", "share_price": 1, "categories": "financialservices"}
 {"name": "santam", "market_cap": 1630000000, "country": "south africa", "share_price": 14, "categories": "insurance, financialservices"}
 {"name": "e2open", "market_cap": 1630000000, "country": "usa", "share_price": 5, "categories": "software, tech"}
-{"name": "ballard power syste", "market_cap": 1630000000, "country": "canada", "share_price": 5, "categories": "hydrogenfuelcell"}
+{"name": "ballard power systems", "market_cap": 1630000000, "country": "canada", "share_price": 5, "categories": "hydrogenfuelcell"}
 {"name": "zug estates holding", "market_cap": 1630000000, "country": "switzerland", "share_price": 1, "categories": "realestate"}
 {"name": "prime medicine", "market_cap": 1630000000, "country": "usa", "share_price": 16, "categories": "pharmaceuticals, biotech, genomics, genetherapy"}
 {"name": "cargojet", "market_cap": 1630000000, "country": "canada", "share_price": 95, "categories": "airlines, transportation"}
-{"name": "comcope", "market_cap": 1630000000, "country": "usa", "share_price": 7, "categories": "telecommunicationsequipment"}
+{"name": "commscope", "market_cap": 1630000000, "country": "usa", "share_price": 7, "categories": "telecommunicationsequipment"}
 {"name": "nmi holdings", "market_cap": 1630000000, "country": "usa", "share_price": 19, "categories": "insurance"}
 {"name": "bgc partners", "market_cap": 1640000000, "country": "usa", "share_price": 4, "categories": "financialservices"}
 {"name": "tabcorp", "market_cap": 1640000000, "country": "australia", "share_price": 0, "categories": "gambling, entertainment"}
@@ -4416,7 +4416,7 @@
 {"name": "entra", "market_cap": 1870000000, "country": "norway", "share_price": 10, "categories": "realestate"}
 {"name": "diamondrock hospitality company", "market_cap": 1860000000, "country": "usa", "share_price": 8, "categories": "realestate, investment, reits"}
 {"name": "enovix", "market_cap": 1860000000, "country": "usa", "share_price": 11, "categories": "batteries, electricity"}
-{"name": "a ag", "market_cap": 1860000000, "country": "austria", "share_price": 7, "categories": "electronics"}
+{"name": "aag", "market_cap": 1860000000, "country": "austria", "share_price": 7, "categories": "electronics"}
 {"name": "warby parker", "market_cap": 1870000000, "country": "usa", "share_price": 16, "categories": "glassesandcontactlenses"}
 {"name": "taskus", "market_cap": 1870000000, "country": "usa", "share_price": 19, "categories": "professionalservices"}
 {"name": "lakeland financial corp", "market_cap": 1870000000, "country": "usa", "share_price": 74, "categories": "banks, financialservices"}
@@ -4440,7 +4440,7 @@
 {"name": "retail opportunity investments", "market_cap": 1890000000, "country": "usa", "share_price": 15, "categories": "realestate, investment, reits"}
 {"name": "arcbest", "market_cap": 1890000000, "country": "usa", "share_price": 77, "categories": "transportation"}
 {"name": "bread financial", "market_cap": 1890000000, "country": "usa", "share_price": 38, "categories": "financialservices"}
-{"name": "indra sistemas", "market_cap": 1890000000, "country": "spain", "share_price": 10, "categories": "itservices, professionalservices, defensecontractors"}
+{"name": "insistemas", "market_cap": 1890000000, "country": "spain", "share_price": 10, "categories": "itservices, professionalservices, defensecontractors"}
 {"name": "interroll", "market_cap": 1890000000, "country": "switzerland", "share_price": 2, "categories": "manufacturing"}
 {"name": "empire state realty trust", "market_cap": 1890000000, "country": "usa", "share_price": 6, "categories": ""}
 {"name": "lindsay corporation", "market_cap": 1890000000, "country": "usa", "share_price": 172, "categories": ""}
@@ -4544,7 +4544,7 @@
 {"name": "compugroup medical", "market_cap": 2100000000, "country": "germany", "share_price": 39, "categories": ""}
 {"name": "crombie real estate investment trust", "market_cap": 2100000000, "country": "canada", "share_price": 11, "categories": "realestate, investment, reits"}
 {"name": "relay therapeutics", "market_cap": 2100000000, "country": "usa", "share_price": 17, "categories": "pharmaceuticals, biotech"}
-{"name": "g", "market_cap": 2109999999, "country": "usa", "share_price": 49, "categories": "buildingmaterials"}
+{"name": "gms", "market_cap": 2109999999, "country": "usa", "share_price": 49, "categories": "buildingmaterials"}
 {"name": "silicon motion", "market_cap": 2109999999, "country": "hong kong", "share_price": 64, "categories": "semiconductors, tech, techhardware"}
 {"name": "oc oerlikon", "market_cap": 2109999999, "country": "switzerland", "share_price": 6, "categories": "manufacturing"}
 {"name": "compagnie plastic omnium", "market_cap": 2109999999, "country": "france", "share_price": 14, "categories": "automotivesuppliers, manufacturing"}
@@ -4723,7 +4723,7 @@
 {"name": "emami", "market_cap": 2430000000, "country": "india", "share_price": 5, "categories": ""}
 {"name": "safestore", "market_cap": 2420000000, "country": "uk", "share_price": 11, "categories": "realestate, investment, reits"}
 {"name": "alarmcom", "market_cap": 2430000000, "country": "usa", "share_price": 48, "categories": ""}
-{"name": "verint syste", "market_cap": 2430000000, "country": "usa", "share_price": 37, "categories": "software, tech"}
+{"name": "verint systems", "market_cap": 2430000000, "country": "usa", "share_price": 37, "categories": "software, tech"}
 {"name": "kainos group", "market_cap": 2430000000, "country": "uk", "share_price": 19, "categories": "software, tech"}
 {"name": "apollo tyres", "market_cap": 2440000000, "country": "india", "share_price": 3, "categories": "tires"}
 {"name": "primo water", "market_cap": 2440000000, "country": "usa", "share_price": 15, "categories": ""}
@@ -4731,7 +4731,7 @@
 {"name": "highpeak energy", "market_cap": 2430000000, "country": "usa", "share_price": 21, "categories": "oilgas, energy"}
 {"name": "energizer holdings", "market_cap": 2440000000, "country": "usa", "share_price": 34, "categories": ""}
 {"name": "baytex energy", "market_cap": 2440000000, "country": "canada", "share_price": 4, "categories": "oilgas, energy"}
-{"name": " price group", "market_cap": 2450000000, "country": "south africa", "share_price": 9, "categories": "retail"}
+{"name": "price group", "market_cap": 2450000000, "country": "south africa", "share_price": 9, "categories": "retail"}
 {"name": "spin master", "market_cap": 2450000000, "country": "canada", "share_price": 23, "categories": "toys, entertainment, videogames"}
 {"name": "hang lung group", "market_cap": 2480000000, "country": "hong kong", "share_price": 1, "categories": "investment"}
 {"name": "genworth financial", "market_cap": 2480000000, "country": "usa", "share_price": 5, "categories": "insurance"}
@@ -4829,7 +4829,7 @@
 {"name": "computacenter", "market_cap": 2700000000, "country": "uk", "share_price": 23, "categories": "professionalservices, itservices"}
 {"name": "makkah construction & development", "market_cap": 2700000000, "country": "saudi arabia", "share_price": 16, "categories": "construction"}
 {"name": "cogent communications", "market_cap": 2700000000, "country": "usa", "share_price": 56, "categories": ""}
-{"name": "saung heavy industries", "market_cap": 2710000000, "country": "south korea", "share_price": 133, "categories": ""}
+{"name": "samsung heavy industries", "market_cap": 2710000000, "country": "south korea", "share_price": 133, "categories": ""}
 {"name": "easterly government properties", "market_cap": 2710000000, "country": "usa", "share_price": 15, "categories": ""}
 {"name": "ncino", "market_cap": 2710000000, "country": "usa", "share_price": 24, "categories": "tech"}
 {"name": "maxlinear", "market_cap": 2720000000, "country": "usa", "share_price": 34, "categories": ""}
@@ -4842,7 +4842,7 @@
 {"name": "duolingo", "market_cap": 2730000000, "country": "usa", "share_price": 68, "categories": "education, internet"}
 {"name": "premium brands", "market_cap": 2730000000, "country": "canada", "share_price": 61, "categories": "food"}
 {"name": "fluidra", "market_cap": 2730000000, "country": "spain", "share_price": 14, "categories": ""}
-{"name": "hannon artrong", "market_cap": 2730000000, "country": "usa", "share_price": 30, "categories": ""}
+{"name": "hannon armstrong", "market_cap": 2730000000, "country": "usa", "share_price": 30, "categories": ""}
 {"name": "werner enterprises", "market_cap": 2730000000, "country": "usa", "share_price": 43, "categories": ""}
 {"name": "carter's", "market_cap": 2740000000, "country": "usa", "share_price": 71, "categories": ""}
 {"name": "evolent health", "market_cap": 2740000000, "country": "usa", "share_price": 27, "categories": "healthcare"}
@@ -4866,7 +4866,7 @@
 {"name": "intercorp financial services", "market_cap": 2760000000, "country": "peru", "share_price": 23, "categories": "financialservices, insurance"}
 {"name": "ingevity", "market_cap": 2760000000, "country": "usa", "share_price": 74, "categories": ""}
 {"name": "galicia financial group", "market_cap": 2760000000, "country": "argentina", "share_price": 7, "categories": ""}
-{"name": "spirit aerosyste", "market_cap": 2770000000, "country": "usa", "share_price": 26, "categories": ""}
+{"name": "spirit aerosystems", "market_cap": 2770000000, "country": "usa", "share_price": 26, "categories": ""}
 {"name": "moelis & company", "market_cap": 2780000000, "country": "usa", "share_price": 40, "categories": "financialservices"}
 {"name": "grocery outlet", "market_cap": 2780000000, "country": "usa", "share_price": 28, "categories": ""}
 {"name": "ultragenyx", "market_cap": 2760000000, "country": "usa", "share_price": 39, "categories": ""}
@@ -4884,7 +4884,7 @@
 {"name": "the azek company", "market_cap": 2870000000, "country": "usa", "share_price": 19, "categories": ""}
 {"name": "ptc therapeutics", "market_cap": 2870000000, "country": "usa", "share_price": 39, "categories": ""}
 {"name": "stepstone group", "market_cap": 2870000000, "country": "usa", "share_price": 28, "categories": "financialservices, investment"}
-{"name": "pegasyste", "market_cap": 2870000000, "country": "usa", "share_price": 35, "categories": "software, tech"}
+{"name": "pegasystems", "market_cap": 2870000000, "country": "usa", "share_price": 35, "categories": "software, tech"}
 {"name": "livanova", "market_cap": 2870000000, "country": "uk", "share_price": 53, "categories": "medicaldevices"}
 {"name": "korn ferry", "market_cap": 2870000000, "country": "usa", "share_price": 53, "categories": "professionalservices"}
 {"name": "prothena", "market_cap": 2880000000, "country": "ireland", "share_price": 59, "categories": "pharmaceuticals, biotech"}
@@ -4898,7 +4898,7 @@
 {"name": "transportadora de gas del sur", "market_cap": 2900000000, "country": "argentina", "share_price": 9, "categories": ""}
 {"name": "arcelik", "market_cap": 2900000000, "country": "turkey", "share_price": 4, "categories": ""}
 {"name": "linamar", "market_cap": 2900000000, "country": "canada", "share_price": 46, "categories": "manufacturing"}
-{"name": "mercury syste", "market_cap": 2900000000, "country": "usa", "share_price": 50, "categories": ""}
+{"name": "mercury systems", "market_cap": 2900000000, "country": "usa", "share_price": 50, "categories": ""}
 {"name": "cal-maine foods", "market_cap": 2900000000, "country": "usa", "share_price": 59, "categories": "food, agriculture"}
 {"name": "bellway", "market_cap": 2900000000, "country": "uk", "share_price": 23, "categories": "construction"}
 {"name": "asm pacific technology", "market_cap": 2900000000, "country": "hong kong", "share_price": 7, "categories": "tech, semiconductors"}
@@ -4958,7 +4958,7 @@
 {"name": "hankook tire", "market_cap": 3030000000, "country": "south korea", "share_price": 24, "categories": "tires"}
 {"name": "california resources corporation", "market_cap": 3030000000, "country": "usa", "share_price": 41, "categories": "energy, oilgas"}
 {"name": "kohl's", "market_cap": 3030000000, "country": "usa", "share_price": 27, "categories": "retail"}
-{"name": " cooper group", "market_cap": 3030000000, "country": "usa", "share_price": 43, "categories": ""}
+{"name": "cooper group", "market_cap": 3030000000, "country": "usa", "share_price": 43, "categories": ""}
 {"name": "nternational bancshares corp", "market_cap": 3030000000, "country": "usa", "share_price": 48, "categories": ""}
 {"name": "array technologies", "market_cap": 3030000000, "country": "usa", "share_price": 20, "categories": "energy, renewableenergy"}
 {"name": "highwoods properties", "market_cap": 3040000000, "country": "usa", "share_price": 27, "categories": "realestate, reits, investment"}
@@ -4990,7 +4990,7 @@
 {"name": "delhivery", "market_cap": 3080000000, "country": "india", "share_price": 4, "categories": "courier, transportation"}
 {"name": "globalstar", "market_cap": 3070000000, "country": "usa", "share_price": 1, "categories": "telecommunication, aerospace"}
 {"name": "elis", "market_cap": 3090000000, "country": "france", "share_price": 13, "categories": "professionalservices"}
-{"name": "interparfu", "market_cap": 3090000000, "country": "usa", "share_price": 97, "categories": ""}
+{"name": "interparfums", "market_cap": 3090000000, "country": "usa", "share_price": 97, "categories": ""}
 {"name": "atlantica", "market_cap": 3100000000, "country": "uk", "share_price": 26, "categories": "oilgas, transportation, infrastructure"}
 {"name": "sensient technologies", "market_cap": 3080000000, "country": "usa", "share_price": 73, "categories": ""}
 {"name": "amc entertainment", "market_cap": 3100000000, "country": "usa", "share_price": 6, "categories": "entertainment"}
@@ -5013,7 +5013,7 @@
 {"name": "stoneco", "market_cap": 3210000000, "country": "brazil", "share_price": 10, "categories": "financialservices"}
 {"name": "encavis", "market_cap": 3210000000, "country": "germany", "share_price": 19, "categories": "renewableenergy, energy, electricity"}
 {"name": "nws holdings", "market_cap": 3210000000, "country": "hong kong", "share_price": 0, "categories": "conglomerate, professionalservices, infrastructure"}
-{"name": "g group", "market_cap": 3220000000, "country": "india", "share_price": 0, "categories": ""}
+{"name": "ggroup", "market_cap": 3220000000, "country": "india", "share_price": 0, "categories": ""}
 {"name": "netmarble", "market_cap": 3220000000, "country": "south korea", "share_price": 39, "categories": "videogames, entertainment"}
 {"name": "innovative industrial", "market_cap": 3220000000, "country": "usa", "share_price": 115, "categories": ""}
 {"name": "meritage homes", "market_cap": 3220000000, "country": "usa", "share_price": 88, "categories": ""}
@@ -5024,7 +5024,7 @@
 {"name": "comgas", "market_cap": 3230000000, "country": "brazil", "share_price": 24, "categories": "utilitycompanies"}
 {"name": "quaker houghton", "market_cap": 3230000000, "country": "usa", "share_price": 180, "categories": "chemicals"}
 {"name": "tata chemicals", "market_cap": 3230000000, "country": "india", "share_price": 12, "categories": "chemicals"}
-{"name": "artrong world industries", "market_cap": 3230000000, "country": "usa", "share_price": 70, "categories": ""}
+{"name": "armstrong world industries", "market_cap": 3230000000, "country": "usa", "share_price": 70, "categories": ""}
 {"name": "rotork", "market_cap": 3230000000, "country": "uk", "share_price": 3, "categories": "manufacturing, machinerymanufacturing"}
 {"name": "indah kiat pulp & paper", "market_cap": 3230000000, "country": "indonesia", "share_price": 0, "categories": "pulpandpaper"}
 {"name": "cathay general bancorp", "market_cap": 3240000000, "country": "usa", "share_price": 43, "categories": ""}
@@ -5073,7 +5073,7 @@
 {"name": "tower bersama infrastructure", "market_cap": 3340000000, "country": "indonesia", "share_price": 0, "categories": "telecommunication"}
 {"name": "bellring brands", "market_cap": 3350000000, "country": "usa", "share_price": 24, "categories": "dietarysupplements"}
 {"name": "lendlease", "market_cap": 3340000000, "country": "australia", "share_price": 4, "categories": "construction, infrastructure, realestate"}
-{"name": "cotock resources", "market_cap": 3430000000, "country": "usa", "share_price": 14, "categories": "oilgas, energy"}
+{"name": "comstock resources", "market_cap": 3430000000, "country": "usa", "share_price": 14, "categories": "oilgas, energy"}
 {"name": "nisshin seifun group", "market_cap": 3430000000, "country": "japan", "share_price": 11, "categories": ""}
 {"name": "sofi", "market_cap": 3430000000, "country": "usa", "share_price": 4, "categories": "financialservices, tech, internet"}
 {"name": "billerudkorsnas", "market_cap": 3430000000, "country": "sweden", "share_price": 13, "categories": "pulpandpaper, packaging"}
@@ -5189,7 +5189,7 @@
 {"name": "dechra pharmaceuticals", "market_cap": 3790000000, "country": "uk", "share_price": 32, "categories": "pharmaceuticals, biotech"}
 {"name": "hugo boss", "market_cap": 3790000000, "country": "germany", "share_price": 55, "categories": "luxurygoods"}
 {"name": "oberbank", "market_cap": 3800000000, "country": "austria", "share_price": 107, "categories": "banks, financialservices"}
-{"name": "persistent syste", "market_cap": 3800000000, "country": "india", "share_price": 49, "categories": "professionalservices"}
+{"name": "persistent systems", "market_cap": 3800000000, "country": "india", "share_price": 49, "categories": "professionalservices"}
 {"name": "lg display", "market_cap": 3800000000, "country": "south korea", "share_price": 5, "categories": "electronics"}
 {"name": "thyssenkrupp", "market_cap": 3810000000, "country": "germany", "share_price": 6, "categories": "steelproducers, steelindustry, manufacturing, engineering"}
 {"name": "tmbthanachart bank ttb", "market_cap": 3810000000, "country": "thailand", "share_price": 0, "categories": "banks, financialservices"}
@@ -5286,7 +5286,7 @@
 {"name": "imi plc", "market_cap": 4250000000, "country": "uk", "share_price": 15, "categories": "engineering"}
 {"name": "sembcorp", "market_cap": 4260000000, "country": "singapore", "share_price": 2, "categories": "engineering, professionalservices"}
 {"name": "denbury", "market_cap": 4250000000, "country": "usa", "share_price": 85, "categories": "oilgas, energy"}
-{"name": "casella waste syste", "market_cap": 4269999999, "country": "usa", "share_price": 82, "categories": ""}
+{"name": "casella waste systems", "market_cap": 4269999999, "country": "usa", "share_price": 82, "categories": ""}
 {"name": "strabag", "market_cap": 4260000000, "country": "austria", "share_price": 41, "categories": "construction"}
 {"name": "zurn water solutions", "market_cap": 4269999999, "country": "usa", "share_price": 24, "categories": "utilitycompanies"}
 {"name": "zhongan insurance", "market_cap": 4260000000, "country": "china", "share_price": 2, "categories": "insurance"}
@@ -5310,7 +5310,7 @@
 {"name": "gujarat gas", "market_cap": 4330000000, "country": "india", "share_price": 6, "categories": "oilgas, utilitycompanies, energy"}
 {"name": "whitecap resources", "market_cap": 4330000000, "country": "canada", "share_price": 7, "categories": "energy, oilgas"}
 {"name": "terreno realty", "market_cap": 4340000000, "country": "usa", "share_price": 57, "categories": ""}
-{"name": "comfort syste", "market_cap": 4330000000, "country": "usa", "share_price": 121, "categories": ""}
+{"name": "comfort systems", "market_cap": 4330000000, "country": "usa", "share_price": 121, "categories": ""}
 {"name": "ipg photonics", "market_cap": 4340000000, "country": "usa", "share_price": 89, "categories": ""}
 {"name": "fox factory holding", "market_cap": 4340000000, "country": "usa", "share_price": 102, "categories": ""}
 {"name": "cencosud", "market_cap": 4340000000, "country": "chile", "share_price": 1, "categories": "retail"}
@@ -5392,7 +5392,7 @@
 {"name": "vale indonesia", "market_cap": 4690000000, "country": "indonesia", "share_price": 0, "categories": ""}
 {"name": "louisiana-pacific", "market_cap": 4690000000, "country": "usa", "share_price": 65, "categories": ""}
 {"name": "stericycle", "market_cap": 4690000000, "country": "usa", "share_price": 50, "categories": "wasterecycling"}
-{"name": "c industrial direct", "market_cap": 4690000000, "country": "usa", "share_price": 83, "categories": ""}
+{"name": "industrial direct", "market_cap": 4690000000, "country": "usa", "share_price": 83, "categories": ""}
 {"name": "voestalpine", "market_cap": 4710000000, "country": "austria", "share_price": 26, "categories": "steelindustry"}
 {"name": "dksh holding", "market_cap": 4720000000, "country": "switzerland", "share_price": 72, "categories": "professionalservices"}
 {"name": "aditya birla capital", "market_cap": 4710000000, "country": "india", "share_price": 1, "categories": "financialservices, insurance"}
@@ -5487,7 +5487,7 @@
 {"name": "abbott india", "market_cap": 5250000000, "country": "india", "share_price": 247, "categories": "pharmaceuticals, biotech"}
 {"name": "obayashi", "market_cap": 5250000000, "country": "japan", "share_price": 7, "categories": "construction"}
 {"name": "nippon express", "market_cap": 5260000000, "country": "japan", "share_price": 58, "categories": "transportation"}
-{"name": "a safety", "market_cap": 5260000000, "country": "usa", "share_price": 134, "categories": ""}
+{"name": "safety", "market_cap": 5260000000, "country": "usa", "share_price": 134, "categories": ""}
 {"name": "fs kkr capital", "market_cap": 5280000000, "country": "usa", "share_price": 18, "categories": ""}
 {"name": "exelixis", "market_cap": 5270000000, "country": "usa", "share_price": 16, "categories": "pharmaceuticals"}
 {"name": "gap inc", "market_cap": 5260000000, "country": "usa", "share_price": 14, "categories": "clothing, retail"}
@@ -5566,14 +5566,14 @@
 {"name": "credit acceptance", "market_cap": 5690000000, "country": "usa", "share_price": 440, "categories": ""}
 {"name": "rightmove", "market_cap": 5700000000, "country": "uk", "share_price": 6, "categories": "internet"}
 {"name": "on holding", "market_cap": 5690000000, "country": "switzerland", "share_price": 18, "categories": "sportsgoods, footwear"}
-{"name": "descartes syste", "market_cap": 5700000000, "country": "canada", "share_price": 67, "categories": "software, tech"}
+{"name": "descartes systems", "market_cap": 5700000000, "country": "canada", "share_price": 67, "categories": "software, tech"}
 {"name": "mapletree logistics trust", "market_cap": 5700000000, "country": "singapore", "share_price": 1, "categories": "realestate, investment, reits"}
 {"name": "new york times", "market_cap": 5700000000, "country": "usa", "share_price": 34, "categories": "mediapress"}
 {"name": "synovus", "market_cap": 5710000000, "country": "usa", "share_price": 39, "categories": ""}
 {"name": "world wrestling entertainment", "market_cap": 5740000000, "country": "usa", "share_price": 77, "categories": "entertainment, mediapress"}
 {"name": "national fuel gas", "market_cap": 5730000000, "country": "usa", "share_price": 62, "categories": ""}
 {"name": "convatec group", "market_cap": 5730000000, "country": "uk", "share_price": 2, "categories": "medicaldevices"}
-{"name": "generac power syste", "market_cap": 5740000000, "country": "usa", "share_price": 90, "categories": "manufacturing"}
+{"name": "generac power systems", "market_cap": 5740000000, "country": "usa", "share_price": 90, "categories": "manufacturing"}
 {"name": "asset world corp", "market_cap": 5750000000, "country": "thailand", "share_price": 0, "categories": "realestate"}
 {"name": "axalta", "market_cap": 5750000000, "country": "usa", "share_price": 26, "categories": "paintcoating"}
 {"name": "pinnacle financial partners", "market_cap": 5750000000, "country": "usa", "share_price": 75, "categories": ""}
@@ -5610,7 +5610,7 @@
 {"name": "samvardhana motherson", "market_cap": 6050000000, "country": "india", "share_price": 0, "categories": "automotivesuppliers"}
 {"name": "makita", "market_cap": 6060000000, "country": "japan", "share_price": 22, "categories": "toolmanufacturers, manufacturing"}
 {"name": "aselsan", "market_cap": 6070000000, "country": "turkey", "share_price": 2, "categories": "defensecontractors"}
-{"name": "allegro microsyste", "market_cap": 6080000000, "country": "usa", "share_price": 31, "categories": "semiconductors, tech, techhardware"}
+{"name": "allegro microsystems", "market_cap": 6080000000, "country": "usa", "share_price": 31, "categories": "semiconductors, tech, techhardware"}
 {"name": "lithia motors", "market_cap": 6080000000, "country": "usa", "share_price": 222, "categories": "carretail, retail"}
 {"name": "mohawk industries", "market_cap": 6080000000, "country": "usa", "share_price": 95, "categories": ""}
 {"name": "helvetia holding", "market_cap": 6090000000, "country": "switzerland", "share_price": 115, "categories": "insurance"}
@@ -5622,7 +5622,7 @@
 {"name": "atacadao", "market_cap": 6110000000, "country": "brazil", "share_price": 2, "categories": "retail, supermarketchains"}
 {"name": "quidelortho", "market_cap": 6110000000, "country": "usa", "share_price": 92, "categories": "healthcare, diagnosticsandtesting, manufacturing"}
 {"name": "nedbank", "market_cap": 6120000000, "country": "south africa", "share_price": 12, "categories": "banks, financialservices"}
-{"name": "saara", "market_cap": 6120000000, "country": "usa", "share_price": 11, "categories": "iot, tech, techhardware, software"}
+{"name": "samsara", "market_cap": 6120000000, "country": "usa", "share_price": 11, "categories": "iot, tech, techhardware, software"}
 {"name": "industrial bank of korea ibk", "market_cap": 6120000000, "country": "south korea", "share_price": 8, "categories": "banks, financialservices"}
 {"name": "pdc energy", "market_cap": 6120000000, "country": "usa", "share_price": 66, "categories": ""}
 {"name": "dxc technology", "market_cap": 6120000000, "country": "usa", "share_price": 26, "categories": "itservices, professionalservices"}
@@ -5708,7 +5708,7 @@
 {"name": "capcom", "market_cap": 6620000000, "country": "japan", "share_price": 31, "categories": "videogames"}
 {"name": "ocado", "market_cap": 6630000000, "country": "uk", "share_price": 8, "categories": "retail, ecommerce, internet, tech, food"}
 {"name": "murphy oil", "market_cap": 6630000000, "country": "usa", "share_price": 42, "categories": ""}
-{"name": "inspire medical syste", "market_cap": 6630000000, "country": "usa", "share_price": 229, "categories": ""}
+{"name": "inspire medical systems", "market_cap": 6630000000, "country": "usa", "share_price": 229, "categories": ""}
 {"name": "grifols", "market_cap": 6630000000, "country": "spain", "share_price": 7, "categories": ""}
 {"name": "organon", "market_cap": 6630000000, "country": "usa", "share_price": 26, "categories": "pharmaceuticals, biotech"}
 {"name": "treasury wine estates", "market_cap": 6630000000, "country": "australia", "share_price": 9, "categories": "beverages, alcoholicbeverages"}
@@ -5789,12 +5789,12 @@
 {"name": "orion corporation", "market_cap": 7420000000, "country": "finland", "share_price": 52, "categories": "pharmaceuticals, biotech"}
 {"name": "japan exchange group", "market_cap": 7410000000, "country": "japan", "share_price": 14, "categories": "stockexchanges, financialservices, stockcryptoexchanges"}
 {"name": "cholamandalam investment and finance", "market_cap": 7400000000, "country": "india", "share_price": 9, "categories": "investment, financialservices"}
-{"name": "mobile telesyste", "market_cap": 7430000000, "country": "russia", "share_price": 4, "categories": "telecommunication"}
+{"name": "mobile telesystems", "market_cap": 7430000000, "country": "russia", "share_price": 4, "categories": "telecommunication"}
 {"name": "diasorin", "market_cap": 7430000000, "country": "italy", "share_price": 133, "categories": ""}
 {"name": "petgas petronas gas", "market_cap": 7430000000, "country": "malaysia", "share_price": 3, "categories": "oilgas, energy, utilitycompanies, infrastructure"}
 {"name": "uwm holdings", "market_cap": 7430000000, "country": "usa", "share_price": 4, "categories": "financialservices"}
 {"name": "middleby", "market_cap": 7440000000, "country": "usa", "share_price": 138, "categories": ""}
-{"name": "willia-sonoma", "market_cap": 7440000000, "country": "usa", "share_price": 111, "categories": "retail, homekitchenappliances, furniture"}
+{"name": "williams-sonoma", "market_cap": 7440000000, "country": "usa", "share_price": 111, "categories": "retail, homekitchenappliances, furniture"}
 {"name": "icici lombard", "market_cap": 7440000000, "country": "india", "share_price": 15, "categories": "insurance"}
 {"name": "wh group", "market_cap": 7440000000, "country": "hong kong", "share_price": 0, "categories": "food"}
 {"name": "acadia healthcare", "market_cap": 7450000000, "country": "usa", "share_price": 81, "categories": ""}
@@ -5826,7 +5826,7 @@
 {"name": "nrg energy", "market_cap": 7630000000, "country": "usa", "share_price": 33, "categories": ""}
 {"name": "sagax", "market_cap": 7580000000, "country": "sweden", "share_price": 22, "categories": "realestate, investment, reits"}
 {"name": "sofina", "market_cap": 7630000000, "country": "belgium", "share_price": 227, "categories": ""}
-{"name": "elbit syste", "market_cap": 7660000000, "country": "israel", "share_price": 171, "categories": ""}
+{"name": "elbit systems", "market_cap": 7660000000, "country": "israel", "share_price": 171, "categories": ""}
 {"name": "jones lang lasalle", "market_cap": 7650000000, "country": "usa", "share_price": 161, "categories": ""}
 {"name": "fortune brands home & security", "market_cap": 7660000000, "country": "usa", "share_price": 59, "categories": ""}
 {"name": "dish network", "market_cap": 7660000000, "country": "usa", "share_price": 14, "categories": "telecommunication"}
@@ -5929,13 +5929,13 @@
 {"name": "evonik industries", "market_cap": 8800000000, "country": "germany", "share_price": 18, "categories": "chemicals"}
 {"name": "adt", "market_cap": 8790000000, "country": "usa", "share_price": 9, "categories": ""}
 {"name": "new hope liuhe", "market_cap": 8800000000, "country": "china", "share_price": 1, "categories": ""}
-{"name": "knorr-bree", "market_cap": 8830000000, "country": "germany", "share_price": 54, "categories": "automotivesuppliers"}
+{"name": "knorr-bremse", "market_cap": 8830000000, "country": "germany", "share_price": 54, "categories": "automotivesuppliers"}
 {"name": "cullen/frost bankers", "market_cap": 8830000000, "country": "usa", "share_price": 137, "categories": ""}
 {"name": "bharat petroleum", "market_cap": 8840000000, "country": "india", "share_price": 4, "categories": ""}
 {"name": "getlink", "market_cap": 8850000000, "country": "france", "share_price": 16, "categories": "railways, transportation"}
 {"name": "tfi international", "market_cap": 8860000000, "country": "canada", "share_price": 101, "categories": "transportation, courier"}
 {"name": "tapestry", "market_cap": 8850000000, "country": "usa", "share_price": 36, "categories": "clothing"}
-{"name": "dr reddy's", "market_cap": 8860000000, "country": "india", "share_price": 53, "categories": "pharmaceuticals, biotech"}
+{"name": "reddy's", "market_cap": 8860000000, "country": "india", "share_price": 53, "categories": "pharmaceuticals, biotech"}
 {"name": "asx", "market_cap": 8880000000, "country": "australia", "share_price": 45, "categories": "financialservices, stockexchanges, stockcryptoexchanges"}
 {"name": "sumitomo denki kogyo", "market_cap": 8880000000, "country": "japan", "share_price": 11, "categories": ""}
 {"name": "recordati", "market_cap": 8920000000, "country": "italy", "share_price": 42, "categories": "pharmaceuticals, biotech"}
@@ -6024,7 +6024,7 @@
 {"name": "hana financial group", "market_cap": 9900000000, "country": "south korea", "share_price": 33, "categories": "financialservices"}
 {"name": "spirax-sarco engineering", "market_cap": 9940000000, "country": "uk", "share_price": 131, "categories": "engineering, manufacturing"}
 {"name": "kakaobank", "market_cap": 9910000000, "country": "south korea", "share_price": 20, "categories": "banks, financialservices"}
-{"name": "saung life insurance", "market_cap": 9910000000, "country": "south korea", "share_price": 55, "categories": "insurance"}
+{"name": "samsung life insurance", "market_cap": 9910000000, "country": "south korea", "share_price": 55, "categories": "insurance"}
 {"name": "gold fields", "market_cap": 9940000000, "country": "south africa", "share_price": 11, "categories": "mining, goldmining"}
 {"name": "hongkong land", "market_cap": 9910000000, "country": "hong kong", "share_price": 4, "categories": "realestate, investment"}
 {"name": "five below", "market_cap": 9910000000, "country": "usa", "share_price": 178, "categories": ""}
@@ -6040,12 +6040,12 @@
 {"name": "deckers brands", "market_cap": 10000000000, "country": "usa", "share_price": 377, "categories": "footwear, retail"}
 {"name": "hua nan financial holdings", "market_cap": 10030000000, "country": "taiwan", "share_price": 0, "categories": "financialservices, banks"}
 {"name": "gerdau", "market_cap": 10020000000, "country": "brazil", "share_price": 5, "categories": "steelproducers, steelindustry"}
-{"name": "oon", "market_cap": 10030000000, "country": "japan", "share_price": 50, "categories": "electronics"}
+{"name": "omron", "market_cap": 10030000000, "country": "japan", "share_price": 50, "categories": "electronics"}
 {"name": "ana holdings", "market_cap": 10020000000, "country": "japan", "share_price": 21, "categories": "airlines, travel, transportation"}
 {"name": "turkish airlines", "market_cap": 10050000000, "country": "turkey", "share_price": 7, "categories": "airlines, travel, transportation"}
 {"name": "agco", "market_cap": 10040000000, "country": "usa", "share_price": 134, "categories": "agriculture"}
 {"name": "sasol", "market_cap": 10050000000, "country": "south africa", "share_price": 15, "categories": "oilgas, energy, chemicals"}
-{"name": "raay health care", "market_cap": 10060000000, "country": "australia", "share_price": 43, "categories": "healthcare, medicalcarefacilities"}
+{"name": "ramsay health care", "market_cap": 10060000000, "country": "australia", "share_price": 43, "categories": "healthcare, medicalcarefacilities"}
 {"name": "asahi kasei", "market_cap": 10090000000, "country": "japan", "share_price": 7, "categories": "chemicals"}
 {"name": "entain", "market_cap": 10080000000, "country": "isle of man", "share_price": 16, "categories": "entertainment, gambling, videogames, tech, internet"}
 {"name": "watsco", "market_cap": 10070000000, "country": "usa", "share_price": 256, "categories": ""}
@@ -6108,7 +6108,7 @@
 {"name": "celanese", "market_cap": 11040000000, "country": "usa", "share_price": 101, "categories": "chemicals"}
 {"name": "hotai motor", "market_cap": 11030000000, "country": "taiwan", "share_price": 20, "categories": "automakers"}
 {"name": "sumitomo mitsui trust holdings", "market_cap": 11040000000, "country": "japan", "share_price": 30, "categories": ""}
-{"name": "bentley syste", "market_cap": 11100000000, "country": "usa", "share_price": 38, "categories": "software, tech"}
+{"name": "bentley systems", "market_cap": 11100000000, "country": "usa", "share_price": 38, "categories": "software, tech"}
 {"name": "brambles", "market_cap": 11050000000, "country": "australia", "share_price": 7, "categories": "transportation"}
 {"name": "israel chemicals", "market_cap": 11080000000, "country": "israel", "share_price": 8, "categories": "chemicals, fertilizercompanies"}
 {"name": "qiagen", "market_cap": 11130000000, "country": "netherlands", "share_price": 48, "categories": "dax, biotech"}
@@ -6137,7 +6137,7 @@
 {"name": "equitable holdings", "market_cap": 11350000000, "country": "usa", "share_price": 30, "categories": "financialservices, insurance"}
 {"name": "delivery hero", "market_cap": 11360000000, "country": "germany", "share_price": 42, "categories": "dax, internet, fooddelivery, food, tech"}
 {"name": "unilever indonesia", "market_cap": 11380000000, "country": "indonesia", "share_price": 0, "categories": "food, consumergoods"}
-{"name": "abn ao", "market_cap": 11390000000, "country": "netherlands", "share_price": 12, "categories": ""}
+{"name": "abn amro", "market_cap": 11390000000, "country": "netherlands", "share_price": 12, "categories": ""}
 {"name": "siam cement", "market_cap": 11420000000, "country": "thailand", "share_price": 9, "categories": "cement, buildingmaterials"}
 {"name": "bouygues", "market_cap": 11390000000, "country": "france", "share_price": 30, "categories": "construction, cac40, conglomerate"}
 {"name": "mtu aero engines", "market_cap": 11390000000, "country": "germany", "share_price": 213, "categories": "dax, aerospace"}
@@ -6315,14 +6315,14 @@
 {"name": "textron", "market_cap": 15150000000, "country": "usa", "share_price": 72, "categories": "conglomerate"}
 {"name": "coles group", "market_cap": 15160000000, "country": "australia", "share_price": 11, "categories": "retail"}
 {"name": "aviva", "market_cap": 15170000000, "country": "uk", "share_price": 5, "categories": "insurance"}
-{"name": "&ad insurance", "market_cap": 15140000000, "country": "japan", "share_price": 28, "categories": "insurance"}
+{"name": "ms&ad insurance", "market_cap": 15140000000, "country": "japan", "share_price": 28, "categories": "insurance"}
 {"name": "adani power", "market_cap": 15170000000, "country": "india", "share_price": 3, "categories": "electricity, energy"}
 {"name": "nippon steel", "market_cap": 15260000000, "country": "japan", "share_price": 16, "categories": "steelproducers, steelindustry"}
 {"name": "xl axiata", "market_cap": 15270000000, "country": "indonesia", "share_price": 0, "categories": "telecommunication"}
 {"name": "pchem petronas chemicals group", "market_cap": 15280000000, "country": "malaysia", "share_price": 1, "categories": "chemicals"}
 {"name": "bank of nanjing", "market_cap": 15330000000, "country": "china", "share_price": 1, "categories": "banks, financialservices"}
 {"name": "norsk hydro", "market_cap": 15330000000, "country": "norway", "share_price": 7, "categories": ""}
-{"name": "syise", "market_cap": 15380000000, "country": "germany", "share_price": 110, "categories": "flavorsfragrances, dax"}
+{"name": "symrise", "market_cap": 15380000000, "country": "germany", "share_price": 110, "categories": "flavorsfragrances, dax"}
 {"name": "pinterest", "market_cap": 15380000000, "country": "usa", "share_price": 22, "categories": "internet"}
 {"name": "sbi life insurance", "market_cap": 15380000000, "country": "india", "share_price": 15, "categories": "insurance"}
 {"name": "danske bank", "market_cap": 15430000000, "country": "denmark", "share_price": 18, "categories": "banks, financialservices"}
@@ -6396,7 +6396,7 @@
 {"name": "ajinomoto", "market_cap": 17230000000, "country": "japan", "share_price": 32, "categories": "food"}
 {"name": "aeon", "market_cap": 17310000000, "country": "japan", "share_price": 20, "categories": "retail, supermarketchains"}
 {"name": "chongqing changan", "market_cap": 17250000000, "country": "china", "share_price": 1, "categories": "automakers, manufacturing"}
-{"name": "monolithic power syste", "market_cap": 17260000000, "country": "usa", "share_price": 367, "categories": "electronics, tech, techhardware, semiconductors"}
+{"name": "monolithic power systems", "market_cap": 17260000000, "country": "usa", "share_price": 367, "categories": "electronics, tech, techhardware, semiconductors"}
 {"name": "huatai securities", "market_cap": 17320000000, "country": "china", "share_price": 17, "categories": ""}
 {"name": "vantage towers", "market_cap": 17340000000, "country": "germany", "share_price": 34, "categories": "telecommunication, infrastructure, realestate"}
 {"name": "solaredge", "market_cap": 17370000000, "country": "israel", "share_price": 310, "categories": "energy, electricity, renewableenergy"}
@@ -6414,7 +6414,7 @@
 {"name": "china southern airlines", "market_cap": 17720000000, "country": "china", "share_price": 31, "categories": "airlines, travel, transportation"}
 {"name": "essity", "market_cap": 17730000000, "country": "sweden", "share_price": 25, "categories": ""}
 {"name": "dollarama", "market_cap": 17730000000, "country": "canada", "share_price": 61, "categories": ""}
-{"name": "c energy", "market_cap": 17740000000, "country": "usa", "share_price": 61, "categories": "electricity, energy, utilitycompanies"}
+{"name": "cenergy", "market_cap": 17740000000, "country": "usa", "share_price": 61, "categories": "electricity, energy, utilitycompanies"}
 {"name": "idex", "market_cap": 17720000000, "country": "usa", "share_price": 235, "categories": ""}
 {"name": "china communications construction", "market_cap": 17750000000, "country": "china", "share_price": 1, "categories": "engineering, construction"}
 {"name": "veolia", "market_cap": 17830000000, "country": "france", "share_price": 25, "categories": "cac40, wasterecycling"}
@@ -6440,7 +6440,7 @@
 {"name": "mid-america apartment communities", "market_cap": 18890000000, "country": "usa", "share_price": 159, "categories": "realestate, reits, investment"}
 {"name": "steel dynamics", "market_cap": 18890000000, "country": "usa", "share_price": 107, "categories": "steelproducers, steelindustry"}
 {"name": "hologic", "market_cap": 18140000000, "country": "usa", "share_price": 73, "categories": "medicaldevices"}
-{"name": "coca-cola fea", "market_cap": 18900000000, "country": "mexico", "share_price": 67, "categories": "beverages"}
+{"name": "coca-cola femsa", "market_cap": 18900000000, "country": "mexico", "share_price": 67, "categories": "beverages"}
 {"name": "nan ya plastics", "market_cap": 18970000000, "country": "taiwan", "share_price": 2, "categories": "chemicals"}
 {"name": "china tower", "market_cap": 18980000000, "country": "china", "share_price": 0, "categories": "telecommunication, infrastructure"}
 {"name": "pembina pipeline", "market_cap": 19000000000, "country": "canada", "share_price": 34, "categories": "oilgas, transportation, infrastructure, energy"}
@@ -6451,7 +6451,7 @@
 {"name": "vonovia", "market_cap": 19190000000, "country": "germany", "share_price": 24, "categories": "realestate, dax, reits"}
 {"name": "centerpoint energy", "market_cap": 19130000000, "country": "usa", "share_price": 30, "categories": "electricity, energy"}
 {"name": "aker bp", "market_cap": 19200000000, "country": "norway", "share_price": 30, "categories": "oilgas, energy"}
-{"name": "mahindra & mahindra", "market_cap": 19220000000, "country": "india", "share_price": 15, "categories": "automakers"}
+{"name": "mahin& mahindra", "market_cap": 19220000000, "country": "india", "share_price": 15, "categories": "automakers"}
 {"name": "texas pacific land trust", "market_cap": 19210000000, "country": "usa", "share_price": 2, "categories": ""}
 {"name": "h&m", "market_cap": 19230000000, "country": "sweden", "share_price": 11, "categories": "clothing, retail"}
 {"name": "fortis", "market_cap": 19250000000, "country": "canada", "share_price": 39, "categories": "utilitycompanies, electricity, energy"}
@@ -6485,12 +6485,12 @@
 {"name": "michelin", "market_cap": 19780000000, "country": "france", "share_price": 27, "categories": "tires, cac40"}
 {"name": "w r berkley", "market_cap": 19810000000, "country": "usa", "share_price": 74, "categories": "insurance"}
 {"name": "molina healthcare", "market_cap": 19810000000, "country": "usa", "share_price": 339, "categories": "healthcare, insurance"}
-{"name": "epam syste", "market_cap": 19910000000, "country": "usa", "share_price": 338, "categories": "professionalservices, itservices, software, tech"}
+{"name": "epam systems", "market_cap": 19910000000, "country": "usa", "share_price": 338, "categories": "professionalservices, itservices, software, tech"}
 {"name": "xylem", "market_cap": 20000000000, "country": "usa", "share_price": 110, "categories": ""}
 {"name": "beigene", "market_cap": 20080000000, "country": "china", "share_price": 193, "categories": "pharmaceuticals"}
 {"name": "ntpc limited", "market_cap": 20060000000, "country": "india", "share_price": 2, "categories": ""}
 {"name": "coterra energy", "market_cap": 20090000000, "country": "usa", "share_price": 25, "categories": "energy, oilgas"}
-{"name": "m3, inc", "market_cap": 20030000000, "country": "japan", "share_price": 29, "categories": "healthcare, internet, tech, software"}
+{"name": "m3 inc", "market_cap": 20030000000, "country": "japan", "share_price": 29, "categories": "healthcare, internet, tech, software"}
 {"name": "nibe industrier", "market_cap": 20150000000, "country": "sweden", "share_price": 9, "categories": ""}
 {"name": "longfor group", "market_cap": 20120000000, "country": "china", "share_price": 3, "categories": ""}
 {"name": "eisai", "market_cap": 20160000000, "country": "japan", "share_price": 70, "categories": "pharmaceuticals"}
@@ -6517,7 +6517,7 @@
 {"name": "first republic bank", "market_cap": 21410000000, "country": "usa", "share_price": 117, "categories": "banks, financialservices"}
 {"name": "argenx", "market_cap": 21630000000, "country": "netherlands", "share_price": 384, "categories": "pharmaceuticals"}
 {"name": "telefonica", "market_cap": 21500000000, "country": "spain", "share_price": 3, "categories": "telecommunication"}
-{"name": "udr apartments", "market_cap": 21500000000, "country": "usa", "share_price": 39, "categories": ""}
+{"name": "uapartments", "market_cap": 21500000000, "country": "usa", "share_price": 39, "categories": ""}
 {"name": "datadog", "market_cap": 21680000000, "country": "usa", "share_price": 68, "categories": "software, internet, tech"}
 {"name": "epiroc", "market_cap": 21620000000, "country": "sweden", "share_price": 18, "categories": "machinerymanufacturing, manufacturing"}
 {"name": "ericsson", "market_cap": 21760000000, "country": "sweden", "share_price": 6, "categories": "telecommunicationsequipment, tech"}
@@ -6592,7 +6592,7 @@
 {"name": "saic motor", "market_cap": 25540000000, "country": "china", "share_price": 2, "categories": "automakers, manufacturing"}
 {"name": "imperial brands", "market_cap": 24120000000, "country": "uk", "share_price": 25, "categories": "tobacco"}
 {"name": "ferguson", "market_cap": 25640000000, "country": "uk", "share_price": 123, "categories": ""}
-{"name": "veeva syste", "market_cap": 25660000000, "country": "usa", "share_price": 165, "categories": "software, tech"}
+{"name": "veeva systems", "market_cap": 25660000000, "country": "usa", "share_price": 165, "categories": "software, tech"}
 {"name": "mobileye", "market_cap": 25910000000, "country": "israel", "share_price": 32, "categories": "autonomousdriving, software, tech"}
 {"name": "genuine parts company", "market_cap": 25810000000, "country": "usa", "share_price": 182, "categories": ""}
 {"name": "fujitsu", "market_cap": 25920000000, "country": "japan", "share_price": 133, "categories": "itservices, professionalservices"}
@@ -6621,7 +6621,7 @@
 {"name": "japan post holdings", "market_cap": 26950000000, "country": "japan", "share_price": 7, "categories": "courier"}
 {"name": "gartner", "market_cap": 27060000000, "country": "usa", "share_price": 342, "categories": "professionalservices"}
 {"name": "t rowe price", "market_cap": 27090000000, "country": "usa", "share_price": 121, "categories": "investment"}
-{"name": "vestas wind syste", "market_cap": 27100000000, "country": "denmark", "share_price": 26, "categories": "renewableenergy, electricity, energy"}
+{"name": "vestas wind systems", "market_cap": 27100000000, "country": "denmark", "share_price": 26, "categories": "renewableenergy, electricity, energy"}
 {"name": "thales", "market_cap": 27090000000, "country": "france", "share_price": 127, "categories": "defensecontractors, cac40"}
 {"name": "shenzhen inovance", "market_cap": 27140000000, "country": "china", "share_price": 10, "categories": ""}
 {"name": "sun life financial", "market_cap": 27160000000, "country": "canada", "share_price": 46, "categories": "financialservices, insurance"}
@@ -6687,7 +6687,7 @@
 {"name": "bajaj finserv", "market_cap": 31290000000, "country": "india", "share_price": 19, "categories": "financialservices"}
 {"name": "peoples insurance company of china", "market_cap": 31270000000, "country": "china", "share_price": 0, "categories": "insurance"}
 {"name": "mizuho financial group", "market_cap": 31440000000, "country": "japan", "share_price": 2, "categories": "banks, financialservices"}
-{"name": "bae syste", "market_cap": 31610000000, "country": "uk", "share_price": 10, "categories": "defensecontractors, aerospace"}
+{"name": "bae systems", "market_cap": 31610000000, "country": "uk", "share_price": 10, "categories": "defensecontractors, aerospace"}
 {"name": "old dominion freight line", "market_cap": 31660000000, "country": "usa", "share_price": 286, "categories": "transportation"}
 {"name": "keysight", "market_cap": 31710000000, "country": "usa", "share_price": 177, "categories": "software, tech"}
 {"name": "interactive brokers", "market_cap": 31720000000, "country": "usa", "share_price": 76, "categories": "financialservices, internet"}
@@ -6783,9 +6783,9 @@
 {"name": "adani green energy", "market_cap": 39460000000, "country": "india", "share_price": 24, "categories": "renewableenergy, electricity, energy"}
 {"name": "banco santander brasil", "market_cap": 39650000000, "country": "brazil", "share_price": 5, "categories": "banks, financialservices"}
 {"name": "realty income", "market_cap": 39860000000, "country": "usa", "share_price": 63, "categories": "realestate, investment, reits"}
-{"name": "biontech", "market_cap": 39460000000, "country": "germany", "share_price": 162, "categories": "pharmaceuticals,  natherapeutics, biotech"}
+{"name": "biontech", "market_cap": 39460000000, "country": "germany", "share_price": 162, "categories": "pharmaceuticals, mrnatherapeutics, biotech"}
 {"name": "lukoil", "market_cap": 39920000000, "country": "russia", "share_price": 61, "categories": "oilgas, energy"}
-{"name": "ci", "market_cap": 40010000000, "country": "usa", "share_price": 500, "categories": "financialservices"}
+{"name": "msci", "market_cap": 40010000000, "country": "usa", "share_price": 500, "categories": "financialservices"}
 {"name": "nutrien", "market_cap": 39810000000, "country": "canada", "share_price": 76, "categories": "mining, fertilizercompanies"}
 {"name": "ross stores", "market_cap": 40030000000, "country": "usa", "share_price": 115, "categories": "retail, clothing"}
 {"name": "baidu", "market_cap": 40130000000, "country": "china", "share_price": 114, "categories": "internet, tech"}
@@ -6802,7 +6802,7 @@
 {"name": "honda", "market_cap": 40840000000, "country": "japan", "share_price": 23, "categories": "automakers, manufacturing"}
 {"name": "tokio marine", "market_cap": 41000000000, "country": "japan", "share_price": 20, "categories": "insurance"}
 {"name": "sk hynix", "market_cap": 41070000000, "country": "south korea", "share_price": 59, "categories": "semiconductors, tech, techhardware"}
-{"name": "willia companies", "market_cap": 41160000000, "country": "usa", "share_price": 33, "categories": "oilgas, energy"}
+{"name": "williacompanies", "market_cap": 41160000000, "country": "usa", "share_price": 33, "categories": "oilgas, energy"}
 {"name": "budweiser apac", "market_cap": 40990000000, "country": "hong kong", "share_price": 3, "categories": "alcoholicbeverages, beverages"}
 {"name": "fidelity national information services", "market_cap": 41070000000, "country": "usa", "share_price": 69, "categories": "financialservices, tech"}
 {"name": "intesa sanpaolo", "market_cap": 41340000000, "country": "italy", "share_price": 2, "categories": "banks, financialservices"}
@@ -6827,7 +6827,7 @@
 {"name": "constellation brands", "market_cap": 45500000000, "country": "usa", "share_price": 246, "categories": "alcoholicbeverages, beverages"}
 {"name": "netease", "market_cap": 45560000000, "country": "china", "share_price": 68, "categories": "videogames, entertainment, tech"}
 {"name": "hikvision", "market_cap": 45600000000, "country": "china", "share_price": 4, "categories": "electronics"}
-{"name": "kotak mahindra bank", "market_cap": 45720000000, "country": "india", "share_price": 23, "categories": "banks, financialservices"}
+{"name": "kotak mahinbank", "market_cap": 45720000000, "country": "india", "share_price": 23, "categories": "banks, financialservices"}
 {"name": "mitsui bussan", "market_cap": 45830000000, "country": "japan", "share_price": 29, "categories": ""}
 {"name": "corteva", "market_cap": 45550000000, "country": "usa", "share_price": 63, "categories": "agriculture, chemicals"}
 {"name": "foxconn hon hai precision industry", "market_cap": 45900000000, "country": "taiwan", "share_price": 3, "categories": "electronics, manufacturing, techhardware, tech"}
@@ -6892,7 +6892,7 @@
 {"name": "kla", "market_cap": 54990000000, "country": "usa", "share_price": 388, "categories": "semiconductors, tech, techhardware"}
 {"name": "relx", "market_cap": 55150000000, "country": "uk", "share_price": 28, "categories": ""}
 {"name": "adani enterprises", "market_cap": 55690000000, "country": "india", "share_price": 48, "categories": "conglomerate"}
-{"name": "thoon reuters", "market_cap": 55370000000, "country": "canada", "share_price": 115, "categories": "mediapress"}
+{"name": "thomson reuters", "market_cap": 55370000000, "country": "canada", "share_price": 115, "categories": "mediapress"}
 {"name": "truist financial", "market_cap": 55510000000, "country": "usa", "share_price": 41, "categories": "banks, financialservices"}
 {"name": "dollar general", "market_cap": 55660000000, "country": "usa", "share_price": 248, "categories": "retail"}
 {"name": "norfolk southern", "market_cap": 55920000000, "country": "usa", "share_price": 241, "categories": "railways, infrastructure"}
@@ -6941,7 +6941,7 @@
 {"name": "fiserv", "market_cap": 64980000000, "country": "usa", "share_price": 100, "categories": "financialservices, tech"}
 {"name": "csx corporation", "market_cap": 64980000000, "country": "usa", "share_price": 30, "categories": "railways, transportation, infrastructure"}
 {"name": "colgate-palmolive", "market_cap": 64769999999, "country": "usa", "share_price": 77, "categories": "consumergoods"}
-{"name": "sherwin-willia", "market_cap": 65069999999, "country": "usa", "share_price": 251, "categories": "paintcoating"}
+{"name": "sherwin-williams", "market_cap": 65069999999, "country": "usa", "share_price": 251, "categories": "paintcoating"}
 {"name": "boston scientific", "market_cap": 65349999999, "country": "usa", "share_price": 45, "categories": "medicaldevices"}
 {"name": "walmex", "market_cap": 65180000000, "country": "mexico", "share_price": 3, "categories": "retail, supermarketchains"}
 {"name": "softbank", "market_cap": 66440000000, "country": "japan", "share_price": 44, "categories": "investment, financialservices, telecommunication, conglomerate"}
@@ -7066,8 +7066,8 @@
 {"name": "novo nordisk", "market_cap": 284300000000, "country": "denmark", "share_price": 125, "categories": "pharmaceuticals, biotech"}
 {"name": "abbvie", "market_cap": 292500000000, "country": "usa", "share_price": 165, "categories": "biotech, pharmaceuticals"}
 {"name": "merck", "market_cap": 279120000000, "country": "usa", "share_price": 110, "categories": "pharmaceuticals, dowjones, biotech"}
-{"name": "saung", "market_cap": 301530000000, "country": "south korea", "share_price": 44, "categories": "tech, electronics, techhardware, manufacturing, semiconductors"}
-{"name": "meta platfor facebook", "market_cap": 302090000000, "country": "usa", "share_price": 113, "categories": "tech, internet"}
+{"name": "samsung", "market_cap": 301530000000, "country": "south korea", "share_price": 44, "categories": "tech, electronics, techhardware, manufacturing, semiconductors"}
+{"name": "meta platforfacebook", "market_cap": 302090000000, "country": "usa", "share_price": 113, "categories": "tech, internet"}
 {"name": "kweichow moutai", "market_cap": 304020000000, "country": "china", "share_price": 242, "categories": "alcoholicbeverages, beverages"}
 {"name": "nestle", "market_cap": 319530000000, "country": "switzerland", "share_price": 116, "categories": "food"}
 {"name": "chevron", "market_cap": 333590000000, "country": "usa", "share_price": 172, "categories": "oilgas, dowjones, energy"}

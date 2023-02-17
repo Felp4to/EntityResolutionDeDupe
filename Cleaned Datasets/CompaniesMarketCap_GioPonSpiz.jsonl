@@ -1,6 +1,6 @@
 {"name":"apple","codice":"aapl","pricecap":2142999999999,"price":134,"country":"usa"}
 {"name":"saudi aramco","codice":"2222.sr","pricecap":1878000000000,"price":8,"country":"s. arabia"}
-{"name":"microsoft","codice":" ft","pricecap":1783000000000,"price":239,"country":"usa"}
+{"name":"microsoft","codice":"msft","pricecap":1783000000000,"price":239,"country":"usa"}
 {"name":"alphabet google","codice":"goog","pricecap":1195000000000,"price":92,"country":"usa"}
 {"name":"amazon","codice":"amzn","pricecap":1000000000000,"price":98,"country":"usa"}
 {"name":"berkshire hathaway","codice":"brk-b","pricecap":700570000000,"price":317,"country":"usa"}
@@ -16,17 +16,17 @@
 {"name":"walmart","codice":"wmt","pricecap":391810000000,"price":145,"country":"usa"}
 {"name":"tesla","codice":"tsla","pricecap":386500000000,"price":122,"country":"usa"}
 {"name":"mastercard","codice":"ma","pricecap":361040000000,"price":375,"country":"usa"}
-{"name":"meta platfor facebook","codice":"meta","pricecap":359180000000,"price":136,"country":"usa"}
+{"name":"meta platforfacebook","codice":"meta","pricecap":359180000000,"price":136,"country":"usa"}
 {"name":"kweichow moutai","codice":"600519.ss","pricecap":358620000000,"price":285,"country":"china"}
 {"name":"procter & gamble","codice":"pg","pricecap":357540000000,"price":150,"country":"usa"}
 {"name":"eli lilly","codice":"lly","pricecap":343600000000,"price":361,"country":"usa"}
 {"name":"chevron","codice":"cvx","pricecap":343330000000,"price":177,"country":"usa"}
 {"name":"nestle","codice":"nesn.sw","pricecap":339240000000,"price":123,"country":"switzerland"}
 {"name":"home depot","codice":"hd","pricecap":337560000000,"price":331,"country":"usa"}
-{"name":"saung","codice":"005930.ks","pricecap":331690000000,"price":49,"country":"s. korea"}
+{"name":"samsung","codice":"005930.ks","pricecap":331690000000,"price":49,"country":"s. korea"}
 {"name":"alibaba","codice":"baba","pricecap":310680000000,"price":117,"country":"china"}
 {"name":"novo nordisk","codice":"nvo","pricecap":306650000000,"price":136,"country":"denmark"}
-{"name":"merck","codice":" k","pricecap":284590000000,"price":112,"country":"usa"}
+{"name":"merck","codice":"mrk","pricecap":284590000000,"price":112,"country":"usa"}
 {"name":"bank of america","codice":"bac","pricecap":281720000000,"price":35,"country":"usa"}
 {"name":"abbvie","codice":"abbv","pricecap":271630000000,"price":153,"country":"usa"}
 {"name":"pfizer","codice":"pfe","pricecap":268589999999,"price":47,"country":"usa"}
@@ -52,7 +52,7 @@
 {"name":"novartis","codice":"nvs","pricecap":195870000000,"price":91,"country":"switzerland"}
 {"name":"toyota","codice":"tm","pricecap":191420000000,"price":140,"country":"japan"}
 {"name":"t-mobile us","codice":"tmus","pricecap":186220000000,"price":149,"country":"usa"}
-{"name":"hermes","codice":"r .pa","pricecap":184590000000,"price":1,"country":"france"}
+{"name":"hermes","codice":"rms.pa","pricecap":184590000000,"price":1,"country":"france"}
 {"name":"walt disney","codice":"dis","pricecap":181260000000,"price":99,"country":"usa"}
 {"name":"accenture","codice":"acn","pricecap":177810000000,"price":282,"country":"ireland"}
 {"name":"verizon","codice":"vz","pricecap":175800000000,"price":41,"country":"usa"}
@@ -69,7 +69,7 @@
 {"name":"totalenergies","codice":"tte","pricecap":160030000000,"price":64,"country":"france"}
 {"name":"philip morris","codice":"pm","pricecap":157650000000,"price":101,"country":"usa"}
 {"name":"united parcel service","codice":"ups","pricecap":157540000000,"price":182,"country":"usa"}
-{"name":"morgan stanley","codice":" ","pricecap":154910000000,"price":91,"country":"usa"}
+{"name":"morgan stanley","codice":"ms","pricecap":154910000000,"price":91,"country":"usa"}
 {"name":"charles schwab","codice":"schw","pricecap":154900000000,"price":82,"country":"usa"}
 {"name":"china mobile","codice":"0941.hk","pricecap":154540000000,"price":7,"country":"china"}
 {"name":"bristol-myers squibb","codice":"bmy","pricecap":154160000000,"price":72,"country":"usa"}
@@ -147,7 +147,7 @@
 {"name":"estee lauder","codice":"el","pricecap":95340000000,"price":267,"country":"usa"}
 {"name":"chubb","codice":"cb","pricecap":94290000000,"price":227,"country":"switzerland"}
 {"name":"tjx companies","codice":"tjx","pricecap":94200000000,"price":81,"country":"usa"}
-{"name":"merck kgaa","codice":" k.de","pricecap":94030000000,"price":216,"country":"germany"}
+{"name":"merck kgaa","codice":"mrk.de","pricecap":94030000000,"price":216,"country":"germany"}
 {"name":"inditex","codice":"idexy","pricecap":93010000000,"price":14,"country":"spain"}
 {"name":"applied materials","codice":"amat","pricecap":92830000000,"price":109,"country":"usa"}
 {"name":"mondelez","codice":"mdlz","pricecap":91570000000,"price":67,"country":"usa"}
@@ -189,7 +189,7 @@
 {"name":"hindustan unilever","codice":"hindunilvr.ns","pricecap":75100000000,"price":31,"country":"india"}
 {"name":"zoetis","codice":"zts","pricecap":75000000000,"price":160,"country":"usa"}
 {"name":"kering","codice":"ker.pa","pricecap":74480000000,"price":609,"country":"france"}
-{"name":"moderna","codice":" na","pricecap":73760000000,"price":192,"country":"usa"}
+{"name":"moderna","codice":"mrna","pricecap":73760000000,"price":192,"country":"usa"}
 {"name":"canadian pacific railway","codice":"cp","pricecap":73660000000,"price":79,"country":"canada"}
 {"name":"hca healthcare","codice":"hca","pricecap":73180000000,"price":258,"country":"usa"}
 {"name":"becton dickinson","codice":"bdx","pricecap":72720000000,"price":255,"country":"usa"}
@@ -232,7 +232,7 @@
 {"name":"lam research","codice":"lrcx","pricecap":64590000000,"price":473,"country":"usa"}
 {"name":"kddi","codice":"9433.t","pricecap":64560000000,"price":29,"country":"japan"}
 {"name":"freeport-mcmoran","codice":"fcx","pricecap":64390000000,"price":45,"country":"usa"}
-{"name":"sherwin-willia","codice":"shw","pricecap":63710000000,"price":245,"country":"usa"}
+{"name":"sherwin-williams","codice":"shw","pricecap":63710000000,"price":245,"country":"usa"}
 {"name":"enel","codice":"enel.mi","pricecap":63640000000,"price":6,"country":"italy"}
 {"name":"canadian natural resources","codice":"cnq","pricecap":63560000000,"price":57,"country":"canada"}
 {"name":"airbnb","codice":"abnb","pricecap":63550000000,"price":100,"country":"usa"}
@@ -276,12 +276,12 @@
 {"name":"verbund ag","codice":"oewa.f","pricecap":57540000000,"price":82,"country":"austria"}
 {"name":"heineken","codice":"heia.as","pricecap":57260000000,"price":99,"country":"netherlands"}
 {"name":"marathon petroleum","codice":"mpc","pricecap":57140000000,"price":121,"country":"usa"}
-{"name":"emerson","codice":"e ","pricecap":57010000000,"price":97,"country":"usa"}
+{"name":"emerson","codice":"emr","pricecap":57010000000,"price":97,"country":"usa"}
 {"name":"fast retailing","codice":"9983.t","pricecap":56990000000,"price":557,"country":"japan"}
 {"name":"pioneer natural resources","codice":"pxd","pricecap":56780000000,"price":238,"country":"usa"}
 {"name":"santander","codice":"san","pricecap":56750000000,"price":3,"country":"spain"}
 {"name":"industrial bank","codice":"601166.ss","pricecap":56520000000,"price":2,"country":"china"}
-{"name":"thoon reuters","codice":"tri","pricecap":56470000000,"price":117,"country":"canada"}
+{"name":"thomson reuters","codice":"tri","pricecap":56470000000,"price":117,"country":"canada"}
 {"name":"metlife","codice":"met","pricecap":56420000000,"price":71,"country":"usa"}
 {"name":"enterprise products","codice":"epd","pricecap":56020000000,"price":25,"country":"usa"}
 {"name":"relx","codice":"relx","pricecap":55760000000,"price":29,"country":"uk"}
@@ -315,7 +315,7 @@
 {"name":"recruit","codice":"6098.t","pricecap":50720000000,"price":31,"country":"japan"}
 {"name":"edf electricite de france","codice":"edf.pa","pricecap":50670000000,"price":13,"country":"france"}
 {"name":"sempra energy","codice":"sre","pricecap":50550000000,"price":160,"country":"usa"}
-{"name":"keurig dr pepper","codice":"kdp","pricecap":50540000000,"price":35,"country":"usa"}
+{"name":"keurig pepper","codice":"kdp","pricecap":50540000000,"price":35,"country":"usa"}
 {"name":"adani total gas","codice":"atgl.ns","pricecap":50520000000,"price":45,"country":"india"}
 {"name":"saudi telecom company","codice":"7010.sr","pricecap":50470000000,"price":10,"country":"s. arabia"}
 {"name":"itc","codice":"itc.ns","pricecap":50440000000,"price":4,"country":"india"}
@@ -358,8 +358,8 @@
 {"name":"the hershey company","codice":"hsy","pricecap":46470000000,"price":226,"country":"usa"}
 {"name":"agilent technologies","codice":"a","pricecap":46450000000,"price":156,"country":"usa"}
 {"name":"national grid","codice":"ngg","pricecap":46430000000,"price":63,"country":"uk"}
-{"name":"cadence design syste","codice":"cdns","pricecap":46430000000,"price":169,"country":"usa"}
-{"name":"saung biologics","codice":"207940.ks","pricecap":46420000000,"price":652,"country":"s. korea"}
+{"name":"cadence design systems","codice":"cdns","pricecap":46430000000,"price":169,"country":"usa"}
+{"name":"samsung biologics","codice":"207940.ks","pricecap":46420000000,"price":652,"country":"s. korea"}
 {"name":"hitachi","codice":"6501.t","pricecap":46280000000,"price":49,"country":"japan"}
 {"name":"kimberly-clark","codice":"kmb","pricecap":46170000000,"price":136,"country":"usa"}
 {"name":"itochu shoji","codice":"8001.t","pricecap":45790000000,"price":31,"country":"japan"}
@@ -379,7 +379,7 @@
 {"name":"zijin mining","codice":"601899.ss","pricecap":44700000000,"price":1,"country":"china"}
 {"name":"sf express","codice":"002352.sz","pricecap":44630000000,"price":9,"country":"china"}
 {"name":"nxp semiconductors","codice":"nxpi","pricecap":44520000000,"price":171,"country":"netherlands"}
-{"name":"motorola solutions","codice":" i","pricecap":44470000000,"price":266,"country":"usa"}
+{"name":"motorola solutions","codice":"msi","pricecap":44470000000,"price":266,"country":"usa"}
 {"name":"autozone","codice":"azo","pricecap":44450000000,"price":2,"country":"usa"}
 {"name":"east money information","codice":"300059.sz","pricecap":44410000000,"price":3,"country":"china"}
 {"name":"bayan resources","codice":"byan.jk","pricecap":44250000000,"price":1,"country":"indonesia"}
@@ -388,7 +388,7 @@
 {"name":"realty income","codice":"o","pricecap":43700000000,"price":66,"country":"usa"}
 {"name":"ping an bank","codice":"000001.sz","pricecap":43670000000,"price":2,"country":"china"}
 {"name":"prudential","codice":"puk","pricecap":43650000000,"price":31,"country":"uk"}
-{"name":"kotak mahindra bank","codice":"kotakbank.ns","pricecap":43620000000,"price":21,"country":"india"}
+{"name":"kotak mahinbank","codice":"kotakbank.ns","pricecap":43620000000,"price":21,"country":"india"}
 {"name":"centene","codice":"cnc","pricecap":43620000000,"price":77,"country":"usa"}
 {"name":"budweiser apac","codice":"1876.hk","pricecap":43580000000,"price":3,"country":"hong kong"}
 {"name":"banco santander brasil","codice":"bsbr","pricecap":43570000000,"price":5,"country":"brazil"}
@@ -438,11 +438,11 @@
 {"name":"sysco","codice":"syy","pricecap":40700000000,"price":80,"country":"usa"}
 {"name":"lloyds banking group","codice":"lyg","pricecap":40540000000,"price":2,"country":"uk"}
 {"name":"nucor","codice":"nue","pricecap":40420000000,"price":157,"country":"usa"}
-{"name":"ci","codice":" ci","pricecap":40390000000,"price":505,"country":"usa"}
+{"name":"msci","codice":"msci","pricecap":40390000000,"price":505,"country":"usa"}
 {"name":"sun hung kai properties","codice":"0016.hk","pricecap":40300000000,"price":13,"country":"hong kong"}
 {"name":"lululemon athletica","codice":"lulu","pricecap":40220000000,"price":315,"country":"canada"}
 {"name":"anta sports","codice":"as7.f","pricecap":40030000000,"price":14,"country":"china"}
-{"name":"willia companies","codice":"wmb","pricecap":39970000000,"price":32,"country":"usa"}
+{"name":"williacompanies","codice":"wmb","pricecap":39970000000,"price":32,"country":"usa"}
 {"name":"lonza","codice":"lonn.sw","pricecap":39950000000,"price":538,"country":"switzerland"}
 {"name":"honda","codice":"hmc","pricecap":39890000000,"price":23,"country":"japan"}
 {"name":"idexx laboratories","codice":"idxx","pricecap":39670000000,"price":479,"country":"usa"}
@@ -506,7 +506,7 @@
 {"name":"old dominion freight line","codice":"odfl","pricecap":34840000000,"price":315,"country":"usa"}
 {"name":"engie","codice":"engi.pa","pricecap":34750000000,"price":14,"country":"france"}
 {"name":"mettler-toledo","codice":"mtd","pricecap":34720000000,"price":1,"country":"usa"}
-{"name":"marvell technology group","codice":" vl","pricecap":34690000000,"price":40,"country":"usa"}
+{"name":"marvell technology group","codice":"mrvl","pricecap":34690000000,"price":40,"country":"usa"}
 {"name":"otis worldwide","codice":"otis","pricecap":34680000000,"price":83,"country":"usa"}
 {"name":"electronic arts","codice":"ea","pricecap":34630000000,"price":125,"country":"usa"}
 {"name":"barrick gold","codice":"gold","pricecap":34600000000,"price":19,"country":"canada"}
@@ -522,7 +522,7 @@
 {"name":"japan post bank","codice":"7182.t","pricecap":33799999999,"price":9,"country":"japan"}
 {"name":"sea garena","codice":"se","pricecap":33770000000,"price":60,"country":"singapore"}
 {"name":"pacific gas and electric","codice":"pcg","pricecap":33720000000,"price":15,"country":"usa"}
-{"name":"saung sdi","codice":"006405.ks","pricecap":33710000000,"price":238,"country":"s. korea"}
+{"name":"samsung sdi","codice":"006405.ks","pricecap":33710000000,"price":238,"country":"s. korea"}
 {"name":"bank of ningbo","codice":"002142.sz","pricecap":33700000000,"price":5,"country":"china"}
 {"name":"holcim group","codice":"holn.sw","pricecap":33630000000,"price":55,"country":"switzerland"}
 {"name":"welltower","codice":"well","pricecap":33610000000,"price":71,"country":"usa"}
@@ -562,8 +562,8 @@
 {"name":"illumina","codice":"ilmn","pricecap":31630000000,"price":201,"country":"usa"}
 {"name":"warner bros discovery","codice":"wbd","pricecap":31620000000,"price":13,"country":"usa"}
 {"name":"luxshare precision","codice":"002475.sz","pricecap":31620000000,"price":4,"country":"china"}
-{"name":"vestas wind syste","codice":"vwsb.f","pricecap":31580000000,"price":31,"country":"denmark"}
-{"name":"bae syste","codice":"bsp.f","pricecap":31490000000,"price":10,"country":"uk"}
+{"name":"vestas wind systems","codice":"vwsb.f","pricecap":31580000000,"price":31,"country":"denmark"}
+{"name":"bae systems","codice":"bsp.f","pricecap":31490000000,"price":10,"country":"uk"}
 {"name":"vanke","codice":"2202.hk","pricecap":31360000000,"price":2,"country":"china"}
 {"name":"hang seng bank","codice":"0011.hk","pricecap":31330000000,"price":16,"country":"hong kong"}
 {"name":"pseg","codice":"peg","pricecap":31260000000,"price":62,"country":"usa"}
@@ -641,7 +641,7 @@
 {"name":"fastenal","codice":"fast","pricecap":27960000000,"price":48,"country":"usa"}
 {"name":"constellation energy","codice":"ceg","pricecap":27840000000,"price":85,"country":"usa"}
 {"name":"bank mandiri","codice":"pperf","pricecap":27830000000,"price":0,"country":"indonesia"}
-{"name":"amadeus it group","codice":"a .mc","pricecap":27670000000,"price":61,"country":"spain"}
+{"name":"amadeus it group","codice":"ams.mc","pricecap":27670000000,"price":61,"country":"spain"}
 {"name":"cheniere energy","codice":"cqp","pricecap":27630000000,"price":57,"country":"usa"}
 {"name":"willis towers watson","codice":"wtw","pricecap":27560000000,"price":254,"country":"uk"}
 {"name":"ashtead","codice":"0lc.f","pricecap":27520000000,"price":61,"country":"uk"}
@@ -685,7 +685,7 @@
 {"name":"coca-cola european partners","codice":"ccep","pricecap":25730000000,"price":56,"country":"uk"}
 {"name":"horizon therapeutics","codice":"hznp","pricecap":25700000000,"price":113,"country":"ireland"}
 {"name":"saic motor","codice":"600104.ss","pricecap":25630000000,"price":2,"country":"china"}
-{"name":"veeva syste","codice":"veev","pricecap":25570000000,"price":164,"country":"usa"}
+{"name":"veeva systems","codice":"veev","pricecap":25570000000,"price":164,"country":"usa"}
 {"name":"alexandria real estate equities","codice":"are","pricecap":25520000000,"price":155,"country":"usa"}
 {"name":"agnico eagle mines","codice":"aem","pricecap":25500000000,"price":55,"country":"canada"}
 {"name":"saudi electricity","codice":"5110.sr","pricecap":25500000000,"price":6,"country":"s. arabia"}
@@ -791,7 +791,7 @@
 {"name":"aena","codice":"aena.mc","pricecap":21970000000,"price":146,"country":"spain"}
 {"name":"southwest airlines","codice":"luv","pricecap":21960000000,"price":36,"country":"usa"}
 {"name":"li auto","codice":"li","pricecap":21950000000,"price":22,"country":"china"}
-{"name":"udr apartments","codice":"udr","pricecap":21910000000,"price":40,"country":"usa"}
+{"name":"uapartments","codice":"udr","pricecap":21910000000,"price":40,"country":"usa"}
 {"name":"principal","codice":"pfg","pricecap":21850000000,"price":89,"country":"usa"}
 {"name":"chow tai fook","codice":"1929.hk","pricecap":21760000000,"price":2,"country":"hong kong"}
 {"name":"mccormick & company","codice":"mkc","pricecap":21740000000,"price":81,"country":"usa"}
@@ -817,7 +817,7 @@
 {"name":"antofagasta","codice":"anto.l","pricecap":21020000000,"price":21,"country":"uk"}
 {"name":"mitsubishi electric","codice":"6503.t","pricecap":20970000000,"price":9,"country":"japan"}
 {"name":"regions financial","codice":"rf","pricecap":20950000000,"price":22,"country":"usa"}
-{"name":"biomarin pharmaceutical","codice":"b n","pricecap":20940000000,"price":112,"country":"usa"}
+{"name":"biomarin pharmaceutical","codice":"bmrn","pricecap":20940000000,"price":112,"country":"usa"}
 {"name":"kia","codice":"000270.ks","pricecap":20930000000,"price":52,"country":"s. korea"}
 {"name":"adani ports & sez","codice":"adaniports.ns","pricecap":20920000000,"price":9,"country":"india"}
 {"name":"straumann","codice":"stmn.sw","pricecap":20900000000,"price":131,"country":"switzerland"}
@@ -857,7 +857,7 @@
 {"name":"church & dwight","codice":"chd","pricecap":19970000000,"price":81,"country":"usa"}
 {"name":"roblox","codice":"rblx","pricecap":19950000000,"price":33,"country":"usa"}
 {"name":"nippon paint","codice":"4612.t","pricecap":19920000000,"price":8,"country":"japan"}
-{"name":"epam syste","codice":"epam","pricecap":19880000000,"price":345,"country":"usa"}
+{"name":"epam systems","codice":"epam","pricecap":19880000000,"price":345,"country":"usa"}
 {"name":"pembina pipeline","codice":"pba","pricecap":19870000000,"price":36,"country":"canada"}
 {"name":"marubeni","codice":"8002.t","pricecap":19830000000,"price":11,"country":"japan"}
 {"name":"china tower","codice":"0788.hk","pricecap":19830000000,"price":0,"country":"china"}
@@ -868,7 +868,7 @@
 {"name":"nio","codice":"nio","pricecap":19710000000,"price":11,"country":"china"}
 {"name":"centerpoint energy","codice":"cnp","pricecap":19710000000,"price":31,"country":"usa"}
 {"name":"hologic","codice":"holx","pricecap":19650000000,"price":79,"country":"usa"}
-{"name":"mahindra & mahindra","codice":"m&m.ns","pricecap":19600000000,"price":16,"country":"india"}
+{"name":"mahin& mahindra","codice":"m&m.ns","pricecap":19600000000,"price":16,"country":"india"}
 {"name":"heico","codice":"hei","pricecap":19580000000,"price":165,"country":"usa"}
 {"name":"ventas","codice":"vtr","pricecap":19580000000,"price":48,"country":"usa"}
 {"name":"steel dynamics","codice":"stld","pricecap":19570000000,"price":111,"country":"usa"}
@@ -895,7 +895,7 @@
 {"name":"mid-america apartment communities","codice":"maa","pricecap":18970000000,"price":159,"country":"usa"}
 {"name":"wabtec","codice":"wab","pricecap":18930000000,"price":104,"country":"usa"}
 {"name":"kanzhun","codice":"bz","pricecap":18880000000,"price":23,"country":"china"}
-{"name":"m3, inc","codice":"2413.t","pricecap":18850000000,"price":27,"country":"japan"}
+{"name":"m3 inc","codice":"2413.t","pricecap":18850000000,"price":27,"country":"japan"}
 {"name":"garmin","codice":"grmn","pricecap":18820000000,"price":98,"country":"switzerland"}
 {"name":"sun communities","codice":"sui","pricecap":18810000000,"price":148,"country":"usa"}
 {"name":"centrais electricas brasileiras","codice":"ebr","pricecap":18800000000,"price":8,"country":"brazil"}
@@ -905,7 +905,7 @@
 {"name":"tsingtao","codice":"600600.ss","pricecap":18750000000,"price":16,"country":"china"}
 {"name":"align technology","codice":"algn","pricecap":18720000000,"price":239,"country":"usa"}
 {"name":"united microelectronics","codice":"umc","pricecap":18720000000,"price":7,"country":"taiwan"}
-{"name":"monolithic power syste","codice":"mpwr","pricecap":18700000000,"price":398,"country":"usa"}
+{"name":"monolithic power systems","codice":"mpwr","pricecap":18700000000,"price":398,"country":"usa"}
 {"name":"posco","codice":"pkx","pricecap":18630000000,"price":61,"country":"s. korea"}
 {"name":"aes","codice":"aes","pricecap":18600000000,"price":27,"country":"usa"}
 {"name":"rollins","codice":"rol","pricecap":18600000000,"price":37,"country":"usa"}
@@ -915,7 +915,7 @@
 {"name":"cp all","codice":"cpall.bk","pricecap":18560000000,"price":2,"country":"thailand"}
 {"name":"formosa plastics","codice":"1301.tw","pricecap":18560000000,"price":2,"country":"taiwan"}
 {"name":"west pharmaceutical","codice":"wst","pricecap":18560000000,"price":250,"country":"usa"}
-{"name":"c energy","codice":"c ","pricecap":18550000000,"price":63,"country":"usa"}
+{"name":"cenergy","codice":"cms","pricecap":18550000000,"price":63,"country":"usa"}
 {"name":"chewy","codice":"chwy","pricecap":18520000000,"price":43,"country":"usa"}
 {"name":"powergrid corporation of india","codice":"powergrid.ns","pricecap":18520000000,"price":2,"country":"india"}
 {"name":"porsche se","codice":"pah3.de","pricecap":18450000000,"price":60,"country":"germany"}
@@ -968,7 +968,7 @@
 {"name":"royalty pharma","codice":"rprx","pricecap":17360000000,"price":39,"country":"uk"}
 {"name":"brown & brown","codice":"bro","pricecap":17350000000,"price":61,"country":"usa"}
 {"name":"expeditors","codice":"expd","pricecap":17330000000,"price":108,"country":"usa"}
-{"name":"&ad insurance","codice":"8725.t","pricecap":17310000000,"price":32,"country":"japan"}
+{"name":"ms&ad insurance","codice":"8725.t","pricecap":17310000000,"price":32,"country":"japan"}
 {"name":"w p carey","codice":"wpc","pricecap":17290000000,"price":83,"country":"usa"}
 {"name":"cooper companies","codice":"coo","pricecap":17290000000,"price":350,"country":"usa"}
 {"name":"china merchants securities","codice":"600999.ss","pricecap":17280000000,"price":2,"country":"china"}
@@ -980,7 +980,7 @@
 {"name":"link reit","codice":"0823.hk","pricecap":17190000000,"price":8,"country":"hong kong"}
 {"name":"abiomed","codice":"abmd","pricecap":17180000000,"price":381,"country":"usa"}
 {"name":"3i group","codice":"iii.l","pricecap":17140000000,"price":17,"country":"uk"}
-{"name":"marathon oil","codice":" o","pricecap":17140000000,"price":27,"country":"usa"}
+{"name":"marathon oil","codice":"mro","pricecap":17140000000,"price":27,"country":"usa"}
 {"name":"abu dhabi commercial bank adcb","codice":"adcb.ae","pricecap":17140000000,"price":2,"country":"uae"}
 {"name":"omnicom","codice":"omc","pricecap":17140000000,"price":84,"country":"usa"}
 {"name":"standard bank group","codice":"sbk.jo","pricecap":17100000000,"price":10,"country":"south africa"}
@@ -1002,7 +1002,7 @@
 {"name":"kubota","codice":"6326.t","pricecap":16899999999,"price":14,"country":"japan"}
 {"name":"perkinelmer","codice":"pki","pricecap":16890000000,"price":133,"country":"usa"}
 {"name":"united airlines holdings","codice":"ual","pricecap":16879999999,"price":51,"country":"usa"}
-{"name":"e-chemie","codice":"e n.sw","pricecap":16860000000,"price":720,"country":"switzerland"}
+{"name":"ems-chemie","codice":"emsn.sw","pricecap":16860000000,"price":720,"country":"switzerland"}
 {"name":"howmet aerospace","codice":"hwm","pricecap":16850000000,"price":40,"country":"usa"}
 {"name":"quest diagnostics","codice":"dgx","pricecap":16840000000,"price":147,"country":"usa"}
 {"name":"china communications construction","codice":"601800.ss","pricecap":16809999999,"price":1,"country":"china"}
@@ -1011,7 +1011,7 @@
 {"name":"warner music group","codice":"wmg","pricecap":16770000000,"price":32,"country":"usa"}
 {"name":"itausa","codice":"itsa3.sa","pricecap":16770000000,"price":1,"country":"brazil"}
 {"name":"tourmaline oil","codice":"tou.to","pricecap":16670000000,"price":49,"country":"canada"}
-{"name":"hydro one","codice":"h.to","pricecap":16660000000,"price":27,"country":"canada"}
+{"name":"hyone","codice":"h.to","pricecap":16660000000,"price":27,"country":"canada"}
 {"name":"texas pacific land trust","codice":"tpl","pricecap":16620000000,"price":2,"country":"usa"}
 {"name":"aeon","codice":"8267.t","pricecap":16620000000,"price":19,"country":"japan"}
 {"name":"china merchants shekou industrial zone","codice":"001979.sz","pricecap":16590000000,"price":2,"country":"china"}
@@ -1045,7 +1045,7 @@
 {"name":"nvr","codice":"nvr","pricecap":15950000000,"price":4,"country":"usa"}
 {"name":"jacobs engineering","codice":"j","pricecap":15950000000,"price":126,"country":"usa"}
 {"name":"china steel","codice":"2002a.tw","pricecap":15880000000,"price":1,"country":"taiwan"}
-{"name":"syise","codice":"sy1.de","pricecap":15860000000,"price":113,"country":"germany"}
+{"name":"symrise","codice":"sy1.de","pricecap":15860000000,"price":113,"country":"germany"}
 {"name":"asahi group","codice":"2502.t","pricecap":15830000000,"price":31,"country":"japan"}
 {"name":"brookfield infrastructure partners","codice":"bip","pricecap":15820000000,"price":34,"country":"bermuda"}
 {"name":"avery dennison","codice":"avy","pricecap":15810000000,"price":195,"country":"usa"}
@@ -1081,7 +1081,7 @@
 {"name":"zebra technologies","codice":"zbra","pricecap":15160000000,"price":293,"country":"usa"}
 {"name":"ase group","codice":"asx","pricecap":15110000000,"price":7,"country":"taiwan"}
 {"name":"huazhu hotels","codice":"htht","pricecap":15100000000,"price":47,"country":"china"}
-{"name":"coca-cola fea","codice":"kof","pricecap":15090000000,"price":70,"country":"mexico"}
+{"name":"coca-cola femsa","codice":"kof","pricecap":15090000000,"price":70,"country":"mexico"}
 {"name":"geely","codice":"0175.hk","pricecap":15090000000,"price":1,"country":"china"}
 {"name":"synchrony","codice":"syf","pricecap":15070000000,"price":33,"country":"usa"}
 {"name":"toshiba","codice":"6502.t","pricecap":15070000000,"price":34,"country":"japan"}
@@ -1114,7 +1114,7 @@
 {"name":"apache corporation","codice":"apa","pricecap":14570000000,"price":45,"country":"usa"}
 {"name":"gen digital","codice":"gen","pricecap":14570000000,"price":22,"country":"usa"}
 {"name":"continental","codice":"con.de","pricecap":14560000000,"price":72,"country":"germany"}
-{"name":"bangkok dusit medical services bd","codice":"bd .bk","pricecap":14540000000,"price":0,"country":"thailand"}
+{"name":"bangkok dusit medical services bdms","codice":"bdms.bk","pricecap":14540000000,"price":0,"country":"thailand"}
 {"name":"healthpeak properties","codice":"peak","pricecap":14540000000,"price":27,"country":"usa"}
 {"name":"almarai","codice":"2280.sr","pricecap":14530000000,"price":14,"country":"s. arabia"}
 {"name":"splunk","codice":"splk","pricecap":14530000000,"price":88,"country":"usa"}
@@ -1138,7 +1138,7 @@
 {"name":"indian oil","codice":"ioc.ns","pricecap":14290000000,"price":1,"country":"india"}
 {"name":"volvo car","codice":"volcar-b.st","pricecap":14260000000,"price":4,"country":"sweden"}
 {"name":"shinkin central bank","codice":"8421.t","pricecap":14230000000,"price":2,"country":"japan"}
-{"name":"abn ao","codice":"abn.as","pricecap":14220000000,"price":15,"country":"netherlands"}
+{"name":"abn amro","codice":"abn.as","pricecap":14220000000,"price":15,"country":"netherlands"}
 {"name":"sodexo","codice":"sw.pa","pricecap":14160000000,"price":96,"country":"france"}
 {"name":"shionogi","codice":"4507.t","pricecap":14140000000,"price":47,"country":"japan"}
 {"name":"lamb weston","codice":"lw","pricecap":14120000000,"price":98,"country":"usa"}
@@ -1188,7 +1188,7 @@
 {"name":"amundi","codice":"amun.pa","pricecap":13420000000,"price":65,"country":"france"}
 {"name":"bank of beijing","codice":"601169.ss","pricecap":13410000000,"price":0,"country":"china"}
 {"name":"axon enterprise","codice":"axon","pricecap":13380000000,"price":188,"country":"usa"}
-{"name":"chandra asri petrochemical","codice":"tpia.jk","pricecap":13370000000,"price":0,"country":"indonesia"}
+{"name":"chanasri petrochemical","codice":"tpia.jk","pricecap":13370000000,"price":0,"country":"indonesia"}
 {"name":"grasim industries","codice":"grasim.ns","pricecap":13350000000,"price":20,"country":"india"}
 {"name":"siemens gamesa","codice":"gctaf","pricecap":13340000000,"price":19,"country":"spain"}
 {"name":"bio-rad laboratories","codice":"bio","pricecap":13330000000,"price":455,"country":"usa"}
@@ -1221,7 +1221,7 @@
 {"name":"commerzbank","codice":"cbk.f","pricecap":13040000000,"price":10,"country":"germany"}
 {"name":"biomerieux","codice":"bim.pa","pricecap":13040000000,"price":110,"country":"france"}
 {"name":"julius bar","codice":"baer.sw","pricecap":13020000000,"price":62,"country":"switzerland"}
-{"name":"metro","codice":" u.to","pricecap":13010000000,"price":55,"country":"canada"}
+{"name":"metro","codice":"mru.to","pricecap":13010000000,"price":55,"country":"canada"}
 {"name":"vodacom","codice":"5vd.f","pricecap":13000000000,"price":7,"country":"south africa"}
 {"name":"lg electronics","codice":"lglg.f","pricecap":13000000000,"price":17,"country":"s. korea"}
 {"name":"siam cement","codice":"scc.bk","pricecap":12950000000,"price":10,"country":"thailand"}
@@ -1308,7 +1308,7 @@
 {"name":"power assets","codice":"0006.hk","pricecap":11950000000,"price":5,"country":"hong kong"}
 {"name":"domino's pizza","codice":"dpz","pricecap":11940000000,"price":337,"country":"usa"}
 {"name":"first citizens bancshares","codice":"fcnca","pricecap":11940000000,"price":830,"country":"usa"}
-{"name":"nomura holdings","codice":"n ","pricecap":11910000000,"price":3,"country":"japan"}
+{"name":"nomura holdings","codice":"nmr","pricecap":11910000000,"price":3,"country":"japan"}
 {"name":"graco","codice":"ggg","pricecap":11900000000,"price":70,"country":"usa"}
 {"name":"united therapeutics","codice":"uthr","pricecap":11890000000,"price":261,"country":"usa"}
 {"name":"arab national bank","codice":"1080.sr","pricecap":11880000000,"price":7,"country":"s. arabia"}
@@ -1392,7 +1392,7 @@
 {"name":"barry callebaut","codice":"barn.sw","pricecap":11010000000,"price":2,"country":"switzerland"}
 {"name":"finecobank","codice":"fbk.mi","pricecap":11000000000,"price":18,"country":"italy"}
 {"name":"eastman chemical","codice":"emn","pricecap":10960000000,"price":91,"country":"usa"}
-{"name":"bentley syste","codice":"bsy","pricecap":10950000000,"price":37,"country":"usa"}
+{"name":"bentley systems","codice":"bsy","pricecap":10950000000,"price":37,"country":"usa"}
 {"name":"service corporation international","codice":"sci","pricecap":10940000000,"price":71,"country":"usa"}
 {"name":"aegon","codice":"aeg","pricecap":10930000000,"price":5,"country":"netherlands"}
 {"name":"sk innovation","codice":"096775.ks","pricecap":10920000000,"price":78,"country":"s. korea"}
@@ -1420,7 +1420,7 @@
 {"name":"eneos holdings","codice":"5020.t","pricecap":10750000000,"price":3,"country":"japan"}
 {"name":"dick's sporting goods","codice":"dks","pricecap":10730000000,"price":128,"country":"usa"}
 {"name":"bilibili","codice":"bili","pricecap":10710000000,"price":27,"country":"china"}
-{"name":"raay health care","codice":"rhc.ax","pricecap":10700000000,"price":46,"country":"australia"}
+{"name":"ramsay health care","codice":"rhc.ax","pricecap":10700000000,"price":46,"country":"australia"}
 {"name":"shree cement","codice":"shreecem.ns","pricecap":10680000000,"price":296,"country":"india"}
 {"name":"bath & body works","codice":"bbwi","pricecap":10650000000,"price":46,"country":"usa"}
 {"name":"dynatrace","codice":"dt","pricecap":10650000000,"price":37,"country":"usa"}
@@ -1448,7 +1448,7 @@
 {"name":"neurocrine biosciences","codice":"nbix","pricecap":10470000000,"price":108,"country":"usa"}
 {"name":"sino land","codice":"0083.hk","pricecap":10460000000,"price":1,"country":"hong kong"}
 {"name":"next plc","codice":"nxt.l","pricecap":10460000000,"price":80,"country":"uk"}
-{"name":"fresenius medical care","codice":"f ","pricecap":10460000000,"price":17,"country":"germany"}
+{"name":"fresenius medical care","codice":"fms","pricecap":10460000000,"price":17,"country":"germany"}
 {"name":"tapestry","codice":"tpr","pricecap":10450000000,"price":43,"country":"usa"}
 {"name":"hua nan financial holdings","codice":"2880.tw","pricecap":10450000000,"price":0,"country":"taiwan"}
 {"name":"hf sinclair","codice":"dino","pricecap":10440000000,"price":52,"country":"usa"}
@@ -1459,15 +1459,15 @@
 {"name":"banco de chile","codice":"bch","pricecap":10400000000,"price":20,"country":"chile"}
 {"name":"ceridian","codice":"cday","pricecap":10380000000,"price":67,"country":"usa"}
 {"name":"inwit","codice":"inw.mi","pricecap":10380000000,"price":10,"country":"italy"}
-{"name":"lamar advertising","codice":"la ","pricecap":10380000000,"price":102,"country":"usa"}
+{"name":"lamar advertising","codice":"lamr","pricecap":10380000000,"price":102,"country":"usa"}
 {"name":"caesars entertainment","codice":"czr","pricecap":10370000000,"price":48,"country":"usa"}
-{"name":"saung life insurance","codice":"032830.ks","pricecap":10370000000,"price":57,"country":"s. korea"}
+{"name":"samsung life insurance","codice":"032830.ks","pricecap":10370000000,"price":57,"country":"s. korea"}
 {"name":"toast","codice":"tost","pricecap":10360000000,"price":19,"country":"usa"}
 {"name":"suncorp","codice":"sun.ax","pricecap":10360000000,"price":8,"country":"australia"}
 {"name":"juniper networks","codice":"jnpr","pricecap":10360000000,"price":31,"country":"usa"}
 {"name":"lg corp","codice":"003550.ks","pricecap":10360000000,"price":65,"country":"s. korea"}
 {"name":"jabil","codice":"jbl","pricecap":10350000000,"price":77,"country":"usa"}
-{"name":"knorr-bree","codice":"kbx.de","pricecap":10340000000,"price":64,"country":"germany"}
+{"name":"knorr-bremse","codice":"kbx.de","pricecap":10340000000,"price":64,"country":"germany"}
 {"name":"localiza","codice":"rent3.sa","pricecap":10320000000,"price":10,"country":"brazil"}
 {"name":"freddie mac","codice":"fmcct","pricecap":10300000000,"price":3,"country":"usa"}
 {"name":"galp energia","codice":"gz5.f","pricecap":10290000000,"price":13,"country":"portugal"}
@@ -1485,7 +1485,7 @@
 {"name":"vail resorts","codice":"mtn","pricecap":10150000000,"price":251,"country":"usa"}
 {"name":"rheinmetall","codice":"rhm.f","pricecap":10140000000,"price":234,"country":"germany"}
 {"name":"jd sports fashion","codice":"jd.l","pricecap":10140000000,"price":1,"country":"uk"}
-{"name":"oon","codice":"6645.t","pricecap":10120000000,"price":50,"country":"japan"}
+{"name":"omron","codice":"6645.t","pricecap":10120000000,"price":50,"country":"japan"}
 {"name":"adevinta","codice":"ade.ol","pricecap":10100000000,"price":7,"country":"norway"}
 {"name":"prysmian group","codice":"pry.mi","pricecap":10100000000,"price":38,"country":"italy"}
 {"name":"west japan railway","codice":"9021.t","pricecap":10080000000,"price":41,"country":"japan"}
@@ -1609,7 +1609,7 @@
 {"name":"lg household & health care","codice":"051905.ks","pricecap":8900000000,"price":246,"country":"s. korea"}
 {"name":"huntington ingalls industries","codice":"hii","pricecap":8900000000,"price":223,"country":"usa"}
 {"name":"advantech","codice":"2395.tw","pricecap":8900000000,"price":11,"country":"taiwan"}
-{"name":"dr reddy's","codice":"rdy","pricecap":8900000000,"price":53,"country":"india"}
+{"name":"reddy's","codice":"rdy","pricecap":8900000000,"price":53,"country":"india"}
 {"name":"mitsui osk lines","codice":"9104.t","pricecap":8860000000,"price":24,"country":"japan"}
 {"name":"knight-swift","codice":"knx","pricecap":8860000000,"price":55,"country":"usa"}
 {"name":"logitech","codice":"logi","pricecap":8840000000,"price":54,"country":"switzerland"}
@@ -1622,7 +1622,7 @@
 {"name":"invesco","codice":"ivz","pricecap":8810000000,"price":19,"country":"usa"}
 {"name":"cullen/frost bankers","codice":"cfr","pricecap":8810000000,"price":137,"country":"usa"}
 {"name":"opentext","codice":"otex","pricecap":8810000000,"price":32,"country":"canada"}
-{"name":"saung electro-mechanics","codice":"009155.ks","pricecap":8810000000,"price":56,"country":"s. korea"}
+{"name":"samsung electro-mechanics","codice":"009155.ks","pricecap":8810000000,"price":56,"country":"s. korea"}
 {"name":"sumitomo denki kogyo","codice":"5802.t","pricecap":8800000000,"price":11,"country":"japan"}
 {"name":"mediobanca","codice":"mb.mi","pricecap":8800000000,"price":10,"country":"italy"}
 {"name":"getlink","codice":"get.pa","pricecap":8800000000,"price":16,"country":"france"}
@@ -1654,7 +1654,7 @@
 {"name":"unibail-rodamco-westfield","codice":"urw.as","pricecap":8580000000,"price":61,"country":"france"}
 {"name":"xpeng","codice":"xpev","pricecap":8550000000,"price":9,"country":"china"}
 {"name":"intertek","codice":"itrk.l","pricecap":8550000000,"price":53,"country":"uk"}
-{"name":"willia-sonoma","codice":"wsm","pricecap":8550000000,"price":128,"country":"usa"}
+{"name":"williams-sonoma","codice":"wsm","pricecap":8550000000,"price":128,"country":"usa"}
 {"name":"tata consumer products","codice":"tataconsum.ns","pricecap":8550000000,"price":9,"country":"india"}
 {"name":"ugi corporation","codice":"ugi","pricecap":8529999999,"price":40,"country":"usa"}
 {"name":"lifco","codice":"lifco-b.st","pricecap":8529999999,"price":18,"country":"sweden"}
@@ -1768,7 +1768,7 @@
 {"name":"edison","codice":"ednr.mi","pricecap":7740000000,"price":1,"country":"italy"}
 {"name":"arc resources","codice":"arx.to","pricecap":7730000000,"price":12,"country":"canada"}
 {"name":"ypf yacimientos petroliferos fiscales","codice":"ypf","pricecap":7730000000,"price":11,"country":"argentina"}
-{"name":"americana restaurants international","codice":"a .ae","pricecap":7720000000,"price":0,"country":"uae"}
+{"name":"americana restaurants international","codice":"amr.ae","pricecap":7720000000,"price":0,"country":"uae"}
 {"name":"wex","codice":"wex","pricecap":7690000000,"price":176,"country":"usa"}
 {"name":"sinopac financial holdings","codice":"2890.tw","pricecap":7690000000,"price":0,"country":"taiwan"}
 {"name":"rakuten","codice":"4755.t","pricecap":7690000000,"price":4,"country":"japan"}
@@ -1783,11 +1783,11 @@
 {"name":"agc","codice":"5201.t","pricecap":7650000000,"price":34,"country":"japan"}
 {"name":"manhattan associates","codice":"manh","pricecap":7630000000,"price":122,"country":"usa"}
 {"name":"uipath","codice":"path","pricecap":7630000000,"price":13,"country":"usa"}
-{"name":"elbit syste","codice":"eslt","pricecap":7620000000,"price":172,"country":"israel"}
+{"name":"elbit systems","codice":"eslt","pricecap":7620000000,"price":172,"country":"israel"}
 {"name":"canadian utilities","codice":"cu.to","pricecap":7620000000,"price":28,"country":"canada"}
 {"name":"japan exchange group","codice":"8697.t","pricecap":7610000000,"price":14,"country":"japan"}
 {"name":"kingdom holding","codice":"4280.sr","pricecap":7610000000,"price":2,"country":"s. arabia"}
-{"name":"melrose industries","codice":" o.l","pricecap":7610000000,"price":1,"country":"uk"}
+{"name":"melrose industries","codice":"mro.l","pricecap":7610000000,"price":1,"country":"uk"}
 {"name":"kakao pay","codice":"377300.ks","pricecap":7610000000,"price":57,"country":"s. korea"}
 {"name":"amkor technology","codice":"amkr","pricecap":7600000000,"price":31,"country":"usa"}
 {"name":"apollo hospitals","codice":"apollohosp.ns","pricecap":7600000000,"price":52,"country":"india"}
@@ -1819,7 +1819,7 @@
 {"name":"globus medical","codice":"gmed","pricecap":7420000000,"price":74,"country":"usa"}
 {"name":"old republic international","codice":"ori","pricecap":7420000000,"price":24,"country":"usa"}
 {"name":"monotaro","codice":"3064.t","pricecap":7420000000,"price":14,"country":"japan"}
-{"name":"inspire medical syste","codice":"insp","pricecap":7420000000,"price":256,"country":"usa"}
+{"name":"inspire medical systems","codice":"insp","pricecap":7420000000,"price":256,"country":"usa"}
 {"name":"rohm","codice":"6963.t","pricecap":7420000000,"price":75,"country":"japan"}
 {"name":"jindal steel & power","codice":"jindalstel.ns","pricecap":7400000000,"price":7,"country":"india"}
 {"name":"mitsubishi chemical holdings","codice":"4188.t","pricecap":7400000000,"price":5,"country":"japan"}
@@ -1830,9 +1830,9 @@
 {"name":"bkw ag","codice":"bkw.sw","pricecap":7380000000,"price":139,"country":"switzerland"}
 {"name":"erdemir","codice":"eregl.is","pricecap":7360000000,"price":2,"country":"turkey"}
 {"name":"united spirits","codice":"unitdspr.bo","pricecap":7360000000,"price":10,"country":"india"}
-{"name":"advanced drainage syste","codice":"w ","pricecap":7350000000,"price":88,"country":"usa"}
+{"name":"advanced drainage systems","codice":"wms","pricecap":7350000000,"price":88,"country":"usa"}
 {"name":"idbi bank","codice":"idbi.ns","pricecap":7350000000,"price":0,"country":"india"}
-{"name":"alfamart","codice":"a t.jk","pricecap":7350000000,"price":0,"country":"indonesia"}
+{"name":"alfamart","codice":"amrt.jk","pricecap":7350000000,"price":0,"country":"indonesia"}
 {"name":"singapore exchange","codice":"s68.si","pricecap":7340000000,"price":6,"country":"singapore"}
 {"name":"nrg energy","codice":"nrg","pricecap":7340000000,"price":31,"country":"usa"}
 {"name":"zoomlion","codice":"1157.hk","pricecap":7340000000,"price":0,"country":"china"}
@@ -1862,7 +1862,7 @@
 {"name":"canara bank","codice":"canbk.ns","pricecap":7210000000,"price":3,"country":"india"}
 {"name":"valmont industries","codice":"vmi","pricecap":7210000000,"price":338,"country":"usa"}
 {"name":"oci","codice":"oci.as","pricecap":7200000000,"price":34,"country":"netherlands"}
-{"name":"generac power syste","codice":"gnrc","pricecap":7200000000,"price":113,"country":"usa"}
+{"name":"generac power systems","codice":"gnrc","pricecap":7200000000,"price":113,"country":"usa"}
 {"name":"indorama ventures","codice":"i93a.f","pricecap":7190000000,"price":1,"country":"thailand"}
 {"name":"kt corporation","codice":"kt","pricecap":7180000000,"price":14,"country":"s. korea"}
 {"name":"skanska","codice":"ska-b.st","pricecap":7180000000,"price":17,"country":"sweden"}
@@ -2018,7 +2018,7 @@
 {"name":"bankinter","codice":"bkt.mc","pricecap":6460000000,"price":7,"country":"spain"}
 {"name":"magnolia oil & gas","codice":"mgy","pricecap":6450000000,"price":23,"country":"usa"}
 {"name":"agnc investment","codice":"agnc","pricecap":6450000000,"price":11,"country":"usa"}
-{"name":"allegro microsyste","codice":"algm","pricecap":6450000000,"price":33,"country":"usa"}
+{"name":"allegro microsystems","codice":"algm","pricecap":6450000000,"price":33,"country":"usa"}
 {"name":"starwood property trust","codice":"stwd","pricecap":6430000000,"price":20,"country":"usa"}
 {"name":"woodward","codice":"wwd","pricecap":6430000000,"price":107,"country":"usa"}
 {"name":"stag industrial","codice":"stag","pricecap":6400000000,"price":34,"country":"usa"}
@@ -2070,7 +2070,7 @@
 {"name":"taishin financial holdings","codice":"2887.tw","pricecap":6240000000,"price":0,"country":"taiwan"}
 {"name":"gamestop","codice":"gme","pricecap":6240000000,"price":20,"country":"usa"}
 {"name":"macy's","codice":"m","pricecap":6230000000,"price":23,"country":"usa"}
-{"name":"saara","codice":"iot","pricecap":6230000000,"price":12,"country":"usa"}
+{"name":"samsara","codice":"iot","pricecap":6230000000,"price":12,"country":"usa"}
 {"name":"tube investments of india","codice":"tiindia.ns","pricecap":6220000000,"price":32,"country":"india"}
 {"name":"toll brothers","codice":"tol","pricecap":6210000000,"price":56,"country":"usa"}
 {"name":"hikari tsushin","codice":"9435.t","pricecap":6210000000,"price":140,"country":"japan"}
@@ -2121,7 +2121,7 @@
 {"name":"adecco group","codice":"aden.sw","pricecap":6050000000,"price":36,"country":"switzerland"}
 {"name":"coupa","codice":"coup","pricecap":6040000000,"price":79,"country":"usa"}
 {"name":"crane co","codice":"cr","pricecap":6040000000,"price":107,"country":"usa"}
-{"name":"descartes syste","codice":"dsgx","pricecap":6030000000,"price":71,"country":"canada"}
+{"name":"descartes systems","codice":"dsgx","pricecap":6030000000,"price":71,"country":"canada"}
 {"name":"indus towers","codice":"industower.ns","pricecap":6030000000,"price":2,"country":"india"}
 {"name":"pi industries","codice":"piind.ns","pricecap":6030000000,"price":39,"country":"india"}
 {"name":"beijer ref","codice":"beij-b.st","pricecap":6020000000,"price":16,"country":"sweden"}
@@ -2232,7 +2232,7 @@
 {"name":"kose","codice":"4922.t","pricecap":5600000000,"price":98,"country":"japan"}
 {"name":"ebos group","codice":"ebo.nz","pricecap":5590000000,"price":29,"country":"new zealand"}
 {"name":"valmet","codice":"valmt.he","pricecap":5590000000,"price":30,"country":"finland"}
-{"name":"toa","codice":"tom.ol","pricecap":5590000000,"price":18,"country":"norway"}
+{"name":"tomra","codice":"tom.ol","pricecap":5590000000,"price":18,"country":"norway"}
 {"name":"tenet healthcare","codice":"thc","pricecap":5590000000,"price":51,"country":"usa"}
 {"name":"persimmon","codice":"psn.l","pricecap":5590000000,"price":17,"country":"uk"}
 {"name":"fti consulting","codice":"fcn","pricecap":5590000000,"price":162,"country":"usa"}
@@ -2323,7 +2323,7 @@
 {"name":"mitsubishi motors","codice":"7211.t","pricecap":5290000000,"price":3,"country":"japan"}
 {"name":"balkrishna industries","codice":"balkrisind.ns","pricecap":5290000000,"price":27,"country":"india"}
 {"name":"mercury nz","codice":"mcy.ax","pricecap":5280000000,"price":3,"country":"new zealand"}
-{"name":"a safety","codice":" a","pricecap":5280000000,"price":134,"country":"usa"}
+{"name":"safety","codice":"msa","pricecap":5280000000,"price":134,"country":"usa"}
 {"name":"dt midstream","codice":"dtm","pricecap":5280000000,"price":54,"country":"usa"}
 {"name":"gruma maseca","codice":"grumab.mx","pricecap":5280000000,"price":14,"country":"mexico"}
 {"name":"brookfield renewable","codice":"bepc","pricecap":5270000000,"price":30,"country":"usa"}
@@ -2367,7 +2367,7 @@
 {"name":"cerevel therapeutics","codice":"cere","pricecap":5120000000,"price":32,"country":"usa"}
 {"name":"hilton grand vacations","codice":"hgv","pricecap":5120000000,"price":44,"country":"usa"}
 {"name":"au small finance bank","codice":"aubank.ns","pricecap":5110000000,"price":7,"country":"india"}
-{"name":"isdemir","codice":"isd .is","pricecap":5110000000,"price":1,"country":"turkey"}
+{"name":"isdemir","codice":"isdmr.is","pricecap":5110000000,"price":1,"country":"turkey"}
 {"name":"five9","codice":"fivn","pricecap":5110000000,"price":72,"country":"usa"}
 {"name":"riocan reit","codice":"rei-un.to","pricecap":5100000000,"price":16,"country":"canada"}
 {"name":"penn national gaming","codice":"penn","pricecap":5080000000,"price":32,"country":"usa"}
@@ -2473,7 +2473,7 @@
 {"name":"bawag group","codice":"0b2.f","pricecap":4740000000,"price":57,"country":"austria"}
 {"name":"koza gold","codice":"kozal.is","pricecap":4740000000,"price":30,"country":"turkey"}
 {"name":"hitachi construction machinery","codice":"6305.t","pricecap":4740000000,"price":22,"country":"japan"}
-{"name":"merlin properties","codice":" l.mc","pricecap":4730000000,"price":10,"country":"spain"}
+{"name":"merlin properties","codice":"mrl.mc","pricecap":4730000000,"price":10,"country":"spain"}
 {"name":"black hills","codice":"bkh","pricecap":4730000000,"price":72,"country":"usa"}
 {"name":"powszechny zakad ubezpieczen","codice":"7pz.f","pricecap":4730000000,"price":8,"country":"poland"}
 {"name":"driven brands","codice":"drvn","pricecap":4730000000,"price":28,"country":"usa"}
@@ -2502,7 +2502,7 @@
 {"name":"hiscox","codice":"hsx.l","pricecap":4660000000,"price":13,"country":"bermuda"}
 {"name":"inchcape","codice":"inch.l","pricecap":4660000000,"price":11,"country":"uk"}
 {"name":"remgro limited","codice":"rem.jo","pricecap":4650000000,"price":8,"country":"south africa"}
-{"name":"madras rubber factory","codice":" f.ns","pricecap":4650000000,"price":1,"country":"india"}
+{"name":"madras rubber factory","codice":"mrf.ns","pricecap":4650000000,"price":1,"country":"india"}
 {"name":"informatica","codice":"infa","pricecap":4650000000,"price":16,"country":"usa"}
 {"name":"castellum","codice":"cast.st","pricecap":4640000000,"price":14,"country":"sweden"}
 {"name":"idfc first bank","codice":"idfcfirstb.ns","pricecap":4640000000,"price":0,"country":"india"}
@@ -2565,7 +2565,7 @@
 {"name":"iida group","codice":"3291.t","pricecap":4510000000,"price":15,"country":"japan"}
 {"name":"nexans","codice":"nex.pa","pricecap":4500000000,"price":103,"country":"france"}
 {"name":"amn healthcare services","codice":"amn","pricecap":4500000000,"price":103,"country":"usa"}
-{"name":"c industrial direct","codice":" m","pricecap":4490000000,"price":80,"country":"usa"}
+{"name":"industrial direct","codice":"msm","pricecap":4490000000,"price":80,"country":"usa"}
 {"name":"magazine luiza","codice":"mglu3.sa","pricecap":4490000000,"price":0,"country":"brazil"}
 {"name":"b2gold","codice":"btg","pricecap":4490000000,"price":4,"country":"canada"}
 {"name":"bucher industries","codice":"bucn.sw","pricecap":4480000000,"price":438,"country":"switzerland"}
@@ -2577,11 +2577,11 @@
 {"name":"steel authority of india","codice":"sail.ns","pricecap":4460000000,"price":1,"country":"india"}
 {"name":"pepkor","codice":"pph.jo","pricecap":4460000000,"price":1,"country":"south africa"}
 {"name":"endava","codice":"dava","pricecap":4460000000,"price":78,"country":"uk"}
-{"name":"maximus","codice":"m ","pricecap":4450000000,"price":73,"country":"usa"}
+{"name":"maximus","codice":"mms","pricecap":4450000000,"price":73,"country":"usa"}
 {"name":"cencosud","codice":"cencosud.sn","pricecap":4450000000,"price":1,"country":"chile"}
 {"name":"denbury","codice":"den","pricecap":4450000000,"price":89,"country":"usa"}
 {"name":"sixt","codice":"six2.f","pricecap":4450000000,"price":107,"country":"germany"}
-{"name":"comfort syste","codice":"fix","pricecap":4440000000,"price":124,"country":"usa"}
+{"name":"comfort systems","codice":"fix","pricecap":4440000000,"price":124,"country":"usa"}
 {"name":"southwest gas","codice":"swx","pricecap":4420000000,"price":66,"country":"usa"}
 {"name":"flowserve","codice":"fls","pricecap":4420000000,"price":33,"country":"usa"}
 {"name":"manpowergroup","codice":"man","pricecap":4420000000,"price":87,"country":"usa"}
@@ -2602,7 +2602,7 @@
 {"name":"south jersey industries","codice":"sji","pricecap":4380000000,"price":35,"country":"usa"}
 {"name":"schneider","codice":"sndr","pricecap":4370000000,"price":24,"country":"usa"}
 {"name":"janus henderson","codice":"jhg","pricecap":4370000000,"price":26,"country":"uk"}
-{"name":"g sports","codice":" gs","pricecap":4370000000,"price":179,"country":"usa"}
+{"name":"sports","codice":"msgs","pricecap":4370000000,"price":179,"country":"usa"}
 {"name":"wingstop restaurants","codice":"wing","pricecap":4360000000,"price":146,"country":"usa"}
 {"name":"hancock whitney","codice":"hwc","pricecap":4360000000,"price":50,"country":"usa"}
 {"name":"one gas","codice":"ogs","pricecap":4350000000,"price":80,"country":"usa"}
@@ -2720,7 +2720,7 @@
 {"name":"bim birlesik magazalar","codice":"bimas.is","pricecap":4030000000,"price":6,"country":"turkey"}
 {"name":"elang mahkota teknologi","codice":"emtk.jk","pricecap":4019999999,"price":0,"country":"indonesia"}
 {"name":"tofas turk otomobil fabrikas","codice":"toaso.is","pricecap":4019999999,"price":8,"country":"turkey"}
-{"name":"casella waste syste","codice":"cwst","pricecap":4010000000,"price":77,"country":"usa"}
+{"name":"casella waste systems","codice":"cwst","pricecap":4010000000,"price":77,"country":"usa"}
 {"name":"visteon","codice":"vc","pricecap":4010000000,"price":142,"country":"usa"}
 {"name":"cytokinetics","codice":"cytk","pricecap":4010000000,"price":42,"country":"usa"}
 {"name":"applovin","codice":"app","pricecap":4010000000,"price":10,"country":"usa"}
@@ -2729,7 +2729,7 @@
 {"name":"allison transmission","codice":"alsn","pricecap":4000000000,"price":43,"country":"usa"}
 {"name":"savola group","codice":"2050.sr","pricecap":4000000000,"price":7,"country":"s. arabia"}
 {"name":"franklin electric","codice":"fele","pricecap":4000000000,"price":86,"country":"usa"}
-{"name":"merit medical","codice":"m i","pricecap":4000000000,"price":70,"country":"usa"}
+{"name":"merit medical","codice":"mmsi","pricecap":4000000000,"price":70,"country":"usa"}
 {"name":"capital power","codice":"cpx.to","pricecap":4000000000,"price":34,"country":"canada"}
 {"name":"rural electrification corp","codice":"recltd.ns","pricecap":4000000000,"price":1,"country":"india"}
 {"name":"infratil","codice":"ift.nz","pricecap":4000000000,"price":5,"country":"new zealand"}
@@ -2840,7 +2840,7 @@
 {"name":"manchester united","codice":"manu","pricecap":3740000000,"price":22,"country":"uk"}
 {"name":"assured guaranty","codice":"ago","pricecap":3740000000,"price":62,"country":"bermuda"}
 {"name":"allete","codice":"ale","pricecap":3740000000,"price":65,"country":"usa"}
-{"name":"persistent syste","codice":"persistent.ns","pricecap":3730000000,"price":48,"country":"india"}
+{"name":"persistent systems","codice":"persistent.ns","pricecap":3730000000,"price":48,"country":"india"}
 {"name":"de' longhi","codice":"dlg.mi","pricecap":3730000000,"price":24,"country":"italy"}
 {"name":"affirm","codice":"afrm","pricecap":3730000000,"price":12,"country":"usa"}
 {"name":"grupo catalana occidente","codice":"gco.mc","pricecap":3730000000,"price":31,"country":"spain"}
@@ -2874,10 +2874,10 @@
 {"name":"select medical holdings","codice":"sem","pricecap":3630000000,"price":28,"country":"usa"}
 {"name":"bellring brands","codice":"brbr","pricecap":3620000000,"price":27,"country":"usa"}
 {"name":"agl energy","codice":"agl.ax","pricecap":3620000000,"price":5,"country":"australia"}
-{"name":"sig semen indonesia","codice":"s 2.f","pricecap":3620000000,"price":0,"country":"indonesia"}
+{"name":"sig semen indonesia","codice":"sms2.f","pricecap":3620000000,"price":0,"country":"indonesia"}
 {"name":"wizz air","codice":"wizz.l","pricecap":3620000000,"price":35,"country":"jersey"}
-{"name":"spirit aerosyste","codice":"spr","pricecap":3610000000,"price":34,"country":"usa"}
-{"name":"quantucape","codice":"qs","pricecap":3610000000,"price":8,"country":"usa"}
+{"name":"spirit aerosystems","codice":"spr","pricecap":3610000000,"price":34,"country":"usa"}
+{"name":"quantumscape","codice":"qs","pricecap":3610000000,"price":8,"country":"usa"}
 {"name":"instructure holdings","codice":"inst","pricecap":3610000000,"price":25,"country":"usa"}
 {"name":"national shipping company of saudi arabia bahri","codice":"4030.sr","pricecap":3610000000,"price":7,"country":"s. arabia"}
 {"name":"ginkgo bioworks","codice":"dna","pricecap":3600000000,"price":1,"country":"usa"}
@@ -2912,7 +2912,7 @@
 {"name":"jungheinrich","codice":"jun3.f","pricecap":3560000000,"price":34,"country":"germany"}
 {"name":"bb biotech","codice":"bion.sw","pricecap":3550000000,"price":64,"country":"switzerland"}
 {"name":"amtrust financial services","codice":"affs","pricecap":3550000000,"price":18,"country":"usa"}
-{"name":"interparfu","codice":"ipar","pricecap":3550000000,"price":111,"country":"usa"}
+{"name":"interparfums","codice":"ipar","pricecap":3550000000,"price":111,"country":"usa"}
 {"name":"direct line group","codice":"dlg.l","pricecap":3550000000,"price":2,"country":"uk"}
 {"name":"evn group","codice":"evn.f","pricecap":3550000000,"price":19,"country":"austria"}
 {"name":"mercari","codice":"4385.t","pricecap":3540000000,"price":22,"country":"japan"}
@@ -2922,7 +2922,7 @@
 {"name":"land and houses","codice":"lh.bk","pricecap":3530000000,"price":0,"country":"thailand"}
 {"name":"array technologies","codice":"arry","pricecap":3530000000,"price":23,"country":"usa"}
 {"name":"pge polska","codice":"pge.wa","pricecap":3530000000,"price":1,"country":"poland"}
-{"name":"maravai lifesciences","codice":" vi","pricecap":3520000000,"price":13,"country":"usa"}
+{"name":"maravai lifesciences","codice":"mrvi","pricecap":3520000000,"price":13,"country":"usa"}
 {"name":"american states water","codice":"awr","pricecap":3520000000,"price":95,"country":"usa"}
 {"name":"vaxcyte","codice":"pcvx","pricecap":3520000000,"price":44,"country":"usa"}
 {"name":"nippon shinyaku","codice":"4516.t","pricecap":3510000000,"price":52,"country":"japan"}
@@ -2967,7 +2967,7 @@
 {"name":"max financial services","codice":"mfsl.ns","pricecap":3420000000,"price":9,"country":"india"}
 {"name":"taisho pharmaceutical","codice":"4581.t","pricecap":3420000000,"price":41,"country":"japan"}
 {"name":"romgaz","codice":"rz8g.f","pricecap":3420000000,"price":8,"country":"romania"}
-{"name":"artrong world industries","codice":"awi","pricecap":3420000000,"price":75,"country":"usa"}
+{"name":"armstrong world industries","codice":"awi","pricecap":3420000000,"price":75,"country":"usa"}
 {"name":"harbour energy","codice":"hbr.l","pricecap":3420000000,"price":4,"country":"uk"}
 {"name":"enviva","codice":"eva","pricecap":3420000000,"price":51,"country":"usa"}
 {"name":"bayanat ai","codice":"bayanat.ae","pricecap":3420000000,"price":1,"country":"uae"}
@@ -3086,9 +3086,9 @@
 {"name":"eastern bankshares","codice":"ebc","pricecap":3160000000,"price":17,"country":"usa"}
 {"name":"avista","codice":"ava","pricecap":3160000000,"price":42,"country":"usa"}
 {"name":"pennymac","codice":"pfsi","pricecap":3150000000,"price":63,"country":"usa"}
-{"name":"saung heavy industries","codice":"010145.ks","pricecap":3150000000,"price":155,"country":"s. korea"}
+{"name":"samsung heavy industries","codice":"010145.ks","pricecap":3150000000,"price":155,"country":"s. korea"}
 {"name":"cushman & wakefield","codice":"cwk","pricecap":3150000000,"price":13,"country":"usa"}
-{"name":" cooper group","codice":"coop","pricecap":3140000000,"price":44,"country":"usa"}
+{"name":"cooper group","codice":"coop","pricecap":3140000000,"price":44,"country":"usa"}
 {"name":"frontline","codice":"fro","pricecap":3140000000,"price":14,"country":"bermuda"}
 {"name":"pjt partners","codice":"pjt","pricecap":3130000000,"price":79,"country":"usa"}
 {"name":"capstone copper","codice":"cs.to","pricecap":3130000000,"price":4,"country":"canada"}
@@ -3110,13 +3110,13 @@
 {"name":"pagseguro","codice":"pags","pricecap":3110000000,"price":9,"country":"brazil"}
 {"name":"kumho petrochemical","codice":"011780.ks","pricecap":3100000000,"price":120,"country":"s. korea"}
 {"name":"moelis & company","codice":"mc","pricecap":3100000000,"price":45,"country":"usa"}
-{"name":"hannon artrong","codice":"hasi","pricecap":3100000000,"price":34,"country":"usa"}
+{"name":"hannon armstrong","codice":"hasi","pricecap":3100000000,"price":34,"country":"usa"}
 {"name":"plains gp","codice":"pagp","pricecap":3100000000,"price":12,"country":"usa"}
 {"name":"st galler kantonalbank","codice":"sgkn.sw","pricecap":3100000000,"price":519,"country":"switzerland"}
 {"name":"victoria's secret & co","codice":"vsco","pricecap":3100000000,"price":38,"country":"usa"}
 {"name":"billerudkorsnas","codice":"bill.st","pricecap":3100000000,"price":12,"country":"sweden"}
 {"name":"ovh groupe","codice":"ovh.pa","pricecap":3100000000,"price":16,"country":"france"}
-{"name":"ameresco","codice":"a c","pricecap":3090000000,"price":59,"country":"usa"}
+{"name":"ameresco","codice":"amrc","pricecap":3090000000,"price":59,"country":"usa"}
 {"name":"strauss group","codice":"strs.ta","pricecap":3090000000,"price":26,"country":"israel"}
 {"name":"vz holding","codice":"vzn.sw","pricecap":3090000000,"price":78,"country":"switzerland"}
 {"name":"exxaro resources","codice":"exx.jo","pricecap":3090000000,"price":12,"country":"south africa"}
@@ -3157,7 +3157,7 @@
 {"name":"abm industries","codice":"abm","pricecap":3040000000,"price":46,"country":"usa"}
 {"name":"hisense visual technology","codice":"600060.ss","pricecap":3040000000,"price":2,"country":"china"}
 {"name":"wienerberger","codice":"wib.f","pricecap":3040000000,"price":27,"country":"austria"}
-{"name":"cotock resources","codice":"crk","pricecap":3030000000,"price":12,"country":"usa"}
+{"name":"comstock resources","codice":"crk","pricecap":3030000000,"price":12,"country":"usa"}
 {"name":"sabra health care reit","codice":"sbra","pricecap":3030000000,"price":13,"country":"usa"}
 {"name":"euronav","codice":"eurn","pricecap":3020000000,"price":15,"country":"belgium"}
 {"name":"halkbank","codice":"halkb.is","pricecap":3020000000,"price":0,"country":"turkey"}
@@ -3180,7 +3180,7 @@
 {"name":"tripadvisor","codice":"trip","pricecap":3000000000,"price":21,"country":"usa"}
 {"name":"cd projekt","codice":"cdr.wa","pricecap":3000000000,"price":30,"country":"poland"}
 {"name":"wsfs financial","codice":"wsfs","pricecap":2990000000,"price":48,"country":"usa"}
-{"name":"g group","codice":"g infra.ns","pricecap":2990000000,"price":0,"country":"india"}
+{"name":"ggroup","codice":"gmrinfra.ns","pricecap":2990000000,"price":0,"country":"india"}
 {"name":"syngene international","codice":"syngene.ns","pricecap":2990000000,"price":7,"country":"india"}
 {"name":"ats automation","codice":"ata.to","pricecap":2990000000,"price":32,"country":"canada"}
 {"name":"growthpoint properties","codice":"grt.jo","pricecap":2990000000,"price":0,"country":"south africa"}
@@ -3225,9 +3225,9 @@
 {"name":"kulicke and soffa industries","codice":"klic","pricecap":2920000000,"price":51,"country":"singapore"}
 {"name":"grupo aval","codice":"aval","pricecap":2920000000,"price":2,"country":"colombia"}
 {"name":"stepstone group","codice":"step","pricecap":2910000000,"price":28,"country":"usa"}
-{"name":"pegasyste","codice":"pega","pricecap":2910000000,"price":35,"country":"usa"}
+{"name":"pegasystems","codice":"pega","pricecap":2910000000,"price":35,"country":"usa"}
 {"name":"brink's","codice":"bco","pricecap":2900000000,"price":62,"country":"usa"}
-{"name":"harmonic drive syste","codice":"6324.t","pricecap":2900000000,"price":30,"country":"japan"}
+{"name":"harmonic drive systems","codice":"6324.t","pricecap":2900000000,"price":30,"country":"japan"}
 {"name":"simmons first national","codice":"sfnc","pricecap":2900000000,"price":22,"country":"usa"}
 {"name":"maxlinear","codice":"mxl","pricecap":2900000000,"price":36,"country":"usa"}
 {"name":"papa john's pizza","codice":"pzza","pricecap":2900000000,"price":82,"country":"usa"}
@@ -3303,7 +3303,7 @@
 {"name":"petco","codice":"woof","pricecap":2750000000,"price":10,"country":"usa"}
 {"name":"jk cement","codice":"jkcement.ns","pricecap":2750000000,"price":35,"country":"india"}
 {"name":"sumitomo dainippon pharma","codice":"4506.t","pricecap":2740000000,"price":6,"country":"japan"}
-{"name":"mercury syste","codice":" cy","pricecap":2740000000,"price":47,"country":"usa"}
+{"name":"mercury systems","codice":"mrcy","pricecap":2740000000,"price":47,"country":"usa"}
 {"name":"ermenegildo zegna","codice":"zgn","pricecap":2740000000,"price":11,"country":"italy"}
 {"name":"atlantic union bankshares","codice":"aub","pricecap":2740000000,"price":36,"country":"usa"}
 {"name":"big yellow group","codice":"byg.l","pricecap":2740000000,"price":14,"country":"uk"}
@@ -3405,7 +3405,7 @@
 {"name":"dunelm group","codice":"dnlm.l","pricecap":2580000000,"price":12,"country":"uk"}
 {"name":"champion reit","codice":"2778.hk","pricecap":2570000000,"price":0,"country":"hong kong"}
 {"name":"ebro foods","codice":"ebro.mc","pricecap":2570000000,"price":16,"country":"spain"}
-{"name":" price group","codice":" p.jo","pricecap":2570000000,"price":9,"country":"south africa"}
+{"name":"price group","codice":"mrp.jo","pricecap":2570000000,"price":9,"country":"south africa"}
 {"name":"boral","codice":"bld.ax","pricecap":2570000000,"price":2,"country":"australia"}
 {"name":"kunlun tech","codice":"300418.sz","pricecap":2570000000,"price":2,"country":"china"}
 {"name":"wh smith","codice":"smwh.l","pricecap":2570000000,"price":19,"country":"uk"}
@@ -3452,12 +3452,12 @@
 {"name":"relay therapeutics","codice":"rlay","pricecap":2510000000,"price":20,"country":"usa"}
 {"name":"dana","codice":"dan","pricecap":2500000000,"price":17,"country":"usa"}
 {"name":"win semiconductors","codice":"3105.two","pricecap":2500000000,"price":5,"country":"taiwan"}
-{"name":"microstrategy","codice":" tr","pricecap":2500000000,"price":216,"country":"usa"}
+{"name":"microstrategy","codice":"mstr","pricecap":2500000000,"price":216,"country":"usa"}
 {"name":"innergex renewable energy","codice":"ine.to","pricecap":2500000000,"price":12,"country":"canada"}
 {"name":"uniqa insurance group","codice":"un9.f","pricecap":2500000000,"price":8,"country":"austria"}
 {"name":"sd biosensor","codice":"137310.ks","pricecap":2500000000,"price":24,"country":"s. korea"}
-{"name":"a ag","codice":"dqw1.f","pricecap":2490000000,"price":9,"country":"austria"}
-{"name":"alpha metallurgical resources","codice":"a ","pricecap":2490000000,"price":156,"country":"usa"}
+{"name":"aag","codice":"dqw1.f","pricecap":2490000000,"price":9,"country":"austria"}
+{"name":"alpha metallurgical resources","codice":"amr","pricecap":2490000000,"price":156,"country":"usa"}
 {"name":"pb fintech","codice":"policybzr.ns","pricecap":2490000000,"price":5,"country":"india"}
 {"name":"lgi homes","codice":"lgih","pricecap":2490000000,"price":107,"country":"usa"}
 {"name":"pagerduty","codice":"pd","pricecap":2490000000,"price":27,"country":"usa"}
@@ -3466,7 +3466,7 @@
 {"name":"axos financial","codice":"ax","pricecap":2480000000,"price":41,"country":"usa"}
 {"name":"amylyx pharmaceuticals","codice":"amlx","pricecap":2480000000,"price":37,"country":"usa"}
 {"name":"apollo tyres","codice":"apollotyre.ns","pricecap":2480000000,"price":3,"country":"india"}
-{"name":"mirati therapeutics","codice":" tx","pricecap":2480000000,"price":43,"country":"usa"}
+{"name":"mirati therapeutics","codice":"mrtx","pricecap":2480000000,"price":43,"country":"usa"}
 {"name":"pacific biosciences","codice":"pacb","pricecap":2470000000,"price":10,"country":"usa"}
 {"name":"bata india","codice":"bataindia.ns","pricecap":2470000000,"price":19,"country":"india"}
 {"name":"hang lung group","codice":"0010.hk","pricecap":2470000000,"price":1,"country":"hong kong"}
@@ -3480,7 +3480,7 @@
 {"name":"united natural foods","codice":"unfi","pricecap":2450000000,"price":41,"country":"usa"}
 {"name":"sl green realty","codice":"slg","pricecap":2450000000,"price":38,"country":"usa"}
 {"name":"commvault","codice":"cvlt","pricecap":2450000000,"price":55,"country":"usa"}
-{"name":"verint syste","codice":"vrnt","pricecap":2450000000,"price":37,"country":"usa"}
+{"name":"verint systems","codice":"vrnt","pricecap":2450000000,"price":37,"country":"usa"}
 {"name":"compagnie plastic omnium","codice":"pom.pa","pricecap":2450000000,"price":17,"country":"france"}
 {"name":"mcgrath rentcorp","codice":"mgrc","pricecap":2450000000,"price":100,"country":"usa"}
 {"name":"millicom","codice":"tigo","pricecap":2450000000,"price":14,"country":"luxembourg"}
@@ -3628,7 +3628,7 @@
 {"name":"wesbanco","codice":"wsbc","pricecap":2210000000,"price":37,"country":"usa"}
 {"name":"barnes group","codice":"b","pricecap":2210000000,"price":43,"country":"usa"}
 {"name":"patria investments","codice":"pax","pricecap":2210000000,"price":15,"country":"cayman islands"}
-{"name":"g","codice":"g ","pricecap":2210000000,"price":53,"country":"usa"}
+{"name":"gms","codice":"gms","pricecap":2210000000,"price":53,"country":"usa"}
 {"name":"agiliti","codice":"agti","pricecap":2210000000,"price":16,"country":"usa"}
 {"name":"nos","codice":"pmv.f","pricecap":2210000000,"price":4,"country":"portugal"}
 {"name":"blackberry","codice":"bb","pricecap":2210000000,"price":3,"country":"canada"}
@@ -3644,7 +3644,7 @@
 {"name":"six flags","codice":"six","pricecap":2190000000,"price":26,"country":"usa"}
 {"name":"international games system","codice":"3293.two","pricecap":2190000000,"price":15,"country":"taiwan"}
 {"name":"sprinklr","codice":"cxm","pricecap":2190000000,"price":8,"country":"usa"}
-{"name":"dr lal pathlabs","codice":"lalpathlab.ns","pricecap":2190000000,"price":26,"country":"india"}
+{"name":"lal pathlabs","codice":"lalpathlab.ns","pricecap":2190000000,"price":26,"country":"india"}
 {"name":"enlight renewable energy","codice":"enlt.ta","pricecap":2190000000,"price":2,"country":"israel"}
 {"name":"strategic education","codice":"stra","pricecap":2190000000,"price":89,"country":"usa"}
 {"name":"interroll","codice":"inrn.sw","pricecap":2190000000,"price":2,"country":"switzerland"}
@@ -3706,7 +3706,7 @@
 {"name":"eve air mobility","codice":"evex","pricecap":2089999999,"price":7,"country":"usa"}
 {"name":"tri pointe group","codice":"tph","pricecap":2089999999,"price":20,"country":"usa"}
 {"name":"bharat dynamics","codice":"bdl.ns","pricecap":2089999999,"price":11,"country":"india"}
-{"name":"indra sistemas","codice":"idr.mc","pricecap":2089999999,"price":11,"country":"spain"}
+{"name":"insistemas","codice":"idr.mc","pricecap":2089999999,"price":11,"country":"spain"}
 {"name":"goodrx","codice":"gdrx","pricecap":2080000000,"price":5,"country":"usa"}
 {"name":"orange polska","codice":"tpa1.f","pricecap":2080000000,"price":1,"country":"poland"}
 {"name":"philip morris cr","codice":"tbk.f","pricecap":2080000000,"price":750,"country":"czech republic"}
@@ -3757,7 +3757,7 @@
 {"name":"lifestance health group","codice":"lfst","pricecap":2000000000,"price":5,"country":"usa"}
 {"name":"enerjisa enerji","codice":"enjsa.is","pricecap":2000000000,"price":1,"country":"turkey"}
 {"name":"flagstar bank","codice":"fbc","pricecap":2000000000,"price":37,"country":"usa"}
-{"name":"newmark","codice":"n k","pricecap":2000000000,"price":8,"country":"usa"}
+{"name":"newmark","codice":"nmrk","pricecap":2000000000,"price":8,"country":"usa"}
 {"name":"burford capital","codice":"bur","pricecap":1990000000,"price":9,"country":"guernsey"}
 {"name":"heartland financial usa","codice":"htlf","pricecap":1990000000,"price":47,"country":"usa"}
 {"name":"canfor","codice":"cfp.to","pricecap":1990000000,"price":16,"country":"canada"}
@@ -3824,12 +3824,12 @@
 {"name":"pagegroup","codice":"page.l","pricecap":1900000000,"price":5,"country":"uk"}
 {"name":"masonite","codice":"door","pricecap":1900000000,"price":85,"country":"usa"}
 {"name":"enterprise financial services corp","codice":"efsc","pricecap":1900000000,"price":51,"country":"usa"}
-{"name":"comcope","codice":"comm","pricecap":1900000000,"price":9,"country":"usa"}
+{"name":"commscope","codice":"comm","pricecap":1900000000,"price":9,"country":"usa"}
 {"name":"colbun","codice":"colbun.sn","pricecap":1900000000,"price":0,"country":"chile"}
 {"name":"us cellular","codice":"usm","pricecap":1890000000,"price":22,"country":"usa"}
 {"name":"canadian western bank","codice":"cwb.to","pricecap":1890000000,"price":20,"country":"canada"}
 {"name":"urban edge properties","codice":"ue","pricecap":1890000000,"price":15,"country":"usa"}
-{"name":"kymera therapeutics","codice":"ky ","pricecap":1890000000,"price":34,"country":"usa"}
+{"name":"kymera therapeutics","codice":"kymr","pricecap":1890000000,"price":34,"country":"usa"}
 {"name":"toho gas","codice":"9533.t","pricecap":1890000000,"price":18,"country":"japan"}
 {"name":"nagarro","codice":"na9.de","pricecap":1890000000,"price":137,"country":"germany"}
 {"name":"biocryst pharmaceuticals","codice":"bcrx","pricecap":1890000000,"price":10,"country":"usa"}
@@ -3895,7 +3895,7 @@
 {"name":"shaftesbury","codice":"shb.l","pricecap":1800000000,"price":4,"country":"uk"}
 {"name":"tdcx","codice":"tdcx","pricecap":1800000000,"price":12,"country":"singapore"}
 {"name":"sonic automotive","codice":"sah","pricecap":1800000000,"price":49,"country":"usa"}
-{"name":"ballard power syste","codice":"bldp","pricecap":1790000000,"price":6,"country":"canada"}
+{"name":"ballard power systems","codice":"bldp","pricecap":1790000000,"price":6,"country":"canada"}
 {"name":"nmi holdings","codice":"nmih","pricecap":1790000000,"price":21,"country":"usa"}
 {"name":"olav thon","codice":"olt.ol","pricecap":1790000000,"price":17,"country":"norway"}
 {"name":"hongkong and shanghai hotels","codice":"0045.hk","pricecap":1790000000,"price":1,"country":"hong kong"}
@@ -3912,7 +3912,7 @@
 {"name":"hercules capital","codice":"htgc","pricecap":1770000000,"price":13,"country":"usa"}
 {"name":"ryman healthcare","codice":"rym.nz","pricecap":1770000000,"price":3,"country":"new zealand"}
 {"name":"kenon holdings","codice":"ken","pricecap":1770000000,"price":32,"country":"singapore"}
-{"name":"mahindra cie","codice":"mahindcie.ns","pricecap":1770000000,"price":4,"country":"india"}
+{"name":"mahincie","codice":"mahindcie.ns","pricecap":1770000000,"price":4,"country":"india"}
 {"name":"fb financial","codice":"fbk","pricecap":1760000000,"price":37,"country":"usa"}
 {"name":"ttm technologies","codice":"ttmi","pricecap":1760000000,"price":17,"country":"usa"}
 {"name":"q2","codice":"qtwo","pricecap":1760000000,"price":30,"country":"usa"}
@@ -3972,7 +3972,7 @@
 {"name":"criteo","codice":"crto","pricecap":1700000000,"price":28,"country":"france"}
 {"name":"tokai carbon","codice":"5301.t","pricecap":1700000000,"price":7,"country":"japan"}
 {"name":"flex lng","codice":"flng","pricecap":1700000000,"price":31,"country":"bermuda"}
-{"name":"dcm shriram","codice":"dc hriram.ns","pricecap":1700000000,"price":10,"country":"india"}
+{"name":"dcm shriram","codice":"dcmshriram.ns","pricecap":1700000000,"price":10,"country":"india"}
 {"name":"exchange income corporation","codice":"eif.to","pricecap":1690000000,"price":40,"country":"canada"}
 {"name":"hain celestial","codice":"hain","pricecap":1690000000,"price":19,"country":"usa"}
 {"name":"dsme daewoo shipbuilding","codice":"042660.ks","pricecap":1690000000,"price":15,"country":"s. korea"}
@@ -4033,15 +4033,15 @@
 {"name":"kiocl","codice":"kiocl.ns","pricecap":1630000000,"price":2,"country":"india"}
 {"name":"sappi","codice":"sap.jo","pricecap":1630000000,"price":2,"country":"south africa"}
 {"name":"resolute forest products","codice":"rfp","pricecap":1630000000,"price":21,"country":"canada"}
-{"name":"marten transport","codice":" tn","pricecap":1630000000,"price":20,"country":"usa"}
+{"name":"marten transport","codice":"mrtn","pricecap":1630000000,"price":20,"country":"usa"}
 {"name":"bajaj electricals","codice":"bajajelec.ns","pricecap":1630000000,"price":14,"country":"india"}
 {"name":"procept biorobotics","codice":"prct","pricecap":1630000000,"price":36,"country":"usa"}
 {"name":"getty realty","codice":"gty","pricecap":1620000000,"price":34,"country":"usa"}
 {"name":"hbm healthcare investments","codice":"hbmn.sw","pricecap":1620000000,"price":234,"country":"switzerland"}
 {"name":"zhejiang jinke tom culture industry","codice":"300459.sz","pricecap":1620000000,"price":0,"country":"china"}
-{"name":"enghouse syste","codice":"engh.to","pricecap":1620000000,"price":29,"country":"canada"}
+{"name":"enghouse systems","codice":"engh.to","pricecap":1620000000,"price":29,"country":"canada"}
 {"name":"toda corp","codice":"1860.t","pricecap":1620000000,"price":5,"country":"japan"}
-{"name":"madison square garden","codice":" ge","pricecap":1610000000,"price":46,"country":"usa"}
+{"name":"madison square garden","codice":"msge","pricecap":1610000000,"price":46,"country":"usa"}
 {"name":"tav airports holding","codice":"tavhl.is","pricecap":1610000000,"price":4,"country":"turkey"}
 {"name":"aurora innovation","codice":"aur","pricecap":1610000000,"price":1,"country":"usa"}
 {"name":"savills","codice":"svs.l","pricecap":1610000000,"price":11,"country":"uk"}
@@ -4085,7 +4085,7 @@
 {"name":"infinera","codice":"infn","pricecap":1560000000,"price":7,"country":"usa"}
 {"name":"atos","codice":"ato.pa","pricecap":1560000000,"price":14,"country":"france"}
 {"name":"westamerica bancorporation","codice":"wabc","pricecap":1560000000,"price":58,"country":"usa"}
-{"name":"hi & hers health","codice":"hi ","pricecap":1560000000,"price":7,"country":"usa"}
+{"name":"hi& hers health","codice":"hims","pricecap":1560000000,"price":7,"country":"usa"}
 {"name":"veritex holdings","codice":"vbtx","pricecap":1560000000,"price":28,"country":"usa"}
 {"name":"compass","codice":"comp","pricecap":1560000000,"price":3,"country":"usa"}
 {"name":"life healthcare group","codice":"lhc.jo","pricecap":1560000000,"price":1,"country":"south africa"}
@@ -4130,7 +4130,7 @@
 {"name":"stem","codice":"stem","pricecap":1520000000,"price":9,"country":"usa"}
 {"name":"monro","codice":"mnro","pricecap":1520000000,"price":48,"country":"usa"}
 {"name":"compass diversified holdings","codice":"codi","pricecap":1510000000,"price":21,"country":"usa"}
-{"name":"jasa marga","codice":"js .jk","pricecap":1510000000,"price":0,"country":"indonesia"}
+{"name":"jasa marga","codice":"jsmr.jk","pricecap":1510000000,"price":0,"country":"indonesia"}
 {"name":"sixth street specialty lending","codice":"tslx","pricecap":1510000000,"price":18,"country":"usa"}
 {"name":"first national of nebraska","codice":"finn","pricecap":1510000000,"price":14,"country":"usa"}
 {"name":"fever-tree drinks","codice":"fevr.l","pricecap":1510000000,"price":13,"country":"uk"}
@@ -4146,7 +4146,7 @@
 {"name":"acv auctions","codice":"acva","pricecap":1440000000,"price":9,"country":"usa"}
 {"name":"goosehead insurance","codice":"gshd","pricecap":1440000000,"price":37,"country":"usa"}
 {"name":"hornbach holding","codice":"hbh.de","pricecap":1440000000,"price":90,"country":"germany"}
-{"name":"middlesex water company","codice":" ex","pricecap":1440000000,"price":81,"country":"usa"}
+{"name":"middlesex water company","codice":"msex","pricecap":1440000000,"price":81,"country":"usa"}
 {"name":"avidity biosciences","codice":"rna","pricecap":1500000000,"price":22,"country":"usa"}
 {"name":"sihanoukville autonomous port","codice":"pas.kh","pricecap":1500000000,"price":3,"country":"cambodia"}
 {"name":"yanlord","codice":"z25.si","pricecap":1500000000,"price":0,"country":"singapore"}
@@ -4188,7 +4188,7 @@
 {"name":"textainer group","codice":"tgh","pricecap":1480000000,"price":33,"country":"bermuda"}
 {"name":"arendals fossekompani","codice":"afk.ol","pricecap":1480000000,"price":27,"country":"norway"}
 {"name":"archrock","codice":"aroc","pricecap":1480000000,"price":9,"country":"usa"}
-{"name":"osi syste","codice":"osis","pricecap":1480000000,"price":87,"country":"usa"}
+{"name":"osi systems","codice":"osis","pricecap":1480000000,"price":87,"country":"usa"}
 {"name":"cytek biosciences","codice":"ctkb","pricecap":1480000000,"price":10,"country":"usa"}
 {"name":"rhi magnesita","codice":"rhf.f","pricecap":1480000000,"price":31,"country":"austria"}
 {"name":"marcus & millichap","codice":"mmi","pricecap":1480000000,"price":37,"country":"usa"}
@@ -4340,7 +4340,7 @@
 {"name":"standex","codice":"sxi","pricecap":1310000000,"price":109,"country":"usa"}
 {"name":"fuelcell energy","codice":"fcel","pricecap":1310000000,"price":3,"country":"usa"}
 {"name":"irobot","codice":"irbt","pricecap":1310000000,"price":47,"country":"usa"}
-{"name":"palomar holdings","codice":"pl ","pricecap":1300000000,"price":51,"country":"usa"}
+{"name":"palomar holdings","codice":"plmr","pricecap":1300000000,"price":51,"country":"usa"}
 {"name":"pc connection","codice":"cnxn","pricecap":1300000000,"price":49,"country":"usa"}
 {"name":"bridgebio pharma","codice":"bbio","pricecap":1300000000,"price":8,"country":"usa"}
 {"name":"integrafin","codice":"ihp.l","pricecap":1300000000,"price":3,"country":"uk"}
@@ -4353,7 +4353,7 @@
 {"name":"cinemark theatres","codice":"cnk","pricecap":1300000000,"price":10,"country":"usa"}
 {"name":"heartland express","codice":"htld","pricecap":1300000000,"price":16,"country":"usa"}
 {"name":"outset medical","codice":"om","pricecap":1290000000,"price":26,"country":"usa"}
-{"name":"telephone and data syste","codice":"tds","pricecap":1290000000,"price":11,"country":"usa"}
+{"name":"telephone and data systems","codice":"tds","pricecap":1290000000,"price":11,"country":"usa"}
 {"name":"blucora","codice":"bcor","pricecap":1290000000,"price":27,"country":"usa"}
 {"name":"enovix","codice":"envx","pricecap":1290000000,"price":8,"country":"usa"}
 {"name":"ecovyst","codice":"ecvt","pricecap":1290000000,"price":9,"country":"usa"}
@@ -4450,16 +4450,16 @@
 {"name":"pgt innovations","codice":"pgti","pricecap":1190000000,"price":19,"country":"usa"}
 {"name":"cropenergies","codice":"ce2.f","pricecap":1190000000,"price":13,"country":"germany"}
 {"name":"tanla","codice":"tanla.ns","pricecap":1190000000,"price":8,"country":"india"}
-{"name":"3d syste","codice":"ddd","pricecap":1190000000,"price":9,"country":"usa"}
+{"name":"3d systems","codice":"ddd","pricecap":1190000000,"price":9,"country":"usa"}
 {"name":"banco de brasilia","codice":"bsli3.sa","pricecap":1190000000,"price":3,"country":"brazil"}
 {"name":"aclaris therapeutics","codice":"acrs","pricecap":1190000000,"price":17,"country":"usa"}
 {"name":"lakeland bancorp","codice":"lbai","pricecap":1190000000,"price":18,"country":"usa"}
-{"name":"formula syste","codice":"forty","pricecap":1190000000,"price":78,"country":"israel"}
+{"name":"formula systems","codice":"forty","pricecap":1190000000,"price":78,"country":"israel"}
 {"name":"malibu boats","codice":"mbuu","pricecap":1190000000,"price":58,"country":"usa"}
 {"name":"profrac","codice":"pfhc","pricecap":1190000000,"price":22,"country":"usa"}
 {"name":"amara raja batteries","codice":"amarajabat.ns","pricecap":1190000000,"price":6,"country":"india"}
 {"name":"capitol federal savings bank","codice":"cffn","pricecap":1190000000,"price":8,"country":"usa"}
-{"name":"costamare","codice":"c e","pricecap":1190000000,"price":9,"country":"monaco"}
+{"name":"costamare","codice":"cmre","pricecap":1190000000,"price":9,"country":"monaco"}
 {"name":"korian","codice":"kori.pa","pricecap":1190000000,"price":11,"country":"france"}
 {"name":"advansix","codice":"asix","pricecap":1190000000,"price":43,"country":"usa"}
 {"name":"east india distilleries parry","codice":"eidparry.ns","pricecap":1180000000,"price":6,"country":"india"}
@@ -4472,7 +4472,7 @@
 {"name":"naas technology","codice":"naas","pricecap":1170000000,"price":5,"country":"china"}
 {"name":"zydus wellness","codice":"zyduswell.ns","pricecap":1170000000,"price":18,"country":"india"}
 {"name":"eckert & ziegler","codice":"euz.f","pricecap":1170000000,"price":56,"country":"germany"}
-{"name":"seush","codice":"se ","pricecap":1170000000,"price":8,"country":"usa"}
+{"name":"semrush","codice":"semr","pricecap":1170000000,"price":8,"country":"usa"}
 {"name":"employers holdings","codice":"eig","pricecap":1170000000,"price":43,"country":"usa"}
 {"name":"southside bancshares","codice":"sbsi","pricecap":1170000000,"price":36,"country":"usa"}
 {"name":"hollysys automation technologie","codice":"holi","pricecap":1170000000,"price":18,"country":"china"}
@@ -4562,7 +4562,7 @@
 {"name":"cowen","codice":"cown","pricecap":1080000000,"price":38,"country":"usa"}
 {"name":"spartannash","codice":"sptn","pricecap":1080000000,"price":30,"country":"usa"}
 {"name":"metrovacesa","codice":"mvc.mc","pricecap":1080000000,"price":7,"country":"spain"}
-{"name":"igm biosciences","codice":"ig ","pricecap":1080000000,"price":25,"country":"usa"}
+{"name":"igm biosciences","codice":"igms","pricecap":1080000000,"price":25,"country":"usa"}
 {"name":"core laboratories","codice":"clb","pricecap":1080000000,"price":23,"country":"netherlands"}
 {"name":"napco security technologies","codice":"nssc","pricecap":1080000000,"price":29,"country":"usa"}
 {"name":"mullen group","codice":"mtl.to","pricecap":1080000000,"price":11,"country":"canada"}
@@ -4579,7 +4579,7 @@
 {"name":"nexa resources","codice":"nexa","pricecap":960000000,"price":7,"country":"luxembourg"}
 {"name":"central puerto","codice":"cepu","pricecap":960000000,"price":6,"country":"argentina"}
 {"name":"summit therapeutics","codice":"smmt","pricecap":960000000,"price":4,"country":"uk"}
-{"name":"aest","codice":"eat.mc","pricecap":960000000,"price":4,"country":"spain"}
+{"name":"amrest","codice":"eat.mc","pricecap":960000000,"price":4,"country":"spain"}
 {"name":"scilex holding","codice":"sclx","pricecap":1070000000,"price":7,"country":"usa"}
 {"name":"fnac darty","codice":"fnac.pa","pricecap":1070000000,"price":40,"country":"france"}
 {"name":"wolverine world wide","codice":"www","pricecap":1070000000,"price":13,"country":"usa"}
@@ -4610,7 +4610,7 @@
 {"name":"sunopta","codice":"stkl","pricecap":960000000,"price":8,"country":"canada"}
 {"name":"jeld-wen","codice":"jeld","pricecap":950000000,"price":11,"country":"usa"}
 {"name":"hireright","codice":"hrt","pricecap":950000000,"price":12,"country":"usa"}
-{"name":"morguard","codice":" c.to","pricecap":950000000,"price":86,"country":"canada"}
+{"name":"morguard","codice":"mrc.to","pricecap":950000000,"price":86,"country":"canada"}
 {"name":"barloworld","codice":"baw.jo","pricecap":950000000,"price":5,"country":"south africa"}
 {"name":"waldencast","codice":"wald","pricecap":950000000,"price":8,"country":"usa"}
 {"name":"asos","codice":"asc.l","pricecap":950000000,"price":9,"country":"uk"}
@@ -4626,7 +4626,7 @@
 {"name":"nurnberger versicherung","codice":"nbg6.f","pricecap":950000000,"price":81,"country":"germany"}
 {"name":"modern times group mtg","codice":"mtg-b.st","pricecap":940000000,"price":7,"country":"sweden"}
 {"name":"flatexdegiro ag","codice":"ftk.de","pricecap":940000000,"price":8,"country":"germany"}
-{"name":"the first bancshares","codice":"fb ","pricecap":940000000,"price":30,"country":"usa"}
+{"name":"the first bancshares","codice":"fbms","pricecap":940000000,"price":30,"country":"usa"}
 {"name":"argo group","codice":"argo","pricecap":940000000,"price":27,"country":"bermuda"}
 {"name":"applus services","codice":"apps.mc","pricecap":940000000,"price":6,"country":"spain"}
 {"name":"amerant bancorp","codice":"amtb","pricecap":940000000,"price":28,"country":"usa"}
@@ -4641,7 +4641,7 @@
 {"name":"sparkassen immobilien","codice":"t1l.f","pricecap":940000000,"price":13,"country":"austria"}
 {"name":"brightspire capital","codice":"brsp","pricecap":930000000,"price":7,"country":"usa"}
 {"name":"inter & co","codice":"intr","pricecap":930000000,"price":2,"country":"brazil"}
-{"name":"ayt pharma","codice":"amyt","pricecap":930000000,"price":14,"country":"uk"}
+{"name":"amryt pharma","codice":"amyt","pricecap":930000000,"price":14,"country":"uk"}
 {"name":"kiwi property","codice":"kwipf","pricecap":930000000,"price":0,"country":"new zealand"}
 {"name":"overstockcom","codice":"ostk","pricecap":930000000,"price":20,"country":"usa"}
 {"name":"alamar foods company","codice":"6014.sr","pricecap":930000000,"price":36,"country":"s. arabia"}
@@ -4677,7 +4677,7 @@
 {"name":"gree","codice":"3632.t","pricecap":910000000,"price":5,"country":"japan"}
 {"name":"cogent biosciences","codice":"cogt","pricecap":910000000,"price":13,"country":"usa"}
 {"name":"albireo pharma","codice":"albo","pricecap":910000000,"price":43,"country":"usa"}
-{"name":"a-mark precious metals","codice":"a k","pricecap":900000000,"price":38,"country":"usa"}
+{"name":"a-mark precious metals","codice":"amrk","pricecap":900000000,"price":38,"country":"usa"}
 {"name":"veeco","codice":"veco","pricecap":1040000000,"price":20,"country":"usa"}
 {"name":"nrc health","codice":"nrc","pricecap":1040000000,"price":42,"country":"usa"}
 {"name":"patrizia immobilien","codice":"p1z.vi","pricecap":1040000000,"price":11,"country":"germany"}
@@ -4733,7 +4733,7 @@
 {"name":"arko","codice":"arko","pricecap":1020000000,"price":8,"country":"usa"}
 {"name":"healthcare services group","codice":"hcsg","pricecap":1020000000,"price":13,"country":"usa"}
 {"name":"open lending","codice":"lpro","pricecap":1010000000,"price":8,"country":"usa"}
-{"name":"c global","codice":" c","pricecap":1010000000,"price":12,"country":"usa"}
+{"name":"global","codice":"mrc","pricecap":1010000000,"price":12,"country":"usa"}
 {"name":"ncc","codice":"ncc-b.st","pricecap":1010000000,"price":10,"country":"sweden"}
 {"name":"allogene therapeutics","codice":"allo","pricecap":1010000000,"price":7,"country":"usa"}
 {"name":"palfinger","codice":"pfi.f","pricecap":1010000000,"price":29,"country":"austria"}
@@ -4741,7 +4741,7 @@
 {"name":"mesa laboratories","codice":"mlab","pricecap":1010000000,"price":190,"country":"usa"}
 {"name":"avid bioservices","codice":"cdmo","pricecap":1010000000,"price":16,"country":"usa"}
 {"name":"li-cycle","codice":"licy","pricecap":1010000000,"price":5,"country":"canada"}
-{"name":"ichor syste","codice":"ichr","pricecap":880000000,"price":30,"country":"usa"}
+{"name":"ichor systems","codice":"ichr","pricecap":880000000,"price":30,"country":"usa"}
 {"name":"douglas dynamics","codice":"plow","pricecap":880000000,"price":38,"country":"usa"}
 {"name":"brightsphere investment group","codice":"bsig","pricecap":880000000,"price":21,"country":"usa"}
 {"name":"winmark","codice":"wina","pricecap":880000000,"price":258,"country":"usa"}
@@ -4777,7 +4777,7 @@
 {"name":"american axle & manufacturing","codice":"axl","pricecap":1010000000,"price":8,"country":"usa"}
 {"name":"tianyu digital technology dalian","codice":"002354.sz","pricecap":1000000000,"price":0,"country":"china"}
 {"name":"benchmark electronics","codice":"bhe","pricecap":1000000000,"price":28,"country":"usa"}
-{"name":"timkensteel","codice":"t t","pricecap":870000000,"price":19,"country":"usa"}
+{"name":"timkensteel","codice":"tmst","pricecap":870000000,"price":19,"country":"usa"}
 {"name":"cardinal energy","codice":"cj.to","pricecap":860000000,"price":5,"country":"canada"}
 {"name":"grid dynamics","codice":"gdyn","pricecap":860000000,"price":11,"country":"usa"}
 {"name":"exscientia","codice":"exai","pricecap":860000000,"price":7,"country":"uk"}
@@ -4795,8 +4795,8 @@
 {"name":"bain capital","codice":"bcsf","pricecap":850000000,"price":13,"country":"usa"}
 {"name":"bangkok airways","codice":"ba.bk","pricecap":850000000,"price":0,"country":"thailand"}
 {"name":"janux therapeutics","codice":"janx","pricecap":850000000,"price":20,"country":"usa"}
-{"name":"perdoceo education","codice":"prdo","pricecap":1000000000,"price":15,"country":"usa"}
-{"name":"amerisafe","codice":"a f","pricecap":1000000000,"price":52,"country":"usa"}
+{"name":"perdoeducation","codice":"prdo","pricecap":1000000000,"price":15,"country":"usa"}
+{"name":"amerisafe","codice":"amsf","pricecap":1000000000,"price":52,"country":"usa"}
 {"name":"carscom","codice":"cars","pricecap":1000000000,"price":15,"country":"usa"}
 {"name":"bellus health","codice":"blu","pricecap":1000000000,"price":8,"country":"canada"}
 {"name":"suburban propane partners","codice":"sph","pricecap":1000000000,"price":15,"country":"usa"}
@@ -4852,7 +4852,7 @@
 {"name":"dah sing financial","codice":"0440.hk","pricecap":840000000,"price":2,"country":"hong kong"}
 {"name":"forestar group","codice":"for","pricecap":840000000,"price":17,"country":"usa"}
 {"name":"wesdome gold mines","codice":"wdo.to","pricecap":840000000,"price":5,"country":"canada"}
-{"name":"amarin corporation","codice":"a n","pricecap":840000000,"price":2,"country":"ireland"}
+{"name":"amarin corporation","codice":"amrn","pricecap":840000000,"price":2,"country":"ireland"}
 {"name":"cbl properties","codice":"cbl","pricecap":840000000,"price":26,"country":"usa"}
 {"name":"network18","codice":"network18.ns","pricecap":840000000,"price":0,"country":"india"}
 {"name":"bls international","codice":"bls.ns","pricecap":840000000,"price":2,"country":"india"}
@@ -4880,14 +4880,14 @@
 {"name":"grindr","codice":"grnd","pricecap":970000000,"price":5,"country":"usa"}
 {"name":"kura oncology","codice":"kura","pricecap":970000000,"price":14,"country":"usa"}
 {"name":"omega flex","codice":"oflx","pricecap":970000000,"price":96,"country":"usa"}
-{"name":"sturm, ruger & co","codice":"rgr","pricecap":970000000,"price":55,"country":"usa"}
+{"name":"sturm ruger & co","codice":"rgr","pricecap":970000000,"price":55,"country":"usa"}
 {"name":"titan machinery","codice":"titn","pricecap":970000000,"price":42,"country":"usa"}
 {"name":"verano holdings","codice":"vrnof","pricecap":970000000,"price":3,"country":"usa"}
 {"name":"dril-quip","codice":"drq","pricecap":970000000,"price":28,"country":"usa"}
 {"name":"crinetics pharmaceuticals","codice":"crnx","pricecap":970000000,"price":18,"country":"usa"}
 {"name":"kalpataru power transmission","codice":"kalpatpowr.ns","pricecap":970000000,"price":6,"country":"india"}
 {"name":"gpa","codice":"cbd","pricecap":970000000,"price":3,"country":"brazil"}
-{"name":"marshalls plc","codice":" lh.l","pricecap":960000000,"price":3,"country":"uk"}
+{"name":"marshalls plc","codice":"mslh.l","pricecap":960000000,"price":3,"country":"uk"}
 {"name":"boston omaha","codice":"boc","pricecap":830000000,"price":28,"country":"usa"}
 {"name":"hawkins","codice":"hwkn","pricecap":810000000,"price":38,"country":"usa"}
 {"name":"indiabulls housing finance","codice":"ibulhsgfin.ns","pricecap":810000000,"price":1,"country":"india"}
@@ -4931,7 +4931,7 @@
 {"name":"lyell immunopharma","codice":"lyel","pricecap":800000000,"price":3,"country":"usa"}
 {"name":"summit hotel properties","codice":"inn","pricecap":800000000,"price":7,"country":"usa"}
 {"name":"heritage commerce","codice":"htbk","pricecap":800000000,"price":13,"country":"usa"}
-{"name":"aehr test syste","codice":"aehr","pricecap":800000000,"price":29,"country":"usa"}
+{"name":"aehr test systems","codice":"aehr","pricecap":800000000,"price":29,"country":"usa"}
 {"name":"altimmune","codice":"alt","pricecap":800000000,"price":16,"country":"usa"}
 {"name":"prince pipes and fittings","codice":"princepipe.ns","pricecap":800000000,"price":7,"country":"india"}
 {"name":"nextdecade corp","codice":"next","pricecap":790000000,"price":5,"country":"usa"}
@@ -4994,7 +4994,7 @@
 {"name":"the vita coco company","codice":"coco","pricecap":750000000,"price":13,"country":"usa"}
 {"name":"advantage solutions","codice":"adv","pricecap":750000000,"price":2,"country":"usa"}
 {"name":"amc networks","codice":"amcx","pricecap":750000000,"price":17,"country":"usa"}
-{"name":"al moammar information syste","codice":"7200.sr","pricecap":750000000,"price":25,"country":"s. arabia"}
+{"name":"al moammar information systems","codice":"7200.sr","pricecap":750000000,"price":25,"country":"s. arabia"}
 {"name":"aerie pharmaceuticals","codice":"aeri","pricecap":750000000,"price":15,"country":"usa"}
 {"name":"marinemax","codice":"hzo","pricecap":750000000,"price":34,"country":"usa"}
 {"name":"bigcommerce","codice":"bigc","pricecap":750000000,"price":10,"country":"usa"}
@@ -5019,7 +5019,7 @@
 {"name":"wallbox","codice":"wbx","pricecap":740000000,"price":4,"country":"spain"}
 {"name":"rain industries","codice":"rain.ns","pricecap":740000000,"price":2,"country":"india"}
 {"name":"karooooo","codice":"karo","pricecap":740000000,"price":24,"country":"singapore"}
-{"name":"idreaky","codice":"1119.hk","pricecap":740000000,"price":0,"country":"china"}
+{"name":"idreamsky","codice":"1119.hk","pricecap":740000000,"price":0,"country":"china"}
 {"name":"sunlight reit","codice":"0435.hk","pricecap":740000000,"price":0,"country":"hong kong"}
 {"name":"farmland partners","codice":"fpi","pricecap":740000000,"price":13,"country":"usa"}
 {"name":"g-iii apparel group","codice":"giii","pricecap":730000000,"price":15,"country":"usa"}
@@ -5048,10 +5048,10 @@
 {"name":"skyward specialty insurance group","codice":"skwd","pricecap":710000000,"price":19,"country":"usa"}
 {"name":"maverix metals","codice":"mmx","pricecap":710000000,"price":4,"country":"canada"}
 {"name":"brightview","codice":"bv","pricecap":710000000,"price":7,"country":"usa"}
-{"name":"global medical reit","codice":"g e","pricecap":710000000,"price":10,"country":"usa"}
+{"name":"global medical reit","codice":"gmre","pricecap":710000000,"price":10,"country":"usa"}
 {"name":"universal health realty income trust","codice":"uht","pricecap":710000000,"price":51,"country":"usa"}
 {"name":"cmge technology group","codice":"0302.hk","pricecap":710000000,"price":0,"country":"china"}
-{"name":"merus","codice":" us","pricecap":710000000,"price":15,"country":"netherlands"}
+{"name":"merus","codice":"mrus","pricecap":710000000,"price":15,"country":"netherlands"}
 {"name":"jin air","codice":"272450.ks","pricecap":710000000,"price":13,"country":"s. korea"}
 {"name":"belite bio","codice":"blte","pricecap":710000000,"price":28,"country":"usa"}
 {"name":"4d molecular therapeutics","codice":"fdmt","pricecap":710000000,"price":22,"country":"usa"}
@@ -5110,14 +5110,14 @@
 {"name":"iteos therapeutics","codice":"itos","pricecap":670000000,"price":19,"country":"usa"}
 {"name":"accolade","codice":"accd","pricecap":670000000,"price":9,"country":"usa"}
 {"name":"otc markets group","codice":"otcm","pricecap":670000000,"price":57,"country":"usa"}
-{"name":"mahindra lifespaces","codice":"mahlife.ns","pricecap":670000000,"price":4,"country":"india"}
+{"name":"mahinlifespaces","codice":"mahlife.ns","pricecap":670000000,"price":4,"country":"india"}
 {"name":"mediaalpha","codice":"max","pricecap":670000000,"price":11,"country":"usa"}
 {"name":"the hackett group","codice":"hckt","pricecap":670000000,"price":21,"country":"usa"}
 {"name":"intercept pharmaceuticals","codice":"icpt","pricecap":670000000,"price":16,"country":"usa"}
 {"name":"first mid-illinois bancshares","codice":"fmbh","pricecap":670000000,"price":32,"country":"usa"}
 {"name":"allakos","codice":"allk","pricecap":670000000,"price":7,"country":"usa"}
 {"name":"1-800-flowers","codice":"flws","pricecap":670000000,"price":10,"country":"usa"}
-{"name":"amneal pharmaceuticals","codice":"a x","pricecap":670000000,"price":2,"country":"usa"}
+{"name":"amneal pharmaceuticals","codice":"amrx","pricecap":670000000,"price":2,"country":"usa"}
 {"name":"i-80 gold","codice":"iaux","pricecap":670000000,"price":2,"country":"usa"}
 {"name":"wirtualna polska wp holding","codice":"wpl.wa","pricecap":670000000,"price":22,"country":"poland"}
 {"name":"clear channel outdoor","codice":"cco","pricecap":670000000,"price":1,"country":"usa"}
@@ -5132,12 +5132,12 @@
 {"name":"channeladvisor","codice":"ecom","pricecap":660000000,"price":23,"country":"usa"}
 {"name":"neowiz games","codice":"095660.kq","pricecap":660000000,"price":31,"country":"s. korea"}
 {"name":"qnb finansleasing","codice":"qnbfl.is","pricecap":660000000,"price":5,"country":"turkey"}
-{"name":"cass information syste","codice":"cass","pricecap":660000000,"price":48,"country":"usa"}
+{"name":"cass information systems","codice":"cass","pricecap":660000000,"price":48,"country":"usa"}
 {"name":"berry corporation","codice":"bry","pricecap":660000000,"price":8,"country":"usa"}
 {"name":"dynex capital","codice":"dx","pricecap":660000000,"price":14,"country":"usa"}
 {"name":"metropolitan bank holding","codice":"mcb","pricecap":660000000,"price":59,"country":"usa"}
 {"name":"health catalyst","codice":"hcat","pricecap":660000000,"price":12,"country":"usa"}
-{"name":"vital far","codice":"vitl","pricecap":660000000,"price":16,"country":"usa"}
+{"name":"vital farms","codice":"vitl","pricecap":660000000,"price":16,"country":"usa"}
 {"name":"algoma steel","codice":"astl","pricecap":660000000,"price":6,"country":"canada"}
 {"name":"new found gold","codice":"nfgc","pricecap":660000000,"price":3,"country":"canada"}
 {"name":"doubleugames","codice":"192080.ks","pricecap":660000000,"price":39,"country":"s. korea"}
@@ -5165,7 +5165,7 @@
 {"name":"amtd idea group","codice":"amtd","pricecap":640000000,"price":1,"country":"hong kong"}
 {"name":"yit","codice":"yit.he","pricecap":640000000,"price":3,"country":"finland"}
 {"name":"oscar health","codice":"oscr","pricecap":640000000,"price":3,"country":"usa"}
-{"name":"acm research","codice":"ac ","pricecap":640000000,"price":10,"country":"usa"}
+{"name":"acm research","codice":"acmr","pricecap":640000000,"price":10,"country":"usa"}
 {"name":"franklin covey","codice":"fc","pricecap":640000000,"price":46,"country":"usa"}
 {"name":"interface","codice":"tile","pricecap":640000000,"price":11,"country":"usa"}
 {"name":"mastek","codice":"mastek.ns","pricecap":640000000,"price":21,"country":"india"}
@@ -5197,7 +5197,7 @@
 {"name":"shenzhen bingchuan network","codice":"300533.sz","pricecap":620000000,"price":4,"country":"china"}
 {"name":"sterling & wilson solar","codice":"swsolar.ns","pricecap":620000000,"price":3,"country":"india"}
 {"name":"chatham lodging trust","codice":"cldt","pricecap":620000000,"price":12,"country":"usa"}
-{"name":"community health syste","codice":"cyh","pricecap":610000000,"price":4,"country":"usa"}
+{"name":"community health systems","codice":"cyh","pricecap":610000000,"price":4,"country":"usa"}
 {"name":"transcat","codice":"trns","pricecap":610000000,"price":81,"country":"usa"}
 {"name":"camden national bank","codice":"cac","pricecap":610000000,"price":42,"country":"usa"}
 {"name":"gujarat mineral development","codice":"gmdcltd.ns","pricecap":610000000,"price":1,"country":"india"}
@@ -5225,7 +5225,7 @@
 {"name":"cloetta","codice":"cla-b.st","pricecap":600000000,"price":2,"country":"sweden"}
 {"name":"hartalega","codice":"5168.kl","pricecap":600000000,"price":0,"country":"malaysia"}
 {"name":"poseida therapeutics","codice":"pstx","pricecap":600000000,"price":7,"country":"usa"}
-{"name":"mersana therapeutics","codice":" sn","pricecap":600000000,"price":6,"country":"usa"}
+{"name":"mersana therapeutics","codice":"mrsn","pricecap":600000000,"price":6,"country":"usa"}
 {"name":"genesco","codice":"gco","pricecap":600000000,"price":47,"country":"usa"}
 {"name":"vrl logistics","codice":"vrllog.ns","pricecap":600000000,"price":6,"country":"india"}
 {"name":"secureworks","codice":"scwx","pricecap":600000000,"price":7,"country":"usa"}
@@ -5268,7 +5268,7 @@
 {"name":"boss energy","codice":"boe.ax","pricecap":580000000,"price":1,"country":"australia"}
 {"name":"syrma sgs technology","codice":"syrma.ns","pricecap":580000000,"price":3,"country":"india"}
 {"name":"chuy's","codice":"chuy","pricecap":580000000,"price":32,"country":"usa"}
-{"name":"cardiovascular syste","codice":"csii","pricecap":580000000,"price":14,"country":"usa"}
+{"name":"cardiovascular systems","codice":"csii","pricecap":580000000,"price":14,"country":"usa"}
 {"name":"transport corporation of india","codice":"tci.ns","pricecap":580000000,"price":7,"country":"india"}
 {"name":"arrow financial","codice":"arow","pricecap":550000000,"price":33,"country":"usa"}
 {"name":"cerus","codice":"cers","pricecap":550000000,"price":3,"country":"usa"}
@@ -5294,7 +5294,7 @@
 {"name":"engineers india","codice":"enginersin.ns","pricecap":580000000,"price":1,"country":"india"}
 {"name":"karnataka bank","codice":"ktkbank.ns","pricecap":580000000,"price":1,"country":"india"}
 {"name":"heidrick & struggles","codice":"hsii","pricecap":580000000,"price":29,"country":"usa"}
-{"name":"amyris","codice":"a s","pricecap":580000000,"price":1,"country":"usa"}
+{"name":"amyris","codice":"amrs","pricecap":580000000,"price":1,"country":"usa"}
 {"name":"absolute software","codice":"abst","pricecap":580000000,"price":11,"country":"canada"}
 {"name":"hbt financial","codice":"hbt","pricecap":580000000,"price":20,"country":"usa"}
 {"name":"2u","codice":"twou","pricecap":580000000,"price":7,"country":"usa"}
@@ -5307,7 +5307,7 @@
 {"name":"tunas ridean","codice":"turi.jk","pricecap":570000000,"price":0,"country":"indonesia"}
 {"name":"ardmore shipping","codice":"asc","pricecap":570000000,"price":14,"country":"bermuda"}
 {"name":"pennantpark floating rate","codice":"pflt","pricecap":540000000,"price":12,"country":"usa"}
-{"name":"smartrent","codice":"s t","pricecap":540000000,"price":2,"country":"usa"}
+{"name":"smartrent","codice":"smrt","pricecap":540000000,"price":2,"country":"usa"}
 {"name":"havertys","codice":"hvt","pricecap":540000000,"price":34,"country":"usa"}
 {"name":"fdc india","codice":"fdc.ns","pricecap":540000000,"price":3,"country":"india"}
 {"name":"varroc","codice":"varroc.ns","pricecap":540000000,"price":3,"country":"india"}
@@ -5333,7 +5333,7 @@
 {"name":"calavo growers","codice":"cvgw","pricecap":560000000,"price":31,"country":"usa"}
 {"name":"energy resources of australia","codice":"era.ax","pricecap":560000000,"price":0,"country":"australia"}
 {"name":"douyu","codice":"doyu","pricecap":560000000,"price":1,"country":"china"}
-{"name":"nuscale power","codice":"s ","pricecap":560000000,"price":10,"country":"usa"}
+{"name":"nuscale power","codice":"smr","pricecap":560000000,"price":10,"country":"usa"}
 {"name":"phillips carbon black","codice":"philipcarb.ns","pricecap":560000000,"price":3,"country":"india"}
 {"name":"playway","codice":"6p5.f","pricecap":560000000,"price":85,"country":"poland"}
 {"name":"kura sushi usa","codice":"krus","pricecap":560000000,"price":57,"country":"usa"}
@@ -5354,19 +5354,19 @@
 {"name":"inogen","codice":"ingn","pricecap":530000000,"price":23,"country":"usa"}
 {"name":"sorrento therapeutics","codice":"srne","pricecap":530000000,"price":1,"country":"usa"}
 {"name":"safari industries india","codice":"safari.ns","pricecap":530000000,"price":22,"country":"india"}
-{"name":"homestreet bank","codice":"h t","pricecap":530000000,"price":28,"country":"usa"}
+{"name":"homestreet bank","codice":"hmst","pricecap":530000000,"price":28,"country":"usa"}
 {"name":"calliditas therapeutics","codice":"calt","pricecap":530000000,"price":19,"country":"sweden"}
 {"name":"nuvation bio","codice":"nuvb","pricecap":530000000,"price":2,"country":"usa"}
 {"name":"liquidity services","codice":"lqdt","pricecap":530000000,"price":14,"country":"usa"}
 {"name":"oil states international","codice":"ois","pricecap":530000000,"price":8,"country":"usa"}
 {"name":"obsidian energy","codice":"obe","pricecap":530000000,"price":6,"country":"canada"}
-{"name":"tremor international","codice":"tr ","pricecap":520000000,"price":7,"country":"israel"}
+{"name":"tremor international","codice":"trmr","pricecap":520000000,"price":7,"country":"israel"}
 {"name":"viad","codice":"vvi","pricecap":520000000,"price":25,"country":"usa"}
 {"name":"arcturus therapeutics","codice":"arct","pricecap":520000000,"price":19,"country":"usa"}
 {"name":"equity bancshares","codice":"eqbk","pricecap":520000000,"price":33,"country":"usa"}
 {"name":"ramkrishna forgings","codice":"rkforge.ns","pricecap":520000000,"price":3,"country":"india"}
 {"name":"frp holdings","codice":"frph","pricecap":520000000,"price":55,"country":"usa"}
-{"name":"bank of marin bancorp","codice":"b c","pricecap":520000000,"price":32,"country":"usa"}
+{"name":"bank of marin bancorp","codice":"bmrc","pricecap":520000000,"price":32,"country":"usa"}
 {"name":"taseko mines","codice":"tgb","pricecap":520000000,"price":1,"country":"canada"}
 {"name":"big lots","codice":"big","pricecap":520000000,"price":18,"country":"usa"}
 {"name":"purple innovation","codice":"prpl","pricecap":520000000,"price":5,"country":"usa"}
@@ -5413,8 +5413,8 @@
 {"name":"design therapeutics","codice":"dsgn","pricecap":500000000,"price":9,"country":"usa"}
 {"name":"vaalco energy","codice":"egy","pricecap":500000000,"price":4,"country":"usa"}
 {"name":"one liberty properties","codice":"olp","pricecap":500000000,"price":23,"country":"usa"}
-{"name":"th international ti china","codice":"thch","pricecap":500000000,"price":3,"country":"china"}
-{"name":"american software","codice":"a wa","pricecap":500000000,"price":14,"country":"usa"}
+{"name":"th international tichina","codice":"thch","pricecap":500000000,"price":3,"country":"china"}
+{"name":"american software","codice":"amswa","pricecap":500000000,"price":14,"country":"usa"}
 {"name":"entravision communications","codice":"evc","pricecap":500000000,"price":5,"country":"usa"}
 {"name":"orion office reit","codice":"onl","pricecap":500000000,"price":8,"country":"usa"}
 {"name":"caremax","codice":"cmax","pricecap":500000000,"price":4,"country":"usa"}
@@ -5450,7 +5450,7 @@
 {"name":"akouos","codice":"akus","pricecap":490000000,"price":13,"country":"usa"}
 {"name":"domo","codice":"domo","pricecap":490000000,"price":14,"country":"usa"}
 {"name":"rada electronic industries","codice":"rada","pricecap":490000000,"price":9,"country":"israel"}
-{"name":"the r group","codice":"r ","pricecap":490000000,"price":29,"country":"usa"}
+{"name":"the rgroup","codice":"rmr","pricecap":490000000,"price":29,"country":"usa"}
 {"name":"greenlam industries","codice":"greenlam.ns","pricecap":490000000,"price":3,"country":"india"}
 {"name":"mailru group","codice":"rl9a.f","pricecap":480000000,"price":2,"country":"cyprus"}
 {"name":"bridgewater bancshares","codice":"bwb","pricecap":480000000,"price":17,"country":"usa"}
@@ -5517,7 +5517,7 @@
 {"name":"axogen","codice":"axgn","pricecap":440000000,"price":10,"country":"usa"}
 {"name":"arbutus biopharma","codice":"abus","pricecap":440000000,"price":2,"country":"usa"}
 {"name":"similarweb","codice":"smwb","pricecap":440000000,"price":5,"country":"israel"}
-{"name":"mitek syste","codice":"mitk","pricecap":440000000,"price":10,"country":"usa"}
+{"name":"mitek systems","codice":"mitk","pricecap":440000000,"price":10,"country":"usa"}
 {"name":"webzen","codice":"069080.kq","pricecap":440000000,"price":14,"country":"s. korea"}
 {"name":"restaurant brands new zealand","codice":"rbd.nz","pricecap":440000000,"price":3,"country":"new zealand"}
 {"name":"carriage services","codice":"csv","pricecap":440000000,"price":30,"country":"usa"}
@@ -5559,7 +5559,7 @@
 {"name":"reservoir media","codice":"rsvr","pricecap":420000000,"price":6,"country":"usa"}
 {"name":"national fertilizers","codice":"nfl.ns","pricecap":420000000,"price":0,"country":"india"}
 {"name":"jtekt india","codice":"jtektindia.ns","pricecap":420000000,"price":1,"country":"india"}
-{"name":"mahindra logistics","codice":"mahlog.ns","pricecap":420000000,"price":5,"country":"india"}
+{"name":"mahinlogistics","codice":"mahlog.ns","pricecap":420000000,"price":5,"country":"india"}
 {"name":"harrow health","codice":"hrow","pricecap":420000000,"price":14,"country":"usa"}
 {"name":"dynamic materials corporation","codice":"boom","pricecap":420000000,"price":21,"country":"usa"}
 {"name":"vigil neuroscience","codice":"vigl","pricecap":420000000,"price":11,"country":"usa"}
@@ -5572,7 +5572,7 @@
 {"name":"cyxtera technologies","codice":"cyxt","pricecap":420000000,"price":2,"country":"usa"}
 {"name":"ring energy","codice":"rei","pricecap":420000000,"price":2,"country":"usa"}
 {"name":"deep yellow","codice":"dyl.ax","pricecap":410000000,"price":0,"country":"australia"}
-{"name":"computer progra and syste","codice":"cpsi","pricecap":410000000,"price":28,"country":"usa"}
+{"name":"computer prograand systems","codice":"cpsi","pricecap":410000000,"price":28,"country":"usa"}
 {"name":"futurefuel","codice":"ff","pricecap":410000000,"price":9,"country":"usa"}
 {"name":"argonaut gold","codice":"ar.to","pricecap":410000000,"price":0,"country":"usa"}
 {"name":"gamania digital","codice":"6180.two","pricecap":410000000,"price":2,"country":"taiwan"}
@@ -5580,7 +5580,7 @@
 {"name":"c4 therapeutics","codice":"cccc","pricecap":410000000,"price":8,"country":"usa"}
 {"name":"silvergate capital","codice":"si","pricecap":410000000,"price":13,"country":"usa"}
 {"name":"niu","codice":"niu","pricecap":410000000,"price":5,"country":"china"}
-{"name":"digimarc","codice":"d c","pricecap":410000000,"price":20,"country":"usa"}
+{"name":"digimarc","codice":"dmrc","pricecap":410000000,"price":20,"country":"usa"}
 {"name":"xperi","codice":"xper","pricecap":410000000,"price":9,"country":"usa"}
 {"name":"voyager therapeutics","codice":"vygr","pricecap":410000000,"price":10,"country":"usa"}
 {"name":"liquidia technologies","codice":"lqda","pricecap":410000000,"price":6,"country":"usa"}
@@ -5606,7 +5606,7 @@
 {"name":"transcontinental realty investors","codice":"tci","pricecap":400000000,"price":46,"country":"usa"}
 {"name":"daily journal","codice":"djco","pricecap":400000000,"price":294,"country":"usa"}
 {"name":"arrival","codice":"arvl","pricecap":400000000,"price":0,"country":"uk"}
-{"name":"jindal poly fil","codice":"jindalpoly.ns","pricecap":400000000,"price":9,"country":"india"}
+{"name":"jindal poly films","codice":"jindalpoly.ns","pricecap":400000000,"price":9,"country":"india"}
 {"name":"lovesac","codice":"love","pricecap":400000000,"price":26,"country":"usa"}
 {"name":"international general insurance","codice":"igic","pricecap":400000000,"price":8,"country":"jordan"}
 {"name":"rbb bancorp","codice":"rbb","pricecap":400000000,"price":21,"country":"usa"}
@@ -5760,7 +5760,7 @@
 {"name":"forge global","codice":"frge","pricecap":340000000,"price":1,"country":"usa"}
 {"name":"marathon gold","codice":"moz.to","pricecap":340000000,"price":0,"country":"canada"}
 {"name":"vasta platform","codice":"vsta","pricecap":340000000,"price":4,"country":"brazil"}
-{"name":"hbl power syste","codice":"hblpower.ns","pricecap":340000000,"price":1,"country":"india"}
+{"name":"hbl power systems","codice":"hblpower.ns","pricecap":340000000,"price":1,"country":"india"}
 {"name":"orient cement","codice":"orientcem.ns","pricecap":340000000,"price":1,"country":"india"}
 {"name":"the original bark company","codice":"bark","pricecap":340000000,"price":1,"country":"usa"}
 {"name":"amplify energy","codice":"ampy","pricecap":340000000,"price":8,"country":"usa"}
@@ -5788,7 +5788,7 @@
 {"name":"the pennant group","codice":"pntg","pricecap":320000000,"price":11,"country":"usa"}
 {"name":"american realty investors","codice":"arl","pricecap":320000000,"price":20,"country":"usa"}
 {"name":"first bancorp","codice":"fnlc","pricecap":320000000,"price":29,"country":"usa"}
-{"name":"cosmo fil","codice":"cosmofil .ns","pricecap":320000000,"price":12,"country":"india"}
+{"name":"cosmo films","codice":"cosmofilms.ns","pricecap":320000000,"price":12,"country":"india"}
 {"name":"remedy entertainment","codice":"remedy.he","pricecap":320000000,"price":24,"country":"finland"}
 {"name":"utah medical products","codice":"utmd","pricecap":320000000,"price":90,"country":"usa"}
 {"name":"cvrx","codice":"cvrx","pricecap":320000000,"price":15,"country":"usa"}
@@ -5826,10 +5826,10 @@
 {"name":"11 bit studios","codice":"11b.wa","pricecap":310000000,"price":132,"country":"poland"}
 {"name":"marvelous","codice":"7844.t","pricecap":310000000,"price":5,"country":"japan"}
 {"name":"egain","codice":"egan","pricecap":310000000,"price":9,"country":"usa"}
-{"name":"casa syste","codice":"casa","pricecap":310000000,"price":3,"country":"usa"}
+{"name":"casa systems","codice":"casa","pricecap":310000000,"price":3,"country":"usa"}
 {"name":"diana shipping","codice":"dsx","pricecap":310000000,"price":3,"country":"greece"}
 {"name":"siyaram silk mills","codice":"siysil.ns","pricecap":310000000,"price":6,"country":"india"}
-{"name":"neogames","codice":"ng ","pricecap":310000000,"price":12,"country":"israel"}
+{"name":"neogames","codice":"ngms","pricecap":310000000,"price":12,"country":"israel"}
 {"name":"gravity co","codice":"grvy","pricecap":310000000,"price":45,"country":"s. korea"}
 {"name":"weight watchers","codice":"ww","pricecap":310000000,"price":4,"country":"usa"}
 {"name":"sterling bancorp","codice":"sbt","pricecap":310000000,"price":6,"country":"usa"}
@@ -5958,7 +5958,7 @@
 {"name":"absci","codice":"absi","pricecap":260000000,"price":2,"country":"usa"}
 {"name":"kimball international","codice":"kbal","pricecap":260000000,"price":7,"country":"usa"}
 {"name":"the container store","codice":"tcs","pricecap":260000000,"price":5,"country":"usa"}
-{"name":"tc limited","codice":" tcltd.ns","pricecap":260000000,"price":3,"country":"india"}
+{"name":"mstc limited","codice":"mstcltd.ns","pricecap":260000000,"price":3,"country":"india"}
 {"name":"blade air mobility","codice":"blde","pricecap":260000000,"price":3,"country":"usa"}
 {"name":"hyderabad industries limited","codice":"hil.ns","pricecap":260000000,"price":35,"country":"india"}
 {"name":"addiko bank","codice":"zye1.f","pricecap":260000000,"price":13,"country":"austria"}
@@ -6018,9 +6018,9 @@
 {"name":"aenza","codice":"aenz","pricecap":250000000,"price":3,"country":"peru"}
 {"name":"fathom digital manufacturing","codice":"fath","pricecap":250000000,"price":1,"country":"usa"}
 {"name":"jjill","codice":"jill","pricecap":250000000,"price":24,"country":"usa"}
-{"name":"oil-dri corporation of america","codice":"odc","pricecap":250000000,"price":35,"country":"usa"}
+{"name":"oil-corporation of america","codice":"odc","pricecap":250000000,"price":35,"country":"usa"}
 {"name":"force motors","codice":"forcemot.ns","pricecap":250000000,"price":19,"country":"india"}
-{"name":"jain irrigation syste","codice":"jisldvreqs.ns","pricecap":250000000,"price":0,"country":"india"}
+{"name":"jain irrigation systems","codice":"jisldvreqs.ns","pricecap":250000000,"price":0,"country":"india"}
 {"name":"opthea","codice":"opt","pricecap":250000000,"price":4,"country":"australia"}
 {"name":"gulf oil lubricants","codice":"gulfoillub.ns","pricecap":250000000,"price":5,"country":"india"}
 {"name":"lianbio","codice":"lian","pricecap":250000000,"price":2,"country":"usa"}
@@ -6042,11 +6042,11 @@
 {"name":"ponce financial group","codice":"pdlb","pricecap":240000000,"price":9,"country":"usa"}
 {"name":"urban one","codice":"uone","pricecap":240000000,"price":5,"country":"usa"}
 {"name":"bank7","codice":"bsvn","pricecap":240000000,"price":27,"country":"usa"}
-{"name":"skyx platfor","codice":"skyx","pricecap":240000000,"price":2,"country":"usa"}
-{"name":"immersion corporation","codice":"im ","pricecap":240000000,"price":7,"country":"usa"}
+{"name":"skyx platforms","codice":"skyx","pricecap":240000000,"price":2,"country":"usa"}
+{"name":"immersion corporation","codice":"immr","pricecap":240000000,"price":7,"country":"usa"}
 {"name":"southern states bancshares","codice":"ssbk","pricecap":240000000,"price":28,"country":"usa"}
 {"name":"molecular partners","codice":"moln","pricecap":240000000,"price":6,"country":"switzerland"}
-{"name":"marinus pharmaceuticals","codice":" ns","pricecap":240000000,"price":4,"country":"usa"}
+{"name":"marinus pharmaceuticals","codice":"mrns","pricecap":240000000,"price":4,"country":"usa"}
 {"name":"apollo pipes","codice":"apollopipe.ns","pricecap":240000000,"price":6,"country":"india"}
 {"name":"proqr","codice":"prqr","pricecap":240000000,"price":3,"country":"netherlands"}
 {"name":"zomedica pharmaceuticals","codice":"zom","pricecap":240000000,"price":0,"country":"usa"}
@@ -6085,7 +6085,7 @@
 {"name":"oric pharmaceuticals","codice":"oric","pricecap":230000000,"price":5,"country":"usa"}
 {"name":"limoneira","codice":"lmnr","pricecap":230000000,"price":13,"country":"usa"}
 {"name":"emx royalty","codice":"emx","pricecap":230000000,"price":2,"country":"canada"}
-{"name":"bitfar","codice":"bitf","pricecap":230000000,"price":1,"country":"canada"}
+{"name":"bitfarms","codice":"bitf","pricecap":230000000,"price":1,"country":"canada"}
 {"name":"bankwell financial group","codice":"bwfg","pricecap":230000000,"price":30,"country":"usa"}
 {"name":"absa bank","codice":"absp.jo","pricecap":230000000,"price":51,"country":"south africa"}
 {"name":"22nd century group","codice":"xxii","pricecap":230000000,"price":1,"country":"usa"}
@@ -6124,11 +6124,11 @@
 {"name":"matrix service","codice":"mtrx","pricecap":220000000,"price":8,"country":"usa"}
 {"name":"planet13","codice":"plth.cn","pricecap":220000000,"price":1,"country":"usa"}
 {"name":"genius brands","codice":"gnus","pricecap":220000000,"price":0,"country":"usa"}
-{"name":"limestone bancorp","codice":"l t","pricecap":210000000,"price":25,"country":"usa"}
+{"name":"limestone bancorp","codice":"lmst","pricecap":210000000,"price":25,"country":"usa"}
 {"name":"ames national corp","codice":"atlo","pricecap":210000000,"price":24,"country":"usa"}
 {"name":"portman ridge","codice":"ptmn","pricecap":210000000,"price":22,"country":"usa"}
 {"name":"plumas bancorp","codice":"plbc","pricecap":210000000,"price":37,"country":"usa"}
-{"name":"danimer scientific","codice":"dn ","pricecap":210000000,"price":2,"country":"usa"}
+{"name":"danimer scientific","codice":"dnmr","pricecap":210000000,"price":2,"country":"usa"}
 {"name":"hindustan oil exploration company","codice":"hindoilexp.ns","pricecap":210000000,"price":1,"country":"india"}
 {"name":"tela bio","codice":"tela","pricecap":210000000,"price":11,"country":"usa"}
 {"name":"evans bancorp","codice":"evbn","pricecap":210000000,"price":39,"country":"usa"}
@@ -6136,7 +6136,7 @@
 {"name":"middlefield banc","codice":"mbcn","pricecap":210000000,"price":27,"country":"usa"}
 {"name":"western new england bancorp","codice":"wneb","pricecap":210000000,"price":9,"country":"usa"}
 {"name":"scpharmaceuticals","codice":"scph","pricecap":210000000,"price":6,"country":"usa"}
-{"name":"plaid,inc","codice":"4165.t","pricecap":210000000,"price":5,"country":"japan"}
+{"name":"plaidinc","codice":"4165.t","pricecap":210000000,"price":5,"country":"japan"}
 {"name":"kandi technologies group","codice":"kndi","pricecap":210000000,"price":2,"country":"china"}
 {"name":"ubm development","codice":"ubs.vi","pricecap":210000000,"price":28,"country":"austria"}
 {"name":"akoustis technologies","codice":"akts","pricecap":210000000,"price":3,"country":"usa"}
@@ -6184,7 +6184,7 @@
 {"name":"sophia genetics","codice":"soph","pricecap":200000000,"price":3,"country":"switzerland"}
 {"name":"quipt home medical","codice":"qipt","pricecap":200000000,"price":5,"country":"usa"}
 {"name":"optinose","codice":"optn","pricecap":200000000,"price":1,"country":"usa"}
-{"name":"china automotive syste","codice":"caas","pricecap":200000000,"price":6,"country":"china"}
+{"name":"china automotive systems","codice":"caas","pricecap":200000000,"price":6,"country":"china"}
 {"name":"infusystem","codice":"infu","pricecap":200000000,"price":9,"country":"usa"}
 {"name":"rottneros","codice":"rros.st","pricecap":200000000,"price":1,"country":"sweden"}
 {"name":"tethys oil","codice":"tety.st","pricecap":190000000,"price":6,"country":"sweden"}
@@ -6216,7 +6216,7 @@
 {"name":"nature's sunshine products","codice":"natr","pricecap":190000000,"price":9,"country":"usa"}
 {"name":"identiv","codice":"inve","pricecap":190000000,"price":8,"country":"usa"}
 {"name":"biodesix","codice":"bdsx","pricecap":190000000,"price":2,"country":"usa"}
-{"name":"angel oak reit","codice":"ao ","pricecap":190000000,"price":7,"country":"usa"}
+{"name":"angel oak reit","codice":"aomr","pricecap":190000000,"price":7,"country":"usa"}
 {"name":"dhampur sugar mills","codice":"dhampursug.ns","pricecap":190000000,"price":2,"country":"india"}
 {"name":"alico","codice":"alco","pricecap":190000000,"price":25,"country":"usa"}
 {"name":"kempharm","codice":"kmph","pricecap":190000000,"price":5,"country":"usa"}
@@ -6287,7 +6287,7 @@
 {"name":"alphapolis","codice":"9467.t","pricecap":170000000,"price":17,"country":"japan"}
 {"name":"xeris pharmaceuticals","codice":"xers","pricecap":170000000,"price":1,"country":"usa"}
 {"name":"intercure","codice":"incr","pricecap":170000000,"price":3,"country":"israel"}
-{"name":"westport fuel syste","codice":"wprt","pricecap":170000000,"price":1,"country":"canada"}
+{"name":"westport fuel systems","codice":"wprt","pricecap":170000000,"price":1,"country":"canada"}
 {"name":"sunlight financial","codice":"sunl","pricecap":170000000,"price":1,"country":"usa"}
 {"name":"pear therapeutics","codice":"pear","pricecap":170000000,"price":1,"country":"usa"}
 {"name":"arteris","codice":"aip","pricecap":170000000,"price":5,"country":"usa"}
@@ -6301,7 +6301,7 @@
 {"name":"playside studios","codice":"ply.ax","pricecap":170000000,"price":0,"country":"australia"}
 {"name":"oriental aromatics","codice":"oal.ns","pricecap":170000000,"price":5,"country":"india"}
 {"name":"bassett furniture","codice":"bset","pricecap":160000000,"price":18,"country":"usa"}
-{"name":"view, inc","codice":"view","pricecap":160000000,"price":0,"country":"usa"}
+{"name":"view inc","codice":"view","pricecap":160000000,"price":0,"country":"usa"}
 {"name":"redwire","codice":"rdw","pricecap":160000000,"price":2,"country":"usa"}
 {"name":"platinum group metals","codice":"plg","pricecap":160000000,"price":1,"country":"canada"}
 {"name":"g5 entertainment","codice":"g5en.st","pricecap":160000000,"price":19,"country":"sweden"}
@@ -6326,13 +6326,13 @@
 {"name":"xl fleet","codice":"xl","pricecap":160000000,"price":1,"country":"usa"}
 {"name":"hawthorn bancshares","codice":"hwbk","pricecap":160000000,"price":24,"country":"usa"}
 {"name":"quantum","codice":"qmco","pricecap":160000000,"price":1,"country":"usa"}
-{"name":"mister spex","codice":" x.f","pricecap":160000000,"price":4,"country":"germany"}
+{"name":"mister spex","codice":"mrx.f","pricecap":160000000,"price":4,"country":"germany"}
 {"name":"citius pharmaceuticals","codice":"ctxr","pricecap":160000000,"price":1,"country":"usa"}
 {"name":"bioatla","codice":"bcab","pricecap":160000000,"price":3,"country":"usa"}
 {"name":"spok holdings","codice":"spok","pricecap":160000000,"price":8,"country":"usa"}
 {"name":"astra space","codice":"astr","pricecap":160000000,"price":0,"country":"usa"}
 {"name":"merrimack pharmaceuticals","codice":"mack","pricecap":160000000,"price":12,"country":"usa"}
-{"name":"smith micro software","codice":"s i","pricecap":160000000,"price":2,"country":"usa"}
+{"name":"smith micro software","codice":"smsi","pricecap":160000000,"price":2,"country":"usa"}
 {"name":"kopin corporation","codice":"kopn","pricecap":160000000,"price":1,"country":"usa"}
 {"name":"bakkt holdings","codice":"bkkt","pricecap":160000000,"price":2,"country":"usa"}
 {"name":"frequency therapeutics","codice":"freq","pricecap":160000000,"price":4,"country":"usa"}
@@ -6377,7 +6377,7 @@
 {"name":"kulr technology","codice":"kulr","pricecap":150000000,"price":1,"country":"usa"}
 {"name":"gracell biotechnologies","codice":"grcl","pricecap":150000000,"price":2,"country":"china"}
 {"name":"mistras group","codice":"mg","pricecap":150000000,"price":5,"country":"usa"}
-{"name":"singular genomics syste","codice":"omic","pricecap":150000000,"price":2,"country":"usa"}
+{"name":"singular genomics systems","codice":"omic","pricecap":150000000,"price":2,"country":"usa"}
 {"name":"x-legend entertainment","codice":"4994.tw","pricecap":140000000,"price":1,"country":"taiwan"}
 {"name":"skipper limited","codice":"skipper.ns","pricecap":140000000,"price":1,"country":"india"}
 {"name":"celularity","codice":"celu","pricecap":140000000,"price":1,"country":"usa"}
@@ -6408,7 +6408,7 @@
 {"name":"vbi vaccines","codice":"vbiv","pricecap":140000000,"price":0,"country":"usa"}
 {"name":"benessere capital acquisition","codice":"bene","pricecap":140000000,"price":10,"country":"usa"}
 {"name":"northern dynasty minerals","codice":"nak","pricecap":140000000,"price":0,"country":"canada"}
-{"name":"marimed","codice":" md","pricecap":140000000,"price":0,"country":"usa"}
+{"name":"marimed","codice":"mrmd","pricecap":140000000,"price":0,"country":"usa"}
 {"name":"twin disc","codice":"twin","pricecap":140000000,"price":10,"country":"usa"}
 {"name":"asensus surgical","codice":"asxc","pricecap":140000000,"price":0,"country":"usa"}
 {"name":"yellow corporation","codice":"yell","pricecap":140000000,"price":2,"country":"usa"}
@@ -6419,7 +6419,7 @@
 {"name":"red robin","codice":"rrgb","pricecap":140000000,"price":8,"country":"usa"}
 {"name":"oconee federal financial","codice":"ofed","pricecap":140000000,"price":25,"country":"usa"}
 {"name":"peninsula energy","codice":"pen.ax","pricecap":140000000,"price":0,"country":"australia"}
-{"name":"village far international","codice":"vff","pricecap":130000000,"price":1,"country":"canada"}
+{"name":"village farinternational","codice":"vff","pricecap":130000000,"price":1,"country":"canada"}
 {"name":"hanover bancorp","codice":"hnvr","pricecap":130000000,"price":19,"country":"usa"}
 {"name":"cenntro electric group","codice":"cenn","pricecap":130000000,"price":0,"country":"usa"}
 {"name":"lazydays holdings","codice":"lazy","pricecap":130000000,"price":13,"country":"usa"}
@@ -6450,7 +6450,7 @@
 {"name":"o2micro","codice":"oiim","pricecap":130000000,"price":4,"country":"cayman islands"}
 {"name":"supermax corporation berhad","codice":"7106.kl","pricecap":130000000,"price":0,"country":"malaysia"}
 {"name":"plby group playboy","codice":"plby","pricecap":120000000,"price":2,"country":"usa"}
-{"name":"cocore","codice":"scor","pricecap":120000000,"price":1,"country":"usa"}
+{"name":"comscore","codice":"scor","pricecap":120000000,"price":1,"country":"usa"}
 {"name":"allot","codice":"allt","pricecap":120000000,"price":3,"country":"israel"}
 {"name":"sesen bio","codice":"sesn","pricecap":120000000,"price":0,"country":"usa"}
 {"name":"terawulf","codice":"wulf","pricecap":120000000,"price":0,"country":"usa"}
@@ -6497,7 +6497,7 @@
 {"name":"bodal chemicals","codice":"bodalchem.ns","pricecap":110000000,"price":0,"country":"india"}
 {"name":"tanzanian gold corporation","codice":"trx","pricecap":110000000,"price":0,"country":"canada"}
 {"name":"aiming inc","codice":"3911.t","pricecap":110000000,"price":2,"country":"japan"}
-{"name":"immuneering","codice":"i x","pricecap":110000000,"price":4,"country":"usa"}
+{"name":"immuneering","codice":"imrx","pricecap":110000000,"price":4,"country":"usa"}
 {"name":"graphite bio","codice":"grph","pricecap":110000000,"price":2,"country":"usa"}
 {"name":"mdxhealth","codice":"mdxh","pricecap":110000000,"price":6,"country":"belgium"}
 {"name":"userjoy technology","codice":"3546.two","pricecap":110000000,"price":2,"country":"taiwan"}
@@ -6532,7 +6532,7 @@
 {"name":"lulu's fashion lounge","codice":"lvlu","pricecap":100000000,"price":2,"country":"usa"}
 {"name":"phunware","codice":"phun","pricecap":100000000,"price":1,"country":"usa"}
 {"name":"sylogist","codice":"syz.to","pricecap":100000000,"price":4,"country":"canada"}
-{"name":"rekor syste","codice":"rekr","pricecap":100000000,"price":2,"country":"usa"}
+{"name":"rekor systems","codice":"rekr","pricecap":100000000,"price":2,"country":"usa"}
 {"name":"carrols restaurant group","codice":"tast","pricecap":100000000,"price":2,"country":"usa"}
 {"name":"american resources corp","codice":"arec","pricecap":100000000,"price":1,"country":"usa"}
 {"name":"nuvectis pharma","codice":"nvct","pricecap":100000000,"price":7,"country":"usa"}
@@ -6612,7 +6612,7 @@
 {"name":"bloober team","codice":"6bo.sg","pricecap":91680000,"price":4,"country":"poland"}
 {"name":"bliss gvs pharma","codice":"blissgvs.ns","pricecap":91460000,"price":0,"country":"india"}
 {"name":"akumin","codice":"aku","pricecap":90550000,"price":1,"country":"canada"}
-{"name":"nn, inc","codice":"nnbr","pricecap":89930000,"price":2,"country":"usa"}
+{"name":"nn inc","codice":"nnbr","pricecap":89930000,"price":2,"country":"usa"}
 {"name":"apyx medical","codice":"apyx","pricecap":89600000,"price":2,"country":"usa"}
 {"name":"delta apparel","codice":"dla","pricecap":89260000,"price":12,"country":"usa"}
 {"name":"airasia","codice":"2630.tw","pricecap":88920000,"price":0,"country":"malaysia"}
@@ -6710,7 +6710,7 @@
 {"name":"great elm capital","codice":"gecc","pricecap":65300000,"price":8,"country":"usa"}
 {"name":"spruce biosciences","codice":"sprb","pricecap":65019999,"price":2,"country":"usa"}
 {"name":"indonesia energy","codice":"indo","pricecap":65010000,"price":6,"country":"indonesia"}
-{"name":"orion energy syste","codice":"oesx","pricecap":64599999,"price":2,"country":"usa"}
+{"name":"orion energy systems","codice":"oesx","pricecap":64599999,"price":2,"country":"usa"}
 {"name":"lightning emotors","codice":"zev","pricecap":64230000,"price":0,"country":"usa"}
 {"name":"mogo","codice":"mogo","pricecap":64140000,"price":0,"country":"canada"}
 {"name":"jounce therapeutics","codice":"jnce","pricecap":63580000,"price":1,"country":"usa"}
@@ -6749,7 +6749,7 @@
 {"name":"unitech group","codice":"unitech.ns","pricecap":57340000,"price":0,"country":"india"}
 {"name":"polishedcom","codice":"pol","pricecap":57290000,"price":0,"country":"usa"}
 {"name":"east side games","codice":"eagr.to","pricecap":57230000,"price":0,"country":"canada"}
-{"name":"rapid micro biosyste","codice":"rpid","pricecap":56690000,"price":1,"country":"usa"}
+{"name":"rapid micro biosystems","codice":"rpid","pricecap":56690000,"price":1,"country":"usa"}
 {"name":"elevate credit","codice":"elvt","pricecap":56550000,"price":1,"country":"usa"}
 {"name":"popreach","codice":"popr.v","pricecap":56530000,"price":0,"country":"canada"}
 {"name":"asp isotopes","codice":"aspi","pricecap":56340000,"price":1,"country":"usa"}
@@ -6766,7 +6766,7 @@
 {"name":"rewalk robotics","codice":"rwlk","pricecap":53640000,"price":0,"country":"israel"}
 {"name":"mobile factory","codice":"3912.t","pricecap":53640000,"price":6,"country":"japan"}
 {"name":"aquestive therapeutics","codice":"aqst","pricecap":53610000,"price":0,"country":"usa"}
-{"name":"balaji telefil","codice":"balajitele.ns","pricecap":53450000,"price":0,"country":"india"}
+{"name":"balaji telefilms","codice":"balajitele.ns","pricecap":53450000,"price":0,"country":"india"}
 {"name":"brainstorm cell therapeutics","codice":"bcli","pricecap":53350000,"price":1,"country":"usa"}
 {"name":"tscan therapeutics","codice":"tcrx","pricecap":52970000,"price":2,"country":"usa"}
 {"name":"aeroclean technologies","codice":"aerc","pricecap":52680000,"price":3,"country":"usa"}
@@ -6793,7 +6793,7 @@
 {"name":"natural health trends","codice":"nhtc","pricecap":47400000,"price":4,"country":"usa"}
 {"name":"ascent solar technologies","codice":"asti","pricecap":47160000,"price":1,"country":"usa"}
 {"name":"uphealth","codice":"uph","pricecap":47120000,"price":3,"country":"usa"}
-{"name":"cotock mining","codice":"lode","pricecap":46900000,"price":0,"country":"usa"}
+{"name":"comstock mining","codice":"lode","pricecap":46900000,"price":0,"country":"usa"}
 {"name":"tessco technologies","codice":"tess","pricecap":46760000,"price":5,"country":"usa"}
 {"name":"coly","codice":"4175.t","pricecap":46600000,"price":8,"country":"japan"}
 {"name":"enish","codice":"3667.t","pricecap":46580000,"price":2,"country":"japan"}
@@ -6834,7 +6834,7 @@
 {"name":"lightpath technologies","codice":"lpth","pricecap":40930000,"price":1,"country":"usa"}
 {"name":"isoray","codice":"isr","pricecap":40920000,"price":0,"country":"usa"}
 {"name":"izea worldwide","codice":"izea","pricecap":40430000,"price":0,"country":"usa"}
-{"name":"biomerica","codice":"b a","pricecap":40420000,"price":3,"country":"usa"}
+{"name":"biomerica","codice":"bmra","pricecap":40420000,"price":3,"country":"usa"}
 {"name":"trinity biotech","codice":"trib","pricecap":40390000,"price":1,"country":"ireland"}
 {"name":"spi energy","codice":"spi","pricecap":40180000,"price":1,"country":"usa"}
 {"name":"blue apron holdings","codice":"aprn","pricecap":39970000,"price":1,"country":"usa"}
@@ -6856,7 +6856,7 @@
 {"name":"foresight autonomous holdings","codice":"frsx","pricecap":37460000,"price":0,"country":"israel"}
 {"name":"houston american energy","codice":"husa","pricecap":37420000,"price":3,"country":"usa"}
 {"name":"shift technologies","codice":"sft","pricecap":37050000,"price":0,"country":"usa"}
-{"name":"ageagle aerial syste","codice":"uavs","pricecap":36980000,"price":0,"country":"usa"}
+{"name":"ageagle aerial systems","codice":"uavs","pricecap":36980000,"price":0,"country":"usa"}
 {"name":"zordix","codice":"zordix-b.st","pricecap":36950000,"price":0,"country":"sweden"}
 {"name":"appirits","codice":"4174.t","pricecap":36210000,"price":8,"country":"japan"}
 {"name":"grand twins international cambodia","codice":"gti.kh","pricecap":35850000,"price":0,"country":"cambodia"}
@@ -6886,7 +6886,7 @@
 {"name":"bit mining 500com","codice":"btcm","pricecap":32650000,"price":3,"country":"china"}
 {"name":"swvl holdings","codice":"swvl","pricecap":32420000,"price":0,"country":"uae"}
 {"name":"bionomics","codice":"bnox","pricecap":32170000,"price":4,"country":"australia"}
-{"name":"document security syste","codice":"dss","pricecap":31730000,"price":0,"country":"usa"}
+{"name":"document security systems","codice":"dss","pricecap":31730000,"price":0,"country":"usa"}
 {"name":"acasti pharma","codice":"acst","pricecap":31670000,"price":0,"country":"canada"}
 {"name":"vaccinex","codice":"vcnx","pricecap":31670000,"price":0,"country":"usa"}
 {"name":"zk international group","codice":"zkin","pricecap":31300000,"price":1,"country":"china"}
@@ -6951,7 +6951,7 @@
 {"name":"eterna therapeutics","codice":"erna","pricecap":23840000,"price":4,"country":"usa"}
 {"name":"dolphin entertainment","codice":"dlpn","pricecap":23790000,"price":2,"country":"usa"}
 {"name":"mynet","codice":"3928.t","pricecap":23790000,"price":2,"country":"japan"}
-{"name":"conformis","codice":"cf ","pricecap":23710000,"price":3,"country":"usa"}
+{"name":"conformis","codice":"cfms","pricecap":23710000,"price":3,"country":"usa"}
 {"name":"stealth biotherapeutics","codice":"mito","pricecap":23530000,"price":0,"country":"cayman islands"}
 {"name":"fgi industries","codice":"fgi","pricecap":23180000,"price":2,"country":"usa"}
 {"name":"edia","codice":"3935.t","pricecap":23150000,"price":3,"country":"japan"}
@@ -7001,8 +7001,8 @@
 {"name":"advfn","codice":"afn.l","pricecap":18090000,"price":0,"country":"uk"}
 {"name":"forza x1","codice":"frza","pricecap":18070000,"price":1,"country":"usa"}
 {"name":"redhill biopharma","codice":"rdhl","pricecap":18010000,"price":0,"country":"israel"}
-{"name":"marpai","codice":" ai","pricecap":17980000,"price":0,"country":"usa"}
-{"name":"marin software","codice":" in","pricecap":17880000,"price":1,"country":"usa"}
+{"name":"marpai","codice":"mrai","pricecap":17980000,"price":0,"country":"usa"}
+{"name":"marin software","codice":"mrin","pricecap":17880000,"price":1,"country":"usa"}
 {"name":"artifex mundi","codice":"art.wa","pricecap":17760000,"price":1,"country":"poland"}
 {"name":"games operators","codice":"gop.wa","pricecap":17720000,"price":3,"country":"poland"}
 {"name":"carlotz","codice":"lotz","pricecap":17710000,"price":0,"country":"usa"}
@@ -7033,7 +7033,7 @@
 {"name":"yield10 bioscience","codice":"yten","pricecap":15270000,"price":3,"country":"usa"}
 {"name":"digital ally","codice":"dgly","pricecap":15090000,"price":0,"country":"usa"}
 {"name":"interserv international","codice":"6169.two","pricecap":14950000,"price":0,"country":"taiwan"}
-{"name":"t2 biosyste","codice":"ttoo","pricecap":14930000,"price":2,"country":"usa"}
+{"name":"t2 biosystems","codice":"ttoo","pricecap":14930000,"price":2,"country":"usa"}
 {"name":"iterum therapeutics","codice":"itrm","pricecap":14680000,"price":1,"country":"ireland"}
 {"name":"ispecimen","codice":"ispc","pricecap":14620000,"price":1,"country":"usa"}
 {"name":"gigamedia","codice":"gigm","pricecap":14590000,"price":1,"country":"taiwan"}
@@ -7104,7 +7104,7 @@
 {"name":"actelis networks","codice":"asns","pricecap":8390000,"price":0,"country":"usa"}
 {"name":"gaming technologies gametech","codice":"gmgt","pricecap":8369999,"price":0,"country":"usa"}
 {"name":"staffing 360 solutions","codice":"staf","pricecap":8279999,"price":3,"country":"usa"}
-{"name":"ra medical syste","codice":"rmed","pricecap":8270000,"price":3,"country":"usa"}
+{"name":"ra medical systems","codice":"rmed","pricecap":8270000,"price":3,"country":"usa"}
 {"name":"qiiwi games","codice":"qiiwi.st","pricecap":8199999,"price":0,"country":"sweden"}
 {"name":"saverone 2014","codice":"svre","pricecap":8109999,"price":1,"country":"israel"}
 {"name":"quoin pharmaceuticals","codice":"qnrx","pricecap":8039999,"price":1,"country":"usa"}
@@ -7126,7 +7126,7 @@
 {"name":"starry group","codice":"stry","pricecap":6810000,"price":0,"country":"usa"}
 {"name":"vivopower","codice":"vvpr","pricecap":6760000,"price":0,"country":"uk"}
 {"name":"bio-key international","codice":"bkyi","pricecap":6730000,"price":0,"country":"usa"}
-{"name":"tivic health syste","codice":"tivc","pricecap":6670000,"price":0,"country":"usa"}
+{"name":"tivic health systems","codice":"tivc","pricecap":6670000,"price":0,"country":"usa"}
 {"name":"akanda","codice":"akan","pricecap":6650000,"price":0,"country":"uk"}
 {"name":"nuzee","codice":"nuze","pricecap":6540000,"price":9,"country":"usa"}
 {"name":"benitec biopharma","codice":"bntc","pricecap":6480000,"price":0,"country":"usa"}
@@ -7151,7 +7151,7 @@
 {"name":"oblong","codice":"oblg","pricecap":4930000,"price":2,"country":"usa"}
 {"name":"hillstream biopharma","codice":"hils","pricecap":4870000,"price":0,"country":"usa"}
 {"name":"manydev studio","codice":"man.wa","pricecap":4700000,"price":0,"country":"poland"}
-{"name":"motorsport gaming","codice":" gm","pricecap":4580000,"price":3,"country":"usa"}
+{"name":"motorsport gaming","codice":"msgm","pricecap":4580000,"price":3,"country":"usa"}
 {"name":"nabriva therapeutics","codice":"nbrv","pricecap":4560000,"price":1,"country":"ireland"}
 {"name":"mighty kingdom","codice":"mkl.ax","pricecap":4520000,"price":0,"country":"australia"}
 {"name":"bruush oral care bruush","codice":"brsh","pricecap":4480000,"price":0,"country":"canada"}
@@ -7187,8 +7187,8 @@
 {"name":"freeze tag","codice":"frzt","pricecap":1500000,"price":0,"country":"usa"}
 {"name":"mobilicom","codice":"mob","pricecap":1390000,"price":1,"country":"australia"}
 {"name":"quotient","codice":"qtnt","pricecap":1340000,"price":0,"country":"switzerland"}
-{"name":"versus syste","codice":"vs","pricecap":1200000,"price":0,"country":"canada"}
-{"name":"quanergy syste","codice":"qngy","pricecap":1190000,"price":0,"country":"usa"}
+{"name":"versus systems","codice":"vs","pricecap":1200000,"price":0,"country":"canada"}
+{"name":"quanergy systems","codice":"qngy","pricecap":1190000,"price":0,"country":"usa"}
 {"name":"youngevity international","codice":"ygyi","pricecap":1190000,"price":0,"country":"usa"}
 {"name":"ifresh","codice":"ifmk","pricecap":1010000,"price":0,"country":"usa"}
 {"name":"playground ventures","codice":"play.cn","pricecap":930000,"price":0,"country":"canada"}

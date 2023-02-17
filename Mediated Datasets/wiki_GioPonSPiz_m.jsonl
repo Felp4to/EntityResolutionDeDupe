@@ -27,7 +27,7 @@
 {"name": "axel johnson group", "industry": "conglomerates", "sector": "-", "headquarters": "stockholm", "founded": "1873"}
 {"name": "axfood", "industry": "consumer services", "sector": "food retailers & wholesalers", "headquarters": "stockholm", "founded": "1964"}
 {"name": "axis communications", "industry": "technology", "sector": "computer hardware", "headquarters": "lund", "founded": "1984"}
-{"name": "bae syste", "industry": "industrials", "sector": "defense", "headquarters": "ornskoldsvik", "founded": "2006"}
+{"name": "bae systems", "industry": "industrials", "sector": "defense", "headquarters": "ornskoldsvik", "founded": "2006"}
 {"name": "bahco", "industry": "industrials", "sector": "diversified industrials", "headquarters": "enkoping", "founded": "1886"}
 {"name": "bahnhof", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "stockholm", "founded": "1994"}
 {"name": "ballograf", "industry": "consumer goods", "sector": "nondurable household products", "headquarters": "gothenburg", "founded": "1945"}
@@ -110,19 +110,19 @@
 {"name": "hastens", "industry": "consumer services", "sector": "specialty retailers", "headquarters": "koping", "founded": "1852"}
 {"name": "hestra", "industry": "consumer goods", "sector": "clothing & accessories", "headquarters": "hestra", "founded": "1936"}
 {"name": "hexagon ab", "industry": "industrials", "sector": "business support services", "headquarters": "stockholm", "founded": "1992"}
-{"name": "h industrial networks", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "hal tad", "founded": "1988"}
+{"name": "hindustrial networks", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "halmstad", "founded": "1988"}
 {"name": "hoganas ab", "industry": "basic materials", "sector": "iron & steel", "headquarters": "hoganas", "founded": "1797"}
 {"name": "holmen", "industry": "basic materials", "sector": "paper", "headquarters": "stockholm", "founded": "1875"}
 {"name": "husaberg", "industry": "consumer goods", "sector": "automobiles", "headquarters": "mattighofen", "founded": "1988"}
 {"name": "husqvarna group", "industry": "industrials", "sector": "industrial suppliers", "headquarters": "stockholm", "founded": "1689"}
 {"name": "hydrauliska industri ab", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "hudiksvall", "founded": "1944"}
-{"name": "iar syste", "industry": "technology", "sector": "software", "headquarters": "uppsala", "founded": "1983"}
+{"name": "iar systems", "industry": "technology", "sector": "software", "headquarters": "uppsala", "founded": "1983"}
 {"name": "ica gruppen", "industry": "consumer services", "sector": "broadline retailers", "headquarters": "stockholm", "founded": "1938"}
 {"name": "ifs ab", "industry": "technology", "sector": "software", "headquarters": "linkoping", "founded": "1983"}
 {"name": "ikano bank", "industry": "financials", "sector": "banks", "headquarters": "malmo", "founded": "1995"}
 {"name": "imint image intelligence ab", "industry": "technology", "sector": "software", "headquarters": "uppsala", "founded": "2007"}
 {"name": "infranord", "industry": "industrials", "sector": "railroads", "headquarters": "solna", "founded": "2010"}
-{"name": "ingate syste", "industry": "technology", "sector": "software", "headquarters": "stockholm", "founded": "2001"}
+{"name": "ingate systems", "industry": "technology", "sector": "software", "headquarters": "stockholm", "founded": "2001"}
 {"name": "intertex", "industry": "technology", "sector": "computer hardware", "headquarters": "stockholm", "founded": "2001"}
 {"name": "investment ab latour", "industry": "financials", "sector": "investment services", "headquarters": "gothenburg", "founded": "1984"}
 {"name": "investment ab oresund", "industry": "financials", "sector": "investment services", "headquarters": "stockholm", "founded": "1961"}
@@ -136,12 +136,12 @@
 {"name": "jonsereds fabrikers ab", "industry": "industrials", "sector": "industrial machinery", "headquarters": "jonsered", "founded": "1832"}
 {"name": "kinnevik ab", "industry": "financials", "sector": "investment services", "headquarters": "stockholm", "founded": "1936"}
 {"name": "klarna", "industry": "consumer services", "sector": "broadline retailers", "headquarters": "stockholm", "founded": "2005"}
-{"name": "kocku naval solutions", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "malmo", "founded": "1840"}
+{"name": "kockunaval solutions", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "malmo", "founded": "1840"}
 {"name": "koenigsegg", "industry": "consumer goods", "sector": "automobiles", "headquarters": "angelholm", "founded": "1994"}
 {"name": "kooperativa forbundet", "industry": "consumer services", "sector": "consumer co-operatives", "headquarters": "stockholm", "founded": "1899"}
 {"name": "kopparbergs brewery", "industry": "consumer goods", "sector": "brewers", "headquarters": "kopparberg", "founded": "1882"}
 {"name": "kosta glasbruk", "industry": "industrials", "sector": "building materials & fixtures", "headquarters": "kosta", "founded": "1742"}
-{"name": "kronleins", "industry": "consumer goods", "sector": "brewers", "headquarters": "hal tad", "founded": "1836"}
+{"name": "kronleins", "industry": "consumer goods", "sector": "brewers", "headquarters": "halmstad", "founded": "1836"}
 {"name": "kungsornen", "industry": "consumer goods", "sector": "food products", "headquarters": "jarna", "founded": "1929"}
 {"name": "l e lundbergforetagen", "industry": "financials", "sector": "investment services", "headquarters": "stockholm", "founded": "1944"}
 {"name": "lansforsakringar", "industry": "financials", "sector": "full line insurance", "headquarters": "stockholm", "founded": "1801"}
@@ -248,7 +248,7 @@
 {"name": "stena sphere", "industry": "conglomerates", "sector": "-", "headquarters": "gothenburg", "founded": "1939"}
 {"name": "stiga", "industry": "consumer goods", "sector": "durable household products", "headquarters": "eskilstuna", "founded": "1934"}
 {"name": "stockholm stock exchange", "industry": "financials", "sector": "investment services", "headquarters": "stockholm", "founded": "1863"}
-{"name": "stockhol enskilda bank", "industry": "financials", "sector": "banks", "headquarters": "stockholm", "founded": "1856"}
+{"name": "stockholenskilda bank", "industry": "financials", "sector": "banks", "headquarters": "stockholm", "founded": "1856"}
 {"name": "studsvik", "industry": "utilities", "sector": "conventional electricity", "headquarters": "nykoping", "founded": "1947"}
 {"name": "sveriges television", "industry": "consumer services", "sector": "broadcasting & entertainment", "headquarters": "stockholm", "founded": "1956"}
 {"name": "sweco", "industry": "industrials", "sector": "business support services", "headquarters": "stockholm", "founded": "1997"}
@@ -258,7 +258,7 @@
 {"name": "swedish orphan biovitrum", "industry": "health care", "sector": "health care providers", "headquarters": "stockholm", "founded": "2001"}
 {"name": "swedish space corporation", "industry": "industrials", "sector": "aerospace", "headquarters": "solna", "founded": "1972"}
 {"name": "swegon", "industry": "industrials", "sector": "industrial machinery", "headquarters": "gothenburg", "founded": "2005"}
-{"name": "syoft", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "stockholm", "founded": "1989"}
+{"name": "symsoft", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "stockholm", "founded": "1989"}
 {"name": "syncron international ab", "industry": "technology", "sector": "software", "headquarters": "stockholm", "founded": "1990"}
 {"name": "tarsier studios", "industry": "technology", "sector": "software", "headquarters": "malmo", "founded": "2004"}
 {"name": "tele2", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "stockholm", "founded": "1993"}
@@ -274,7 +274,7 @@
 {"name": "truecaller", "industry": "technology", "sector": "software", "headquarters": "stockholm", "founded": "2009"}
 {"name": "trustly", "industry": "financials", "sector": "banks", "headquarters": "stockholm", "founded": "2008"}
 {"name": "tv4 group", "industry": "consumer services", "sector": "broadcasting & entertainment", "headquarters": "stockholm", "founded": "1984"}
-{"name": "uddehol ab", "industry": "basic materials", "sector": "iron & steel", "headquarters": "hagfors", "founded": "1668"}
+{"name": "uddeholab", "industry": "basic materials", "sector": "iron & steel", "headquarters": "hagfors", "founded": "1668"}
 {"name": "umea energi", "industry": "utilities", "sector": "conventional electricity", "headquarters": "umea", "founded": "1887"}
 {"name": "urbanears", "industry": "consumer goods", "sector": "recreational products", "headquarters": "stockholm", "founded": "2009"}
 {"name": "v&s group", "industry": "consumer goods", "sector": "soft drinks", "headquarters": "stockholm", "founded": "1917"}
@@ -361,7 +361,7 @@
 {"name": "iberia", "industry": "consumer services", "sector": "airlines", "headquarters": "madrid", "founded": "1927"}
 {"name": "idilia foods", "industry": "consumer goods", "sector": "food products", "headquarters": "barcelona", "founded": "1940"}
 {"name": "inditex", "industry": "consumer services", "sector": "apparel retailers", "headquarters": "arteixo", "founded": "1985"}
-{"name": "indra sistemas", "industry": "industrials", "sector": "aerospace", "headquarters": "madrid", "founded": "1993"}
+{"name": "insistemas", "industry": "industrials", "sector": "aerospace", "headquarters": "madrid", "founded": "1993"}
 {"name": "inmobiliaria colonial", "industry": "financials", "sector": "real estate holding & development", "headquarters": "madrid", "founded": "1946"}
 {"name": "irizar", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "ormaiztegi", "founded": "1889"}
 {"name": "joma", "industry": "consumer goods", "sector": "clothing & accessories", "headquarters": "portillo de toledo", "founded": "1965"}
@@ -457,7 +457,7 @@
 {"name": "jj electronic", "industry": "industrials", "sector": "electrical components & equipment", "headquarters": "cadca", "founded": "1993"}
 {"name": "komercni banka bratislava", "industry": "financials", "sector": "banks", "headquarters": "bratislava", "founded": "1995"}
 {"name": "matador", "industry": "consumer goods", "sector": "tires", "headquarters": "puchov", "founded": "1947"}
-{"name": "ofz, as, istebne", "industry": "basic materials", "sector": "iron & steel", "headquarters": "istebne", "founded": "1999"}
+{"name": "ofz as istebne", "industry": "basic materials", "sector": "iron & steel", "headquarters": "istebne", "founded": "1999"}
 {"name": "orange slovensko", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "bratislava", "founded": "1997"}
 {"name": "penta investments", "industry": "financials", "sector": "investment services", "headquarters": "bratislava", "founded": "1994"}
 {"name": "postova banka", "industry": "financials", "sector": "banks", "headquarters": "bratislava", "founded": "1992"}
@@ -515,7 +515,7 @@
 {"name": "regiotrans", "industry": "consumer services", "sector": "travel & tourism", "headquarters": "brasov", "founded": "2005"}
 {"name": "roman", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "brasov", "founded": "1921"}
 {"name": "rompetrol", "industry": "oil & gas", "sector": "exploration & production", "headquarters": "bucharest", "founded": "1974"}
-{"name": "rotal", "industry": "industrials", "sector": "industrial suppliers", "headquarters": "bucharest", "founded": "1994"}
+{"name": "romstal", "industry": "industrials", "sector": "industrial suppliers", "headquarters": "bucharest", "founded": "1994"}
 {"name": "romtelecom", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "bucharest", "founded": "1989"}
 {"name": "siveco romania", "industry": "technology", "sector": "software", "headquarters": "bucharest", "founded": "1992"}
 {"name": "softpedia", "industry": "technology", "sector": "software", "headquarters": "bucharest", "founded": "2001"}
@@ -544,14 +544,14 @@
 {"name": "churchill's port", "industry": "wine making", "sector": "port wine", "headquarters": "porto", "founded": "1981"}
 {"name": "ciberbit", "industry": "technology", "sector": "software", "headquarters": "coimbra", "founded": "1995"}
 {"name": "cimpor", "industry": "industrials", "sector": "building materials & fixtures", "headquarters": "lisbon", "founded": "1976"}
-{"name": "c-helmets", "industry": "consumer goods", "sector": "clothing & accessories", "headquarters": "anadia", "founded": "1976"}
+{"name": "cms-helmets", "industry": "consumer goods", "sector": "clothing & accessories", "headquarters": "anadia", "founded": "1976"}
 {"name": "cofina", "industry": "consumer services", "sector": "publishing", "headquarters": "porto", "founded": "1856"}
 {"name": "comboios de portugal", "industry": "consumer services", "sector": "travel & tourism", "headquarters": "lisbon", "founded": "1856"}
 {"name": "conservas ramirez", "industry": "consumer goods", "sector": "food products", "headquarters": "matosinhos", "founded": "1853"}
 {"name": "continente", "industry": "consumer services", "sector": "food retailers & wholesalers", "headquarters": "matosinhos", "founded": "1985"}
 {"name": "corticeira amorim", "industry": "basic materials", "sector": "industrial suppliers", "headquarters": "santa maria da feira", "founded": "1870"}
 {"name": "critical software", "industry": "technology", "sector": "software", "headquarters": "coimbra", "founded": "1998"}
-{"name": "ctt correios de portugal, sa", "industry": "industrials", "sector": "delivery services", "headquarters": "lisbon", "founded": "1520"}
+{"name": "ctt correios de portugal sa", "industry": "industrials", "sector": "delivery services", "headquarters": "lisbon", "founded": "1520"}
 {"name": "delta cafes", "industry": "consumer goods", "sector": "food products", "headquarters": "campo maior", "founded": "1961"}
 {"name": "efacec", "industry": "industrials", "sector": "electronic equipment", "headquarters": "matosinhos", "founded": "1948"}
 {"name": "energias de portugal", "industry": "utilities", "sector": "conventional electricity", "headquarters": "lisbon", "founded": "1976"}
@@ -687,28 +687,28 @@
 {"name": "zmt sa", "industry": "industrials", "sector": "defense", "headquarters": "tarnow", "founded": "1917"}
 {"name": "aalberts", "industry": "industrials", "sector": "electrical components & equipment", "headquarters": "utrecht", "founded": "1981"}
 {"name": "abellio", "industry": "transport", "sector": "bus, ferry and train services", "headquarters": "utrecht", "founded": "2001"}
-{"name": "abn ao", "industry": "financials", "sector": "banks", "headquarters": "a terdam", "founded": "1991"}
-{"name": "adyen", "industry": "financials", "sector": "payments industry", "headquarters": "a terdam", "founded": "2006"}
+{"name": "abn amro", "industry": "financials", "sector": "banks", "headquarters": "amsterdam", "founded": "1991"}
+{"name": "adyen", "industry": "financials", "sector": "payments industry", "headquarters": "amsterdam", "founded": "2006"}
 {"name": "accell group", "industry": "consumer goods", "sector": "recreational products", "headquarters": "heerenveen", "founded": "1998"}
 {"name": "aegon nv", "industry": "financials", "sector": "life insurance", "headquarters": "the hague", "founded": "1983"}
 {"name": "ahold delhaize", "industry": "consumer services", "sector": "food retailers & wholesalers", "headquarters": "zaandam", "founded": "2016"}
-{"name": "akzonobel", "industry": "basic materials", "sector": "specialty chemicals", "headquarters": "a terdam", "founded": "1994"}
-{"name": "atel brewery", "industry": "consumer goods", "sector": "brewers", "headquarters": "zoeterwoude", "founded": "1870"}
+{"name": "akzonobel", "industry": "basic materials", "sector": "specialty chemicals", "headquarters": "amsterdam", "founded": "1994"}
+{"name": "amstel brewery", "industry": "consumer goods", "sector": "brewers", "headquarters": "zoeterwoude", "founded": "1870"}
 {"name": "apm terminals", "industry": "industrials", "sector": "transportation services", "headquarters": "the hague", "founded": "2001"}
-{"name": "apollo vredestein bv", "industry": "consumer goods", "sector": "automobiles parts", "headquarters": "a terdam", "founded": "1909"}
-{"name": "arcadis", "industry": "industrials", "sector": "engineering", "headquarters": "a terdam", "founded": "1888"}
+{"name": "apollo vredestein bv", "industry": "consumer goods", "sector": "automobiles parts", "headquarters": "amsterdam", "founded": "1909"}
+{"name": "arcadis", "industry": "industrials", "sector": "engineering", "headquarters": "amsterdam", "founded": "1888"}
 {"name": "asml holding", "industry": "industrials", "sector": "industrial machinery", "headquarters": "veldhoven", "founded": "1984"}
 {"name": "asn bank", "industry": "financials", "sector": "banks", "headquarters": "the hague", "founded": "1960"}
-{"name": "atradius", "industry": "financials", "sector": "non-life insurance", "headquarters": "a terdam", "founded": "1925"}
+{"name": "atradius", "industry": "financials", "sector": "non-life insurance", "headquarters": "amsterdam", "founded": "1925"}
 {"name": "australian homemade", "industry": "consumer services", "sector": "restaurants & bars", "headquarters": "veenendaal", "founded": "1979"}
 {"name": "avebe", "industry": "consumer goods", "sector": "food products", "headquarters": "veendam", "founded": "1919"}
 {"name": "bavaria brewery", "industry": "consumer goods", "sector": "brewers", "headquarters": "lieshout", "founded": "1680"}
 {"name": "beter bed", "industry": "consumer services", "sector": "specialty retailers", "headquarters": "uden", "founded": "1981"}
 {"name": "blendle", "industry": "technology", "sector": "internet", "headquarters": "utrecht", "founded": "2013"}
-{"name": "bookingcom", "industry": "consumer services", "sector": "travel & tourism", "headquarters": "a terdam", "founded": "1996"}
-{"name": "catawiki", "industry": "technology", "sector": "internet", "headquarters": "a terdam", "founded": "2008"}
-{"name": "chipshol", "industry": "real estate", "sector": "real estate investment and services", "headquarters": "a terdam", "founded": "1986"}
-{"name": "cnh global", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "a terdam", "founded": "1999"}
+{"name": "bookingcom", "industry": "consumer services", "sector": "travel & tourism", "headquarters": "amsterdam", "founded": "1996"}
+{"name": "catawiki", "industry": "technology", "sector": "internet", "headquarters": "amsterdam", "founded": "2008"}
+{"name": "chipshol", "industry": "real estate", "sector": "real estate investment and services", "headquarters": "amsterdam", "founded": "1986"}
+{"name": "cnh global", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "amsterdam", "founded": "1999"}
 {"name": "corendon dutch airlines", "industry": "consumer services", "sector": "airlines", "headquarters": "lijnden", "founded": "2010"}
 {"name": "daf trucks", "industry": "consumer goods", "sector": "automobiles", "headquarters": "eindhoven", "founded": "1993"}
 {"name": "damen group", "industry": "industrials", "sector": "industrial transportation & defense", "headquarters": "gorinchem", "founded": "1927"}
@@ -716,50 +716,50 @@
 {"name": "donkervoort", "industry": "consumer goods", "sector": "automobiles", "headquarters": "lelystad", "founded": "1978"}
 {"name": "douwe egberts", "industry": "consumer goods", "sector": "soft drinks", "headquarters": "utrecht", "founded": "1753"}
 {"name": "dsm", "industry": "health care", "sector": "pharmaceuticals", "headquarters": "heerlen", "founded": "1902"}
-{"name": "ebuddy", "industry": "technology", "sector": "internet", "headquarters": "a terdam", "founded": "2003"}
-{"name": "elsevier", "industry": "consumer services", "sector": "publishing", "headquarters": "a terdam", "founded": "1880"}
-{"name": "endemol", "industry": "consumer services", "sector": "broadcasting & entertainment", "headquarters": "a terdam", "founded": "1994"}
+{"name": "ebuddy", "industry": "technology", "sector": "internet", "headquarters": "amsterdam", "founded": "2003"}
+{"name": "elsevier", "industry": "consumer services", "sector": "publishing", "headquarters": "amsterdam", "founded": "1880"}
+{"name": "endemol", "industry": "consumer services", "sector": "broadcasting & entertainment", "headquarters": "amsterdam", "founded": "1994"}
 {"name": "exact software", "industry": "technology", "sector": "software", "headquarters": "delft", "founded": "1984"}
-{"name": "exor", "industry": "financials", "sector": "investment services", "headquarters": "a terdam", "founded": "1927"}
+{"name": "exor", "industry": "financials", "sector": "investment services", "headquarters": "amsterdam", "founded": "1927"}
 {"name": "feadship", "industry": "consumer goods", "sector": "recreational products", "headquarters": "haarlem", "founded": "1949"}
 {"name": "fraba", "industry": "industrials", "sector": "industrial automation", "headquarters": "heerlen", "founded": "1918"}
 {"name": "frieslandcampina", "industry": "consumer goods", "sector": "food products", "headquarters": "amersfoort", "founded": "2008"}
 {"name": "fugro", "industry": "oil & gas", "sector": "exploration & production", "headquarters": "leidschendam", "founded": "1962"}
-{"name": "general logistics syste", "industry": "industrials", "sector": "delivery services", "headquarters": "a terdam", "founded": "1999"}
+{"name": "general logistics systems", "industry": "industrials", "sector": "delivery services", "headquarters": "amsterdam", "founded": "1999"}
 {"name": "grolsch brewery", "industry": "consumer goods", "sector": "brewers", "headquarters": "enschede", "founded": "1615"}
-{"name": "guerrilla games", "industry": "technology", "sector": "software", "headquarters": "a terdam", "founded": "2000"}
-{"name": "g-star raw", "industry": "consumer goods", "sector": "apparel retailers", "headquarters": "a terdam", "founded": "1989"}
+{"name": "guerrilla games", "industry": "technology", "sector": "software", "headquarters": "amsterdam", "founded": "2000"}
+{"name": "g-star raw", "industry": "consumer goods", "sector": "apparel retailers", "headquarters": "amsterdam", "founded": "1989"}
 {"name": "heerema marine contractors", "industry": "oil & gas", "sector": "oil equipment & services", "headquarters": "leiden", "founded": "1948"}
-{"name": "heineken international", "industry": "consumer goods", "sector": "brewers", "headquarters": "a terdam", "founded": "1864"}
-{"name": "hema", "industry": "consumer goods", "sector": "variety", "headquarters": "a terdam", "founded": "1926"}
+{"name": "heineken international", "industry": "consumer goods", "sector": "brewers", "headquarters": "amsterdam", "founded": "1864"}
+{"name": "hema", "industry": "consumer goods", "sector": "variety", "headquarters": "amsterdam", "founded": "1926"}
 {"name": "high-logic", "industry": "technology", "sector": "software", "headquarters": "de bilt", "founded": "1997"}
 {"name": "hotelsnl", "industry": "consumer services", "sector": "travel & tourism", "headquarters": "groningen", "founded": "2001"}
 {"name": "hunkemoller", "industry": "consumer services", "sector": "apparel retailers", "headquarters": "hilversum", "founded": "1886"}
 {"name": "hunter douglas", "industry": "industrials", "sector": "building", "headquarters": "rotterdam", "founded": "1919"}
 {"name": "ikea", "industry": "consumer services", "sector": "home improvement retailers", "headquarters": "leiden", "founded": "1942"}
-{"name": "ing group", "industry": "financials", "sector": "banks", "headquarters": "a terdam", "founded": "1991"}
+{"name": "ing group", "industry": "financials", "sector": "banks", "headquarters": "amsterdam", "founded": "1991"}
 {"name": "interxion", "industry": "technology", "sector": "datacentres", "headquarters": "schiphol-rijk", "founded": "1998"}
-{"name": "iptp networks", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "a terdam", "founded": "1996"}
+{"name": "iptp networks", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "amsterdam", "founded": "1996"}
 {"name": "jumbo", "industry": "consumer goods", "sector": "food retailers & wholesalers", "headquarters": "veghel", "founded": "1921"}
-{"name": "just eat takeaway", "industry": "technology", "sector": "consumer digital services", "headquarters": "a terdam", "founded": "2000"}
-{"name": "klm", "industry": "consumer services", "sector": "airlines", "headquarters": "a telveen", "founded": "1919"}
-{"name": "kpmg", "industry": "industrials", "sector": "business support services", "headquarters": "a telveen", "founded": "1987"}
+{"name": "just eat takeaway", "industry": "technology", "sector": "consumer digital services", "headquarters": "amsterdam", "founded": "2000"}
+{"name": "klm", "industry": "consumer services", "sector": "airlines", "headquarters": "amstelveen", "founded": "1919"}
+{"name": "kpmg", "industry": "industrials", "sector": "business support services", "headquarters": "amstelveen", "founded": "1987"}
 {"name": "kpn", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "the hague", "founded": "1852"}
 {"name": "landfighter", "industry": "consumer goods", "sector": "automobiles", "headquarters": "best", "founded": "2011"}
-{"name": "leaseplan", "industry": "consumer services", "sector": "rental and leasing services", "headquarters": "a terdam", "founded": "1963"}
+{"name": "leaseplan", "industry": "consumer services", "sector": "rental and leasing services", "headquarters": "amsterdam", "founded": "1963"}
 {"name": "liander", "industry": "utilities", "sector": "conventional electricity", "headquarters": "arnhem", "founded": "2008"}
-{"name": "lucas bols", "industry": "consumer goods", "sector": "distillers & vintners", "headquarters": "a terdam", "founded": "1575"}
+{"name": "lucas bols", "industry": "consumer goods", "sector": "distillers & vintners", "headquarters": "amsterdam", "founded": "1575"}
 {"name": "martinair", "industry": "consumer services", "sector": "airlines", "headquarters": "schiphol-oost", "founded": "1958"}
 {"name": "nederlandse spoorwegen", "industry": "industrials", "sector": "railroads", "headquarters": "utrecht", "founded": "1938"}
-{"name": "nipparts", "industry": "consumer goods", "sector": "auto parts", "headquarters": "a terdam", "founded": "1981"}
-{"name": "nutricia", "industry": "consumer goods", "sector": "food products", "headquarters": "a terdam", "founded": "1896"}
-{"name": "nuon energy", "industry": "utilities", "sector": "multiutilities", "headquarters": "a terdam", "founded": "1995"}
+{"name": "nipparts", "industry": "consumer goods", "sector": "auto parts", "headquarters": "amsterdam", "founded": "1981"}
+{"name": "nutricia", "industry": "consumer goods", "sector": "food products", "headquarters": "amsterdam", "founded": "1896"}
+{"name": "nuon energy", "industry": "utilities", "sector": "multiutilities", "headquarters": "amsterdam", "founded": "1995"}
 {"name": "nxp semiconductors", "industry": "technology", "sector": "semiconductors", "headquarters": "eindhoven", "founded": "1953"}
 {"name": "oce", "industry": "technology", "sector": "electronic office equipment", "headquarters": "venlo", "founded": "1877"}
 {"name": "perfetti van melle", "industry": "consumer goods", "sector": "food products", "headquarters": "lainate", "founded": "2001"}
 {"name": "philips", "industry": "consumer goods", "sector": "consumer electronics", "headquarters": "eindhoven", "founded": "1891"}
 {"name": "postnl", "industry": "industrials", "sector": "delivery services", "headquarters": "the hague", "founded": "1998"}
-{"name": "prosus", "industry": "technology", "sector": "consumer digital services", "headquarters": "a terdam", "founded": "2019"}
+{"name": "prosus", "industry": "technology", "sector": "consumer digital services", "headquarters": "amsterdam", "founded": "2019"}
 {"name": "q-park", "industry": "consumer services", "sector": "parking", "headquarters": "maastricht", "founded": "1998"}
 {"name": "rabobank", "industry": "financials", "sector": "banks", "headquarters": "utrecht", "founded": "1972"}
 {"name": "randstad holding", "industry": "industrials", "sector": "business support services", "headquarters": "diemen", "founded": "1960"}
@@ -769,19 +769,19 @@
 {"name": "royal schiphol group", "industry": "industrials", "sector": "transportation services", "headquarters": "schiphol", "founded": "1916"}
 {"name": "royal van oord", "industry": "industrials", "sector": "heavy construction", "headquarters": "rotterdam", "founded": "1868"}
 {"name": "sbm offshore", "industry": "oil & gas", "sector": "oil equipment & services", "headquarters": "schiedam", "founded": "1965"}
-{"name": "serpent model racing cars", "industry": "consumer goods", "sector": "recreational products", "headquarters": "hee tede", "founded": "1980"}
+{"name": "serpent model racing cars", "industry": "consumer goods", "sector": "recreational products", "headquarters": "heemstede", "founded": "1980"}
 {"name": "shv holdings", "industry": "industrials", "sector": "diversified industrials", "headquarters": "utrecht", "founded": "1896"}
-{"name": "spar", "industry": "consumer goods", "sector": "food retailers & wholesalers", "headquarters": "a terdam", "founded": "1932"}
+{"name": "spar", "industry": "consumer goods", "sector": "food retailers & wholesalers", "headquarters": "amsterdam", "founded": "1932"}
 {"name": "spyker cars", "industry": "consumer goods", "sector": "automobiles", "headquarters": "zeewolde", "founded": "1999"}
 {"name": "stork bv", "industry": "industrials", "sector": "aerospace", "headquarters": "naarden", "founded": "1868"}
 {"name": "talpa network", "industry": "consumer services", "sector": "broadcasting & entertainment", "headquarters": "hilversum", "founded": "2004"}
-{"name": "tele2 netherlands", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "a terdam", "founded": "1993"}
+{"name": "tele2 netherlands", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "amsterdam", "founded": "1993"}
 {"name": "telfort", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "alphen aan den rijn", "founded": "1997"}
 {"name": "thales nederland", "industry": "industrials", "sector": "defence & electronics", "headquarters": "hengelo", "founded": "1922"}
-{"name": "tmf group", "industry": "industrials", "sector": "financial administration", "headquarters": "a terdam", "founded": "1988"}
+{"name": "tmf group", "industry": "industrials", "sector": "financial administration", "headquarters": "amsterdam", "founded": "1988"}
 {"name": "tnt express", "industry": "industrials", "sector": "delivery services", "headquarters": "hoofddorp", "founded": "2011"}
-{"name": "tomtom", "industry": "technology", "sector": "software", "headquarters": "a terdam", "founded": "1991"}
-{"name": "tony's chocolonely", "industry": "consumer goods", "sector": "food products", "headquarters": "a terdam", "founded": "2005"}
+{"name": "tomtom", "industry": "technology", "sector": "software", "headquarters": "amsterdam", "founded": "1991"}
+{"name": "tony's chocolonely", "industry": "consumer goods", "sector": "food products", "headquarters": "amsterdam", "founded": "2005"}
 {"name": "transavia", "industry": "consumer services", "sector": "airlines", "headquarters": "schiphol-oost", "founded": "1965"}
 {"name": "triodos bank", "industry": "financials", "sector": "banks", "headquarters": "zeist", "founded": "1980"}
 {"name": "trust", "industry": "technology", "sector": "computer hardware", "headquarters": "dordrecht", "founded": "1981"}
@@ -789,15 +789,15 @@
 {"name": "vanguard dutch marine", "industry": "consumer goods", "sector": "recreational products", "headquarters": "heerenveen", "founded": "2008"}
 {"name": "vdl bus & coach", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "valkenswaard", "founded": "1993"}
 {"name": "vdl nedcar", "industry": "consumer goods", "sector": "automobile", "headquarters": "born", "founded": "1967"}
-{"name": "vedior", "industry": "industrials", "sector": "business training & employment agencies", "headquarters": "a terdam", "founded": "1998"}
-{"name": "veon", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "a terdam", "founded": "2009"}
+{"name": "vedior", "industry": "industrials", "sector": "business training & employment agencies", "headquarters": "amsterdam", "founded": "1998"}
+{"name": "veon", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "amsterdam", "founded": "2009"}
 {"name": "verenigde nederlandse uitgeverijen", "industry": "consumer services", "sector": "publishing", "headquarters": "haarlem", "founded": "1964"}
 {"name": "vitol", "industry": "energy", "sector": "oil, gas & coal", "headquarters": "rotterdam", "founded": "1966"}
 {"name": "vodafone netherlands", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "maastricht", "founded": "1995"}
 {"name": "volkerwessels", "industry": "industrials", "sector": "heavy construction", "headquarters": "amersfoort", "founded": "1854"}
 {"name": "wavin", "industry": "industrials", "sector": "building materials & fixtures", "headquarters": "zwolle", "founded": "1955"}
 {"name": "we", "industry": "consumer goods", "sector": "apparel retailers", "headquarters": "utrecht", "founded": "1917"}
-{"name": "wercker", "industry": "technology", "sector": "software", "headquarters": "a terdam", "founded": "2011"}
+{"name": "wercker", "industry": "technology", "sector": "software", "headquarters": "amsterdam", "founded": "2011"}
 {"name": "wolters kluwer", "industry": "industrials", "sector": "business support services", "headquarters": "alphen aan den rijn", "founded": "1836"}
 {"name": "zeeman", "industry": "consumer goods", "sector": "apparel retailers", "headquarters": "alphen aan den rijn", "founded": "1967"}
 {"name": "air malta", "industry": "consumer services", "sector": "airlines", "headquarters": "luqa", "founded": "1973"}
@@ -917,7 +917,7 @@
 {"name": "latvenergo", "industry": "utilities", "sector": "conventional electricity", "headquarters": "riga", "founded": "1958"}
 {"name": "latvian mobile telephone", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "riga", "founded": "1992"}
 {"name": "latvian shipping company", "industry": "industrials", "sector": "marine transportation", "headquarters": "riga", "founded": "1940"}
-{"name": "latvijas balza", "industry": "consumer goods", "sector": "soft drinks", "headquarters": "riga", "founded": "1997"}
+{"name": "latvijas balzams", "industry": "consumer goods", "sector": "soft drinks", "headquarters": "riga", "founded": "1997"}
 {"name": "latvijas gaze", "industry": "oil & gas", "sector": "exploration & production", "headquarters": "riga", "founded": "1991"}
 {"name": "latvijas krajbanka", "industry": "financials", "sector": "banks", "headquarters": "riga", "founded": "1924"}
 {"name": "latvijas pasts", "industry": "logistics", "sector": "delivery services", "headquarters": "riga", "founded": "1992"}
@@ -1076,7 +1076,7 @@
 {"name": "diadora", "industry": "consumer goods", "sector": "footwear", "headquarters": "caerano di san marco", "founded": "1948"}
 {"name": "diesel", "industry": "consumer goods", "sector": "clothing & accessories", "headquarters": "breganze", "founded": "1978"}
 {"name": "dolce & gabbana", "industry": "consumer goods", "sector": "clothing & accessories", "headquarters": "milan", "founded": "1985"}
-{"name": "dr motor company", "industry": "consumer goods", "sector": "automobiles", "headquarters": "macchia d'isernia", "founded": "2006"}
+{"name": "motor company", "industry": "consumer goods", "sector": "automobiles", "headquarters": "macchia d'isernia", "founded": "2006"}
 {"name": "ducati", "industry": "consumer goods", "sector": "automobiles", "headquarters": "bologna", "founded": "1926"}
 {"name": "ducati energia", "industry": "industrials", "sector": "electronic & electrical equipment", "headquarters": "bologna", "founded": "1926"}
 {"name": "durst", "industry": "technology", "sector": "electronic & electrical equipment", "headquarters": "brixen", "founded": "1936"}
@@ -1498,7 +1498,7 @@
 {"name": "ikarus bus", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "budapest", "founded": "1895"}
 {"name": "international training center for bankers", "industry": "financials", "sector": "banks", "headquarters": "budapest", "founded": "1988"}
 {"name": "invictus games", "industry": "technology", "sector": "software", "headquarters": "debrecen", "founded": "2000"}
-{"name": "ip syste", "industry": "technology", "sector": "software", "headquarters": "budapest", "founded": "2008"}
+{"name": "ip systems", "industry": "technology", "sector": "software", "headquarters": "budapest", "founded": "2008"}
 {"name": "iwiw", "industry": "technology", "sector": "internet", "headquarters": "budapest", "founded": "2002"}
 {"name": "k&h bank", "industry": "financials", "sector": "banks", "headquarters": "budapest", "founded": "1987"}
 {"name": "lehel", "industry": "consumer goods", "sector": "durable household products", "headquarters": "jaszbereny", "founded": "1945"}
@@ -1877,7 +1877,7 @@
 {"name": "technip", "industry": "industrials", "sector": "business support services", "headquarters": "paris", "founded": "1958"}
 {"name": "tf1 group", "industry": "consumer services", "sector": "broadcasting & entertainment", "headquarters": "boulogne-billancourt", "founded": "1987"}
 {"name": "thales group", "industry": "industrials", "sector": "aerospace", "headquarters": "la defense", "founded": "2000"}
-{"name": "thoon-csf", "industry": "industrials", "sector": "defense", "headquarters": "paris", "founded": "1879"}
+{"name": "thomson-csf", "industry": "industrials", "sector": "defense", "headquarters": "paris", "founded": "1879"}
 {"name": "totalenergies", "industry": "oil & gas", "sector": "integrated oil & gas", "headquarters": "courbevoie", "founded": "1924"}
 {"name": "ubisoft", "industry": "technology", "sector": "software", "headquarters": "rennes", "founded": "1986"}
 {"name": "veolia", "industry": "utilities", "sector": "water", "headquarters": "paris", "founded": "1853"}
@@ -2149,7 +2149,7 @@
 {"name": "budweiser budvar brewery", "industry": "consumer goods", "sector": "brewers", "headquarters": "ceske budejovice", "founded": "1785"}
 {"name": "ceska posta", "industry": "industrials", "sector": "delivery services", "headquarters": "prague", "founded": "1918"}
 {"name": "ceska sporitelna", "industry": "financials", "sector": "banks", "headquarters": "prague", "founded": "1825"}
-{"name": "ceska zbrojovka firear", "industry": "industrials", "sector": "defense", "headquarters": "uhersky brod", "founded": "1936"}
+{"name": "ceska zbrojovka firearms", "industry": "industrials", "sector": "defense", "headquarters": "uhersky brod", "founded": "1936"}
 {"name": "ceske drahy", "industry": "industrials", "sector": "railroads", "headquarters": "prague", "founded": "2003"}
 {"name": "ceske radiokomunikace", "industry": "telecommunications", "sector": "fixed line telecommunications", "headquarters": "prague", "founded": "1963"}
 {"name": "ceskoslovenska obchodni banka", "industry": "financials", "sector": "banks", "headquarters": "prague", "founded": "1964"}
@@ -2281,7 +2281,7 @@
 {"name": "university of nicosia", "industry": "consumer services", "sector": "education", "headquarters": "nicosia", "founded": "1980"}
 {"name": "wargaming", "industry": "technology", "sector": "software", "headquarters": "nicosia", "founded": "1998"}
 {"name": "woolworths", "industry": "consumer services", "sector": "broadline retailers", "headquarters": "nicosia", "founded": "1950"}
-{"name": "xhater", "industry": "technology", "sector": "software", "headquarters": "nicosia", "founded": "2007"}
+{"name": "xhamster", "industry": "technology", "sector": "software", "headquarters": "nicosia", "founded": "2007"}
 {"name": "3 maj", "industry": "industrials", "sector": "commercial vehicles & trucks", "headquarters": "rijeka", "founded": "1892"}
 {"name": "3lhd", "industry": "industrials", "sector": "business support services", "headquarters": "zagreb", "founded": "1994"}
 {"name": "a1 hrvatska", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "zagreb", "founded": "1999"}
@@ -2430,7 +2430,7 @@
 {"name": "kino nova", "industry": "consumer services", "sector": "broadcasting & entertainment", "headquarters": "sofia", "founded": "2011"}
 {"name": "kintex", "industry": "industrials", "sector": "defense", "headquarters": "sofia", "founded": "1966"}
 {"name": "kremikovtzi ad", "industry": "basic materials", "sector": "iron & steel", "headquarters": "sofia", "founded": "1963"}
-{"name": "m3 communications group, inc", "industry": "consumer services", "sector": "broadcasting & entertainment", "headquarters": "sofia", "founded": "1994"}
+{"name": "m3 communications group inc", "industry": "consumer services", "sector": "broadcasting & entertainment", "headquarters": "sofia", "founded": "1994"}
 {"name": "maxeurope", "industry": "consumer goods", "sector": "recreational products", "headquarters": "plovdiv", "founded": "1996"}
 {"name": "mtel", "industry": "telecommunications", "sector": "mobile telecommunications", "headquarters": "sofia", "founded": "1994"}
 {"name": "multigroup", "industry": "conglomerates", "sector": "-", "headquarters": "sofia", "founded": "1989"}
@@ -2505,7 +2505,7 @@
 {"name": "etap lighting", "industry": "consumer goods", "sector": "building materials and fixtures", "headquarters": "malle", "founded": "1949"}
 {"name": "eurogentec", "industry": "health care", "sector": "biotechnology", "headquarters": "seraing", "founded": "1985"}
 {"name": "evs broadcast equipment", "industry": "technology", "sector": "telecommunications equipment", "headquarters": "liege", "founded": "1994"}
-{"name": "ferranti computer syste", "industry": "technology", "sector": "computer hardware", "headquarters": "antwerp", "founded": "1976"}
+{"name": "ferranti computer systems", "industry": "technology", "sector": "computer hardware", "headquarters": "antwerp", "founded": "1976"}
 {"name": "fluxys", "industry": "oil and gas", "sector": "exploration and production", "headquarters": "brussels", "founded": "2001"}
 {"name": "forrest group", "industry": "basic materials", "sector": "general mining", "headquarters": "wavre", "founded": "1922"}
 {"name": "gimv", "industry": "financials", "sector": "equity investment instruments", "headquarters": "brussels", "founded": "1980"}
@@ -2576,9 +2576,9 @@
 {"name": "zetes", "industry": "technology", "sector": "technology hardware", "headquarters": "brussels", "founded": "1984"}
 {"name": "agrana", "industry": "consumer goods", "sector": "food products", "headquarters": "vienna", "founded": "1988"}
 {"name": "pewag group", "industry": "industrials", "sector": "industrial machinery", "headquarters": "klagenfurt", "founded": "1479"}
-{"name": "aht cooling syste", "industry": "industrials", "sector": "electronic equipment", "headquarters": "rottenmann", "founded": "1983"}
+{"name": "aht cooling systems", "industry": "industrials", "sector": "electronic equipment", "headquarters": "rottenmann", "founded": "1983"}
 {"name": "ammerer bed company", "industry": "consumer goods", "sector": "durable household products", "headquarters": "ried im innkreis", "founded": "1763"}
-{"name": "a ag", "industry": "technology", "sector": "semiconductors", "headquarters": "pre tatten", "founded": "1981"}
+{"name": "aag", "industry": "technology", "sector": "semiconductors", "headquarters": "premstatten", "founded": "1981"}
 {"name": "andritz", "industry": "industrials", "sector": "industrial machinery", "headquarters": "graz", "founded": "1852"}
 {"name": "atomic skis", "industry": "consumer goods", "sector": "recreational products", "headquarters": "altenmarkt im pongau", "founded": "1955"}
 {"name": "augarten porcelain", "industry": "consumer goods", "sector": "durable household products", "headquarters": "vienna", "founded": "1923"}
@@ -2601,7 +2601,7 @@
 {"name": "delfortgroup", "industry": "basic materials", "sector": "paper", "headquarters": "traun", "founded": "2006"}
 {"name": "dependeq", "industry": "industrials", "sector": "business support services", "headquarters": "vienna", "founded": "1999"}
 {"name": "diamond aircraft industries", "industry": "consumer goods", "sector": "aerospace", "headquarters": "wiener neustadt", "founded": "1981"}
-{"name": "doka group", "industry": "industrials", "sector": "heavy construction", "headquarters": "a tetten", "founded": "1868"}
+{"name": "doka group", "industry": "industrials", "sector": "heavy construction", "headquarters": "amstetten", "founded": "1868"}
 {"name": "doppelmayr garaventa group", "industry": "consumer goods", "sector": "recreational products", "headquarters": "wolfurt", "founded": "1892"}
 {"name": "dorotheum", "industry": "consumer services", "sector": "specialized consumer services", "headquarters": "vienna", "founded": "1707"}
 {"name": "erste bank", "industry": "financials", "sector": "banks", "headquarters": "vienna", "founded": "2008"}

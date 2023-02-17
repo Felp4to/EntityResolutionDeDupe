@@ -5,7 +5,7 @@
 {"name": "bolt", "country": "estonia", "industry": "auto & transportation", "founded": "2013"}
 {"name": "bytedance", "country": "china", "industry": "artificial intelligence", "founded": "2012"}
 {"name": "niantic", "country": "united states", "industry": "mobile & telecommunications", "founded": "2015"}
-{"name": "oyo roo", "country": "india", "industry": "travel", "founded": "2012"}
+{"name": "oyo rooms", "country": "india", "industry": "travel", "founded": "2012"}
 {"name": "kavak", "country": "mexico", "industry": "e-commerce & direct-to-consumer", "founded": "2014"}
 {"name": "personio", "country": "germany", "industry": "internet software & services", "founded": "2015"}
 {"name": "klaviyo", "country": "united states", "industry": "internet software & services", "founded": "2012"}
@@ -24,7 +24,7 @@
 {"name": "reddit", "country": "united states", "industry": "internet software & services", "founded": "2005"}
 {"name": "tripactions", "country": "united states", "industry": "travel", "founded": "2015"}
 {"name": "digital currency group", "country": "united states", "industry": "fintech", "founded": "2015"}
-{"name": "vulcanfor", "country": "united states", "industry": "supply chain, logistics, & delivery", "founded": "2015"}
+{"name": "vulcanforms", "country": "united states", "industry": "supply chain, logistics, & delivery", "founded": "2015"}
 {"name": "talkdesk", "country": "united states", "industry": "internet software & services", "founded": "2011"}
 {"name": "singlestore", "country": "united states", "industry": "data management & analytics", "founded": "2011"}
 {"name": "northvolt", "country": "sweden", "industry": "other", "founded": "2016"}
@@ -34,7 +34,7 @@
 {"name": "glean", "country": "united states", "industry": "internet software & services", "founded": "2019"}
 {"name": "carebridge", "country": "united states", "industry": "health", "founded": "2019"}
 {"name": "fourkites", "country": "united states", "industry": "supply chain, logistics, & delivery", "founded": "2014"}
-{"name": "outsyste", "country": "united states", "industry": "internet software & services", "founded": "2001"}
+{"name": "outsystems", "country": "united states", "industry": "internet software & services", "founded": "2001"}
 {"name": "remarkable", "country": "norway", "industry": "internet software & services", "founded": "2013"}
 {"name": "polarium", "country": "sweden", "industry": "other", "founded": "2015"}
 {"name": "habi", "country": "colombia", "industry": "fintech", "founded": "2019"}
@@ -158,7 +158,7 @@
 {"name": "snorkel ai", "country": "united states", "industry": "artificial intelligence", "founded": "2019"}
 {"name": "nium", "country": "singapore", "industry": "fintech", "founded": "2014"}
 {"name": "bluecore", "country": "united states", "industry": "artificial intelligence", "founded": "2013"}
-{"name": "pantheon syste", "country": "united states", "industry": "internet software & services", "founded": "2020"}
+{"name": "pantheon systems", "country": "united states", "industry": "internet software & services", "founded": "2020"}
 {"name": "amperity", "country": "united states", "industry": "artificial intelligence", "founded": "2016"}
 {"name": "shipbob", "country": "united states", "industry": "supply chain, logistics, & delivery", "founded": "2014"}
 {"name": "morning consult", "country": "united states", "industry": "internet software & services", "founded": "2014"}
@@ -264,8 +264,8 @@
 {"name": "yh global", "country": "china", "industry": "supply chain, logistics, & delivery", "founded": "1997"}
 {"name": "tresata", "country": "united states", "industry": "fintech", "founded": "2011"}
 {"name": "omio", "country": "germany", "industry": "travel", "founded": "2013"}
-{"name": "s assist", "country": "united states", "industry": "internet software & services", "founded": "1999"}
-{"name": "kendra scott", "country": "united states", "industry": "consumer & retail", "founded": "2002"}
+{"name": "sassist", "country": "united states", "industry": "internet software & services", "founded": "1999"}
+{"name": "kenscott", "country": "united states", "industry": "consumer & retail", "founded": "2002"}
 {"name": "mobvoi", "country": "china", "industry": "consumer & retail", "founded": "2012"}
 {"name": "icarbonx", "country": "china", "industry": "artificial intelligence", "founded": "2015"}
 {"name": "58 daojia", "country": "china", "industry": "internet software & services", "founded": "2014"}
@@ -492,7 +492,7 @@
 {"name": "ridi", "country": "south korea", "industry": "e-commerce & direct-to-consumer", "founded": "2008"}
 {"name": "yaoshibang", "country": "china", "industry": "health", "founded": "2015"}
 {"name": "epirus", "country": "united states", "industry": "other", "founded": "2018"}
-{"name": "jaguar microsyste", "country": "china", "industry": "hardware", "founded": "2020"}
+{"name": "jaguar microsystems", "country": "china", "industry": "hardware", "founded": "2020"}
 {"name": "signifyd", "country": "united states", "industry": "fintech", "founded": "2011"}
 {"name": "motorway", "country": "united kingdom", "industry": "e-commerce & direct-to-consumer", "founded": "2017"}
 {"name": "deepblue technology", "country": "china", "industry": "artificial intelligence", "founded": "2014"}
@@ -556,7 +556,7 @@
 {"name": "coocaa", "country": "china", "industry": "hardware", "founded": "2006"}
 {"name": "prometheus", "country": "united states", "industry": "other", "founded": "2018"}
 {"name": "einride", "country": "sweden", "industry": "auto & transportation", "founded": "2016"}
-{"name": "gyhark", "country": "united kingdom", "industry": "e-commerce & direct-to-consumer", "founded": "2012"}
+{"name": "gymshark", "country": "united kingdom", "industry": "e-commerce & direct-to-consumer", "founded": "2012"}
 {"name": "fabric", "country": "united states", "industry": "e-commerce & direct-to-consumer", "founded": "2017"}
 {"name": "mashgin", "country": "united states", "industry": "artificial intelligence", "founded": "2014"}
 {"name": "veriff", "country": "estonia", "industry": "artificial intelligence", "founded": "2015"}
@@ -808,7 +808,7 @@
 {"name": "musinsa", "country": "south korea", "industry": "e-commerce & direct-to-consumer", "founded": "2001"}
 {"name": "motif foodworks", "country": "united states", "industry": "consumer & retail ", "founded": "2019"}
 {"name": "gympass", "country": "united states", "industry": "internet software & services", "founded": "2012"}
-{"name": "blooeach", "country": "united states", "industry": "artificial intelligence", "founded": "2009"}
+{"name": "bloomreach", "country": "united states", "industry": "artificial intelligence", "founded": "2009"}
 {"name": "addepar", "country": "united states", "industry": "fintech", "founded": "2009"}
 {"name": "nucom group", "country": "germany", "industry": "other", "founded": "2016"}
 {"name": "algolia", "country": "united states", "industry": "internet software & services", "founded": "2012"}
@@ -830,7 +830,7 @@
 {"name": "project44", "country": "united states", "industry": "supply chain, logistics, & delivery", "founded": "2014"}
 {"name": "beta technologies", "country": "united states", "industry": "other", "founded": "2017"}
 {"name": "freenome", "country": "united states", "industry": "health", "founded": "2014"}
-{"name": "abl space syste", "country": "united states", "industry": "other", "founded": "2017"}
+{"name": "abl space systems", "country": "united states", "industry": "other", "founded": "2017"}
 {"name": "honeybook", "country": "united states", "industry": "internet software & services", "founded": "2013"}
 {"name": "paxos", "country": "united states", "industry": "fintech", "founded": " "}
 {"name": "trumid", "country": "united states", "industry": "fintech", "founded": "2014"}
@@ -849,7 +849,7 @@
 {"name": "uniphore", "country": "united states", "industry": "artificial intelligence", "founded": "2008"}
 {"name": "sifive", "country": "united states", "industry": "hardware", "founded": "2015"}
 {"name": "hibob", "country": "israel", "industry": "internet software & services", "founded": "2015"}
-{"name": "a24 fil", "country": "united states", "industry": "other", "founded": "2012"}
+{"name": "a24 films", "country": "united states", "industry": "other", "founded": "2012"}
 {"name": "zetwerk", "country": "india", "industry": "internet software & services", "founded": "2018"}
 {"name": "uala", "country": "argentina", "industry": "fintech", "founded": "2017"}
 {"name": "immutable", "country": "australia", "industry": "fintech", "founded": "2018"}
@@ -921,7 +921,7 @@
 {"name": "lucid software", "country": "united states", "industry": "internet software & services", "founded": "2010"}
 {"name": "activecampaign", "country": "united states", "industry": "internet software & services", "founded": "2003"}
 {"name": "blockfi", "country": "united states", "industry": "fintech", "founded": "2017"}
-{"name": "c surgical", "country": "united kingdom", "industry": "health", "founded": "2014"}
+{"name": "csurgical", "country": "united kingdom", "industry": "health", "founded": "2014"}
 {"name": "flixmobility", "country": "germany", "industry": "auto & transportation", "founded": "2013"}
 {"name": "wildlife studios", "country": "brazil", "industry": "other", "founded": "2011"}
 {"name": "applyboard", "country": "canada", "industry": "edtech", "founded": "2015"}
@@ -933,7 +933,7 @@
 {"name": "circle", "country": "united states", "industry": "fintech", "founded": "2013"}
 {"name": "calendly", "country": "united states", "industry": "internet software & services", "founded": "2013"}
 {"name": "psiquantum", "country": "united states", "industry": "hardware", "founded": "2016"}
-{"name": "ski", "country": "united states", "industry": "e-commerce & direct-to-consumer", "founded": "2019"}
+{"name": "skims", "country": "united states", "industry": "e-commerce & direct-to-consumer", "founded": "2019"}
 {"name": "ironclad", "country": "united states", "industry": "internet software & services", "founded": "2014"}
 {"name": "eruditus executive education", "country": "india", "industry": "edtech", "founded": "2015"}
 {"name": "eikon therapeutics", "country": "united states", "industry": "health", "founded": "2019"}
@@ -945,7 +945,7 @@
 {"name": "traveloka", "country": "indonesia", "industry": "travel", "founded": "2012"}
 {"name": "dadi cinema", "country": "china", "industry": "other", "founded": "2006"}
 {"name": "scopely", "country": "united states", "industry": "mobile & telecommunications", "founded": "2011"}
-{"name": "nuvehop", "country": "brazil", "industry": "e-commerce & direct-to-consumer", "founded": "2011"}
+{"name": "nuvemshop", "country": "brazil", "industry": "e-commerce & direct-to-consumer", "founded": "2011"}
 {"name": "astera labs", "country": "united states", "industry": "hardware", "founded": "2017"}
 {"name": "komodo health", "country": "united states", "industry": "health", "founded": "2014"}
 {"name": "retool", "country": "united states", "industry": "internet software & services", "founded": "2000"}
@@ -1015,7 +1015,7 @@
 {"name": "melio", "country": "united states", "industry": "fintech", "founded": "2019"}
 {"name": "rubrik", "country": "united states", "industry": "data management & analytics", "founded": "2014"}
 {"name": "olive", "country": "united states", "industry": "health", "founded": "2012"}
-{"name": "cerebras syste", "country": "united states", "industry": "hardware", "founded": "2016"}
+{"name": "cerebras systems", "country": "united states", "industry": "hardware", "founded": "2016"}
 {"name": "clubhouse", "country": "united states", "industry": "mobile & telecommunications", "founded": "2020"}
 {"name": "greensill", "country": "united kingdom", "industry": "fintech", "founded": "2011"}
 {"name": "patreon", "country": "united states", "industry": "internet software & services", "founded": "2013"}
@@ -1072,7 +1072,7 @@
 {"name": "zepz", "country": "united kingdom", "industry": "fintech", "founded": "2010"}
 {"name": "coalition", "country": "united states", "industry": "cybersecurity", "founded": "2017"}
 {"name": "hopper", "country": "canada", "industry": "travel", "founded": "2007"}
-{"name": "sambanova syste", "country": "united states", "industry": "data management & analytics", "founded": "2017"}
+{"name": "sambanova systems", "country": "united states", "industry": "data management & analytics", "founded": "2017"}
 {"name": "icertis", "country": "united states", "industry": "artificial intelligence", "founded": "2009"}
 {"name": "cockroach labs", "country": "united states", "industry": "data management & analytics", "founded": "2015"}
 {"name": "howden group holdings", "country": "united kingdom", "industry": "other", "founded": "1994"}

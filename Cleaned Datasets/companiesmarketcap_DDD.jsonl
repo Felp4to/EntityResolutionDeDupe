@@ -21,7 +21,7 @@
 {"name":"spring airlines ","rank":"1601","marketcap":8990000000,"country":"china","share_price":9,"change1d":"-0.47%","change1y":"6.86%","categories":"airlines travel transportation "}
 {"name":"axon enterprise ","rank":"1200","marketcap":13370000000,"country":"usa","share_price":188,"change1d":"1.91%","change1y":"37.06%","categories":" "}
 {"name":"jde peet's","rank":"1101","marketcap":14940000000,"country":"netherlands","share_price":29,"change1d":"-0.22%","change1y":"-1.26%","categories":"beverages "}
-{"name":"advanced drainage syste ","rank":"1801","marketcap":7610000000,"country":"usa","share_price":91,"change1d":"1.69%","change1y":"-23.06%","categories":" "}
+{"name":"advanced drainage systems ","rank":"1801","marketcap":7610000000,"country":"usa","share_price":91,"change1d":"1.69%","change1y":"-23.06%","categories":" "}
 {"name":"antofagasta","rank":"801","marketcap":21690000000,"country":"united-kingdom","share_price":22,"change1d":"3.42%","change1y":"12.02%","categories":"conglomerate mining "}
 {"name":"uwm holdings ","rank":"2001","marketcap":6610000000,"country":"usa","share_price":4,"change1d":"2.49%","change1y":"-27.97%","categories":"financial-services "}
 {"name":"nippon yusen ","rank":"1299","marketcap":12180000000,"country":"japan","share_price":24,"change1d":"1.21%","change1y":"-71.66%","categories":"transportation container-shipping maritime-transportation "}
@@ -68,7 +68,7 @@
 {"name":"arconic","rank":"3493","marketcap":2470000000,"country":"usa","share_price":24,"change1d":"3.01%","change1y":"-30.23%","categories":" "}
 {"name":"pb fintech","rank":"3497","marketcap":2460000000,"country":"india","share_price":5,"change1d":"0.69%","change1y":"-60.15%","categories":"financial-services tech insurance "}
 {"name":"acadia pharmaceuticals","rank":"3201","marketcap":2980000000,"country":"usa","share_price":18,"change1d":"2.13%","change1y":"-20.02%","categories":" "}
-{"name":"verint syste ","rank":"3496","marketcap":2470000000,"country":"usa","share_price":37,"change1d":"1.19%","change1y":"-29.96%","categories":"software tech "}
+{"name":"verint systems ","rank":"3496","marketcap":2470000000,"country":"usa","share_price":37,"change1d":"1.19%","change1y":"-29.96%","categories":"software tech "}
 {"name":"genus","rank":"3491","marketcap":2470000000,"country":"united-kingdom","share_price":37,"change1d":"-0.84%","change1y":"-34.06%","categories":"biotech genomics "}
 {"name":"luminar technologies","rank":"3499","marketcap":2450000000,"country":"usa","share_price":6,"change1d":"5.28%","change1y":"-56.03%","categories":"lidar tech tech-hardware autonomous-driving "}
 {"name":"billerudkorsnas","rank":"3101","marketcap":3150000000,"country":"sweden","share_price":12,"change1d":"1.34%","change1y":"-28.78%","categories":"pulp-and-paper packaging "}
@@ -143,7 +143,7 @@
 {"name":"olink holding","rank":"3233","marketcap":2930000000,"country":"sweden","share_price":24,"change1d":"2.16%","change1y":"95.94%","categories":"pharmaceuticals biotech "}
 {"name":"shapir civil and marine engineering","rank":"3238","marketcap":2920000000,"country":"israel","share_price":8,"change1d":"4.15%","change1y":"-15.86%","categories":" "}
 {"name":"hensoldt","rank":"3243","marketcap":2910000000,"country":"germany","share_price":27,"change1d":"5.57%","change1y":"86.58%","categories":"defense-contractors "}
-{"name":"harmonic drive syste ","rank":"3241","marketcap":2920000000,"country":"japan","share_price":30,"change1d":"0.13%","change1y":"-22.96%","categories":" "}
+{"name":"harmonic drive systems ","rank":"3241","marketcap":2920000000,"country":"japan","share_price":30,"change1d":"0.13%","change1y":"-22.96%","categories":" "}
 {"name":"wsfs financial","rank":"3231","marketcap":2930000000,"country":"usa","share_price":47,"change1d":"-1.10%","change1y":"-14.95%","categories":"financial-services banks "}
 {"name":"coforge ","rank":"3225","marketcap":2940000000,"country":"india","share_price":48,"change1d":"0.20%","change1y":"-36.14%","categories":"software professional-services "}
 {"name":"pacific premier bancorp ","rank":"3218","marketcap":2950000000,"country":"usa","share_price":31,"change1d":"-1.11%","change1y":"-29.82%","categories":" "}
@@ -177,14 +177,14 @@
 {"name":"conmed","rank":"3208","marketcap":2960000000,"country":"usa","share_price":97,"change1d":"1.45%","change1y":"-27.98%","categories":"medical-devices "}
 {"name":"growthpoint properties","rank":"3207","marketcap":2970000000,"country":"south-africa","share_price":0,"change1d":"1.03%","change1y":"-1.14%","categories":"real-estate investment reit "}
 {"name":"yuhan","rank":"3190","marketcap":3010000000,"country":"south-korea","share_price":42,"change1d":"-0.19%","change1y":"-15.67%","categories":"pharmaceuticals biotech chemicals "}
-{"name":"g group ","rank":"3188","marketcap":3010000000,"country":"india","share_price":0,"change1d":"1.12%","change1y":"-16.67%","categories":" "}
+{"name":"ggroup ","rank":"3188","marketcap":3010000000,"country":"india","share_price":0,"change1d":"1.12%","change1y":"-16.67%","categories":" "}
 {"name":"papa john's pizza ","rank":"3198","marketcap":2980000000,"country":"usa","share_price":84,"change1d":"1.04%","change1y":"-28.41%","categories":"pizza food restaurant-chains "}
 {"name":"hisense visual technology","rank":"3183","marketcap":3020000000,"country":"china","share_price":2,"change1d":"-0.32%","change1y":"-5.33%","categories":"electronics tech tech-hardware "}
 {"name":"graham holdings","rank":"3185","marketcap":3020000000,"country":"usa","share_price":629,"change1d":"0.49%","change1y":"-0.54%","categories":"media-press "}
 {"name":"freshpet","rank":"3184","marketcap":3020000000,"country":"usa","share_price":62,"change1d":"-0.47%","change1y":"-31.02%","categories":"food "}
 {"name":"viscofan","rank":"3194","marketcap":3000000000,"country":"spain","share_price":65,"change1d":"-1.07%","change1y":"7.27%","categories":" "}
 {"name":"ats automation","rank":"3197","marketcap":2990000000,"country":"canada","share_price":32,"change1d":"3.97%","change1y":"-18.63%","categories":" "}
-{"name":"saung heavy industries ","rank":"3193","marketcap":3000000000,"country":"south-korea","share_price":147,"change1d":"0.00%","change1y":"-7.44%","categories":" "}
+{"name":"samsung heavy industries ","rank":"3193","marketcap":3000000000,"country":"south-korea","share_price":147,"change1d":"0.00%","change1y":"-7.44%","categories":" "}
 {"name":"marel","rank":"3196","marketcap":3000000000,"country":" ","share_price":3,"change1d":"1.94%","change1y":"-38.90%","categories":"food "}
 {"name":"archaea energy","rank":"3191","marketcap":3010000000,"country":"usa","share_price":26,"change1d":"0.00%","change1y":"51.96%","categories":"energy renewable-energy "}
 {"name":"federal signal","rank":"3187","marketcap":3020000000,"country":"usa","share_price":49,"change1d":"0.46%","change1y":"19.07%","categories":" "}
@@ -208,7 +208,7 @@
 {"name":"ingevity","rank":"3179","marketcap":3020000000,"country":"usa","share_price":80,"change1d":"0.85%","change1y":"9.44%","categories":" "}
 {"name":"axsome therapeutics ","rank":"3177","marketcap":3030000000,"country":"usa","share_price":69,"change1d":"2.35%","change1y":"144.02%","categories":"pharmaceuticals biotech "}
 {"name":"texas capital bancshares","rank":"3168","marketcap":3040000000,"country":"usa","share_price":61,"change1d":"-1.84%","change1y":"-8.68%","categories":"financial-services banks "}
-{"name":"cotock resources","rank":"3165","marketcap":3050000000,"country":"usa","share_price":13,"change1d":"0.00%","change1y":"46.91%","categories":"oil-gas energy "}
+{"name":"comstock resources","rank":"3165","marketcap":3050000000,"country":"usa","share_price":13,"change1d":"0.00%","change1y":"46.91%","categories":"oil-gas energy "}
 {"name":"kumho petrochemical","rank":"3164","marketcap":3050000000,"country":"south-korea","share_price":118,"change1d":"-1.35%","change1y":"-15.95%","categories":"chemicals "}
 {"name":"privia health group","rank":"3154","marketcap":3070000000,"country":"usa","share_price":26,"change1d":"0.88%","change1y":"22.01%","categories":"healthcare "}
 {"name":"premium brands","rank":"3155","marketcap":3070000000,"country":"canada","share_price":68,"change1d":"0.59%","change1y":"-29.26%","categories":"food "}
@@ -253,7 +253,7 @@
 {"name":"plexus","rank":"3123","marketcap":3120000000,"country":"usa","share_price":113,"change1d":"0.42%","change1y":"21.74%","categories":" "}
 {"name":"euronav","rank":"3128","marketcap":3110000000,"country":"belgium","share_price":15,"change1d":"1.21%","change1y":"66.72%","categories":"transportation "}
 {"name":"mister car wash","rank":"3129","marketcap":3110000000,"country":"usa","share_price":10,"change1d":"0.89%","change1y":"-38.77%","categories":" "}
-{"name":"pegasyste","rank":"3118","marketcap":3130000000,"country":"usa","share_price":38,"change1d":"7.02%","change1y":"-61.70%","categories":"software tech "}
+{"name":"pegasystems","rank":"3118","marketcap":3130000000,"country":"usa","share_price":38,"change1d":"7.02%","change1y":"-61.70%","categories":"software tech "}
 {"name":"stoneco","rank":"3120","marketcap":3130000000,"country":"brazil","share_price":10,"change1d":"2.98%","change1y":"-39.71%","categories":"financial-services "}
 {"name":"chindata","rank":"3108","marketcap":3140000000,"country":"china","share_price":8,"change1d":"-1.72%","change1y":"61.58%","categories":"it-services tech "}
 {"name":"evolent health","rank":"3115","marketcap":3130000000,"country":"usa","share_price":31,"change1d":"0.47%","change1y":"22.22%","categories":"healthcare "}
@@ -261,8 +261,8 @@
 {"name":"sig semen indonesia","rank":"3113","marketcap":3140000000,"country":"indonesia","share_price":0,"change1d":"-2.84%","change1y":"-2.17%","categories":"cement building-materials "}
 {"name":"3m india","rank":"3114","marketcap":3130000000,"country":"india","share_price":278,"change1d":"0.08%","change1y":"-17.18%","categories":"glove-ppe "}
 {"name":"asana","rank":"3107","marketcap":3150000000,"country":"usa","share_price":14,"change1d":"3.03%","change1y":"-75.40%","categories":"software tech "}
-{"name":"hannon artrong","rank":"3112","marketcap":3140000000,"country":"usa","share_price":35,"change1d":"1.82%","change1y":"-23.55%","categories":" "}
-{"name":" cooper group","rank":"3106","marketcap":3150000000,"country":"usa","share_price":44,"change1d":"0.34%","change1y":"0.36%","categories":" "}
+{"name":"hannon armstrong","rank":"3112","marketcap":3140000000,"country":"usa","share_price":35,"change1d":"1.82%","change1y":"-23.55%","categories":" "}
+{"name":"cooper group","rank":"3106","marketcap":3150000000,"country":"usa","share_price":44,"change1d":"0.34%","change1y":"0.36%","categories":" "}
 {"name":"cathay general bancorp","rank":"3117","marketcap":3130000000,"country":"usa","share_price":42,"change1d":"-1.38%","change1y":"-10.17%","categories":" "}
 {"name":"braze","rank":"3116","marketcap":3130000000,"country":"usa","share_price":32,"change1d":"2.71%","change1y":"-47.67%","categories":"software tech "}
 {"name":"tata chemicals ","rank":"3121","marketcap":3130000000,"country":"india","share_price":12,"change1d":"1.19%","change1y":"-11.20%","categories":"chemicals "}
@@ -364,7 +364,7 @@
 {"name":"extreme networks ","rank":"3406","marketcap":2610000000,"country":"usa","share_price":19,"change1d":"0.56%","change1y":"39.12%","categories":"telecommunications-equipment "}
 {"name":"travis perkins","rank":"3396","marketcap":2620000000,"country":"united-kingdom","share_price":12,"change1d":"-0.79%","change1y":"-42.68%","categories":"retail building-materials "}
 {"name":"insmed","rank":"3399","marketcap":2620000000,"country":"usa","share_price":19,"change1d":"1.18%","change1y":"-18.48%","categories":" "}
-{"name":"a ag","rank":"3402","marketcap":2610000000,"country":" ","share_price":10,"change1d":"1.45%","change1y":"-43.58%","categories":"electronics "}
+{"name":"aag","rank":"3402","marketcap":2610000000,"country":" ","share_price":10,"change1d":"1.45%","change1y":"-43.58%","categories":"electronics "}
 {"name":"teamviewer","rank":"3390","marketcap":2630000000,"country":"germany","share_price":14,"change1d":"0.70%","change1y":"3.05%","categories":"tech internet software "}
 {"name":"leslie's","rank":"3392","marketcap":2620000000,"country":"usa","share_price":14,"change1d":"1.06%","change1y":"-35.12%","categories":" "}
 {"name":"punjab & sind bank","rank":"3393","marketcap":2620000000,"country":"india","share_price":0,"change1d":"-1.87%","change1y":"69.57%","categories":"banks financial-services "}
@@ -396,7 +396,7 @@
 {"name":"keywords studios","rank":"3367","marketcap":2670000000,"country":"ireland","share_price":32,"change1d":"5.10%","change1y":"-12.71%","categories":"video-games professional-services "}
 {"name":"gibson energy","rank":"3364","marketcap":2670000000,"country":"canada","share_price":18,"change1d":"0.08%","change1y":"-1.86%","categories":"oil-gas energy infrastructure "}
 {"name":"alliance resource partners","rank":"3365","marketcap":2670000000,"country":"usa","share_price":21,"change1d":"0.89%","change1y":"43.39%","categories":"mining coal-mining "}
-{"name":" price group","rank":"3371","marketcap":2650000000,"country":"south-africa","share_price":10,"change1d":"1.74%","change1y":"-17.69%","categories":"retail "}
+{"name":"price group","rank":"3371","marketcap":2650000000,"country":"south-africa","share_price":10,"change1d":"1.74%","change1y":"-17.69%","categories":"retail "}
 {"name":"aksa energy ","rank":"3357","marketcap":2690000000,"country":"turkey","share_price":2,"change1d":"-1.29%","change1y":" ","categories":"electricity energy "}
 {"name":"bankunited ","rank":"3351","marketcap":2700000000,"country":"usa","share_price":35,"change1d":"-0.17%","change1y":"-24.52%","categories":" "}
 {"name":"bgf retail","rank":"3359","marketcap":2680000000,"country":"south-korea","share_price":155,"change1d":"-2.53%","change1y":"22.51%","categories":"retail supermarkets "}
@@ -436,7 +436,7 @@
 {"name":"treehouse foods ","rank":"3327","marketcap":2750000000,"country":"usa","share_price":49,"change1d":"-1.13%","change1y":"12.61%","categories":" "}
 {"name":"delhivery","rank":"3328","marketcap":2750000000,"country":"india","share_price":3,"change1d":"-3.32%","change1y":" ","categories":"delivery-services transportation "}
 {"name":"sumitomo dainippon pharma ","rank":"3318","marketcap":2770000000,"country":"japan","share_price":6,"change1d":"2.27%","change1y":"-42.22%","categories":"pharmaceuticals biotech "}
-{"name":"mercury syste","rank":"3323","marketcap":2760000000,"country":"usa","share_price":47,"change1d":"0.22%","change1y":"-20.57%","categories":" "}
+{"name":"mercury systems","rank":"3323","marketcap":2760000000,"country":"usa","share_price":47,"change1d":"0.22%","change1y":"-20.57%","categories":" "}
 {"name":"microstrategy","rank":"3320","marketcap":2760000000,"country":"usa","share_price":239,"change1d":"1.57%","change1y":"-52.03%","categories":"software bitcoin tech "}
 {"name":"nerolac paints","rank":"3322","marketcap":2760000000,"country":"india","share_price":5,"change1d":"1.36%","change1y":"-37.18%","categories":"paint-and-coating "}
 {"name":"appian","rank":"3321","marketcap":2760000000,"country":"usa","share_price":38,"change1d":"2.56%","change1y":"-31.52%","categories":"software tech "}
@@ -678,7 +678,7 @@
 {"name":"alumina limited","rank":"2979","marketcap":3430000000,"country":"australia","share_price":1,"change1d":"3.03%","change1y":"-20.81%","categories":"aluminum mining "}
 {"name":"natura&co","rank":"2986","marketcap":3410000000,"country":"brazil","share_price":4,"change1d":"2.70%","change1y":"-37.81%","categories":" "}
 {"name":"lazard","rank":"2985","marketcap":3410000000,"country":" ","share_price":39,"change1d":"1.95%","change1y":"-10.33%","categories":"investment financial-services "}
-{"name":"quantucape","rank":"2976","marketcap":3430000000,"country":"usa","share_price":7,"change1d":"3.95%","change1y":"-59.54%","categories":"electricity batteries "}
+{"name":"quantumscape","rank":"2976","marketcap":3430000000,"country":"usa","share_price":7,"change1d":"3.95%","change1y":"-59.54%","categories":"electricity batteries "}
 {"name":"taisho pharmaceutical ","rank":"2983","marketcap":3420000000,"country":"japan","share_price":41,"change1d":"0.19%","change1y":"-12.00%","categories":"pharmaceuticals biotech "}
 {"name":"belden","rank":"2981","marketcap":3430000000,"country":"usa","share_price":80,"change1d":"-0.21%","change1y":"25.87%","categories":" "}
 {"name":"nelnet","rank":"2977","marketcap":3430000000,"country":"usa","share_price":92,"change1d":"-0.58%","change1y":"0.39%","categories":" "}
@@ -688,7 +688,7 @@
 {"name":"ambarella","rank":"2970","marketcap":3440000000,"country":"usa","share_price":88,"change1d":"1.10%","change1y":"-42.93%","categories":"semiconductors tech "}
 {"name":"nordex","rank":"2966","marketcap":3460000000,"country":"germany","share_price":16,"change1d":"2.31%","change1y":"0.43%","categories":" "}
 {"name":"tsuruha holdings","rank":"2962","marketcap":3470000000,"country":"japan","share_price":71,"change1d":"-1.60%","change1y":"-21.00%","categories":" "}
-{"name":"artrong world industries ","rank":"2971","marketcap":3440000000,"country":"usa","share_price":75,"change1d":"1.01%","change1y":"-29.86%","categories":" "}
+{"name":"armstrong world industries ","rank":"2971","marketcap":3440000000,"country":"usa","share_price":75,"change1d":"1.01%","change1y":"-29.86%","categories":" "}
 {"name":"impinj","rank":"2957","marketcap":3480000000,"country":"usa","share_price":134,"change1d":"5.52%","change1y":"48.48%","categories":" "}
 {"name":"daqo new energy","rank":"2965","marketcap":3460000000,"country":"china","share_price":46,"change1d":"-1.22%","change1y":"9.06%","categories":"energy renewable-energy manufacturing "}
 {"name":"california resources corporation ","rank":"2960","marketcap":3480000000,"country":"usa","share_price":47,"change1d":"2.60%","change1y":"7.44%","categories":"energy oil-gas "}
@@ -718,11 +718,11 @@
 {"name":"the azek company ","rank":"2954","marketcap":3490000000,"country":"usa","share_price":23,"change1d":"1.69%","change1y":"-42.93%","categories":" "}
 {"name":"kemper","rank":"2945","marketcap":3510000000,"country":"usa","share_price":55,"change1d":"0.86%","change1y":"-13.98%","categories":" "}
 {"name":"kerry properties","rank":"2931","marketcap":3540000000,"country":"hong-kong","share_price":2,"change1d":"3.47%","change1y":"-7.22%","categories":"real-estate investment "}
-{"name":"spirit aerosyste","rank":"2939","marketcap":3530000000,"country":"usa","share_price":33,"change1d":"-0.36%","change1y":"-32.32%","categories":" "}
+{"name":"spirit aerosystems","rank":"2939","marketcap":3530000000,"country":"usa","share_price":33,"change1d":"-0.36%","change1y":"-32.32%","categories":" "}
 {"name":"evn group ","rank":"2929","marketcap":3540000000,"country":" ","share_price":19,"change1d":"-0.33%","change1y":"-35.05%","categories":"electricity utility-companies energy "}
 {"name":"direct line group","rank":"2934","marketcap":3530000000,"country":"united-kingdom","share_price":2,"change1d":"0.04%","change1y":"-49.88%","categories":"insurance "}
 {"name":"advanced energy","rank":"2928","marketcap":3540000000,"country":"usa","share_price":94,"change1d":"2.74%","change1y":"1.29%","categories":" "}
-{"name":"interparfu","rank":"2937","marketcap":3530000000,"country":"usa","share_price":110,"change1d":"0.28%","change1y":"15.36%","categories":" "}
+{"name":"interparfums","rank":"2937","marketcap":3530000000,"country":"usa","share_price":110,"change1d":"0.28%","change1y":"15.36%","categories":" "}
 {"name":"wizz air","rank":"2940","marketcap":3520000000,"country":" ","share_price":34,"change1d":"0.72%","change1y":"-46.20%","categories":"airlines travel transportation "}
 {"name":"playtika","rank":"2930","marketcap":3540000000,"country":"israel","share_price":9,"change1d":"0.10%","change1y":"-48.26%","categories":"video-games tech entertainment "}
 {"name":"ptc therapeutics ","rank":"2933","marketcap":3540000000,"country":"usa","share_price":48,"change1d":"1.56%","change1y":"10.91%","categories":"pharmaceuticals biotech "}
@@ -829,7 +829,7 @@
 {"name":"umb financial","rank":"2725","marketcap":4080000000,"country":"usa","share_price":84,"change1d":"-0.87%","change1y":"-24.04%","categories":"banks financial-services "}
 {"name":"colas","rank":"2729","marketcap":4070000000,"country":"france","share_price":124,"change1d":"-1.29%","change1y":"-12.79%","categories":"engineering construction "}
 {"name":"wns","rank":"2731","marketcap":4059999999,"country":"india","share_price":84,"change1d":"0.82%","change1y":"-7.23%","categories":" "}
-{"name":"casella waste syste ","rank":"2722","marketcap":4090000000,"country":"usa","share_price":79,"change1d":"0.38%","change1y":"3.87%","categories":"waste-recycling "}
+{"name":"casella waste systems ","rank":"2722","marketcap":4090000000,"country":"usa","share_price":79,"change1d":"0.38%","change1y":"3.87%","categories":"waste-recycling "}
 {"name":"calix","rank":"2728","marketcap":4070000000,"country":"usa","share_price":62,"change1d":"0.18%","change1y":"13.93%","categories":" "}
 {"name":"altair engineering ","rank":"2723","marketcap":4090000000,"country":"usa","share_price":51,"change1d":"1.79%","change1y":"-20.44%","categories":"software tech engineering "}
 {"name":"aaon","rank":"2718","marketcap":4099999999,"country":"usa","share_price":77,"change1d":"0.10%","change1y":"8.00%","categories":" "}
@@ -907,7 +907,7 @@
 {"name":"foot locker ","rank":"2861","marketcap":3690000000,"country":"usa","share_price":39,"change1d":"3.04%","change1y":"-8.64%","categories":"footwear retail "}
 {"name":"amicus therapeutics ","rank":"2848","marketcap":3720000000,"country":"usa","share_price":13,"change1d":"6.76%","change1y":"25.93%","categories":"pharmaceuticals biotech "}
 {"name":"seaworld entertainment","rank":"2845","marketcap":3740000000,"country":"usa","share_price":58,"change1d":"0.17%","change1y":"-7.40%","categories":"entertainment "}
-{"name":"persistent syste ","rank":"2850","marketcap":3720000000,"country":"india","share_price":48,"change1d":"-0.43%","change1y":"-17.21%","categories":"professional-services "}
+{"name":"persistent systems ","rank":"2850","marketcap":3720000000,"country":"india","share_price":48,"change1d":"-0.43%","change1y":"-17.21%","categories":"professional-services "}
 {"name":"minda industries","rank":"2838","marketcap":3750000000,"country":"india","share_price":6,"change1d":"0.00%","change1y":"-58.70%","categories":" "}
 {"name":"patterson-uti energy","rank":"2835","marketcap":3760000000,"country":"usa","share_price":17,"change1d":"1.02%","change1y":"68.33%","categories":" "}
 {"name":"acom ","rank":"2842","marketcap":3740000000,"country":"japan","share_price":2,"change1d":"1.98%","change1y":"-19.53%","categories":"financial-services "}
@@ -990,7 +990,7 @@
 {"name":"insperity ","rank":"2649","marketcap":4290000000,"country":"usa","share_price":113,"change1d":"0.81%","change1y":"6.05%","categories":" "}
 {"name":"icu medical ","rank":"2655","marketcap":4269999999,"country":"usa","share_price":178,"change1d":"0.79%","change1y":"-18.99%","categories":" "}
 {"name":"banco del bajio","rank":"2645","marketcap":4300000000,"country":"mexico","share_price":3,"change1d":"0.50%","change1y":"91.53%","categories":"banks financial-services "}
-{"name":"comfort syste","rank":"2643","marketcap":4300000000,"country":"usa","share_price":120,"change1d":"0.50%","change1y":"24.20%","categories":" "}
+{"name":"comfort systems","rank":"2643","marketcap":4300000000,"country":"usa","share_price":120,"change1d":"0.50%","change1y":"24.20%","categories":" "}
 {"name":"bim birlesik magazalar","rank":"2658","marketcap":4260000000,"country":"turkey","share_price":7,"change1d":"1.82%","change1y":"33.71%","categories":"retail "}
 {"name":"tofas turk otomobil fabrikas","rank":"2647","marketcap":4290000000,"country":"turkey","share_price":8,"change1d":"-0.19%","change1y":"42.62%","categories":"automakers manufacturing "}
 {"name":"chargepoint","rank":"2651","marketcap":4280000000,"country":"usa","share_price":12,"change1d":"4.06%","change1y":"-14.57%","categories":"energy electricity ev-charging "}
@@ -1002,7 +1002,7 @@
 {"name":"lupin limited ","rank":"2648","marketcap":4290000000,"country":"india","share_price":9,"change1d":"1.85%","change1y":"-25.49%","categories":"pharmaceuticals biotech "}
 {"name":"paycor","rank":"2654","marketcap":4269999999,"country":"usa","share_price":24,"change1d":"1.19%","change1y":"-1.20%","categories":"software tech "}
 {"name":"honeywell automation india","rank":"2641","marketcap":4310000000,"country":"india","share_price":487,"change1d":"0.76%","change1y":"-21.19%","categories":" "}
-{"name":"g sports","rank":"2637","marketcap":4320000000,"country":"usa","share_price":177,"change1d":"-0.25%","change1y":"6.09%","categories":" "}
+{"name":"sports","rank":"2637","marketcap":4320000000,"country":"usa","share_price":177,"change1d":"-0.25%","change1y":"6.09%","categories":" "}
 {"name":"strabag","rank":"2633","marketcap":4340000000,"country":" ","share_price":42,"change1d":"0.13%","change1y":"-3.21%","categories":"construction "}
 {"name":"colliers international","rank":"2634","marketcap":4340000000,"country":"canada","share_price":101,"change1d":"0.78%","change1y":"-26.99%","categories":"real-estate "}
 {"name":"asgn","rank":"2640","marketcap":4310000000,"country":"usa","share_price":86,"change1d":"0.39%","change1y":"-26.96%","categories":" "}
@@ -1041,7 +1041,7 @@
 {"name":"janus henderson ","rank":"2598","marketcap":4450000000,"country":"united-kingdom","share_price":26,"change1d":"1.07%","change1y":"-34.56%","categories":"asset-management investment "}
 {"name":"pepkor","rank":"2602","marketcap":4430000000,"country":"south-africa","share_price":1,"change1d":"-1.46%","change1y":"-13.67%","categories":"retail clothing "}
 {"name":"maximus","rank":"2594","marketcap":4460000000,"country":"usa","share_price":73,"change1d":"0.49%","change1y":"-4.83%","categories":" "}
-{"name":"c industrial direct","rank":"2595","marketcap":4450000000,"country":"usa","share_price":79,"change1d":"0.70%","change1y":"-6.75%","categories":" "}
+{"name":"industrial direct","rank":"2595","marketcap":4450000000,"country":"usa","share_price":79,"change1d":"0.70%","change1y":"-6.75%","categories":" "}
 {"name":"husqvarna","rank":"2603","marketcap":4430000000,"country":"sweden","share_price":7,"change1d":"0.12%","change1y":"-46.24%","categories":"machinery-manufacturing "}
 {"name":"neoen","rank":"2596","marketcap":4450000000,"country":"france","share_price":39,"change1d":"-0.28%","change1y":"-2.33%","categories":"renewable-energy energy electricity "}
 {"name":"sabanc holding ","rank":"2600","marketcap":4440000000,"country":"turkey","share_price":2,"change1d":"-0.81%","change1y":"93.86%","categories":" "}
@@ -1221,7 +1221,7 @@
 {"name":"old national bank ","rank":"2324","marketcap":5330000000,"country":"usa","share_price":18,"change1d":"-0.92%","change1y":"-9.04%","categories":" "}
 {"name":"beazley","rank":"2322","marketcap":5340000000,"country":"united-kingdom","share_price":7,"change1d":"0.39%","change1y":"16.74%","categories":"insurance "}
 {"name":"lotte chemical ","rank":"2318","marketcap":5350000000,"country":"south-korea","share_price":151,"change1d":"0.00%","change1y":"-15.63%","categories":"chemicals "}
-{"name":"a safety","rank":"2326","marketcap":5320000000,"country":"usa","share_price":135,"change1d":"0.76%","change1y":"-7.30%","categories":" "}
+{"name":"safety","rank":"2326","marketcap":5320000000,"country":"usa","share_price":135,"change1d":"0.76%","change1y":"-7.30%","categories":" "}
 {"name":"somfy ","rank":"2319","marketcap":5350000000,"country":"france","share_price":155,"change1d":"0.00%","change1y":"-20.31%","categories":" "}
 {"name":"dai nippon printing","rank":"2323","marketcap":5340000000,"country":"japan","share_price":20,"change1d":"2.98%","change1y":"-20.52%","categories":" "}
 {"name":"ipg photonics","rank":"2317","marketcap":5350000000,"country":"usa","share_price":109,"change1d":"1.02%","change1y":"-31.79%","categories":" "}
@@ -1302,7 +1302,7 @@
 {"name":"groupe seb","rank":"2242","marketcap":5630000000,"country":"france","share_price":102,"change1d":"-0.68%","change1y":"-31.33%","categories":" "}
 {"name":"timken company ","rank":"2238","marketcap":5650000000,"country":"usa","share_price":77,"change1d":"0.63%","change1y":"5.16%","categories":" "}
 {"name":"prometheus biosciences","rank":"2243","marketcap":5630000000,"country":"usa","share_price":121,"change1d":"1.86%","change1y":"243.49%","categories":"biotech pharmaceuticals "}
-{"name":"toa","rank":"2240","marketcap":5640000000,"country":"norway","share_price":19,"change1d":"1.63%","change1y":"-67.37%","categories":" "}
+{"name":"tomra","rank":"2240","marketcap":5640000000,"country":"norway","share_price":19,"change1d":"1.63%","change1y":"-67.37%","categories":" "}
 {"name":"valaris","rank":"2237","marketcap":5660000000,"country":"united-kingdom","share_price":75,"change1d":"1.06%","change1y":"84.97%","categories":"oil-gas energy "}
 {"name":"yamato holdings","rank":"2235","marketcap":5670000000,"country":"japan","share_price":16,"change1d":"1.37%","change1y":"-24.79%","categories":"transportation delivery-services "}
 {"name":"new york times","rank":"2233","marketcap":5670000000,"country":"usa","share_price":34,"change1d":"0.70%","change1y":"-20.24%","categories":"media-press "}
@@ -1367,7 +1367,7 @@
 {"name":"bok financial","rank":"1985","marketcap":6680000000,"country":"usa","share_price":99,"change1d":"-1.32%","change1y":"-14.53%","categories":"banks financial-services "}
 {"name":"trend micro ","rank":"1977","marketcap":6720000000,"country":"japan","share_price":47,"change1d":"2.83%","change1y":"-5.85%","categories":"software it-security tech "}
 {"name":"stifel ","rank":"1983","marketcap":6700000000,"country":"usa","share_price":63,"change1d":"0.00%","change1y":"-14.42%","categories":" "}
-{"name":"saara","rank":"1984","marketcap":6690000000,"country":"usa","share_price":12,"change1d":"2.38%","change1y":"-43.69%","categories":"iot tech tech-hardware software "}
+{"name":"samsara","rank":"1984","marketcap":6690000000,"country":"usa","share_price":12,"change1d":"2.38%","change1y":"-43.69%","categories":"iot tech tech-hardware software "}
 {"name":"us steel ","rank":"1979","marketcap":6720000000,"country":"usa","share_price":28,"change1d":"2.05%","change1y":"12.98%","categories":"steel-producers steel-industry "}
 {"name":"upl","rank":"1967","marketcap":6760000000,"country":"india","share_price":9,"change1d":"1.83%","change1y":"-18.76%","categories":"chemicals "}
 {"name":"amplifon","rank":"1969","marketcap":6750000000,"country":"italy","share_price":29,"change1d":"-1.27%","change1y":"-36.77%","categories":"medical-devices "}
@@ -1533,7 +1533,7 @@
 {"name":"chang hwa commercial bank","rank":"2106","marketcap":6150000000,"country":"taiwan","share_price":0,"change1d":"0.00%","change1y":"-9.38%","categories":"banks financial-services "}
 {"name":"komercni banka","rank":"2109","marketcap":6120000000,"country":" ","share_price":31,"change1d":"-2.46%","change1y":"-29.88%","categories":"banks financial-services "}
 {"name":"just eat takeaway","rank":"2102","marketcap":6160000000,"country":"netherlands","share_price":28,"change1d":"9.06%","change1y":"-47.13%","categories":"internet tech food food-delivery "}
-{"name":"descartes syste ","rank":"2107","marketcap":6150000000,"country":"canada","share_price":72,"change1d":"1.67%","change1y":"3.13%","categories":"software tech "}
+{"name":"descartes systems ","rank":"2107","marketcap":6150000000,"country":"canada","share_price":72,"change1d":"1.67%","change1y":"3.13%","categories":"software tech "}
 {"name":"oshkosh corporation ","rank":"2103","marketcap":6160000000,"country":"usa","share_price":94,"change1d":"0.33%","change1y":"-24.01%","categories":" "}
 {"name":"first american","rank":"2111","marketcap":6120000000,"country":"usa","share_price":59,"change1d":"1.05%","change1y":"-25.68%","categories":" "}
 {"name":"mapfre","rank":"2089","marketcap":6230000000,"country":"spain","share_price":2,"change1d":"0.37%","change1y":"-5.99%","categories":"financial-services insurance "}
@@ -1601,7 +1601,7 @@
 {"name":"woodward","rank":"2035","marketcap":6460000000,"country":"usa","share_price":108,"change1d":"0.35%","change1y":"-8.02%","categories":" "}
 {"name":"agnc investment","rank":"2026","marketcap":6500000000,"country":"usa","share_price":11,"change1d":"1.47%","change1y":"-25.70%","categories":" "}
 {"name":"starwood property trust","rank":"2028","marketcap":6490000000,"country":"usa","share_price":20,"change1d":"0.63%","change1y":"-19.81%","categories":"reit real-estate investment "}
-{"name":"allegro microsyste","rank":"2030","marketcap":6480000000,"country":"usa","share_price":33,"change1d":"-0.03%","change1y":"10.21%","categories":"semiconductors tech tech-hardware "}
+{"name":"allegro microsystems","rank":"2030","marketcap":6480000000,"country":"usa","share_price":33,"change1d":"-0.03%","change1y":"10.21%","categories":"semiconductors tech tech-hardware "}
 {"name":"toto","rank":"2017","marketcap":6540000000,"country":"japan","share_price":38,"change1d":"1.01%","change1y":"-12.99%","categories":" "}
 {"name":"draftkings","rank":"2021","marketcap":6530000000,"country":"usa","share_price":14,"change1d":"2.68%","change1y":"-37.26%","categories":"gambling entertainment internet "}
 {"name":"dillard's ","rank":"2018","marketcap":6530000000,"country":"usa","share_price":381,"change1d":"1.09%","change1y":"52.56%","categories":"retail "}
@@ -1680,7 +1680,7 @@
 {"name":"saudi international petrochemical company sipchem","rank":"1848","marketcap":7300000000,"country":"saudi-arabia","share_price":9,"change1d":"3.60%","change1y":"-17.34%","categories":"chemicals "}
 {"name":"globus medical","rank":"1850","marketcap":7290000000,"country":"usa","share_price":73,"change1d":"0.25%","change1y":"-0.49%","categories":" "}
 {"name":"dolby","rank":"1855","marketcap":7270000000,"country":"usa","share_price":76,"change1d":"0.69%","change1y":"-17.23%","categories":" "}
-{"name":"generac power syste","rank":"1842","marketcap":7330000000,"country":"usa","share_price":115,"change1d":"1.14%","change1y":"-62.19%","categories":"manufacturing "}
+{"name":"generac power systems","rank":"1842","marketcap":7330000000,"country":"usa","share_price":115,"change1d":"1.14%","change1y":"-62.19%","categories":"manufacturing "}
 {"name":"tele2","rank":"1852","marketcap":7280000000,"country":"sweden","share_price":11,"change1d":"0.00%","change1y":"-25.07%","categories":"telecommunication "}
 {"name":"igm financial","rank":"1844","marketcap":7330000000,"country":"canada","share_price":30,"change1d":"0.51%","change1y":"-19.28%","categories":"asset-management financial-services "}
 {"name":"old republic international ","rank":"1843","marketcap":7330000000,"country":"usa","share_price":24,"change1d":"-0.14%","change1y":"-7.54%","categories":" "}
@@ -1689,7 +1689,7 @@
 {"name":"chemed","rank":"1840","marketcap":7350000000,"country":"usa","share_price":494,"change1d":"-0.22%","change1y":"1.94%","categories":"healthcare "}
 {"name":"singapore exchange","rank":"1827","marketcap":7440000000,"country":"singapore","share_price":6,"change1d":"1.10%","change1y":"-2.52%","categories":"stock-exchanges financial-services exchanges "}
 {"name":"berry global ","rank":"1828","marketcap":7440000000,"country":"usa","share_price":61,"change1d":"0.33%","change1y":"-15.78%","categories":" "}
-{"name":"inspire medical syste ","rank":"1833","marketcap":7410000000,"country":"usa","share_price":256,"change1d":"0.34%","change1y":"7.98%","categories":" "}
+{"name":"inspire medical systems ","rank":"1833","marketcap":7410000000,"country":"usa","share_price":256,"change1d":"0.34%","change1y":"7.98%","categories":" "}
 {"name":"sabesp","rank":"1832","marketcap":7410000000,"country":"brazil","share_price":10,"change1d":"-0.05%","change1y":"70.14%","categories":" "}
 {"name":"unipolsai","rank":"1838","marketcap":7370000000,"country":"italy","share_price":2,"change1d":"0.50%","change1y":"-10.00%","categories":"financial-services "}
 {"name":"oci","rank":"1836","marketcap":7380000000,"country":"netherlands","share_price":35,"change1d":"-0.43%","change1y":"24.28%","categories":"chemicals fertilizer "}
@@ -1732,7 +1732,7 @@
 {"name":"kingdom holding","rank":"1803","marketcap":7600000000,"country":"saudi-arabia","share_price":2,"change1d":"-0.26%","change1y":"-25.72%","categories":"investment "}
 {"name":"tokyu","rank":"1793","marketcap":7650000000,"country":"japan","share_price":12,"change1d":"1.99%","change1y":"-3.35%","categories":"railways transportation "}
 {"name":"symbotic","rank":"1804","marketcap":7590000000,"country":"usa","share_price":13,"change1d":"0.29%","change1y":"37.46%","categories":"robotics tech "}
-{"name":"elbit syste ","rank":"1795","marketcap":7640000000,"country":"israel","share_price":172,"change1d":"-1.16%","change1y":"-3.25%","categories":" "}
+{"name":"elbit systems ","rank":"1795","marketcap":7640000000,"country":"israel","share_price":172,"change1d":"-1.16%","change1y":"-3.25%","categories":" "}
 {"name":"arkema","rank":"1805","marketcap":7590000000,"country":"france","share_price":101,"change1d":"0.54%","change1y":"-34.11%","categories":"chemicals "}
 {"name":"sinopharm","rank":"1787","marketcap":7680000000,"country":"china","share_price":2,"change1d":"-0.62%","change1y":"4.24%","categories":"pharmaceuticals "}
 {"name":"aselsan","rank":"1782","marketcap":7720000000,"country":"turkey","share_price":3,"change1d":"7.98%","change1y":"88.33%","categories":"defense-contractors "}
@@ -2031,7 +2031,7 @@
 {"name":"tyler technologies ","rank":"1196","marketcap":13400000000,"country":"usa","share_price":321,"change1d":"0.86%","change1y":"-33.02%","categories":"software tech "}
 {"name":"kimco realty ","rank":"1187","marketcap":13550000000,"country":"usa","share_price":21,"change1d":"-0.14%","change1y":"-12.36%","categories":"reit real-estate investment "}
 {"name":"bio-rad laboratories","rank":"1188","marketcap":13530000000,"country":"usa","share_price":462,"change1d":"1.56%","change1y":"-26.46%","categories":"healthcare "}
-{"name":"chandra asri petrochemical","rank":"1202","marketcap":13370000000,"country":"indonesia","share_price":0,"change1d":"-1.68%","change1y":"-71.15%","categories":"oil-gas energy "}
+{"name":"chanasri petrochemical","rank":"1202","marketcap":13370000000,"country":"indonesia","share_price":0,"change1d":"-1.68%","change1y":"-71.15%","categories":"oil-gas energy "}
 {"name":"everest re ","rank":"1186","marketcap":13570000000,"country":" ","share_price":346,"change1d":"0.01%","change1y":"19.43%","categories":"insurance "}
 {"name":"qbe insurance ","rank":"1173","marketcap":13790000000,"country":"australia","share_price":9,"change1d":"1.99%","change1y":"5.21%","categories":"insurance "}
 {"name":"corebridge financial","rank":"1183","marketcap":13660000000,"country":"usa","share_price":21,"change1d":"-0.28%","change1y":" ","categories":"asset-management financial-services insurance investment "}
@@ -2070,7 +2070,7 @@
 {"name":"ss&c technologies ","rank":"1141","marketcap":14320000000,"country":"usa","share_price":56,"change1d":"0.32%","change1y":"-31.92%","categories":"software tech "}
 {"name":"poolcorp","rank":"1151","marketcap":14160000000,"country":"usa","share_price":362,"change1d":"2.45%","change1y":"-26.61%","categories":" "}
 {"name":"carnival","rank":"1138","marketcap":14350000000,"country":"usa","share_price":11,"change1d":"1.52%","change1y":"-51.87%","categories":"travel cruise-lines "}
-{"name":"abn ao ","rank":"1148","marketcap":14220000000,"country":"netherlands","share_price":15,"change1d":"0.62%","change1y":"-5.37%","categories":"banks financial-services "}
+{"name":"abn amro ","rank":"1148","marketcap":14220000000,"country":"netherlands","share_price":15,"change1d":"0.62%","change1y":"-5.37%","categories":"banks financial-services "}
 {"name":"ck infrastructure","rank":"1149","marketcap":14190000000,"country":"hong-kong","share_price":5,"change1d":"0.69%","change1y":"-10.49%","categories":"infrastructure "}
 {"name":"evergy","rank":"1146","marketcap":14250000000,"country":"usa","share_price":62,"change1d":"-0.71%","change1y":"-5.64%","categories":"utility-companies electricity energy "}
 {"name":"netapp ","rank":"1152","marketcap":14130000000,"country":"usa","share_price":65,"change1d":"1.20%","change1y":"-31.30%","categories":"software tech "}
@@ -2099,7 +2099,7 @@
 {"name":"westlake chemical ","rank":"1128","marketcap":14550000000,"country":"usa","share_price":114,"change1d":"1.65%","change1y":"6.39%","categories":"chemicals "}
 {"name":"sunny optical ","rank":"1121","marketcap":14640000000,"country":"china","share_price":13,"change1d":"2.46%","change1y":"-52.81%","categories":" "}
 {"name":"volvo car","rank":"1113","marketcap":14750000000,"country":"sweden","share_price":4,"change1d":"4.26%","change1y":"-50.20%","categories":"automakers manufacturing "}
-{"name":"bangkok dusit medical services bd","rank":"1119","marketcap":14660000000,"country":"thailand","share_price":0,"change1d":"1.68%","change1y":"37.31%","categories":"healthcare medical-care-facilities "}
+{"name":"bangkok dusit medical services bdms","rank":"1119","marketcap":14660000000,"country":"thailand","share_price":0,"change1d":"1.68%","change1y":"37.31%","categories":"healthcare medical-care-facilities "}
 {"name":"essex property trust ","rank":"1118","marketcap":14710000000,"country":"usa","share_price":219,"change1d":"-0.22%","change1y":"-36.16%","categories":"real-estate investment "}
 {"name":"almarai","rank":"1114","marketcap":14740000000,"country":"saudi-arabia","share_price":14,"change1d":"3.15%","change1y":"11.08%","categories":" "}
 {"name":"gac guangzhou automobile group","rank":"1107","marketcap":14840000000,"country":"china","share_price":1,"change1d":"0.09%","change1y":"-27.35%","categories":"automakers manufacturing "}
@@ -2154,7 +2154,7 @@
 {"name":"casey's general stores ","rank":"1665","marketcap":8550000000,"country":"usa","share_price":229,"change1d":"-0.18%","change1y":"20.08%","categories":" "}
 {"name":"renaissancere ","rank":"1664","marketcap":8560000000,"country":" ","share_price":195,"change1d":"0.66%","change1y":"14.35%","categories":"insurance "}
 {"name":"meridian energy","rank":"1658","marketcap":8590000000,"country":"new-zealand","share_price":3,"change1d":"0.00%","change1y":"5.05%","categories":" "}
-{"name":"willia-sonoma","rank":"1660","marketcap":8570000000,"country":"usa","share_price":128,"change1d":"1.56%","change1y":"-12.39%","categories":"retail home-and-kitchen-appliances furniture "}
+{"name":"williams-sonoma","rank":"1660","marketcap":8570000000,"country":"usa","share_price":128,"change1d":"1.56%","change1y":"-12.39%","categories":"retail home-and-kitchen-appliances furniture "}
 {"name":"tata consumer products ","rank":"1659","marketcap":8580000000,"country":"india","share_price":9,"change1d":"0.06%","change1y":"-10.20%","categories":"consumer-goods "}
 {"name":"dentsu","rank":"1662","marketcap":8560000000,"country":"japan","share_price":32,"change1d":"2.83%","change1y":"-10.43%","categories":"advertising "}
 {"name":"qnb finansbank","rank":"1661","marketcap":8560000000,"country":"turkey","share_price":2,"change1d":"0.00%","change1y":"-24.93%","categories":"banks "}
@@ -2185,7 +2185,7 @@
 {"name":"owens corning ","rank":"1634","marketcap":8750000000,"country":"usa","share_price":92,"change1d":"2.42%","change1y":"-1.96%","categories":"building-materials "}
 {"name":"mediobanca","rank":"1631","marketcap":8760000000,"country":"italy","share_price":10,"change1d":"-0.46%","change1y":"-12.12%","categories":"banks financial-services "}
 {"name":"catalent","rank":"1632","marketcap":8760000000,"country":"usa","share_price":48,"change1d":"1.50%","change1y":"-55.03%","categories":"pharmaceuticals biotech "}
-{"name":"saung electro-mechanics ","rank":"1633","marketcap":8760000000,"country":"south-korea","share_price":56,"change1d":"0.58%","change1y":"-31.52%","categories":"electronics "}
+{"name":"samsung electro-mechanics ","rank":"1633","marketcap":8760000000,"country":"south-korea","share_price":56,"change1d":"0.58%","change1y":"-31.52%","categories":"electronics "}
 {"name":"adt","rank":"1628","marketcap":8780000000,"country":"usa","share_price":9,"change1d":"0.89%","change1y":"21.40%","categories":" "}
 {"name":"huntington ingalls industries ","rank":"1629","marketcap":8780000000,"country":"usa","share_price":220,"change1d":"-0.67%","change1y":"11.33%","categories":"defense-contractors "}
 {"name":"euronext","rank":"1630","marketcap":8770000000,"country":"netherlands","share_price":81,"change1d":"0.86%","change1y":"-15.30%","categories":"financial-services stock-exchanges exchanges "}
@@ -2209,7 +2209,7 @@
 {"name":"kazatomprom","rank":"1610","marketcap":8930000000,"country":" ","share_price":32,"change1d":"2.60%","change1y":"-9.27%","categories":"uranium energy mining "}
 {"name":"yandex","rank":"1607","marketcap":8950000000,"country":"netherlands","share_price":24,"change1d":"0.78%","change1y":"-53.53%","categories":"tech internet "}
 {"name":"elisa ","rank":"1605","marketcap":8970000000,"country":"finland","share_price":55,"change1d":"-0.31%","change1y":"-7.84%","categories":"telecommunication "}
-{"name":"dr reddy's","rank":"1606","marketcap":8960000000,"country":"india","share_price":53,"change1d":"0.32%","change1y":"-13.86%","categories":"pharmaceuticals biotech "}
+{"name":"reddy's","rank":"1606","marketcap":8960000000,"country":"india","share_price":53,"change1d":"0.32%","change1y":"-13.86%","categories":"pharmaceuticals biotech "}
 {"name":"cameco ","rank":"1398","marketcap":11010000000,"country":"canada","share_price":25,"change1d":"0.10%","change1y":"12.84%","categories":"mining uranium energy "}
 {"name":"ivanhoe mines ","rank":"1399","marketcap":11000000000,"country":"canada","share_price":9,"change1d":"3.85%","change1y":"-2.37%","categories":"mining "}
 {"name":"bangkok bank ","rank":"1602","marketcap":8990000000,"country":"thailand","share_price":4,"change1d":"0.00%","change1y":"20.77%","categories":"banks financial-services "}
@@ -2220,7 +2220,7 @@
 {"name":"kasikornbank","rank":"1397","marketcap":11020000000,"country":"thailand","share_price":4,"change1d":"-0.33%","change1y":"6.65%","categories":"banks financial-services "}
 {"name":"finecobank ","rank":"1396","marketcap":11020000000,"country":"italy","share_price":18,"change1d":"0.15%","change1y":"-0.44%","categories":" "}
 {"name":"gold fields ","rank":"1392","marketcap":11090000000,"country":"south-africa","share_price":12,"change1d":"2.47%","change1y":"18.46%","categories":"mining gold-mining "}
-{"name":"bentley syste ","rank":"1391","marketcap":11120000000,"country":"usa","share_price":38,"change1d":"1.17%","change1y":"-1.77%","categories":"software tech "}
+{"name":"bentley systems ","rank":"1391","marketcap":11120000000,"country":"usa","share_price":38,"change1d":"1.17%","change1y":"-1.77%","categories":"software tech "}
 {"name":"paylocity","rank":"1393","marketcap":11070000000,"country":"usa","share_price":198,"change1d":"0.18%","change1y":"1.29%","categories":"software tech "}
 {"name":"disco corp","rank":"1395","marketcap":11050000000,"country":"japan","share_price":306,"change1d":"1.54%","change1y":"-0.57%","categories":"semiconductors tech "}
 {"name":"divis laboratories","rank":"1394","marketcap":11070000000,"country":"india","share_price":41,"change1d":"1.23%","change1y":"-33.01%","categories":"pharmaceuticals biotech "}
@@ -2321,7 +2321,7 @@
 {"name":"southwest airlines","rank":"789","marketcap":22130000000,"country":"usa","share_price":37,"change1d":"0.63%","change1y":"-18.65%","categories":"airlines travel transportation "}
 {"name":"komatsu","rank":"792","marketcap":22020000000,"country":"japan","share_price":23,"change1d":"1.60%","change1y":"-11.58%","categories":"manufacturing machinery-manufacturing "}
 {"name":"grupo bimbo ","rank":"795","marketcap":21960000000,"country":"mexico","share_price":4,"change1d":"0.62%","change1y":"50.91%","categories":"food "}
-{"name":"udr apartments","rank":"793","marketcap":22010000000,"country":"usa","share_price":40,"change1d":"-0.35%","change1y":"-31.15%","categories":" "}
+{"name":"uapartments","rank":"793","marketcap":22010000000,"country":"usa","share_price":40,"change1d":"-0.35%","change1y":"-31.15%","categories":" "}
 {"name":"kakao","rank":"800","marketcap":21740000000,"country":"south-korea","share_price":49,"change1d":"-0.32%","change1y":"-36.28%","categories":"internet tech "}
 {"name":"anhui conch cement","rank":"796","marketcap":21860000000,"country":"china","share_price":3,"change1d":"0.00%","change1y":"-25.88%","categories":"cement building-materials "}
 {"name":"principal","rank":"794","marketcap":22000000000,"country":"usa","share_price":89,"change1d":"0.67%","change1y":"17.07%","categories":"insurance investment financial-services "}
@@ -2423,7 +2423,7 @@
 {"name":"realty income","rank":"388","marketcap":44130000000,"country":"usa","share_price":66,"change1d":"-0.06%","change1y":"-6.50%","categories":"real-estate investment reit "}
 {"name":"ferrari","rank":"387","marketcap":44140000000,"country":"italy","share_price":241,"change1d":"1.73%","change1y":"-1.39%","categories":"automakers manufacturing "}
 {"name":"baidu","rank":"391","marketcap":43870000000,"country":"china","share_price":126,"change1d":"-2.78%","change1y":"-17.83%","categories":"internet tech "}
-{"name":"kotak mahindra bank ","rank":"390","marketcap":43970000000,"country":"india","share_price":22,"change1d":"0.08%","change1y":"-15.01%","categories":"banks financial-services "}
+{"name":"kotak mahinbank ","rank":"390","marketcap":43970000000,"country":"india","share_price":22,"change1d":"0.08%","change1y":"-15.01%","categories":"banks financial-services "}
 {"name":"ping an bank ","rank":"392","marketcap":43760000000,"country":"china","share_price":2,"change1d":"0.94%","change1y":"-11.37%","categories":"banks financial-services "}
 {"name":"workday","rank":"396","marketcap":43520000000,"country":"usa","share_price":169,"change1d":"1.59%","change1y":"-33.41%","categories":"software tech "}
 {"name":"motorola solutions ","rank":"386","marketcap":44180000000,"country":"usa","share_price":264,"change1d":"0.38%","change1y":"5.24%","categories":"telecommunications-equipment "}
@@ -2445,7 +2445,7 @@
 {"name":"the hershey company","rank":"367","marketcap":45920000000,"country":"usa","share_price":223,"change1d":"-0.99%","change1y":"12.22%","categories":"food "}
 {"name":"wanhua chemical","rank":"382","marketcap":44480000000,"country":"china","share_price":14,"change1d":"-0.75%","change1y":"-5.78%","categories":"chemicals "}
 {"name":"bank rakyat indonesia ","rank":"366","marketcap":46060000000,"country":"indonesia","share_price":0,"change1d":"0.77%","change1y":"3.70%","categories":"banks financial-services "}
-{"name":"saung biologics ","rank":"368","marketcap":45610000000,"country":"south-korea","share_price":640,"change1d":"0.00%","change1y":"-7.74%","categories":"biotech manufacturing "}
+{"name":"samsung biologics ","rank":"368","marketcap":45610000000,"country":"south-korea","share_price":640,"change1d":"0.00%","change1y":"-7.74%","categories":"biotech manufacturing "}
 {"name":"citic securities ","rank":"375","marketcap":44940000000,"country":"china","share_price":3,"change1d":"-1.16%","change1y":"-21.04%","categories":"banks financial-services investment "}
 {"name":"snowflake","rank":"360","marketcap":46710000000,"country":"usa","share_price":145,"change1d":"-0.32%","change1y":"-49.84%","categories":"tech software "}
 {"name":"universal music group","rank":"365","marketcap":46240000000,"country":"netherlands","share_price":25,"change1d":"-1.41%","change1y":"-6.43%","categories":"entertainment "}
@@ -2473,7 +2473,7 @@
 {"name":"amphenol","rank":"344","marketcap":48340000000,"country":"usa","share_price":81,"change1d":"0.69%","change1y":"-0.45%","categories":" "}
 {"name":"saudi telecom company","rank":"332","marketcap":49540000000,"country":"saudi-arabia","share_price":9,"change1d":"-0.40%","change1y":"-67.92%","categories":"telecommunication "}
 {"name":"phillips 66","rank":"336","marketcap":49190000000,"country":"usa","share_price":104,"change1d":"1.53%","change1y":"17.50%","categories":"oil-gas energy "}
-{"name":"cadence design syste","rank":"341","marketcap":48510000000,"country":"usa","share_price":176,"change1d":"2.24%","change1y":"9.33%","categories":"software tech electronics tech-hardware "}
+{"name":"cadence design systems","rank":"341","marketcap":48510000000,"country":"usa","share_price":176,"change1d":"2.24%","change1y":"9.33%","categories":"software tech electronics tech-hardware "}
 {"name":"ing ","rank":"338","marketcap":49030000000,"country":"netherlands","share_price":13,"change1d":"-0.11%","change1y":"-13.56%","categories":"banks financial-services "}
 {"name":"macquarie","rank":"343","marketcap":48370000000,"country":"australia","share_price":125,"change1d":"0.18%","change1y":"-16.71%","categories":"banks financial-services investment "}
 {"name":"oriental land","rank":"337","marketcap":49070000000,"country":"japan","share_price":149,"change1d":"1.60%","change1y":"-6.58%","categories":"entertainment hotels travel "}
@@ -2492,7 +2492,7 @@
 {"name":"kraft heinz","rank":"324","marketcap":50430000000,"country":"usa","share_price":41,"change1d":"-2.74%","change1y":"8.29%","categories":"food "}
 {"name":"adani enterprises","rank":"323","marketcap":50460000000,"country":"india","share_price":44,"change1d":"-1.17%","change1y":"75.33%","categories":"conglomerate "}
 {"name":"public storage","rank":"314","marketcap":51280000000,"country":"usa","share_price":291,"change1d":"-0.14%","change1y":"-19.51%","categories":"real-estate investment reit "}
-{"name":"keurig dr pepper","rank":"321","marketcap":50500000000,"country":"usa","share_price":35,"change1d":"-0.20%","change1y":"-9.22%","categories":"beverages "}
+{"name":"keurig pepper","rank":"321","marketcap":50500000000,"country":"usa","share_price":35,"change1d":"-0.20%","change1y":"-9.22%","categories":"beverages "}
 {"name":"itc","rank":"315","marketcap":51120000000,"country":"india","share_price":4,"change1d":"0.72%","change1y":"36.42%","categories":"tobacco "}
 {"name":"adani total gas","rank":"311","marketcap":51530000000,"country":"india","share_price":46,"change1d":"-1.16%","change1y":"93.71%","categories":"energy oil-gas utility-companies "}
 {"name":"ford","rank":"312","marketcap":51520000000,"country":"usa","share_price":12,"change1d":"1.14%","change1y":"-49.13%","categories":"automakers manufacturing "}
@@ -2530,7 +2530,7 @@
 {"name":"mercedes-benz","rank":"182","marketcap":78570000000,"country":"germany","share_price":73,"change1d":"0.59%","change1y":"-13.32%","categories":"automakers manufacturing dax autonomous-driving "}
 {"name":"regeneron pharmaceuticals","rank":"180","marketcap":79190000000,"country":"usa","share_price":727,"change1d":"-0.12%","change1y":"18.20%","categories":"biotech pharmaceuticals "}
 {"name":"sinopec","rank":"185","marketcap":76560000000,"country":"china","share_price":0,"change1d":"0.45%","change1y":"0.00%","categories":"oil-gas energy "}
-{"name":"moderna ","rank":"181","marketcap":78680000000,"country":"usa","share_price":204,"change1d":"7.41%","change1y":"0.04%","categories":"pharmaceuticals  na-therapeutics biotech "}
+{"name":"moderna ","rank":"181","marketcap":78680000000,"country":"usa","share_price":204,"change1d":"7.41%","change1y":"0.04%","categories":"pharmaceuticals mrna-therapeutics biotech "}
 {"name":"hindustan unilever ","rank":"184","marketcap":77670000000,"country":"india","share_price":33,"change1d":"0.70%","change1y":"2.89%","categories":"consumer-goods food "}
 {"name":"volkswagen","rank":"176","marketcap":80160000000,"country":"germany","share_price":136,"change1d":"0.37%","change1y":"-37.88%","categories":"automakers dax manufacturing "}
 {"name":"eog resources","rank":"183","marketcap":78200000000,"country":"usa","share_price":133,"change1d":"2.37%","change1y":"26.04%","categories":"energy oil-gas "}
@@ -2635,7 +2635,7 @@
 {"name":"pseg","rank":"575","marketcap":31130000000,"country":"usa","share_price":62,"change1d":"-0.79%","change1y":"-4.37%","categories":"electricity energy "}
 {"name":"maruti suzuki india ","rank":"565","marketcap":31580000000,"country":"india","share_price":104,"change1d":"0.17%","change1y":"-5.93%","categories":"automakers manufacturing "}
 {"name":"great wall motors ","rank":"577","marketcap":31010000000,"country":"china","share_price":4,"change1d":"0.54%","change1y":"-37.66%","categories":"automakers manufacturing "}
-{"name":"vestas wind syste","rank":"572","marketcap":31210000000,"country":"denmark","share_price":30,"change1d":"-1.95%","change1y":"8.53%","categories":"renewable-energy electricity energy "}
+{"name":"vestas wind systems","rank":"572","marketcap":31210000000,"country":"denmark","share_price":30,"change1d":"-1.95%","change1y":"8.53%","categories":"renewable-energy electricity energy "}
 {"name":"banco bradesco","rank":"576","marketcap":31010000000,"country":"brazil","share_price":2,"change1d":"1.39%","change1y":"-22.81%","categories":"banks financial-services "}
 {"name":"digital realty","rank":"573","marketcap":31200000000,"country":"usa","share_price":106,"change1d":"-0.59%","change1y":"-31.86%","categories":"real-estate investment reit "}
 {"name":"nasdaq","rank":"570","marketcap":31290000000,"country":"usa","share_price":63,"change1d":"0.52%","change1y":"-65.78%","categories":"stock-exchanges financial-services exchanges "}
@@ -2646,10 +2646,10 @@
 {"name":"weg on","rank":"566","marketcap":31560000000,"country":"brazil","share_price":7,"change1d":"-0.13%","change1y":"37.04%","categories":" "}
 {"name":"corning","rank":"579","marketcap":30910000000,"country":"usa","share_price":36,"change1d":"1.68%","change1y":"-1.44%","categories":" "}
 {"name":"smc corp","rank":"567","marketcap":31380000000,"country":"japan","share_price":480,"change1d":"1.27%","change1y":"-18.60%","categories":" "}
-{"name":"bae syste ","rank":"557","marketcap":32299999999,"country":"united-kingdom","share_price":10,"change1d":"0.83%","change1y":"29.43%","categories":"defense-contractors aerospace "}
+{"name":"bae systems ","rank":"557","marketcap":32299999999,"country":"united-kingdom","share_price":10,"change1d":"0.83%","change1y":"29.43%","categories":"defense-contractors aerospace "}
 {"name":"warner bros discovery","rank":"564","marketcap":31650000000,"country":"usa","share_price":13,"change1d":"-0.60%","change1y":"-55.63%","categories":"entertainment media-press "}
 {"name":"hexagon","rank":"560","marketcap":32070000000,"country":"sweden","share_price":11,"change1d":"0.00%","change1y":"-19.16%","categories":" "}
-{"name":"saung sdi","rank":"550","marketcap":32450000000,"country":"south-korea","share_price":229,"change1d":"-1.05%","change1y":"-18.68%","categories":"electricity batteries "}
+{"name":"samsung sdi","rank":"550","marketcap":32450000000,"country":"south-korea","share_price":229,"change1d":"-1.05%","change1y":"-18.68%","categories":"electricity batteries "}
 {"name":"baker hughes ","rank":"555","marketcap":32330000000,"country":"usa","share_price":32,"change1d":"1.86%","change1y":"16.77%","categories":"oil-gas energy "}
 {"name":"sba communications","rank":"554","marketcap":32369999999,"country":"usa","share_price":299,"change1d":"-0.99%","change1y":"-8.11%","categories":"real-estate investment reit telecommunication infrastructure "}
 {"name":"rockwell automation ","rank":"551","marketcap":32450000000,"country":"usa","share_price":282,"change1d":"0.22%","change1y":"-12.99%","categories":" "}
@@ -2701,7 +2701,7 @@
 {"name":"otis worldwide","rank":"513","marketcap":34720000000,"country":"usa","share_price":83,"change1d":"0.46%","change1y":"-0.97%","categories":" "}
 {"name":"da","rank":"508","marketcap":35090000000,"country":"france","share_price":54,"change1d":"0.02%","change1y":"-17.78%","categories":"cac-40 food "}
 {"name":"ameriprise financial ","rank":"501","marketcap":35840000000,"country":"usa","share_price":336,"change1d":"0.15%","change1y":"2.50%","categories":"financial-services "}
-{"name":"biontech","rank":"506","marketcap":35450000000,"country":"germany","share_price":146,"change1d":"2.03%","change1y":"-25.45%","categories":"pharmaceuticals  na-therapeutics biotech "}
+{"name":"biontech","rank":"506","marketcap":35450000000,"country":"germany","share_price":146,"change1d":"2.03%","change1y":"-25.45%","categories":"pharmaceuticals mrna-therapeutics biotech "}
 {"name":"credit agricole","rank":"510","marketcap":34810000000,"country":"france","share_price":11,"change1d":"0.28%","change1y":"-26.50%","categories":"banks financial-services cac-40 "}
 {"name":"paccar","rank":"503","marketcap":35660000000,"country":"usa","share_price":102,"change1d":"0.92%","change1y":"6.26%","categories":" "}
 {"name":"manulife financial","rank":"502","marketcap":35820000000,"country":"canada","share_price":19,"change1d":"0.47%","change1y":"-7.68%","categories":"insurance financial-services "}
@@ -2737,7 +2737,7 @@
 {"name":"abu dhabi national oil company adnoc","rank":"1079","marketcap":15310000000,"country":"united-arab-emirates","share_price":1,"change1d":"0.90%","change1y":"7.89%","categories":"oil-gas energy "}
 {"name":"pchem petronas chemicals group","rank":"1066","marketcap":15600000000,"country":"malaysia","share_price":1,"change1d":"-1.86%","change1y":"-8.88%","categories":"chemicals "}
 {"name":"rivian","rank":"1077","marketcap":15380000000,"country":"usa","share_price":17,"change1d":"2.89%","change1y":"-78.21%","categories":"automakers manufacturing electric-vehicles "}
-{"name":"coca-cola fea","rank":"1070","marketcap":15530000000,"country":"mexico","share_price":72,"change1d":"0.54%","change1y":"30.19%","categories":"beverages "}
+{"name":"coca-cola femsa","rank":"1070","marketcap":15530000000,"country":"mexico","share_price":72,"change1d":"0.54%","change1y":"30.19%","categories":"beverages "}
 {"name":"ase group ","rank":"1078","marketcap":15370000000,"country":"taiwan","share_price":7,"change1d":"0.84%","change1y":"-9.58%","categories":"semiconductors tech "}
 {"name":"daiwa house ","rank":"1071","marketcap":15500000000,"country":"japan","share_price":23,"change1d":"2.83%","change1y":"-21.06%","categories":"construction "}
 {"name":"ptc","rank":"1069","marketcap":15540000000,"country":"usa","share_price":131,"change1d":"1.03%","change1y":"13.54%","categories":"software professional-services tech "}
@@ -2768,7 +2768,7 @@
 {"name":"bank of nanjing","rank":"1034","marketcap":16480000000,"country":"china","share_price":1,"change1d":"-0.56%","change1y":"6.00%","categories":"banks financial-services "}
 {"name":"terna","rank":"1048","marketcap":16170000000,"country":"italy","share_price":8,"change1d":"-0.43%","change1y":"3.33%","categories":"electricity energy infrastructure "}
 {"name":"rentokil initial","rank":"1044","marketcap":16230000000,"country":"united-kingdom","share_price":32,"change1d":"1.67%","change1y":" ","categories":" "}
-{"name":"syise","rank":"1042","marketcap":16340000000,"country":"germany","share_price":116,"change1d":"1.80%","change1y":"-12.21%","categories":"flavors-and-fragrances dax "}
+{"name":"symrise","rank":"1042","marketcap":16340000000,"country":"germany","share_price":116,"change1d":"1.80%","change1y":"-12.21%","categories":"flavors-and-fragrances dax "}
 {"name":"jm smucker company","rank":"1039","marketcap":16360000000,"country":"usa","share_price":153,"change1d":"-1.31%","change1y":"5.70%","categories":"food "}
 {"name":"brookfield infrastructure partners ","rank":"1045","marketcap":16200000000,"country":" ","share_price":35,"change1d":"1.41%","change1y":"-40.64%","categories":" "}
 {"name":"nvr","rank":"1047","marketcap":16200000000,"country":"usa","share_price":5,"change1d":"1.61%","change1y":"-11.33%","categories":"construction financial-services "}
@@ -2804,7 +2804,7 @@
 {"name":"etsy","rank":"1005","marketcap":16960000000,"country":"usa","share_price":135,"change1d":"1.89%","change1y":"-17.53%","categories":"e-commerce internet tech "}
 {"name":"zscaler","rank":"1013","marketcap":16829999999,"country":"usa","share_price":116,"change1d":"2.83%","change1y":"-54.18%","categories":"software tech it-security "}
 {"name":"omnicom","rank":"1008","marketcap":16940000000,"country":"usa","share_price":83,"change1d":"-0.68%","change1y":"4.41%","categories":"professional-services advertising "}
-{"name":"hydro one ","rank":"1006","marketcap":16960000000,"country":"canada","share_price":28,"change1d":"0.29%","change1y":"12.78%","categories":"electricity utility-companies energy "}
+{"name":"hyone ","rank":"1006","marketcap":16960000000,"country":"canada","share_price":28,"change1d":"0.29%","change1y":"12.78%","categories":"electricity utility-companies energy "}
 {"name":"standard bank group","rank":"1016","marketcap":16780000000,"country":"south-africa","share_price":10,"change1d":"0.71%","change1y":"16.49%","categories":"banks financial-services "}
 {"name":"united airlines holdings ","rank":"1009","marketcap":16899999999,"country":"usa","share_price":51,"change1d":"1.00%","change1y":"10.63%","categories":"airlines travel transportation "}
 {"name":"expedia group","rank":"1003","marketcap":16980000000,"country":"usa","share_price":108,"change1d":"2.15%","change1y":"-40.97%","categories":"travel internet online-travel tech "}
@@ -2827,7 +2827,7 @@
 {"name":"eiffage","rank":"1495","marketcap":10120000000,"country":"france","share_price":106,"change1d":"1.73%","change1y":"-1.48%","categories":"construction "}
 {"name":"five below ","rank":"1475","marketcap":10390000000,"country":"usa","share_price":187,"change1d":"0.70%","change1y":"8.02%","categories":" "}
 {"name":"puma","rank":"1486","marketcap":10230000000,"country":"germany","share_price":68,"change1d":"-1.38%","change1y":"-36.06%","categories":"footwear clothing "}
-{"name":"knorr-bree","rank":"1482","marketcap":10280000000,"country":"germany","share_price":63,"change1d":"0.62%","change1y":"-38.21%","categories":"automotive-suppliers "}
+{"name":"knorr-bremse","rank":"1482","marketcap":10280000000,"country":"germany","share_price":63,"change1d":"0.62%","change1y":"-38.21%","categories":"automotive-suppliers "}
 {"name":"suntory","rank":"1469","marketcap":10420000000,"country":"japan","share_price":33,"change1d":"1.75%","change1y":"-11.11%","categories":"alcoholic-beverages beverages "}
 {"name":"next plc ","rank":"1479","marketcap":10350000000,"country":"united-kingdom","share_price":79,"change1d":"-1.18%","change1y":"-23.39%","categories":"clothing retail "}
 {"name":"banco de chile ","rank":"1477","marketcap":10370000000,"country":"chile","share_price":20,"change1d":"0.64%","change1y":"11.27%","categories":"banks financial-services "}
@@ -2840,7 +2840,7 @@
 {"name":"tpg capital","rank":"1478","marketcap":10370000000,"country":"usa","share_price":33,"change1d":"0.96%","change1y":"2.41%","categories":"investment "}
 {"name":"freddie mac ","rank":"1483","marketcap":10270000000,"country":"usa","share_price":3,"change1d":"0.00%","change1y":"-32.13%","categories":" "}
 {"name":"morningstar ","rank":"1470","marketcap":10420000000,"country":"usa","share_price":245,"change1d":"1.15%","change1y":"-17.07%","categories":"financial-services "}
-{"name":"saung life insurance ","rank":"1474","marketcap":10400000000,"country":"south-korea","share_price":57,"change1d":"0.99%","change1y":"4.25%","categories":"insurance "}
+{"name":"samsung life insurance ","rank":"1474","marketcap":10400000000,"country":"south-korea","share_price":57,"change1d":"0.99%","change1y":"4.25%","categories":"insurance "}
 {"name":"crown holdings ","rank":"1463","marketcap":10480000000,"country":"usa","share_price":87,"change1d":"0.76%","change1y":"-22.74%","categories":"packaging manufacturing "}
 {"name":"universal health services ","rank":"1457","marketcap":10520000000,"country":"usa","share_price":147,"change1d":"0.60%","change1y":"10.29%","categories":"healthcare "}
 {"name":"suncorp","rank":"1461","marketcap":10490000000,"country":"australia","share_price":8,"change1d":"0.34%","change1y":"-1.54%","categories":"banks insurance financial-services "}
@@ -2860,7 +2860,7 @@
 {"name":"korea electric power","rank":"1452","marketcap":10560000000,"country":"south-korea","share_price":8,"change1d":"1.48%","change1y":"-8.35%","categories":"electricity energy "}
 {"name":"dick's sporting goods ","rank":"1446","marketcap":10610000000,"country":"usa","share_price":127,"change1d":"0.40%","change1y":"14.01%","categories":"sports "}
 {"name":"watsco ","rank":"1444","marketcap":10650000000,"country":"usa","share_price":275,"change1d":"0.78%","change1y":"-7.57%","categories":" "}
-{"name":"oon","rank":"1441","marketcap":10670000000,"country":"japan","share_price":53,"change1d":"3.67%","change1y":"-38.62%","categories":"electronics "}
+{"name":"omron","rank":"1441","marketcap":10670000000,"country":"japan","share_price":53,"change1d":"3.67%","change1y":"-38.62%","categories":"electronics "}
 {"name":"tapestry","rank":"1449","marketcap":10590000000,"country":"usa","share_price":43,"change1d":"0.80%","change1y":"14.62%","categories":"clothing "}
 {"name":"cipla","rank":"1451","marketcap":10560000000,"country":"india","share_price":13,"change1d":"-0.53%","change1y":"6.94%","categories":"pharmaceuticals biotech "}
 {"name":"annaly capital management ","rank":"1442","marketcap":10660000000,"country":"usa","share_price":22,"change1d":"1.31%","change1y":"187.09%","categories":" "}
@@ -2876,7 +2876,7 @@
 {"name":"aegon ","rank":"1429","marketcap":10740000000,"country":"netherlands","share_price":5,"change1d":"0.65%","change1y":"-7.09%","categories":"insurance "}
 {"name":"alstom","rank":"1427","marketcap":10760000000,"country":"france","share_price":28,"change1d":"2.01%","change1y":"-26.17%","categories":"manufacturing cac-40 "}
 {"name":"fresenius medical care","rank":"1438","marketcap":10690000000,"country":"germany","share_price":18,"change1d":"0.22%","change1y":"-46.09%","categories":"dax healthcare "}
-{"name":"raay health care","rank":"1430","marketcap":10740000000,"country":"australia","share_price":46,"change1d":"0.19%","change1y":"-3.77%","categories":"healthcare medical-care-facilities "}
+{"name":"ramsay health care","rank":"1430","marketcap":10740000000,"country":"australia","share_price":46,"change1d":"0.19%","change1y":"-3.77%","categories":"healthcare medical-care-facilities "}
 {"name":"builders firstsource ","rank":"1434","marketcap":10700000000,"country":"usa","share_price":72,"change1d":"1.44%","change1y":"-7.51%","categories":"building-materials "}
 {"name":"repligen ","rank":"1432","marketcap":10720000000,"country":"usa","share_price":193,"change1d":"4.07%","change1y":"-0.02%","categories":" "}
 {"name":"spirax-sarco engineering","rank":"1431","marketcap":10720000000,"country":"united-kingdom","share_price":145,"change1d":"1.58%","change1y":"-21.26%","categories":"engineering manufacturing "}
@@ -2919,7 +2919,7 @@
 {"name":"best buy","rank":"898","marketcap":19010000000,"country":"usa","share_price":85,"change1d":"1.79%","change1y":"-14.10%","categories":"retail electronics "}
 {"name":"longfor group","rank":"889","marketcap":19300000000,"country":"china","share_price":3,"change1d":"-2.13%","change1y":"-41.52%","categories":" "}
 {"name":"celltrion ","rank":"899","marketcap":18990000000,"country":"south-korea","share_price":132,"change1d":"0.31%","change1y":"-1.50%","categories":"pharmaceuticals "}
-{"name":"monolithic power syste","rank":"892","marketcap":19100000000,"country":"usa","share_price":406,"change1d":"1.30%","change1y":"-7.14%","categories":"electronics tech tech-hardware semiconductors "}
+{"name":"monolithic power systems","rank":"892","marketcap":19100000000,"country":"usa","share_price":406,"change1d":"1.30%","change1y":"-7.14%","categories":"electronics tech tech-hardware semiconductors "}
 {"name":"paycom ","rank":"896","marketcap":19030000000,"country":"usa","share_price":317,"change1d":"2.18%","change1y":"-5.07%","categories":"software tech "}
 {"name":"cez group ","rank":"888","marketcap":19340000000,"country":" ","share_price":35,"change1d":"-0.66%","change1y":"-4.40%","categories":"electricity oil-gas energy "}
 {"name":"upm-kymmene","rank":"886","marketcap":19400000000,"country":"finland","share_price":36,"change1d":"1.95%","change1y":"-7.81%","categories":"pulp-and-paper "}
@@ -2933,7 +2933,7 @@
 {"name":"nexon","rank":"880","marketcap":19530000000,"country":"japan","share_price":22,"change1d":"4.55%","change1y":"26.34%","categories":"video-games entertainment tech "}
 {"name":"centerpoint energy ","rank":"881","marketcap":19490000000,"country":"usa","share_price":30,"change1d":"-0.37%","change1y":"12.15%","categories":"electricity energy "}
 {"name":"the saudi british bank ","rank":"882","marketcap":19460000000,"country":"saudi-arabia","share_price":9,"change1d":"-0.84%","change1y":"-10.74%","categories":"banks financial-services "}
-{"name":"m3, inc","rank":"883","marketcap":19450000000,"country":"japan","share_price":28,"change1d":"3.73%","change1y":"-29.37%","categories":"healthcare internet tech software "}
+{"name":"m3 inc","rank":"883","marketcap":19450000000,"country":"japan","share_price":28,"change1d":"3.73%","change1y":"-29.37%","categories":"healthcare internet tech software "}
 {"name":"steel dynamics ","rank":"871","marketcap":19710000000,"country":"usa","share_price":112,"change1d":"1.90%","change1y":"80.49%","categories":"steel-producers steel-industry "}
 {"name":"teledyne","rank":"878","marketcap":19580000000,"country":"usa","share_price":417,"change1d":"0.43%","change1y":"-0.64%","categories":" "}
 {"name":"shiseido","rank":"874","marketcap":19650000000,"country":"japan","share_price":49,"change1d":"2.12%","change1y":"-2.79%","categories":"consumer-goods cosmetics "}
@@ -2949,7 +2949,7 @@
 {"name":"carlsberg ","rank":"870","marketcap":19720000000,"country":"denmark","share_price":166,"change1d":"0.66%","change1y":"-12.80%","categories":"alcoholic-beverages beverages "}
 {"name":"citizens financial group","rank":"857","marketcap":20210000000,"country":"usa","share_price":41,"change1d":"0.56%","change1y":"-27.15%","categories":"financial-services banks "}
 {"name":"steris","rank":"864","marketcap":19940000000,"country":"ireland","share_price":199,"change1d":"-0.06%","change1y":"-14.82%","categories":" "}
-{"name":"mahindra & mahindra","rank":"872","marketcap":19700000000,"country":"india","share_price":16,"change1d":"0.10%","change1y":"34.35%","categories":"automakers "}
+{"name":"mahin& mahindra","rank":"872","marketcap":19700000000,"country":"india","share_price":16,"change1d":"0.10%","change1y":"34.35%","categories":"automakers "}
 {"name":"coterra energy","rank":"861","marketcap":20050000000,"country":"usa","share_price":25,"change1d":"0.37%","change1y":"14.57%","categories":"energy oil-gas "}
 {"name":"pembina pipeline ","rank":"855","marketcap":20220000000,"country":"canada","share_price":36,"change1d":"1.10%","change1y":"13.81%","categories":"oil-gas transportation infrastructure energy "}
 {"name":"ntpc limited ","rank":"856","marketcap":20220000000,"country":"india","share_price":2,"change1d":"1.04%","change1y":"13.59%","categories":" "}
@@ -2995,7 +2995,7 @@
 {"name":"straumann ","rank":"810","marketcap":21500000000,"country":"switzerland","share_price":135,"change1d":"1.78%","change1y":"-92.61%","categories":"medical-devices "}
 {"name":"firstrand","rank":"821","marketcap":21180000000,"country":"south-africa","share_price":3,"change1d":"1.16%","change1y":"-9.57%","categories":"banks financial-services "}
 {"name":"mccormick & company ","rank":"813","marketcap":21450000000,"country":"usa","share_price":80,"change1d":"-1.26%","change1y":"-16.89%","categories":"food "}
-{"name":"epam syste ","rank":"819","marketcap":21260000000,"country":"usa","share_price":369,"change1d":"3.41%","change1y":"-31.90%","categories":"professional-services it-services software tech "}
+{"name":"epam systems ","rank":"819","marketcap":21260000000,"country":"usa","share_price":369,"change1d":"3.41%","change1y":"-31.90%","categories":"professional-services it-services software tech "}
 {"name":"nibe industrier","rank":"824","marketcap":21040000000,"country":"sweden","share_price":10,"change1d":"0.51%","change1y":"-7.60%","categories":" "}
 {"name":"endesa","rank":"815","marketcap":21360000000,"country":"spain","share_price":20,"change1d":"-0.99%","change1y":"-8.98%","categories":"electricity utility-companies energy "}
 {"name":"extra space storage ","rank":"808","marketcap":21540000000,"country":"usa","share_price":153,"change1d":"0.12%","change1y":"-24.71%","categories":"real-estate "}
@@ -3056,7 +3056,7 @@
 {"name":"maersk","rank":"461","marketcap":39390000000,"country":"denmark","share_price":2,"change1d":"0.80%","change1y":"-32.30%","categories":"transportation maritime-transportation container-shipping "}
 {"name":"muyuan foods ","rank":"457","marketcap":39650000000,"country":"china","share_price":7,"change1d":"-1.78%","change1y":"-17.80%","categories":"food "}
 {"name":"hapag-lloyd ","rank":"449","marketcap":40000000000,"country":"germany","share_price":227,"change1d":"-3.32%","change1y":"-23.63%","categories":"transportation container-shipping maritime-transportation "}
-{"name":"willia companies ","rank":"455","marketcap":39820000000,"country":"usa","share_price":32,"change1d":"-0.27%","change1y":"11.61%","categories":"oil-gas energy "}
+{"name":"williacompanies ","rank":"455","marketcap":39820000000,"country":"usa","share_price":32,"change1d":"-0.27%","change1y":"11.61%","categories":"oil-gas energy "}
 {"name":"mizuho financial group ","rank":"451","marketcap":39910000000,"country":"japan","share_price":3,"change1d":"-1.25%","change1y":"10.92%","categories":"banks financial-services "}
 {"name":"cibc","rank":"447","marketcap":40160000000,"country":"canada","share_price":44,"change1d":"0.82%","change1y":"-66.32%","categories":"banks financial-services "}
 {"name":"sun hung kai properties ","rank":"439","marketcap":40740000000,"country":"hong-kong","share_price":14,"change1d":"0.55%","change1y":"15.91%","categories":"real-estate "}
@@ -3082,7 +3082,7 @@
 {"name":"las vegas sands","rank":"420","marketcap":41760000000,"country":"usa","share_price":54,"change1d":"0.37%","change1y":"27.12%","categories":"hotels gambling entertainment travel "}
 {"name":"microchip technology","rank":"422","marketcap":41670000000,"country":"usa","share_price":75,"change1d":"1.72%","change1y":"-10.11%","categories":"tech tech-hardware semiconductors "}
 {"name":"arthur j gallagher & co ","rank":"430","marketcap":41200000000,"country":"usa","share_price":195,"change1d":"-0.10%","change1y":"23.94%","categories":"insurance "}
-{"name":"ci","rank":"427","marketcap":41570000000,"country":"usa","share_price":519,"change1d":"1.90%","change1y":"-1.28%","categories":"financial-services "}
+{"name":"msci","rank":"427","marketcap":41570000000,"country":"usa","share_price":519,"change1d":"1.90%","change1y":"-1.28%","categories":"financial-services "}
 {"name":"apollo global management ","rank":"425","marketcap":41590000000,"country":"usa","share_price":69,"change1d":"0.33%","change1y":"0.71%","categories":" "}
 {"name":"ross stores","rank":"429","marketcap":41220000000,"country":"usa","share_price":119,"change1d":"-0.03%","change1y":"17.07%","categories":"retail clothing "}
 {"name":"budweiser apac","rank":"416","marketcap":42050000000,"country":"hong-kong","share_price":3,"change1d":"-2.17%","change1y":"24.71%","categories":"alcoholic-beverages beverages "}
@@ -3107,7 +3107,7 @@
 {"name":"chugai pharmaceutical","rank":"402","marketcap":43070000000,"country":"japan","share_price":26,"change1d":"5.26%","change1y":"-19.85%","categories":"pharmaceuticals biotech "}
 {"name":"mitsubishi estate","rank":"998","marketcap":17050000000,"country":"japan","share_price":12,"change1d":"1.43%","change1y":"-9.97%","categories":"real-estate "}
 {"name":"rocket companies ","rank":"1001","marketcap":17030000000,"country":"usa","share_price":8,"change1d":"2.76%","change1y":"-36.14%","categories":"real-estate financial-services "}
-{"name":"e-chemie","rank":"995","marketcap":17100000000,"country":"switzerland","share_price":731,"change1d":"0.52%","change1y":"-31.59%","categories":"chemicals "}
+{"name":"ems-chemie","rank":"995","marketcap":17100000000,"country":"switzerland","share_price":731,"change1d":"0.52%","change1y":"-31.59%","categories":"chemicals "}
 {"name":"cf industries ","rank":"996","marketcap":17090000000,"country":"usa","share_price":87,"change1d":"1.29%","change1y":"31.11%","categories":"fertilizer "}
 {"name":"publicis groupe ","rank":"997","marketcap":17059999999,"country":"france","share_price":67,"change1d":"-0.38%","change1y":"-3.91%","categories":"cac-40 advertising professional-services "}
 {"name":"royalty pharma","rank":"991","marketcap":17140000000,"country":"united-kingdom","share_price":38,"change1d":"-0.15%","change1y":"-2.02%","categories":"pharmaceuticals biotech "}
@@ -3131,7 +3131,7 @@
 {"name":"expeditors","rank":"973","marketcap":17480000000,"country":"usa","share_price":109,"change1d":"1.75%","change1y":"-9.68%","categories":"transportation "}
 {"name":"w p carey","rank":"978","marketcap":17380000000,"country":"usa","share_price":83,"change1d":"-0.49%","change1y":"5.55%","categories":" "}
 {"name":"saudi arabian fertilizer company ","rank":"969","marketcap":17570000000,"country":"saudi-arabia","share_price":36,"change1d":"-0.57%","change1y":"-24.41%","categories":"fertilizer "}
-{"name":"&ad insurance","rank":"976","marketcap":17410000000,"country":"japan","share_price":32,"change1d":"0.31%","change1y":"-6.11%","categories":"insurance "}
+{"name":"ms&ad insurance","rank":"976","marketcap":17410000000,"country":"japan","share_price":32,"change1d":"0.31%","change1y":"-6.11%","categories":"insurance "}
 {"name":"otsuka holdings ","rank":"971","marketcap":17520000000,"country":"japan","share_price":32,"change1d":"2.35%","change1y":"-10.97%","categories":"pharmaceuticals biotech "}
 {"name":"nu holdings","rank":"967","marketcap":17590000000,"country":"brazil","share_price":3,"change1d":"2.32%","change1y":"-53.76%","categories":"banks financial-services "}
 {"name":"norsk hydro ","rank":"982","marketcap":17270000000,"country":"norway","share_price":8,"change1d":"4.50%","change1y":"0.59%","categories":" "}
@@ -3165,7 +3165,7 @@
 {"name":"amcor","rank":"945","marketcap":18090000000,"country":"switzerland","share_price":12,"change1d":"0.04%","change1y":"-1.74%","categories":"packaging "}
 {"name":"exor ","rank":"941","marketcap":18180000000,"country":"netherlands","share_price":79,"change1d":"0.00%","change1y":"-9.99%","categories":"investment "}
 {"name":"incyte","rank":"940","marketcap":18180000000,"country":"usa","share_price":81,"change1d":"0.62%","change1y":"9.19%","categories":" "}
-{"name":"c energy ","rank":"936","marketcap":18250000000,"country":"usa","share_price":62,"change1d":"-0.90%","change1y":"-1.32%","categories":"electricity energy utility-companies "}
+{"name":"cenergy ","rank":"936","marketcap":18250000000,"country":"usa","share_price":62,"change1d":"-0.90%","change1y":"-1.32%","categories":"electricity energy utility-companies "}
 {"name":"kb financial group","rank":"938","marketcap":18220000000,"country":"south-korea","share_price":47,"change1d":"-0.27%","change1y":"-10.51%","categories":"financial-services banks "}
 {"name":"rollins","rank":"928","marketcap":18390000000,"country":"usa","share_price":37,"change1d":"0.35%","change1y":"14.57%","categories":" "}
 {"name":"solaredge","rank":"933","marketcap":18280000000,"country":"israel","share_price":327,"change1d":"2.18%","change1y":"28.88%","categories":"energy electricity renewable-energy "}
@@ -3212,7 +3212,7 @@
 {"name":"monster beverage","rank":"295","marketcap":53810000000,"country":"usa","share_price":103,"change1d":"0.87%","change1y":"14.63%","categories":"beverages "}
 {"name":"life insurance corporation of india lic","rank":"291","marketcap":55020000000,"country":"india","share_price":8,"change1d":"0.13%","change1y":" ","categories":"insurance "}
 {"name":"mercadolibre","rank":"289","marketcap":55300000000,"country":" ","share_price":1,"change1d":"2.78%","change1y":"-2.05%","categories":"e-commerce internet tech "}
-{"name":"thoon reuters ","rank":"282","marketcap":56860000000,"country":"canada","share_price":118,"change1d":"0.30%","change1y":"8.21%","categories":"media-press "}
+{"name":"thomson reuters ","rank":"282","marketcap":56860000000,"country":"canada","share_price":118,"change1d":"0.30%","change1y":"8.21%","categories":"media-press "}
 {"name":"bharti airtel ","rank":"280","marketcap":56980000000,"country":"india","share_price":9,"change1d":"1.42%","change1y":"-2.45%","categories":"telecommunication "}
 {"name":"industrial bank ","rank":"287","marketcap":55930000000,"country":"china","share_price":2,"change1d":"-0.88%","change1y":"-16.72%","categories":"banks financial-services "}
 {"name":"heineken","rank":"286","marketcap":55970000000,"country":"netherlands","share_price":97,"change1d":"-2.36%","change1y":"-18.14%","categories":"alcoholic-beverages beverages "}
@@ -3265,7 +3265,7 @@
 {"name":"colgate-palmolive","rank":"233","marketcap":64780000000,"country":"usa","share_price":77,"change1d":"-0.84%","change1y":"-7.05%","categories":"consumer-goods "}
 {"name":"airbnb","rank":"231","marketcap":64950000000,"country":"usa","share_price":102,"change1d":"1.29%","change1y":"-37.45%","categories":"travel internet online-travel tech "}
 {"name":"cme group","rank":"238","marketcap":64019999999,"country":"usa","share_price":177,"change1d":"1.13%","change1y":"-20.26%","categories":"stock-exchanges financial-services exchanges "}
-{"name":"sherwin-willia","rank":"237","marketcap":64310000000,"country":"usa","share_price":248,"change1d":"0.15%","change1y":"-19.54%","categories":"paint-and-coating "}
+{"name":"sherwin-williams","rank":"237","marketcap":64310000000,"country":"usa","share_price":248,"change1d":"0.15%","change1y":"-19.54%","categories":"paint-and-coating "}
 {"name":"nongfu spring ","rank":"240","marketcap":63510000000,"country":"china","share_price":5,"change1d":"0.80%","change1y":"1.62%","categories":"beverages "}
 {"name":"vinci","rank":"239","marketcap":63790000000,"country":"france","share_price":113,"change1d":"1.34%","change1y":"1.32%","categories":"cac-40 construction "}
 {"name":"daiichi sankyo","rank":"242","marketcap":63080000000,"country":"japan","share_price":32,"change1d":"4.14%","change1y":"40.34%","categories":"pharmaceuticals biotech "}
@@ -3315,7 +3315,7 @@
 {"name":"coca-cola european partners ","rank":"681","marketcap":26010000000,"country":"united-kingdom","share_price":56,"change1d":"-0.38%","change1y":"-4.62%","categories":"beverages "}
 {"name":"maybank","rank":"684","marketcap":25880000000,"country":"malaysia","share_price":4,"change1d":"0.00%","change1y":"-0.97%","categories":"banks "}
 {"name":"lindt","rank":"694","marketcap":25580000000,"country":"switzerland","share_price":11,"change1d":"1.80%","change1y":"-10.81%","categories":"food "}
-{"name":"veeva syste","rank":"685","marketcap":25840000000,"country":"usa","share_price":166,"change1d":"1.45%","change1y":"-25.84%","categories":"software tech "}
+{"name":"veeva systems","rank":"685","marketcap":25840000000,"country":"usa","share_price":166,"change1d":"1.45%","change1y":"-25.84%","categories":"software tech "}
 {"name":"intact financial","rank":"679","marketcap":26110000000,"country":"canada","share_price":149,"change1d":"0.45%","change1y":"15.23%","categories":"insurance "}
 {"name":"zimmer biomet","rank":"682","marketcap":25920000000,"country":"usa","share_price":123,"change1d":"0.42%","change1y":"-3.02%","categories":"medical-devices "}
 {"name":"m&t bank","rank":"688","marketcap":25700000000,"country":"usa","share_price":148,"change1d":"-1.07%","change1y":"-19.64%","categories":"banks financial-services "}
@@ -3468,14 +3468,14 @@
 {"name":"nestle","rank":"25","marketcap":333660000000,"country":"switzerland","share_price":121,"change1d":"-1.83%","change1y":"-9.01%","categories":"food "}
 {"name":"nvidia","rank":"13","marketcap":442280000000,"country":"usa","share_price":177,"change1d":"0.26%","change1y":"-31.48%","categories":"tech semiconductors electronics tech-hardware autonomous-driving "}
 {"name":"walmart","rank":"17","marketcap":387820000000,"country":"usa","share_price":143,"change1d":"-0.42%","change1y":"0.91%","categories":"retail dow-jones supermarkets "}
-{"name":"saung","rank":"26","marketcap":327890000000,"country":"south-korea","share_price":48,"change1d":"-0.98%","change1y":"-25.10%","categories":"tech electronics tech-hardware manufacturing semiconductors "}
+{"name":"samsung","rank":"26","marketcap":327890000000,"country":"south-korea","share_price":48,"change1d":"-0.98%","change1y":"-25.10%","categories":"tech electronics tech-hardware manufacturing semiconductors "}
 {"name":"procter & gamble","rank":"21","marketcap":352590000000,"country":"usa","share_price":148,"change1d":"-1.09%","change1y":"-5.06%","categories":"dow-jones consumer-goods "}
 {"name":"johnson & johnson","rank":"12","marketcap":445840000000,"country":"usa","share_price":170,"change1d":"-1.06%","change1y":"2.05%","categories":"pharmaceuticals dow-jones biotech "}
 {"name":"eli lilly","rank":"23","marketcap":340130000000,"country":"usa","share_price":357,"change1d":"0.06%","change1y":"44.89%","categories":"pharmaceuticals biotech "}
 {"name":"unitedhealth","rank":"11","marketcap":453780000000,"country":"usa","share_price":485,"change1d":"0.12%","change1y":"5.35%","categories":"healthcare insurance dow-jones "}
 {"name":"lvmh","rank":"14","marketcap":435610000000,"country":"france","share_price":869,"change1d":"0.39%","change1y":"11.00%","categories":"luxury-goods cac-40 clothing "}
 {"name":"chevron","rank":"22","marketcap":351220000000,"country":"usa","share_price":181,"change1d":"0.64%","change1y":"40.39%","categories":"oil-gas dow-jones energy "}
-{"name":"meta platfor facebook","rank":"19","marketcap":358590000000,"country":"usa","share_price":136,"change1d":"1.03%","change1y":"-57.02%","categories":"tech internet "}
+{"name":"meta platforfacebook","rank":"19","marketcap":358590000000,"country":"usa","share_price":136,"change1d":"1.03%","change1y":"-57.02%","categories":"tech internet "}
 {"name":"tesla","rank":"15","marketcap":424250000000,"country":"usa","share_price":134,"change1d":"2.18%","change1y":"-60.89%","categories":"automakers tech electric-vehicles bitcoin manufacturing ev-charging autonomous-driving "}
 {"name":"kweichow moutai","rank":"20","marketcap":354890000000,"country":"china","share_price":282,"change1d":"-0.79%","change1y":"-3.61%","categories":"alcoholic-beverages beverages "}
 {"name":"jpmorgan chase","rank":"16","marketcap":411930000000,"country":"usa","share_price":140,"change1d":"-0.29%","change1y":"-7.20%","categories":"banks financial-services dow-jones "}
@@ -3593,7 +3593,7 @@
 {"name":"wallbox","rank":"4986","marketcap":760000000,"country":"spain","share_price":4,"change1d":"4.13%","change1y":"-65.24%","categories":"ev-charging electricity energy "}
 {"name":"amc networks ","rank":"4987","marketcap":760000000,"country":"usa","share_price":17,"change1d":"1.65%","change1y":"-57.65%","categories":"media-press "}
 {"name":"alabama power","rank":"4990","marketcap":760000000,"country":"usa","share_price":25,"change1d":"0.08%","change1y":"-2.83%","categories":"energy electricity utility-companies "}
-{"name":"idreaky ","rank":"4988","marketcap":760000000,"country":"china","share_price":0,"change1d":"2.42%","change1y":"-20.59%","categories":"video-games entertainment "}
+{"name":"idreamsky ","rank":"4988","marketcap":760000000,"country":"china","share_price":0,"change1d":"2.42%","change1y":"-20.59%","categories":"video-games entertainment "}
 {"name":"united fire group","rank":"4996","marketcap":760000000,"country":"usa","share_price":30,"change1d":"-0.66%","change1y":"18.98%","categories":"insurance "}
 {"name":"finnair ","rank":"4985","marketcap":760000000,"country":"finland","share_price":0,"change1d":"3.58%","change1y":"-25.68%","categories":"airlines travel transportation "}
 {"name":"pubmatic","rank":"4992","marketcap":760000000,"country":"usa","share_price":14,"change1d":"1.50%","change1y":"-44.52%","categories":"advertising internet software tech "}
@@ -3682,7 +3682,7 @@
 {"name":"shinpoong pharm","rank":"4906","marketcap":820000000,"country":"south-korea","share_price":16,"change1d":"-0.72%","change1y":"-23.69%","categories":"pharmaceuticals "}
 {"name":"quanex building products","rank":"4902","marketcap":820000000,"country":"usa","share_price":24,"change1d":"0.06%","change1y":"3.64%","categories":" "}
 {"name":"cellebrite","rank":"4885","marketcap":830000000,"country":"israel","share_price":4,"change1d":"-1.24%","change1y":"-32.49%","categories":"software tech "}
-{"name":"aehr test syste","rank":"4883","marketcap":830000000,"country":"usa","share_price":30,"change1d":"6.82%","change1y":"126.98%","categories":"semiconductors tech "}
+{"name":"aehr test systems","rank":"4883","marketcap":830000000,"country":"usa","share_price":30,"change1d":"6.82%","change1y":"126.98%","categories":"semiconductors tech "}
 {"name":"cbl properties ","rank":"4876","marketcap":840000000,"country":"usa","share_price":26,"change1d":"1.34%","change1y":"-12.96%","categories":"reit real-estate investment "}
 {"name":"artis reit","rank":"4881","marketcap":830000000,"country":"canada","share_price":7,"change1d":"-0.41%","change1y":"-24.32%","categories":"real-estate investment reit "}
 {"name":"quinstreet ","rank":"4880","marketcap":830000000,"country":"usa","share_price":15,"change1d":"-0.75%","change1y":"-4.04%","categories":"advertising internet tech "}
@@ -3723,7 +3723,7 @@
 {"name":"docgo","rank":"4846","marketcap":870000000,"country":"usa","share_price":8,"change1d":"2.16%","change1y":"16.58%","categories":"healthcare "}
 {"name":"bse ","rank":"4841","marketcap":870000000,"country":"india","share_price":6,"change1d":"-0.76%","change1y":"-76.47%","categories":"stock-exchanges financial-services exchanges "}
 {"name":"edelweiss financial services","rank":"4843","marketcap":870000000,"country":"india","share_price":0,"change1d":"1.96%","change1y":"-4.12%","categories":"financial-services "}
-{"name":"newaterdam pharma company","rank":"4848","marketcap":860000000,"country":"netherlands","share_price":10,"change1d":"0.30%","change1y":"3.06%","categories":"pharmaceuticals biotech "}
+{"name":"newamsterdam pharma company","rank":"4848","marketcap":860000000,"country":"netherlands","share_price":10,"change1d":"0.30%","change1y":"3.06%","categories":"pharmaceuticals biotech "}
 {"name":"dia distribuidora internacional de alimentacion","rank":"4842","marketcap":870000000,"country":"spain","share_price":0,"change1d":"-0.71%","change1y":"0.00%","categories":"supermarkets food retail "}
 {"name":"perfect corp","rank":"4844","marketcap":870000000,"country":"taiwan","share_price":7,"change1d":"-0.66%","change1y":" ","categories":"software tech cosmetics "}
 {"name":"agenus ","rank":"4854","marketcap":860000000,"country":"usa","share_price":2,"change1d":"1.85%","change1y":"-7.17%","categories":"biotech pharmaceuticals "}
@@ -3847,7 +3847,7 @@
 {"name":"bonheur asa","rank":"4516","marketcap":1140000000,"country":"norway","share_price":27,"change1d":"-2.38%","change1y":"-32.84%","categories":" "}
 {"name":"dingdong maicai","rank":"4518","marketcap":1140000000,"country":"china","share_price":5,"change1d":"0.55%","change1y":"-31.50%","categories":"e-commerce internet retail food "}
 {"name":"westshore terminals investment","rank":"4521","marketcap":1140000000,"country":"canada","share_price":18,"change1d":"1.13%","change1y":"-21.71%","categories":"ports infrastructure "}
-{"name":"seush","rank":"4512","marketcap":1150000000,"country":"usa","share_price":8,"change1d":"1.11%","change1y":"-54.26%","categories":"software tech internet "}
+{"name":"semrush","rank":"4512","marketcap":1150000000,"country":"usa","share_price":8,"change1d":"1.11%","change1y":"-54.26%","categories":"software tech internet "}
 {"name":"van lanschot kempen","rank":"4520","marketcap":1140000000,"country":"netherlands","share_price":28,"change1d":"1.75%","change1y":"4.98%","categories":"banks financial-services "}
 {"name":"novavax","rank":"4514","marketcap":1150000000,"country":"usa","share_price":13,"change1d":"8.84%","change1y":"-87.78%","categories":"pharmaceuticals biotech "}
 {"name":"grendene","rank":"4525","marketcap":1140000000,"country":"brazil","share_price":1,"change1d":"4.19%","change1y":"-14.77%","categories":"footwear "}
@@ -3879,7 +3879,7 @@
 {"name":"the first bancshares","rank":"4768","marketcap":930000000,"country":"usa","share_price":30,"change1d":"-1.86%","change1y":"-23.81%","categories":"banks financial-services "}
 {"name":"alamar foods company","rank":"4757","marketcap":930000000,"country":"saudi-arabia","share_price":36,"change1d":"-0.72%","change1y":" ","categories":"food "}
 {"name":"zuora","rank":"4760","marketcap":930000000,"country":"usa","share_price":7,"change1d":"2.19%","change1y":"-56.22%","categories":"software tech "}
-{"name":"ayt pharma","rank":"4755","marketcap":930000000,"country":"united-kingdom","share_price":14,"change1d":"0.07%","change1y":"39.43%","categories":"pharmaceuticals biotech "}
+{"name":"amryt pharma","rank":"4755","marketcap":930000000,"country":"united-kingdom","share_price":14,"change1d":"0.07%","change1y":"39.43%","categories":"pharmaceuticals biotech "}
 {"name":"adecoagro","rank":"4762","marketcap":930000000,"country":" ","share_price":8,"change1d":"1.07%","change1y":"13.41%","categories":"agriculture "}
 {"name":"bls international ","rank":"4761","marketcap":930000000,"country":"india","share_price":2,"change1d":"10.87%","change1y":"-24.41%","categories":" "}
 {"name":"schnitzer steel ","rank":"4756","marketcap":930000000,"country":"usa","share_price":34,"change1d":"3.11%","change1y":"-19.81%","categories":"steel-producers steel-industry waste-recycling "}
@@ -3890,7 +3890,7 @@
 {"name":"the necessity retail reit","rank":"4759","marketcap":930000000,"country":"usa","share_price":6,"change1d":"0.61%","change1y":"-25.57%","categories":"reit real-estate investment "}
 {"name":"gree","rank":"4748","marketcap":940000000,"country":"japan","share_price":5,"change1d":"2.62%","change1y":"-30.04%","categories":"video-games entertainment tech advertising media-press internet "}
 {"name":"matterport","rank":"4752","marketcap":930000000,"country":"usa","share_price":3,"change1d":"3.15%","change1y":"-75.49%","categories":"software tech "}
-{"name":"ichor syste","rank":"4747","marketcap":940000000,"country":"usa","share_price":32,"change1d":"5.90%","change1y":"-32.66%","categories":"semiconductors tech tech-hardware "}
+{"name":"ichor systems","rank":"4747","marketcap":940000000,"country":"usa","share_price":32,"change1d":"5.90%","change1y":"-32.66%","categories":"semiconductors tech tech-hardware "}
 {"name":"sparkassen immobilien","rank":"4743","marketcap":940000000,"country":" ","share_price":13,"change1d":"0.00%","change1y":"-46.46%","categories":" "}
 {"name":"pushpay holdings","rank":"4739","marketcap":950000000,"country":"new-zealand","share_price":0,"change1d":"0.00%","change1y":"-1.19%","categories":"internet financial-services tech "}
 {"name":"us silica","rank":"4745","marketcap":940000000,"country":"usa","share_price":12,"change1d":"0.04%","change1y":"4.46%","categories":"mining "}
@@ -3904,8 +3904,8 @@
 {"name":"polypeptide group","rank":"4751","marketcap":940000000,"country":"switzerland","share_price":28,"change1d":"-2.30%","change1y":"-73.69%","categories":"pharmaceuticals biotech chemicals "}
 {"name":"sunopta","rank":"4753","marketcap":930000000,"country":"canada","share_price":8,"change1d":"-0.11%","change1y":"47.96%","categories":"food "}
 {"name":"kalpataru power transmission","rank":"4741","marketcap":950000000,"country":"india","share_price":6,"change1d":"-2.63%","change1y":"22.18%","categories":"electricity construction energy "}
-{"name":"sturm, ruger & co","rank":"4734","marketcap":950000000,"country":"usa","share_price":54,"change1d":"-0.07%","change1y":"-19.19%","categories":" "}
-{"name":"aest","rank":"4735","marketcap":950000000,"country":"spain","share_price":4,"change1d":"-0.50%","change1y":"-40.87%","categories":"restaurant-chains food "}
+{"name":"sturm ruger & co","rank":"4734","marketcap":950000000,"country":"usa","share_price":54,"change1d":"-0.07%","change1y":"-19.19%","categories":" "}
+{"name":"amrest","rank":"4735","marketcap":950000000,"country":"spain","share_price":4,"change1d":"-0.50%","change1y":"-40.87%","categories":"restaurant-chains food "}
 {"name":"silvercrest metals ","rank":"4728","marketcap":960000000,"country":"canada","share_price":6,"change1d":"0.69%","change1y":"-15.33%","categories":"mining silver-mining gold-mining "}
 {"name":"sumo logic","rank":"4733","marketcap":950000000,"country":"usa","share_price":7,"change1d":"2.97%","change1y":"-32.77%","categories":"software tech "}
 {"name":"janux therapeutics","rank":"4730","marketcap":950000000,"country":"usa","share_price":23,"change1d":"4.63%","change1y":"56.03%","categories":"pharmaceuticals biotech "}
@@ -3936,7 +3936,7 @@
 {"name":"nutex health","rank":"4711","marketcap":970000000,"country":"usa","share_price":1,"change1d":"0.00%","change1y":" ","categories":"healthcare "}
 {"name":"puretech health","rank":"4707","marketcap":970000000,"country":"usa","share_price":33,"change1d":"9.99%","change1y":"-12.53%","categories":"pharmaceuticals biotech "}
 {"name":"marathon digital holdings ","rank":"4702","marketcap":980000000,"country":"usa","share_price":8,"change1d":"0.24%","change1y":"-70.65%","categories":"bitcoin tech bitcoin-mining "}
-{"name":"perdoceo education","rank":"4706","marketcap":970000000,"country":"usa","share_price":14,"change1d":"0.24%","change1y":"20.65%","categories":"education "}
+{"name":"perdoeducation","rank":"4706","marketcap":970000000,"country":"usa","share_price":14,"change1d":"0.24%","change1y":"20.65%","categories":"education "}
 {"name":"italtile","rank":"4696","marketcap":980000000,"country":"south-africa","share_price":0,"change1d":"0.00%","change1y":"-16.67%","categories":"retail furniture home-and-kitchen-appliances "}
 {"name":"beyond meat","rank":"4697","marketcap":980000000,"country":"usa","share_price":15,"change1d":"-1.85%","change1y":"-76.84%","categories":"food "}
 {"name":"national western life","rank":"4708","marketcap":970000000,"country":"usa","share_price":269,"change1d":"0.60%","change1y":"22.88%","categories":"insurance "}
@@ -3996,7 +3996,7 @@
 {"name":"teekay tankers","rank":"4646","marketcap":1010000000,"country":"canada","share_price":30,"change1d":"1.45%","change1y":"154.31%","categories":"transportation maritime-transportation oil-gas "}
 {"name":"sprott inc","rank":"4649","marketcap":1010000000,"country":"canada","share_price":40,"change1d":"1.09%","change1y":"4.17%","categories":"financial-services "}
 {"name":"proassurance","rank":"4658","marketcap":1010000000,"country":"usa","share_price":18,"change1d":"-0.16%","change1y":"-26.38%","categories":"insurance "}
-{"name":"c global ","rank":"4644","marketcap":1010000000,"country":"usa","share_price":12,"change1d":"1.23%","change1y":"48.76%","categories":"industrial-supplies "}
+{"name":"global ","rank":"4644","marketcap":1010000000,"country":"usa","share_price":12,"change1d":"1.23%","change1y":"48.76%","categories":"industrial-supplies "}
 {"name":"healthcare services group","rank":"4647","marketcap":1010000000,"country":"usa","share_price":13,"change1d":"0.44%","change1y":"-26.60%","categories":"healthcare "}
 {"name":"arko","rank":"4642","marketcap":1020000000,"country":"usa","share_price":8,"change1d":"1.19%","change1y":"-2.07%","categories":"retail "}
 {"name":"century aluminum ","rank":"4643","marketcap":1010000000,"country":"usa","share_price":11,"change1d":"6.54%","change1y":"-33.86%","categories":"aluminum "}
@@ -4140,7 +4140,7 @@
 {"name":"cincor pharma","rank":"4389","marketcap":1260000000,"country":"usa","share_price":28,"change1d":"0.40%","change1y":"79.86%","categories":"pharmaceuticals biotech "}
 {"name":"uni-select","rank":"4388","marketcap":1260000000,"country":"canada","share_price":28,"change1d":"1.65%","change1y":"54.54%","categories":" "}
 {"name":"telia lietuva","rank":"4385","marketcap":1270000000,"country":" ","share_price":2,"change1d":"0.51%","change1y":"-8.58%","categories":"telecommunication "}
-{"name":"3d syste","rank":"4386","marketcap":1270000000,"country":"usa","share_price":9,"change1d":"2.32%","change1y":"-51.26%","categories":"3d-printing tech software "}
+{"name":"3d systems","rank":"4386","marketcap":1270000000,"country":"usa","share_price":9,"change1d":"2.32%","change1y":"-51.26%","categories":"3d-printing tech software "}
 {"name":"trimas","rank":"4391","marketcap":1260000000,"country":"usa","share_price":30,"change1d":"0.23%","change1y":"-14.65%","categories":"consumer-goods manufacturing "}
 {"name":"oceanfirst financial","rank":"4382","marketcap":1270000000,"country":"usa","share_price":21,"change1d":"-1.64%","change1y":"-10.40%","categories":"financial-services banks "}
 {"name":"integrafin","rank":"4370","marketcap":1280000000,"country":"united-kingdom","share_price":3,"change1d":"-0.19%","change1y":"-46.46%","categories":"investment financial-services "}
@@ -4178,7 +4178,7 @@
 {"name":"definitive healthcare","rank":"4350","marketcap":1310000000,"country":"usa","share_price":12,"change1d":"-0.40%","change1y":"-38.29%","categories":"healthcare "}
 {"name":"medifast","rank":"4344","marketcap":1310000000,"country":"usa","share_price":120,"change1d":"3.09%","change1y":"-40.82%","categories":"mlm dietary-supplements "}
 {"name":"amag austria metall","rank":"4346","marketcap":1310000000,"country":" ","share_price":36,"change1d":"0.59%","change1y":"-22.61%","categories":" "}
-{"name":"telephone and data syste ","rank":"4349","marketcap":1310000000,"country":"usa","share_price":11,"change1d":"-0.86%","change1y":"-43.84%","categories":" "}
+{"name":"telephone and data systems ","rank":"4349","marketcap":1310000000,"country":"usa","share_price":11,"change1d":"-0.86%","change1y":"-43.84%","categories":" "}
 {"name":"first commonwealth financial corp","rank":"4339","marketcap":1320000000,"country":"usa","share_price":14,"change1d":"-1.01%","change1y":"-19.40%","categories":"banks financial-services "}
 {"name":"kornit digital","rank":"4347","marketcap":1310000000,"country":"israel","share_price":26,"change1d":"-1.60%","change1y":"-76.10%","categories":" "}
 {"name":"ofg bancorp ","rank":"4341","marketcap":1310000000,"country":"usa","share_price":27,"change1d":"-0.75%","change1y":"-9.13%","categories":"banks financial-services "}
@@ -4266,7 +4266,7 @@
 {"name":"cyient ","rank":"4454","marketcap":1190000000,"country":"india","share_price":10,"change1d":"-0.55%","change1y":"-21.09%","categories":"engineering "}
 {"name":"clearfield","rank":"4460","marketcap":1190000000,"country":"usa","share_price":78,"change1d":"-0.36%","change1y":"15.80%","categories":" "}
 {"name":"paysafe","rank":"4455","marketcap":1190000000,"country":"usa","share_price":19,"change1d":"5.11%","change1y":"425.53%","categories":"financial-services internet tech "}
-{"name":"formula syste ","rank":"4457","marketcap":1190000000,"country":"israel","share_price":78,"change1d":"0.00%","change1y":"-33.36%","categories":" "}
+{"name":"formula systems ","rank":"4457","marketcap":1190000000,"country":"israel","share_price":78,"change1d":"0.00%","change1y":"-33.36%","categories":" "}
 {"name":"gogoro","rank":"4464","marketcap":1190000000,"country":"taiwan","share_price":4,"change1d":"5.75%","change1y":"-51.72%","categories":"electric-vehicles "}
 {"name":"dundee precious metals","rank":"4466","marketcap":1180000000,"country":"canada","share_price":6,"change1d":"6.08%","change1y":"3.47%","categories":"mining gold-mining "}
 {"name":"magellan financial group","rank":"4444","marketcap":1200000000,"country":"australia","share_price":6,"change1d":"0.84%","change1y":"-55.01%","categories":"asset-management investment "}
@@ -4373,7 +4373,7 @@
 {"name":"dis-chem pharmacies","rank":"4149","marketcap":1510000000,"country":"south-africa","share_price":1,"change1d":"-0.34%","change1y":"-15.87%","categories":"drugstore retail "}
 {"name":"paragon 28","rank":"4148","marketcap":1510000000,"country":"usa","share_price":19,"change1d":"0.28%","change1y":"31.32%","categories":"medical-devices "}
 {"name":"asahi india glass","rank":"4139","marketcap":1520000000,"country":"india","share_price":6,"change1d":"-0.67%","change1y":"-17.09%","categories":" "}
-{"name":"osi syste ","rank":"4144","marketcap":1510000000,"country":"usa","share_price":90,"change1d":"1.40%","change1y":"0.47%","categories":" "}
+{"name":"osi systems ","rank":"4144","marketcap":1510000000,"country":"usa","share_price":90,"change1d":"1.40%","change1y":"0.47%","categories":" "}
 {"name":"freyr battery","rank":"4141","marketcap":1520000000,"country":" ","share_price":10,"change1d":"2.69%","change1y":"25.84%","categories":"batteries electricity "}
 {"name":"c3 ai","rank":"4140","marketcap":1520000000,"country":"usa","share_price":13,"change1d":"3.49%","change1y":"-50.70%","categories":"software tech "}
 {"name":"jasa marga","rank":"4142","marketcap":1510000000,"country":"indonesia","share_price":0,"change1d":"0.32%","change1y":"-19.23%","categories":" "}
@@ -4437,7 +4437,7 @@
 {"name":"happiest minds technologies","rank":"4078","marketcap":1590000000,"country":"india","share_price":10,"change1d":"-0.28%","change1y":"-39.69%","categories":"it-services professional-services "}
 {"name":"agios pharmaceuticals ","rank":"4086","marketcap":1580000000,"country":"usa","share_price":28,"change1d":"1.12%","change1y":"-12.98%","categories":" "}
 {"name":"jack in the box ","rank":"4073","marketcap":1600000000,"country":"usa","share_price":77,"change1d":"0.82%","change1y":"-12.43%","categories":"food restaurant-chains "}
-{"name":"enghouse syste","rank":"4071","marketcap":1600000000,"country":"canada","share_price":29,"change1d":"-0.46%","change1y":"-21.71%","categories":"software tech it-services professional-services "}
+{"name":"enghouse systems","rank":"4071","marketcap":1600000000,"country":"canada","share_price":29,"change1d":"-0.46%","change1y":"-21.71%","categories":"software tech it-services professional-services "}
 {"name":"jastrzebska spolka weglowa","rank":"4076","marketcap":1590000000,"country":"poland","share_price":13,"change1d":"4.47%","change1y":"30.36%","categories":"coal-mining mining energy "}
 {"name":"killam apartment reit","rank":"4080","marketcap":1590000000,"country":"canada","share_price":13,"change1d":"0.22%","change1y":"-23.93%","categories":"reit real-estate investment "}
 {"name":"evraz","rank":"4074","marketcap":1600000000,"country":"russia","share_price":1,"change1d":"0.00%","change1y":"-86.22%","categories":"steel-producers steel-industry mining "}
@@ -4475,7 +4475,7 @@
 {"name":"savills","rank":"4041","marketcap":1640000000,"country":"united-kingdom","share_price":11,"change1d":"1.97%","change1y":"-41.03%","categories":"real-estate "}
 {"name":"xenia hotels & resorts ","rank":"4044","marketcap":1630000000,"country":"usa","share_price":13,"change1d":"0.36%","change1y":"-25.11%","categories":"hotels real-estate investment travel reit "}
 {"name":"laureate education ","rank":"4051","marketcap":1630000000,"country":"usa","share_price":10,"change1d":"1.02%","change1y":"-12.55%","categories":"education "}
-{"name":"hi & hers health","rank":"4049","marketcap":1630000000,"country":"usa","share_price":7,"change1d":"2.47%","change1y":"48.77%","categories":"telehealth healthcare internet tech "}
+{"name":"hi& hers health","rank":"4049","marketcap":1630000000,"country":"usa","share_price":7,"change1d":"2.47%","change1y":"48.77%","categories":"telehealth healthcare internet tech "}
 {"name":"getty realty","rank":"4048","marketcap":1630000000,"country":"usa","share_price":35,"change1d":"-0.28%","change1y":"10.83%","categories":"real-estate investment reit "}
 {"name":"biotest ","rank":"4034","marketcap":1650000000,"country":"germany","share_price":46,"change1d":"0.00%","change1y":"-4.13%","categories":" "}
 {"name":"resolute forest products","rank":"4031","marketcap":1650000000,"country":"canada","share_price":21,"change1d":"-0.05%","change1y":"33.96%","categories":"pulp-and-paper "}
@@ -4560,7 +4560,7 @@
 {"name":"lindsay corporation ","rank":"3954","marketcap":1730000000,"country":"usa","share_price":158,"change1d":"1.21%","change1y":"12.78%","categories":"manufacturing machinery-manufacturing "}
 {"name":"hexaware technologies ","rank":"3953","marketcap":1740000000,"country":"india","share_price":5,"change1d":"0.00%","change1y":"-8.53%","categories":"professional-services "}
 {"name":"tabcorp","rank":"3948","marketcap":1740000000,"country":"australia","share_price":0,"change1d":"0.00%","change1y":"-79.58%","categories":"gambling entertainment "}
-{"name":"mahindra cie","rank":"3945","marketcap":1750000000,"country":"india","share_price":4,"change1d":"-0.65%","change1y":"52.98%","categories":"automotive-suppliers "}
+{"name":"mahincie","rank":"3945","marketcap":1750000000,"country":"india","share_price":4,"change1d":"-0.65%","change1y":"52.98%","categories":"automotive-suppliers "}
 {"name":"h&e equipment services","rank":"3956","marketcap":1730000000,"country":"usa","share_price":47,"change1d":"0.59%","change1y":"2.95%","categories":"rental-and-leasing-services "}
 {"name":"aktieselskabet schouw & co","rank":"3947","marketcap":1740000000,"country":"denmark","share_price":74,"change1d":"-0.39%","change1y":"-14.33%","categories":"conglomerate "}
 {"name":"aurora innovation","rank":"3952","marketcap":1740000000,"country":"usa","share_price":1,"change1d":"1.70%","change1y":"-77.45%","categories":"autonomous-driving software tech "}
@@ -4606,7 +4606,7 @@
 {"name":"northwest healthcare properties reit","rank":"3908","marketcap":1800000000,"country":"canada","share_price":7,"change1d":"0.40%","change1y":"-31.79%","categories":"healthcare real-estate investment reit "}
 {"name":"forbo holding","rank":"3905","marketcap":1810000000,"country":"switzerland","share_price":1,"change1d":"4.25%","change1y":"-37.27%","categories":"building-materials "}
 {"name":"getty images","rank":"3876","marketcap":1840000000,"country":"usa","share_price":5,"change1d":"4.40%","change1y":"-42.54%","categories":"tech internet "}
-{"name":"curevac","rank":"3901","marketcap":1820000000,"country":"germany","share_price":9,"change1d":"-2.15%","change1y":"-60.91%","categories":" na-therapeutics pharmaceuticals biotech "}
+{"name":"curevac","rank":"3901","marketcap":1820000000,"country":"germany","share_price":9,"change1d":"-2.15%","change1y":"-60.91%","categories":"mrna-therapeutics pharmaceuticals biotech "}
 {"name":"paradox interactive","rank":"3879","marketcap":1840000000,"country":"sweden","share_price":17,"change1d":"-1.05%","change1y":"-12.00%","categories":"video-games tech entertainment "}
 {"name":"jenoptik","rank":"3878","marketcap":1840000000,"country":"germany","share_price":32,"change1d":"1.92%","change1y":"-17.61%","categories":"engineering scientific-and-technical-instruments "}
 {"name":"stock yards bancorp","rank":"3903","marketcap":1810000000,"country":"usa","share_price":62,"change1d":"-1.07%","change1y":"-4.51%","categories":"banks financial-services "}
@@ -4647,7 +4647,7 @@
 {"name":"vertex","rank":"3846","marketcap":1880000000,"country":"usa","share_price":12,"change1d":"1.49%","change1y":"-10.17%","categories":"software tech "}
 {"name":"immofinanz","rank":"3840","marketcap":1890000000,"country":" ","share_price":13,"change1d":"0.89%","change1y":"-48.08%","categories":"real-estate "}
 {"name":"icf international","rank":"3835","marketcap":1900000000,"country":"usa","share_price":101,"change1d":"-1.32%","change1y":"-2.90%","categories":"professional-services "}
-{"name":"ballard power syste ","rank":"3845","marketcap":1880000000,"country":"canada","share_price":6,"change1d":"2.84%","change1y":"-42.30%","categories":"hydrogen-fuel-cell "}
+{"name":"ballard power systems ","rank":"3845","marketcap":1880000000,"country":"canada","share_price":6,"change1d":"2.84%","change1y":"-42.30%","categories":"hydrogen-fuel-cell "}
 {"name":"lotte corporation","rank":"3841","marketcap":1890000000,"country":"south-korea","share_price":26,"change1d":"1.38%","change1y":"11.00%","categories":"conglomerate "}
 {"name":"mueller water products ","rank":"3836","marketcap":1900000000,"country":"usa","share_price":12,"change1d":"0.33%","change1y":"-8.40%","categories":" "}
 {"name":"fairfax india holdings","rank":"3844","marketcap":1890000000,"country":"canada","share_price":13,"change1d":"0.15%","change1y":"7.15%","categories":"asset-management investment "}
@@ -4675,7 +4675,7 @@
 {"name":"kymera therapeutics","rank":"3823","marketcap":1920000000,"country":"usa","share_price":35,"change1d":"1.18%","change1y":"-14.71%","categories":"pharmaceuticals biotech "}
 {"name":"stonex group","rank":"3822","marketcap":1920000000,"country":"usa","share_price":94,"change1d":"0.24%","change1y":"49.08%","categories":"financial-services "}
 {"name":"warrior met coal ","rank":"3824","marketcap":1920000000,"country":"usa","share_price":37,"change1d":"2.39%","change1y":"34.78%","categories":"mining coal-mining "}
-{"name":"comcope ","rank":"3816","marketcap":1920000000,"country":"usa","share_price":9,"change1d":"1.65%","change1y":"-9.04%","categories":"telecommunications-equipment "}
+{"name":"commscope ","rank":"3816","marketcap":1920000000,"country":"usa","share_price":9,"change1d":"1.65%","change1y":"-9.04%","categories":"telecommunications-equipment "}
 {"name":"colbun","rank":"3817","marketcap":1920000000,"country":"chile","share_price":0,"change1d":"-0.10%","change1y":"37.50%","categories":"utility-companies electricity energy "}
 {"name":"tanger factory outlet centers ","rank":"3815","marketcap":1930000000,"country":"usa","share_price":18,"change1d":"0.54%","change1y":"-4.84%","categories":"real-estate investment reit "}
 {"name":"exclusive networks","rank":"3810","marketcap":1930000000,"country":"france","share_price":21,"change1d":"-0.31%","change1y":"4.49%","categories":"it-security software tech "}
@@ -4885,7 +4885,7 @@
 {"name":"nuvista energy","rank":"3711","marketcap":2100000000,"country":"canada","share_price":9,"change1d":"2.53%","change1y":"40.90%","categories":"oil-gas energy "}
 {"name":"constellium ","rank":"3713","marketcap":2089999999,"country":"france","share_price":14,"change1d":"4.75%","change1y":"-25.77%","categories":" "}
 {"name":"bloomin' brands","rank":"3700","marketcap":2109999999,"country":"usa","share_price":24,"change1d":"1.60%","change1y":"14.21%","categories":"restaurant-chains food "}
-{"name":"indra sistemas","rank":"3695","marketcap":2120000000,"country":"spain","share_price":12,"change1d":"0.82%","change1y":"10.25%","categories":"it-services professional-services defense-contractors "}
+{"name":"insistemas","rank":"3695","marketcap":2120000000,"country":"spain","share_price":12,"change1d":"0.82%","change1y":"10.25%","categories":"it-services professional-services defense-contractors "}
 {"name":"cranswick","rank":"3696","marketcap":2120000000,"country":"united-kingdom","share_price":39,"change1d":"-0.49%","change1y":"-23.59%","categories":"food "}
 {"name":"basic-fit","rank":"3703","marketcap":2109999999,"country":"netherlands","share_price":31,"change1d":"2.58%","change1y":"-35.72%","categories":" "}
 {"name":"harel group ","rank":"3694","marketcap":2120000000,"country":"israel","share_price":10,"change1d":"2.32%","change1y":"-18.38%","categories":"insurance "}
@@ -4940,7 +4940,7 @@
 {"name":"supernus pharmaceuticals ","rank":"3655","marketcap":2190000000,"country":"usa","share_price":40,"change1d":"1.27%","change1y":"33.70%","categories":"pharmaceuticals biotech "}
 {"name":"nos","rank":"3651","marketcap":2190000000,"country":" ","share_price":4,"change1d":"0.61%","change1y":"11.14%","categories":"telecommunication media-press "}
 {"name":"six flags","rank":"3644","marketcap":2210000000,"country":"usa","share_price":26,"change1d":"0.95%","change1y":"-34.64%","categories":" "}
-{"name":"dr lal pathlabs ","rank":"3648","marketcap":2200000000,"country":"india","share_price":26,"change1d":"0.98%","change1y":"-43.58%","categories":"diagnostics "}
+{"name":"lal pathlabs ","rank":"3648","marketcap":2200000000,"country":"india","share_price":26,"change1d":"0.98%","change1y":"-43.58%","categories":"diagnostics "}
 {"name":"salzgitter","rank":"3654","marketcap":2190000000,"country":"germany","share_price":40,"change1d":"6.02%","change1y":"0.10%","categories":" "}
 {"name":"nv5 global ","rank":"3649","marketcap":2200000000,"country":"usa","share_price":141,"change1d":"0.81%","change1y":"20.31%","categories":"engineering professional-services "}
 {"name":"sprinklr","rank":"3642","marketcap":2210000000,"country":"usa","share_price":8,"change1d":"-0.24%","change1y":"-36.10%","categories":"software tech "}
@@ -4948,7 +4948,7 @@
 {"name":"barnes group","rank":"3643","marketcap":2210000000,"country":"usa","share_price":43,"change1d":"0.25%","change1y":"-9.19%","categories":"aerospace manufacturing "}
 {"name":"novagold resources ","rank":"3636","marketcap":2220000000,"country":"canada","share_price":6,"change1d":"3.09%","change1y":"-0.15%","categories":"gold-mining mining "}
 {"name":"boot barn holdings ","rank":"3631","marketcap":2240000000,"country":"usa","share_price":75,"change1d":"1.94%","change1y":"-30.63%","categories":"footwear clothing "}
-{"name":"g","rank":"3629","marketcap":2250000000,"country":"usa","share_price":54,"change1d":"1.75%","change1y":"-1.78%","categories":"building-materials "}
+{"name":"gms","rank":"3629","marketcap":2250000000,"country":"usa","share_price":54,"change1d":"1.75%","change1y":"-1.78%","categories":"building-materials "}
 {"name":"jbg smith ","rank":"3638","marketcap":2220000000,"country":"usa","share_price":19,"change1d":"0.67%","change1y":"-33.02%","categories":"real-estate investment reit "}
 {"name":"progress software ","rank":"3641","marketcap":2210000000,"country":"usa","share_price":51,"change1d":"-3.57%","change1y":"12.35%","categories":" "}
 {"name":"patria investments","rank":"3640","marketcap":2220000000,"country":" ","share_price":15,"change1d":"0.87%","change1y":"-10.50%","categories":"financial-services investment "}
@@ -5056,7 +5056,7 @@
 {"name":"chembio diagnostics","rank":"7054","marketcap":14640000,"country":"usa","share_price":0,"change1d":"2.28%","change1y":"-63.40%","categories":"diagnostics biotech "}
 {"name":"sobr safe","rank":"7061","marketcap":14270000,"country":"usa","share_price":0,"change1d":"-6.67%","change1y":"-59.17%","categories":" "}
 {"name":"genius group","rank":"7053","marketcap":14660000,"country":"singapore","share_price":0,"change1d":"2.61%","change1y":" ","categories":"education "}
-{"name":"t2 biosyste ","rank":"7052","marketcap":14780000,"country":"usa","share_price":2,"change1d":"1.00%","change1y":"380.95%","categories":" "}
+{"name":"t2 biosystems ","rank":"7052","marketcap":14780000,"country":"usa","share_price":2,"change1d":"1.00%","change1y":"380.95%","categories":" "}
 {"name":"organovo","rank":"7055","marketcap":14590000,"country":"usa","share_price":1,"change1d":"0.30%","change1y":"-55.21%","categories":"pharmaceuticals "}
 {"name":"vyne therapeutics","rank":"7040","marketcap":15670000,"country":"usa","share_price":0,"change1d":"1.39%","change1y":"-60.86%","categories":"pharmaceuticals biotech "}
 {"name":"forgame","rank":"7049","marketcap":15230000,"country":"china","share_price":0,"change1d":"13.70%","change1y":"-31.25%","categories":"video-games entertainment "}
@@ -5115,7 +5115,7 @@
 {"name":"nornickel","rank":"7230","marketcap":"","country":"russia","share_price":211,"change1d":"-1.53%","change1y":"-26.07%","categories":"mining "}
 {"name":"rosseti","rank":"7230","marketcap":"","country":"russia","share_price":"","change1d":"0.00%","change1y":"-100.00%","categories":" "}
 {"name":"polyus","rank":"7230","marketcap":"","country":"russia","share_price":108,"change1d":"-1.76%","change1y":"-28.31%","categories":" "}
-{"name":"mobile telesyste","rank":"7230","marketcap":"","country":"russia","share_price":3,"change1d":"-0.15%","change1y":"-11.44%","categories":"telecommunication "}
+{"name":"mobile telesystems","rank":"7230","marketcap":"","country":"russia","share_price":3,"change1d":"-0.15%","change1y":"-11.44%","categories":"telecommunication "}
 {"name":"cocrystal pharma ","rank":"7004","marketcap":19260000,"country":"usa","share_price":2,"change1d":"1.97%","change1y":"-66.01%","categories":"pharmaceuticals biotech "}
 {"name":"sberbank","rank":"7230","marketcap":"","country":"russia","share_price":1,"change1d":"-0.11%","change1y":"-42.14%","categories":"banks financial-services "}
 {"name":"gazprom","rank":"7230","marketcap":"","country":"russia","share_price":2,"change1d":"-0.81%","change1y":"-48.25%","categories":"oil-gas energy "}
@@ -5132,8 +5132,8 @@
 {"name":"pareteum corporation ","rank":"7210","marketcap":10000,"country":"usa","share_price":"","change1d":"0.00%","change1y":"-100.00%","categories":"software tech "}
 {"name":"srei infrastructure finance","rank":"7000","marketcap":19810000,"country":"india","share_price":0,"change1d":"0.00%","change1y":"-55.56%","categories":"financial-services "}
 {"name":"youngevity international ","rank":"7205","marketcap":1190000,"country":"usa","share_price":0,"change1d":"0.00%","change1y":"-61.00%","categories":"consumer-goods "}
-{"name":"quanergy syste","rank":"7204","marketcap":1190000,"country":"usa","share_price":0,"change1d":"0.00%","change1y":"-99.26%","categories":"lidar tech tech-hardware "}
-{"name":"versus syste","rank":"7202","marketcap":1310000,"country":"canada","share_price":0,"change1d":"4.89%","change1y":"-71.00%","categories":"video-games tech "}
+{"name":"quanergy systems","rank":"7204","marketcap":1190000,"country":"usa","share_price":0,"change1d":"0.00%","change1y":"-99.26%","categories":"lidar tech tech-hardware "}
+{"name":"versus systems","rank":"7202","marketcap":1310000,"country":"canada","share_price":0,"change1d":"4.89%","change1y":"-71.00%","categories":"video-games tech "}
 {"name":"allena pharmaceuticals ","rank":"7207","marketcap":980000,"country":"usa","share_price":0,"change1d":"-37.69%","change1y":"-98.12%","categories":"pharmaceuticals biotech "}
 {"name":"ifresh ","rank":"7206","marketcap":1010000,"country":"usa","share_price":0,"change1d":"0.00%","change1y":"-73.75%","categories":"retail supermarkets "}
 {"name":"mobilicom","rank":"7203","marketcap":1290000,"country":"australia","share_price":1,"change1d":"-2.63%","change1y":" ","categories":"robotics tech it-security "}
@@ -5235,7 +5235,7 @@
 {"name":"sierra metals","rank":"6905","marketcap":32700000,"country":"canada","share_price":0,"change1d":"0.00%","change1y":"-84.41%","categories":"mining "}
 {"name":"forever entertainment","rank":"6904","marketcap":32880000,"country":"poland","share_price":1,"change1d":"-1.00%","change1y":"-25.00%","categories":"video-games entertainment "}
 {"name":"sio gene therapies","rank":"6903","marketcap":33030000,"country":"usa","share_price":0,"change1d":"-0.58%","change1y":"-61.83%","categories":"biotech pharmaceuticals gene-therapy genomics "}
-{"name":"document security syste ","rank":"6902","marketcap":33049999,"country":"usa","share_price":0,"change1d":"1.15%","change1y":"-64.51%","categories":" "}
+{"name":"document security systems ","rank":"6902","marketcap":33049999,"country":"usa","share_price":0,"change1d":"1.15%","change1y":"-64.51%","categories":" "}
 {"name":"quotient","rank":"7201","marketcap":1340000,"country":"switzerland","share_price":0,"change1d":"0.00%","change1y":"-81.90%","categories":"biotech diagnostics "}
 {"name":"zk international group","rank":"6901","marketcap":33119999,"country":"china","share_price":1,"change1d":"3.81%","change1y":"-28.76%","categories":"steel-industry "}
 {"name":"vip gloves","rank":"7195","marketcap":2190000,"country":"malaysia","share_price":"","change1d":"0.00%","change1y":"-100.00%","categories":"glove-ppe "}
@@ -5293,7 +5293,7 @@
 {"name":"akanda","rank":"7144","marketcap":6470000,"country":"united-kingdom","share_price":0,"change1d":"-3.01%","change1y":" ","categories":"cannabis "}
 {"name":"blackboxstocks","rank":"7150","marketcap":6130000,"country":"usa","share_price":0,"change1d":"-1.52%","change1y":"-81.98%","categories":"financial-services software tech "}
 {"name":"gameone","rank":"7146","marketcap":6420000,"country":"hong-kong","share_price":0,"change1d":"10.00%","change1y":"-62.50%","categories":"video-games entertainment "}
-{"name":"tivic health syste","rank":"7140","marketcap":6770000,"country":"usa","share_price":0,"change1d":"4.34%","change1y":"-76.43%","categories":"medical-devices "}
+{"name":"tivic health systems","rank":"7140","marketcap":6770000,"country":"usa","share_price":0,"change1d":"4.34%","change1y":"-76.43%","categories":"medical-devices "}
 {"name":"ll lucky games","rank":"7147","marketcap":6280000,"country":"sweden","share_price":0,"change1d":"-5.49%","change1y":"-73.33%","categories":"video-games entertainment "}
 {"name":"bio-key international ","rank":"7136","marketcap":7020000,"country":"usa","share_price":0,"change1d":"-0.49%","change1y":"-65.01%","categories":"software tech "}
 {"name":"arcimoto","rank":"7145","marketcap":6450000,"country":"usa","share_price":2,"change1d":"-58.82%","change1y":"-65.48%","categories":"automakers electric-vehicles "}
@@ -5321,7 +5321,7 @@
 {"name":"gaming technologies gametech","rank":"7119","marketcap":8369999,"country":"usa","share_price":0,"change1d":"0.00%","change1y":"-91.94%","categories":"video-games entertainment "}
 {"name":"gaming factory","rank":"7125","marketcap":7880000,"country":"poland","share_price":1,"change1d":"5.21%","change1y":"-37.78%","categories":"video-games entertainment "}
 {"name":"phio pharmaceuticals","rank":"7130","marketcap":7540000,"country":"usa","share_price":0,"change1d":"1.28%","change1y":"-37.27%","categories":"pharmaceuticals biotech "}
-{"name":"ra medical syste","rank":"7118","marketcap":8450000,"country":"usa","share_price":3,"change1d":"6.93%","change1y":"183.59%","categories":"medical-devices "}
+{"name":"ra medical systems","rank":"7118","marketcap":8450000,"country":"usa","share_price":3,"change1d":"6.93%","change1y":"183.59%","categories":"medical-devices "}
 {"name":"skylight health group","rank":"7117","marketcap":8470000,"country":"canada","share_price":0,"change1d":"-3.39%","change1y":" ","categories":"medical-care-facilities "}
 {"name":"qiiwi games","rank":"7116","marketcap":8700000,"country":"sweden","share_price":0,"change1d":"4.71%","change1y":"-53.69%","categories":"video-games entertainment "}
 {"name":"great panther mining ","rank":"7115","marketcap":8800000,"country":"canada","share_price":0,"change1d":"0.00%","change1y":"-17.39%","categories":"mining gold-mining silver-mining "}
@@ -5423,9 +5423,9 @@
 {"name":"tose software","rank":"6825","marketcap":45710000,"country":"japan","share_price":6,"change1d":"2.64%","change1y":"-2.58%","categories":"software tech video-games entertainment "}
 {"name":"5th planet games","rank":"6815","marketcap":47450000,"country":"denmark","share_price":0,"change1d":"0.45%","change1y":"53.33%","categories":"video-games entertainment "}
 {"name":"horizon global ","rank":"6812","marketcap":48110000,"country":"usa","share_price":1,"change1d":"-0.29%","change1y":"-79.12%","categories":" "}
-{"name":"ageagle aerial syste ","rank":"6811","marketcap":48330000,"country":"usa","share_price":0,"change1d":"8.97%","change1y":"-62.64%","categories":"aerospace tech agriculture "}
+{"name":"ageagle aerial systems ","rank":"6811","marketcap":48330000,"country":"usa","share_price":0,"change1d":"8.97%","change1y":"-62.64%","categories":"aerospace tech agriculture "}
 {"name":"coly","rank":"6810","marketcap":48390000,"country":"japan","share_price":8,"change1d":"0.71%","change1y":"-53.91%","categories":"video-games entertainment "}
-{"name":"cotock mining","rank":"6808","marketcap":48570000,"country":"usa","share_price":0,"change1d":"-0.62%","change1y":"-63.10%","categories":"mining "}
+{"name":"comstock mining","rank":"6808","marketcap":48570000,"country":"usa","share_price":0,"change1d":"-0.62%","change1y":"-63.10%","categories":"mining "}
 {"name":"science 37","rank":"6804","marketcap":49380000,"country":"usa","share_price":0,"change1d":"0.02%","change1y":"-95.33%","categories":" "}
 {"name":"talaris therapeutics","rank":"6798","marketcap":50480000,"country":"usa","share_price":1,"change1d":"-0.25%","change1y":"-87.93%","categories":"pharmaceuticals biotech "}
 {"name":"westwater resources ","rank":"6795","marketcap":51490000,"country":"usa","share_price":1,"change1d":"1.07%","change1y":"-51.96%","categories":"mining "}
@@ -5460,7 +5460,7 @@
 {"name":"allied esports","rank":"6777","marketcap":54320000,"country":"usa","share_price":1,"change1d":"2.20%","change1y":"-27.61%","categories":"entertainment esports "}
 {"name":"east side games","rank":"6774","marketcap":54800000,"country":"canada","share_price":0,"change1d":"0.00%","change1y":"-75.64%","categories":"video-games entertainment "}
 {"name":"aquestive therapeutics ","rank":"6775","marketcap":54420000,"country":"usa","share_price":1,"change1d":"0.50%","change1y":"-72.76%","categories":"pharmaceuticals "}
-{"name":"balaji telefil ","rank":"6776","marketcap":54390000,"country":"india","share_price":0,"change1d":"0.23%","change1y":"-38.64%","categories":"entertainment "}
+{"name":"balaji telefilms ","rank":"6776","marketcap":54390000,"country":"india","share_price":0,"change1d":"0.23%","change1y":"-38.64%","categories":"entertainment "}
 {"name":"brainstorm cell therapeutics","rank":"6773","marketcap":54810000,"country":"usa","share_price":1,"change1d":"2.04%","change1y":"-55.75%","categories":"pharmaceuticals biotech "}
 {"name":"spi energy ","rank":"6771","marketcap":54880000,"country":"usa","share_price":1,"change1d":"13.66%","change1y":"-46.49%","categories":"renewable-energy electricity energy "}
 {"name":"asp isotopes","rank":"6770","marketcap":54970000,"country":"usa","share_price":1,"change1d":"0.00%","change1y":" ","categories":"energy "}
@@ -5498,9 +5498,9 @@
 {"name":"know labs","rank":"6735","marketcap":62600000,"country":"usa","share_price":1,"change1d":"-1.52%","change1y":"-22.62%","categories":"medical-devices "}
 {"name":"manhattan bridge capital ","rank":"6725","marketcap":65170000,"country":"usa","share_price":5,"change1d":"0.71%","change1y":"-1.22%","categories":"reit real-estate investment "}
 {"name":"surface oncology","rank":"6736","marketcap":62380000,"country":"usa","share_price":1,"change1d":"4.07%","change1y":"-76.04%","categories":"pharmaceuticals biotech "}
-{"name":"rapid micro biosyste","rank":"6739","marketcap":60890000,"country":"usa","share_price":1,"change1d":"4.32%","change1y":"-79.29%","categories":"medical-devices "}
+{"name":"rapid micro biosystems","rank":"6739","marketcap":60890000,"country":"usa","share_price":1,"change1d":"4.32%","change1y":"-79.29%","categories":"medical-devices "}
 {"name":"gamesparcs","rank":"6734","marketcap":62620000,"country":"taiwan","share_price":1,"change1d":"0.00%","change1y":"-21.16%","categories":"video-games entertainment "}
-{"name":"orion energy syste ","rank":"6731","marketcap":62680000,"country":"usa","share_price":1,"change1d":"-1.01%","change1y":"-53.77%","categories":" "}
+{"name":"orion energy systems ","rank":"6731","marketcap":62680000,"country":"usa","share_price":1,"change1d":"-1.01%","change1y":"-53.77%","categories":" "}
 {"name":"tiziana life sciences","rank":"6729","marketcap":63400000,"country":"united-kingdom","share_price":0,"change1d":"3.33%","change1y":"-29.55%","categories":"pharmaceuticals biotech "}
 {"name":"mogo ","rank":"6733","marketcap":62650000,"country":"canada","share_price":0,"change1d":"1.72%","change1y":"-69.40%","categories":"financial-services bitcoin "}
 {"name":"aeria","rank":"6727","marketcap":64870000,"country":"japan","share_price":2,"change1d":"2.70%","change1y":"-12.76%","categories":"internet video-games entertainment "}
@@ -5589,7 +5589,7 @@
 {"name":"lifeway foods ","rank":"6641","marketcap":87850000,"country":"usa","share_price":5,"change1d":"-3.57%","change1y":"9.04%","categories":"dairy food "}
 {"name":"faze clan","rank":"6640","marketcap":88450000,"country":"usa","share_price":1,"change1d":"-4.69%","change1y":"-87.74%","categories":"entertainment esports "}
 {"name":"viracta therapeutics","rank":"6638","marketcap":88800000,"country":"usa","share_price":2,"change1d":"1.53%","change1y":"-22.50%","categories":"pharmaceuticals biotech "}
-{"name":"nn, inc ","rank":"6647","marketcap":86420000,"country":"usa","share_price":1,"change1d":"0.51%","change1y":"-53.43%","categories":"manufacturing "}
+{"name":"nn inc ","rank":"6647","marketcap":86420000,"country":"usa","share_price":1,"change1d":"0.51%","change1y":"-53.43%","categories":"manufacturing "}
 {"name":"charlotte's web","rank":"6643","marketcap":87190000,"country":"usa","share_price":0,"change1d":"-2.53%","change1y":"-45.79%","categories":"cannabis "}
 {"name":"argo blockchain","rank":"6649","marketcap":85570000,"country":"united-kingdom","share_price":1,"change1d":"-1.59%","change1y":"-83.28%","categories":"bitcoin tech bitcoin-mining "}
 {"name":"beyondspring","rank":"6651","marketcap":85050000,"country":"usa","share_price":2,"change1d":"5.56%","change1y":"-43.69%","categories":"pharmaceuticals biotech "}
@@ -5655,7 +5655,7 @@
 {"name":"ci games","rank":"6579","marketcap":100000000,"country":"poland","share_price":0,"change1d":"-0.90%","change1y":"25.58%","categories":"video-games tech entertainment "}
 {"name":"graham corporation ","rank":"6576","marketcap":100000000,"country":"usa","share_price":9,"change1d":"0.61%","change1y":"-27.72%","categories":" "}
 {"name":"trilogy metals ","rank":"6573","marketcap":100000000,"country":"canada","share_price":0,"change1d":"9.09%","change1y":"-53.85%","categories":" "}
-{"name":"rekor syste","rank":"6583","marketcap":100000000,"country":"usa","share_price":1,"change1d":"-1.05%","change1y":"-66.55%","categories":"software tech "}
+{"name":"rekor systems","rank":"6583","marketcap":100000000,"country":"usa","share_price":1,"change1d":"-1.05%","change1y":"-66.55%","categories":"software tech "}
 {"name":"provident financial holdings","rank":"6580","marketcap":100000000,"country":"usa","share_price":14,"change1d":"0.00%","change1y":"-14.64%","categories":"banks financial-services "}
 {"name":"mynaric","rank":"6581","marketcap":100000000,"country":"germany","share_price":4,"change1d":"2.69%","change1y":"-60.17%","categories":"telecommunication tech "}
 {"name":"cbak energy","rank":"6585","marketcap":100000000,"country":"china","share_price":1,"change1d":"0.88%","change1y":"-10.85%","categories":"batteries electricity "}
@@ -5758,7 +5758,7 @@
 {"name":"spectrum pharmaceuticals ","rank":"6473","marketcap":120000000,"country":"usa","share_price":0,"change1d":"5.86%","change1y":"-40.00%","categories":"pharmaceuticals biotech "}
 {"name":"martin midstream partners","rank":"6474","marketcap":120000000,"country":"usa","share_price":3,"change1d":"2.81%","change1y":"7.17%","categories":"oil-gas energy "}
 {"name":"sesen bio ","rank":"6469","marketcap":120000000,"country":"usa","share_price":0,"change1d":"-1.97%","change1y":"-19.43%","categories":"pharmaceuticals biotech "}
-{"name":"cocore ","rank":"6476","marketcap":120000000,"country":"usa","share_price":1,"change1d":"1.47%","change1y":"-57.28%","categories":"media-press advertising "}
+{"name":"comscore ","rank":"6476","marketcap":120000000,"country":"usa","share_price":1,"change1d":"1.47%","change1y":"-57.28%","categories":"media-press advertising "}
 {"name":"americas gold and silver corp","rank":"6470","marketcap":120000000,"country":"canada","share_price":0,"change1d":"-0.47%","change1y":"-14.71%","categories":"silver-mining gold-mining mining "}
 {"name":"lb foster","rank":"6478","marketcap":120000000,"country":"usa","share_price":11,"change1d":"1.81%","change1y":"-24.67%","categories":" "}
 {"name":"eos energy enterprises","rank":"6477","marketcap":120000000,"country":"usa","share_price":1,"change1d":"1.66%","change1y":"-73.02%","categories":"batteries electricity "}
@@ -5848,7 +5848,7 @@
 {"name":"glycomimetics ","rank":"6382","marketcap":150000000,"country":"usa","share_price":2,"change1d":"2.43%","change1y":"137.90%","categories":"biotech pharmaceuticals "}
 {"name":"kuantum papers ","rank":"6378","marketcap":150000000,"country":"india","share_price":1,"change1d":"3.41%","change1y":"43.90%","categories":"pulp-and-paper "}
 {"name":"first northwest bancorp","rank":"6390","marketcap":150000000,"country":"usa","share_price":15,"change1d":"0.00%","change1y":"-24.30%","categories":" "}
-{"name":"village far international","rank":"6388","marketcap":150000000,"country":"canada","share_price":1,"change1d":"2.12%","change1y":"-71.96%","categories":"agriculture food cannabis "}
+{"name":"village farinternational","rank":"6388","marketcap":150000000,"country":"canada","share_price":1,"change1d":"2.12%","change1y":"-71.96%","categories":"agriculture food cannabis "}
 {"name":"remark holdings","rank":"6383","marketcap":150000000,"country":"usa","share_price":1,"change1d":"-4.17%","change1y":"55.06%","categories":"software tech "}
 {"name":"nyxoah","rank":"6376","marketcap":150000000,"country":"belgium","share_price":5,"change1d":"2.08%","change1y":"-73.18%","categories":"medical-devices "}
 {"name":"eyepoint pharmaceuticals ","rank":"6389","marketcap":150000000,"country":"usa","share_price":4,"change1d":"0.00%","change1y":"-54.78%","categories":"pharmaceuticals "}
@@ -5905,7 +5905,7 @@
 {"name":"diebold nixdorf ","rank":"6324","marketcap":160000000,"country":"usa","share_price":2,"change1d":"4.93%","change1y":"-80.57%","categories":"financial-services software tech "}
 {"name":"excel industries","rank":"6329","marketcap":160000000,"country":"india","share_price":13,"change1d":"-3.29%","change1y":"4.80%","categories":"chemicals "}
 {"name":"sasken technologies ","rank":"6319","marketcap":160000000,"country":"india","share_price":11,"change1d":"1.16%","change1y":"-36.56%","categories":"telecommunication "}
-{"name":"singular genomics syste","rank":"6325","marketcap":160000000,"country":"usa","share_price":2,"change1d":"2.84%","change1y":"-67.87%","categories":"biotech genomics scientific-and-technical-instruments "}
+{"name":"singular genomics systems","rank":"6325","marketcap":160000000,"country":"usa","share_price":2,"change1d":"2.84%","change1y":"-67.87%","categories":"biotech genomics scientific-and-technical-instruments "}
 {"name":"startek ","rank":"6317","marketcap":170000000,"country":"usa","share_price":4,"change1d":"-0.94%","change1y":"-17.38%","categories":" "}
 {"name":"real good food plc","rank":"6331","marketcap":160000000,"country":"united-kingdom","share_price":6,"change1d":"-0.61%","change1y":"-5.82%","categories":"food "}
 {"name":"bg staffing ","rank":"6330","marketcap":160000000,"country":"usa","share_price":15,"change1d":"-0.50%","change1y":"11.45%","categories":"professional-services "}
@@ -5925,10 +5925,10 @@
 {"name":"silvercrest asset management group","rank":"6302","marketcap":170000000,"country":"usa","share_price":18,"change1d":"0.00%","change1y":"6.69%","categories":"investment "}
 {"name":"kcp limited","rank":"6311","marketcap":170000000,"country":"india","share_price":1,"change1d":"-1.54%","change1y":"-27.96%","categories":"conglomerate "}
 {"name":"affimed ","rank":"6304","marketcap":170000000,"country":"germany","share_price":1,"change1d":"1.74%","change1y":"-73.65%","categories":"pharmaceuticals "}
-{"name":"westport fuel syste","rank":"6305","marketcap":170000000,"country":"canada","share_price":1,"change1d":"0.00%","change1y":"-52.11%","categories":" "}
+{"name":"westport fuel systems","rank":"6305","marketcap":170000000,"country":"canada","share_price":1,"change1d":"0.00%","change1y":"-52.11%","categories":" "}
 {"name":"xos","rank":"6303","marketcap":170000000,"country":"usa","share_price":1,"change1d":"-3.26%","change1y":"-54.78%","categories":"electric-vehicles specialty-vehicles "}
 {"name":"onewater marine","rank":"5500","marketcap":460000000,"country":"usa","share_price":29,"change1d":"0.44%","change1y":"-46.66%","categories":" "}
-{"name":"view, inc","rank":"6301","marketcap":170000000,"country":"usa","share_price":0,"change1d":"-2.45%","change1y":"-74.76%","categories":"manufacturing "}
+{"name":"view inc","rank":"6301","marketcap":170000000,"country":"usa","share_price":0,"change1d":"-2.45%","change1y":"-74.76%","categories":"manufacturing "}
 {"name":"five star bancorp","rank":"5498","marketcap":460000000,"country":"usa","share_price":27,"change1d":"0.15%","change1y":"-12.05%","categories":"banks financial-services "}
 {"name":"marine products corporation","rank":"5489","marketcap":470000000,"country":"usa","share_price":13,"change1d":"0.07%","change1y":"16.97%","categories":" "}
 {"name":"south indian bank ","rank":"5494","marketcap":470000000,"country":"india","share_price":0,"change1d":"-1.08%","change1y":"91.67%","categories":"banks financial-services "}
@@ -5977,7 +5977,7 @@
 {"name":"marcus corporation ","rank":"5455","marketcap":490000000,"country":"usa","share_price":15,"change1d":"0.35%","change1y":"-11.62%","categories":"hotels entertainment travel "}
 {"name":"garrett motion","rank":"5452","marketcap":490000000,"country":"switzerland","share_price":7,"change1d":"-0.20%","change1y":"2.22%","categories":"automotive-suppliers "}
 {"name":"ezcorp","rank":"5465","marketcap":480000000,"country":"usa","share_price":8,"change1d":"0.23%","change1y":"39.42%","categories":" "}
-{"name":"th international ti china","rank":"5447","marketcap":490000000,"country":"china","share_price":3,"change1d":"1.52%","change1y":"-66.02%","categories":"restaurant-chains food "}
+{"name":"th international tichina","rank":"5447","marketcap":490000000,"country":"china","share_price":3,"change1d":"1.52%","change1y":"-66.02%","categories":"restaurant-chains food "}
 {"name":"ibex","rank":"5439","marketcap":490000000,"country":"usa","share_price":27,"change1d":"0.63%","change1y":"93.91%","categories":"it-services professional-services "}
 {"name":"seneca foods ","rank":"5449","marketcap":490000000,"country":"usa","share_price":64,"change1d":"-0.71%","change1y":"34.97%","categories":"food "}
 {"name":"ace hardware indonesia","rank":"5444","marketcap":490000000,"country":"indonesia","share_price":0,"change1d":"0.92%","change1y":"-66.67%","categories":"retail "}
@@ -5988,7 +5988,7 @@
 {"name":"bafang yunji","rank":"5442","marketcap":490000000,"country":"taiwan","share_price":7,"change1d":"-0.22%","change1y":"63.62%","categories":"restaurant-chains food "}
 {"name":"blue bird corporation ","rank":"5438","marketcap":500000000,"country":"usa","share_price":15,"change1d":"4.54%","change1y":"-1.26%","categories":" "}
 {"name":"reliance infrastructure ","rank":"5450","marketcap":490000000,"country":"india","share_price":1,"change1d":"-1.27%","change1y":"21.13%","categories":"electricity energy "}
-{"name":"the r group ","rank":"5445","marketcap":490000000,"country":"usa","share_price":29,"change1d":"0.40%","change1y":"-12.99%","categories":"real-estate professional-services "}
+{"name":"the rgroup ","rank":"5445","marketcap":490000000,"country":"usa","share_price":29,"change1d":"0.40%","change1y":"-12.99%","categories":"real-estate professional-services "}
 {"name":"qingci games","rank":"5441","marketcap":490000000,"country":"china","share_price":0,"change1d":"2.36%","change1y":"-36.28%","categories":"video-games entertainment "}
 {"name":"contextlogic wishcom","rank":"5440","marketcap":490000000,"country":"usa","share_price":0,"change1d":"2.81%","change1y":"-73.28%","categories":"e-commerce internet tech "}
 {"name":"zur rose group","rank":"5443","marketcap":490000000,"country":"switzerland","share_price":36,"change1d":"-1.33%","change1y":"-82.46%","categories":"drugstore e-commerce internet retail "}
@@ -6125,10 +6125,10 @@
 {"name":"hippo","rank":"5607","marketcap":400000000,"country":"usa","share_price":17,"change1d":"3.50%","change1y":"621.54%","categories":"insurance tech "}
 {"name":"despegar","rank":"5605","marketcap":410000000,"country":" ","share_price":6,"change1d":"5.26%","change1y":"-37.63%","categories":"online-travel travel internet tech "}
 {"name":"guaranty bancshares","rank":"5602","marketcap":410000000,"country":"usa","share_price":34,"change1d":"0.00%","change1y":"-8.26%","categories":"banks financial-services "}
-{"name":"jindal poly fil ","rank":"5603","marketcap":410000000,"country":"india","share_price":9,"change1d":"3.27%","change1y":"-36.67%","categories":"packaging "}
+{"name":"jindal poly films ","rank":"5603","marketcap":410000000,"country":"india","share_price":9,"change1d":"3.27%","change1y":"-36.67%","categories":"packaging "}
 {"name":"taseko mines ","rank":"5401","marketcap":510000000,"country":"canada","share_price":1,"change1d":"2.26%","change1y":"-9.95%","categories":"mining "}
 {"name":"jaypee group ","rank":"5900","marketcap":290000000,"country":"india","share_price":0,"change1d":"1.04%","change1y":"-20.00%","categories":" "}
-{"name":"computer progra and syste","rank":"5601","marketcap":410000000,"country":"usa","share_price":28,"change1d":"0.11%","change1y":"-2.26%","categories":"software tech "}
+{"name":"computer prograand systems","rank":"5601","marketcap":410000000,"country":"usa","share_price":28,"change1d":"0.11%","change1y":"-2.26%","categories":"software tech "}
 {"name":"karat packaging","rank":"5899","marketcap":290000000,"country":"usa","share_price":14,"change1d":"-2.88%","change1y":"-17.64%","categories":"packaging "}
 {"name":"prelude therapeutics","rank":"5891","marketcap":290000000,"country":"usa","share_price":6,"change1d":"0.81%","change1y":"-29.57%","categories":"pharmaceuticals biotech "}
 {"name":"cerberus cyber sentinel","rank":"5896","marketcap":290000000,"country":"usa","share_price":2,"change1d":"0.50%","change1y":"-62.55%","categories":"it-security tech software "}
@@ -6216,7 +6216,7 @@
 {"name":"soft-world international","rank":"5822","marketcap":320000000,"country":"taiwan","share_price":2,"change1d":"0.87%","change1y":"-21.01%","categories":"video-games entertainment "}
 {"name":"loop media","rank":"5812","marketcap":320000000,"country":"usa","share_price":5,"change1d":"0.00%","change1y":"127.06%","categories":"entertainment "}
 {"name":"sudarshan chemical","rank":"5818","marketcap":320000000,"country":"india","share_price":4,"change1d":"-1.93%","change1y":"-41.01%","categories":"chemicals "}
-{"name":"cosmo fil ","rank":"5810","marketcap":320000000,"country":"india","share_price":12,"change1d":"0.00%","change1y":"-48.76%","categories":" "}
+{"name":"cosmo films ","rank":"5810","marketcap":320000000,"country":"india","share_price":12,"change1d":"0.00%","change1y":"-48.76%","categories":" "}
 {"name":"americanas","rank":"5817","marketcap":320000000,"country":"brazil","share_price":0,"change1d":"-3.16%","change1y":"-93.47%","categories":"retail internet e-commerce "}
 {"name":"greenlight reinsurance","rank":"5813","marketcap":320000000,"country":" ","share_price":9,"change1d":"1.08%","change1y":"26.11%","categories":"insurance "}
 {"name":"acnb corporation ","rank":"5821","marketcap":320000000,"country":"usa","share_price":38,"change1d":"0.00%","change1y":"10.77%","categories":"banks financial-services "}
@@ -6309,7 +6309,7 @@
 {"name":"c&f financial corporation ","rank":"6203","marketcap":200000000,"country":"usa","share_price":57,"change1d":"0.00%","change1y":"8.96%","categories":"banks financial-services "}
 {"name":"kamux","rank":"6211","marketcap":190000000,"country":"finland","share_price":4,"change1d":"0.00%","change1y":"-60.90%","categories":"used-car-retailer car-retail retail "}
 {"name":"afc energy","rank":"6210","marketcap":190000000,"country":"united-kingdom","share_price":0,"change1d":"4.02%","change1y":"-53.45%","categories":"hydrogen-fuel-cell renewable-energy energy "}
-{"name":"china automotive syste","rank":"6205","marketcap":200000000,"country":"china","share_price":6,"change1d":"-1.78%","change1y":"148.31%","categories":"automotive-suppliers "}
+{"name":"china automotive systems","rank":"6205","marketcap":200000000,"country":"china","share_price":6,"change1d":"-1.78%","change1y":"148.31%","categories":"automotive-suppliers "}
 {"name":"asure software ","rank":"6213","marketcap":190000000,"country":"usa","share_price":9,"change1d":"0.61%","change1y":"32.75%","categories":"software tech "}
 {"name":"optinose","rank":"6216","marketcap":190000000,"country":"usa","share_price":1,"change1d":"0.00%","change1y":"-11.44%","categories":"pharmaceuticals biotech "}
 {"name":"kingsway financial services","rank":"6215","marketcap":190000000,"country":"canada","share_price":8,"change1d":"0.12%","change1y":"53.37%","categories":"insurance financial-services "}
@@ -6332,7 +6332,7 @@
 {"name":"urogen pharma","rank":"6202","marketcap":200000000,"country":"usa","share_price":8,"change1d":"0.11%","change1y":"8.33%","categories":"pharmaceuticals biotech "}
 {"name":"atai life sciences","rank":"5797","marketcap":330000000,"country":"germany","share_price":2,"change1d":"3.75%","change1y":"-62.66%","categories":"pharmaceuticals biotech "}
 {"name":"happinet","rank":"5798","marketcap":330000000,"country":"japan","share_price":15,"change1d":"-1.56%","change1y":"15.02%","categories":"video-games entertainment "}
-{"name":"hbl power syste","rank":"5788","marketcap":330000000,"country":"india","share_price":1,"change1d":"-2.55%","change1y":"34.07%","categories":"engineering professional-services "}
+{"name":"hbl power systems","rank":"5788","marketcap":330000000,"country":"india","share_price":1,"change1d":"-2.55%","change1y":"34.07%","categories":"engineering professional-services "}
 {"name":"kvh industries ","rank":"6201","marketcap":200000000,"country":"usa","share_price":10,"change1d":"-0.38%","change1y":"11.91%","categories":"telecommunications-equipment "}
 {"name":"generation bio ","rank":"5790","marketcap":330000000,"country":"usa","share_price":5,"change1d":"3.27%","change1y":"-12.60%","categories":"pharmaceuticals biotech gene-therapy genomics "}
 {"name":"pulmonx","rank":"5787","marketcap":330000000,"country":"usa","share_price":9,"change1d":"3.08%","change1y":"-67.43%","categories":"medical-devices "}
@@ -6345,7 +6345,7 @@
 {"name":"the restaurant group plc","rank":"5774","marketcap":340000000,"country":"united-kingdom","share_price":0,"change1d":"-2.75%","change1y":"-67.15%","categories":"restaurant-chains food "}
 {"name":"quantum-si","rank":"5771","marketcap":340000000,"country":"usa","share_price":2,"change1d":"4.25%","change1y":"-54.07%","categories":"biotech scientific-and-technical-instruments "}
 {"name":"quotient technology ","rank":"5779","marketcap":340000000,"country":"usa","share_price":3,"change1d":"-1.25%","change1y":"-49.72%","categories":"advertising "}
-{"name":"casa syste","rank":"5772","marketcap":340000000,"country":"usa","share_price":3,"change1d":"0.55%","change1y":"-28.99%","categories":"telecommunications-equipment "}
+{"name":"casa systems","rank":"5772","marketcap":340000000,"country":"usa","share_price":3,"change1d":"0.55%","change1y":"-28.99%","categories":"telecommunications-equipment "}
 {"name":"shriram pistons & rings","rank":"5785","marketcap":340000000,"country":"india","share_price":15,"change1d":"-3.82%","change1y":"28.86%","categories":"automotive-suppliers "}
 {"name":"astronics corporation ","rank":"5781","marketcap":340000000,"country":"usa","share_price":10,"change1d":"0.38%","change1y":"-18.46%","categories":"aerospace "}
 {"name":"build-a-bear","rank":"5775","marketcap":340000000,"country":"usa","share_price":23,"change1d":"0.21%","change1y":"24.24%","categories":" "}
@@ -6444,7 +6444,7 @@
 {"name":"gigacloud technology","rank":"6071","marketcap":240000000,"country":"china","share_price":6,"change1d":"-0.66%","change1y":" ","categories":"software tech "}
 {"name":"yiren digital","rank":"6072","marketcap":240000000,"country":"china","share_price":2,"change1d":"-2.39%","change1y":"-1.72%","categories":"financial-services "}
 {"name":"ouster","rank":"6079","marketcap":230000000,"country":"usa","share_price":1,"change1d":"1.97%","change1y":"-67.79%","categories":"tech tech-hardware lidar autonomous-driving "}
-{"name":"bitfar","rank":"6078","marketcap":240000000,"country":"canada","share_price":1,"change1d":"0.91%","change1y":"-75.66%","categories":"bitcoin tech bitcoin-mining "}
+{"name":"bitfarms","rank":"6078","marketcap":240000000,"country":"canada","share_price":1,"change1d":"0.91%","change1y":"-75.66%","categories":"bitcoin tech bitcoin-mining "}
 {"name":"akatsuki inc","rank":"6083","marketcap":230000000,"country":"japan","share_price":17,"change1d":"2.62%","change1y":"-27.19%","categories":"video-games entertainment "}
 {"name":"hindustan sanitaryware & industries","rank":"6070","marketcap":240000000,"country":"india","share_price":3,"change1d":"-0.91%","change1y":"4.43%","categories":" "}
 {"name":"commercial vehicle group cvg","rank":"6074","marketcap":240000000,"country":"usa","share_price":7,"change1d":"1.18%","change1y":"-13.89%","categories":" "}
@@ -6472,7 +6472,7 @@
 {"name":"immersion corporation ","rank":"6066","marketcap":240000000,"country":"usa","share_price":7,"change1d":"0.66%","change1y":"42.40%","categories":" "}
 {"name":"bank of innovation","rank":"6058","marketcap":240000000,"country":"japan","share_price":61,"change1d":"7.39%","change1y":"318.82%","categories":"video-games entertainment "}
 {"name":"third coast bancshares","rank":"6042","marketcap":250000000,"country":"usa","share_price":18,"change1d":"-0.54%","change1y":"-26.00%","categories":"banks financial-services "}
-{"name":"oil-dri corporation of america ","rank":"6040","marketcap":250000000,"country":"usa","share_price":35,"change1d":"-0.51%","change1y":"1.48%","categories":" "}
+{"name":"oil-corporation of america ","rank":"6040","marketcap":250000000,"country":"usa","share_price":35,"change1d":"-0.51%","change1y":"1.48%","categories":" "}
 {"name":"subros","rank":"6051","marketcap":240000000,"country":"india","share_price":3,"change1d":"-0.29%","change1y":"-26.78%","categories":"automotive-suppliers "}
 {"name":"brightcove","rank":"6044","marketcap":240000000,"country":"usa","share_price":5,"change1d":"0.17%","change1y":"-39.70%","categories":"internet "}
 {"name":"proqr","rank":"6038","marketcap":250000000,"country":"netherlands","share_price":3,"change1d":"-0.28%","change1y":"-48.08%","categories":"pharmaceuticals biotech "}
@@ -6498,7 +6498,7 @@
 {"name":"oric pharmaceuticals ","rank":"6032","marketcap":250000000,"country":"usa","share_price":6,"change1d":"8.70%","change1y":"-46.02%","categories":"pharmaceuticals "}
 {"name":"parke bancorp","rank":"6028","marketcap":250000000,"country":"usa","share_price":21,"change1d":"2.04%","change1y":"-11.42%","categories":"banks financial-services "}
 {"name":"rent the runway","rank":"6023","marketcap":250000000,"country":"usa","share_price":3,"change1d":"1.30%","change1y":"-27.99%","categories":"e-commerce clothing internet "}
-{"name":"jain irrigation syste ","rank":"6020","marketcap":250000000,"country":"india","share_price":0,"change1d":"0.80%","change1y":"-37.84%","categories":" "}
+{"name":"jain irrigation systems ","rank":"6020","marketcap":250000000,"country":"india","share_price":0,"change1d":"0.80%","change1y":"-37.84%","categories":" "}
 {"name":"cazoo","rank":"6035","marketcap":250000000,"country":"united-kingdom","share_price":0,"change1d":"9.97%","change1y":"-92.94%","categories":"used-car-retailer internet tech car-retail "}
 {"name":"cantabil retail india ","rank":"6033","marketcap":250000000,"country":"india","share_price":15,"change1d":"-0.11%","change1y":"42.09%","categories":"clothing "}
 {"name":"baycom united business bank","rank":"6021","marketcap":250000000,"country":"usa","share_price":19,"change1d":"0.51%","change1y":"-1.56%","categories":"banks financial-services "}
@@ -6554,7 +6554,7 @@
 {"name":"vigil neuroscience","rank":"5575","marketcap":420000000,"country":"usa","share_price":12,"change1d":"0.37%","change1y":"-13.97%","categories":"pharmaceuticals biotech "}
 {"name":"archosaur games","rank":"5561","marketcap":430000000,"country":"china","share_price":0,"change1d":"6.00%","change1y":"-52.63%","categories":"video-games entertainment "}
 {"name":"on24","rank":"5567","marketcap":430000000,"country":"usa","share_price":8,"change1d":"0.65%","change1y":"-46.05%","categories":"software tech "}
-{"name":"mahindra logistics ","rank":"5566","marketcap":430000000,"country":"india","share_price":6,"change1d":"0.66%","change1y":"-38.08%","categories":" "}
+{"name":"mahinlogistics ","rank":"5566","marketcap":430000000,"country":"india","share_price":6,"change1d":"0.66%","change1y":"-38.08%","categories":" "}
 {"name":"vanda pharmaceuticals","rank":"5568","marketcap":430000000,"country":"usa","share_price":7,"change1d":"0.13%","change1y":"-49.20%","categories":"pharmaceuticals biotech "}
 {"name":"webzen","rank":"5562","marketcap":430000000,"country":"south-korea","share_price":13,"change1d":"0.29%","change1y":" ","categories":"video-games entertainment tech "}
 {"name":"west coast paper mills","rank":"5569","marketcap":430000000,"country":"india","share_price":6,"change1d":"0.05%","change1y":"95.51%","categories":"pulp-and-paper "}
@@ -6602,7 +6602,7 @@
 {"name":"indoco remedies ","rank":"5523","marketcap":450000000,"country":"india","share_price":4,"change1d":"1.21%","change1y":"-16.81%","categories":"pharmaceuticals biotech "}
 {"name":"precigen","rank":"5520","marketcap":450000000,"country":"usa","share_price":2,"change1d":"4.31%","change1y":"-32.51%","categories":"pharmaceuticals "}
 {"name":"olympic steel ","rank":"5516","marketcap":450000000,"country":"usa","share_price":41,"change1d":"0.39%","change1y":"66.95%","categories":"steel-industry steel-producers "}
-{"name":"mitek syste ","rank":"5517","marketcap":450000000,"country":"usa","share_price":10,"change1d":"0.20%","change1y":"-37.13%","categories":"software tech "}
+{"name":"mitek systems ","rank":"5517","marketcap":450000000,"country":"usa","share_price":10,"change1d":"0.20%","change1y":"-37.13%","categories":"software tech "}
 {"name":"fubotv","rank":"5518","marketcap":450000000,"country":"usa","share_price":2,"change1d":"3.56%","change1y":"-82.24%","categories":"media-press "}
 {"name":"smartfinancial smartbank","rank":"5515","marketcap":450000000,"country":"usa","share_price":27,"change1d":"-0.40%","change1y":"-1.10%","categories":"banks financial-services "}
 {"name":"optim","rank":"5511","marketcap":450000000,"country":"japan","share_price":8,"change1d":"5.58%","change1y":"-13.11%","categories":"tech software "}
@@ -6665,7 +6665,7 @@
 {"name":"bed bath & beyond","rank":"5337","marketcap":540000000,"country":"usa","share_price":4,"change1d":"13.08%","change1y":"-69.72%","categories":"retail "}
 {"name":"viad ","rank":"5347","marketcap":540000000,"country":"usa","share_price":26,"change1d":"-0.42%","change1y":"-35.40%","categories":" "}
 {"name":"ramkrishna forgings","rank":"5359","marketcap":530000000,"country":"india","share_price":3,"change1d":"1.31%","change1y":"-76.03%","categories":" "}
-{"name":"arcturus therapeutics ","rank":"5353","marketcap":540000000,"country":"usa","share_price":20,"change1d":"5.98%","change1y":"-39.10%","categories":"pharmaceuticals biotech  na-therapeutics "}
+{"name":"arcturus therapeutics ","rank":"5353","marketcap":540000000,"country":"usa","share_price":20,"change1d":"5.98%","change1y":"-39.10%","categories":"pharmaceuticals biotech mrna-therapeutics "}
 {"name":"fdc india","rank":"5357","marketcap":530000000,"country":"india","share_price":3,"change1d":"-0.41%","change1y":"-19.95%","categories":"pharmaceuticals biotech "}
 {"name":"varroc","rank":"5346","marketcap":540000000,"country":"india","share_price":3,"change1d":"-0.43%","change1y":"-40.27%","categories":"automotive-suppliers "}
 {"name":"csb bank ","rank":"5352","marketcap":540000000,"country":"india","share_price":3,"change1d":"3.15%","change1y":"-5.17%","categories":"banks pharmaceuticals "}
@@ -6752,7 +6752,7 @@
 {"name":"stellus capital","rank":"5968","marketcap":260000000,"country":"usa","share_price":13,"change1d":"0.18%","change1y":"4.75%","categories":"financial-services investment "}
 {"name":"prime focus","rank":"5962","marketcap":270000000,"country":"india","share_price":0,"change1d":"1.10%","change1y":"1.12%","categories":" "}
 {"name":"rupa company ","rank":"5967","marketcap":260000000,"country":"india","share_price":3,"change1d":"0.22%","change1y":"-51.78%","categories":"clothing "}
-{"name":"tc limited ","rank":"5965","marketcap":260000000,"country":"india","share_price":3,"change1d":"0.39%","change1y":"-23.45%","categories":"e-commerce tech internet "}
+{"name":"mstc limited ","rank":"5965","marketcap":260000000,"country":"india","share_price":3,"change1d":"0.39%","change1y":"-23.45%","categories":"e-commerce tech internet "}
 {"name":"terran orbital","rank":"5963","marketcap":270000000,"country":"usa","share_price":1,"change1d":"2.70%","change1y":"-80.79%","categories":"aerospace "}
 {"name":"somany ceramics","rank":"5966","marketcap":260000000,"country":"india","share_price":6,"change1d":"0.84%","change1y":"-48.16%","categories":" "}
 {"name":"orange county bancorp","rank":"5964","marketcap":270000000,"country":"usa","share_price":47,"change1d":"0.00%","change1y":"16.19%","categories":"banks financial-services "}
@@ -6775,7 +6775,7 @@
 {"name":"india glycols","rank":"5944","marketcap":270000000,"country":"india","share_price":8,"change1d":"-0.95%","change1y":"-35.41%","categories":" "}
 {"name":"lordstown motors","rank":"5943","marketcap":270000000,"country":"usa","share_price":1,"change1d":"1.75%","change1y":"-59.16%","categories":"automakers electric-vehicles "}
 {"name":"ur energy","rank":"5945","marketcap":270000000,"country":"usa","share_price":1,"change1d":"1.23%","change1y":"0.41%","categories":"uranium energy mining "}
-{"name":"skyx platfor","rank":"5940","marketcap":270000000,"country":"usa","share_price":3,"change1d":"5.00%","change1y":" ","categories":"electronics "}
+{"name":"skyx platforms","rank":"5940","marketcap":270000000,"country":"usa","share_price":3,"change1d":"5.00%","change1y":" ","categories":"electronics "}
 {"name":"daseke","rank":"5942","marketcap":270000000,"country":"usa","share_price":6,"change1d":"2.66%","change1y":"-34.74%","categories":"transportation "}
 {"name":"unity bancorp","rank":"5938","marketcap":270000000,"country":"usa","share_price":26,"change1d":"-0.38%","change1y":"-7.99%","categories":"banks financial-services "}
 {"name":"ethos watches","rank":"5937","marketcap":270000000,"country":"india","share_price":11,"change1d":"-0.93%","change1y":" ","categories":"luxury-goods "}
@@ -6891,7 +6891,7 @@
 {"name":"sanghi industries ","rank":"6129","marketcap":220000000,"country":"india","share_price":0,"change1d":"1.00%","change1y":"1.16%","categories":"cement building-materials "}
 {"name":"compx international","rank":"6132","marketcap":220000000,"country":"usa","share_price":18,"change1d":"0.00%","change1y":"-18.92%","categories":" "}
 {"name":"homepoint","rank":"6124","marketcap":220000000,"country":"usa","share_price":1,"change1d":"0.00%","change1y":"-66.46%","categories":"financial-services "}
-{"name":"plaid,inc","rank":"6123","marketcap":220000000,"country":"japan","share_price":5,"change1d":"1.90%","change1y":"-64.05%","categories":"software tech "}
+{"name":"plaidinc","rank":"6123","marketcap":220000000,"country":"japan","share_price":5,"change1d":"1.90%","change1y":"-64.05%","categories":"software tech "}
 {"name":"alembic limited","rank":"6125","marketcap":220000000,"country":"india","share_price":0,"change1d":"2.79%","change1y":"-38.46%","categories":" "}
 {"name":"hooker furniture","rank":"6126","marketcap":220000000,"country":"usa","share_price":20,"change1d":"-0.45%","change1y":"-13.60%","categories":"furniture "}
 {"name":"perpetua resources","rank":"6128","marketcap":220000000,"country":"usa","share_price":3,"change1d":"3.39%","change1y":"-12.50%","categories":"mining gold-mining silver-mining "}
@@ -6924,7 +6924,7 @@
 {"name":"shenzhen bingchuan network","rank":"5193","marketcap":630000000,"country":"china","share_price":4,"change1d":"1.98%","change1y":"28.40%","categories":"video-games entertainment "}
 {"name":"lindblad expeditions","rank":"5195","marketcap":630000000,"country":"usa","share_price":11,"change1d":"4.15%","change1y":"-35.64%","categories":"travel "}
 {"name":"clover health investments","rank":"5192","marketcap":630000000,"country":"usa","share_price":1,"change1d":"3.63%","change1y":"-58.02%","categories":"healthcare "}
-{"name":"community health syste ","rank":"5200","marketcap":630000000,"country":"usa","share_price":4,"change1d":"1.84%","change1y":"-64.21%","categories":"healthcare medical-care-facilities "}
+{"name":"community health systems ","rank":"5200","marketcap":630000000,"country":"usa","share_price":4,"change1d":"1.84%","change1y":"-64.21%","categories":"healthcare medical-care-facilities "}
 {"name":"rocky brands","rank":"6103","marketcap":230000000,"country":"usa","share_price":31,"change1d":"0.51%","change1y":"-24.45%","categories":"footwear manufacturing "}
 {"name":"aerovate therapeutics","rank":"5184","marketcap":640000000,"country":"usa","share_price":26,"change1d":"4.77%","change1y":"187.46%","categories":"pharmaceuticals biotech "}
 {"name":"allied motion technologies ","rank":"5197","marketcap":630000000,"country":"usa","share_price":39,"change1d":"0.50%","change1y":"1.22%","categories":"electronics tech "}
@@ -6959,7 +6959,7 @@
 {"name":"kelly services ","rank":"5157","marketcap":650000000,"country":"usa","share_price":17,"change1d":"1.04%","change1y":"-5.17%","categories":"professional-services staffing-employment "}
 {"name":"pagaya technologies","rank":"5176","marketcap":640000000,"country":"israel","share_price":0,"change1d":"0.01%","change1y":"-90.37%","categories":"software tech financial-services "}
 {"name":"first mid-illinois bancshares","rank":"5161","marketcap":650000000,"country":"usa","share_price":32,"change1d":"-1.25%","change1y":"-27.71%","categories":"banks financial-services "}
-{"name":"cass information syste","rank":"5159","marketcap":650000000,"country":"usa","share_price":48,"change1d":"-0.64%","change1y":"21.28%","categories":"professional-services financial-services "}
+{"name":"cass information systems","rank":"5159","marketcap":650000000,"country":"usa","share_price":48,"change1d":"-0.64%","change1y":"21.28%","categories":"professional-services financial-services "}
 {"name":"zymeworks","rank":"5150","marketcap":660000000,"country":"canada","share_price":10,"change1d":"5.10%","change1y":"-29.79%","categories":"pharmaceuticals biotech "}
 {"name":"otc markets group ","rank":"5145","marketcap":660000000,"country":"usa","share_price":56,"change1d":"0.00%","change1y":"-6.63%","categories":"financial-services stock-exchanges exchanges "}
 {"name":"rackspace technology","rank":"5153","marketcap":660000000,"country":"usa","share_price":3,"change1d":"4.33%","change1y":"-75.51%","categories":"tech software "}
@@ -6974,7 +6974,7 @@
 {"name":"haynes international ","rank":"5144","marketcap":660000000,"country":"usa","share_price":53,"change1d":"0.57%","change1y":"27.19%","categories":" "}
 {"name":"norma group","rank":"5154","marketcap":660000000,"country":"germany","share_price":20,"change1d":"2.97%","change1y":"-48.04%","categories":" "}
 {"name":"york water","rank":"5147","marketcap":660000000,"country":"usa","share_price":46,"change1d":"-0.30%","change1y":"1.77%","categories":"utility-companies "}
-{"name":"mahindra lifespaces ","rank":"5149","marketcap":660000000,"country":"india","share_price":4,"change1d":"-0.04%","change1y":"19.22%","categories":"real-estate "}
+{"name":"mahinlifespaces ","rank":"5149","marketcap":660000000,"country":"india","share_price":4,"change1d":"-0.04%","change1y":"19.22%","categories":"real-estate "}
 {"name":"delta corp","rank":"5135","marketcap":660000000,"country":"india","share_price":2,"change1d":"-3.79%","change1y":"-37.19%","categories":"gambling hotels entertainment travel "}
 {"name":"oscar health","rank":"5130","marketcap":670000000,"country":"usa","share_price":3,"change1d":"2.96%","change1y":"-56.95%","categories":"healthcare insurance "}
 {"name":"vse corporation","rank":"5139","marketcap":660000000,"country":"usa","share_price":52,"change1d":"0.84%","change1y":"-9.88%","categories":"defense-contractors "}
@@ -7061,7 +7061,7 @@
 {"name":"neuca","rank":"5255","marketcap":590000000,"country":"poland","share_price":137,"change1d":"-2.13%","change1y":"-33.20%","categories":" "}
 {"name":"nurix therapeutics","rank":"5253","marketcap":590000000,"country":"usa","share_price":12,"change1d":"5.79%","change1y":"-45.74%","categories":"pharmaceuticals biotech "}
 {"name":"pds multinational","rank":"5262","marketcap":590000000,"country":"india","share_price":22,"change1d":"2.08%","change1y":"-5.51%","categories":"retail clothing "}
-{"name":"cardiovascular syste","rank":"5263","marketcap":590000000,"country":"usa","share_price":14,"change1d":"0.71%","change1y":"-26.54%","categories":"medical-devices "}
+{"name":"cardiovascular systems","rank":"5263","marketcap":590000000,"country":"usa","share_price":14,"change1d":"0.71%","change1y":"-26.54%","categories":"medical-devices "}
 {"name":"clearwater paper","rank":"5252","marketcap":590000000,"country":"usa","share_price":35,"change1d":"0.34%","change1y":"-3.14%","categories":"pulp-and-paper "}
 {"name":"cion investment","rank":"5249","marketcap":590000000,"country":"usa","share_price":10,"change1d":"0.79%","change1y":"-15.94%","categories":"asset-management investment financial-services "}
 {"name":"hikal","rank":"5251","marketcap":590000000,"country":"india","share_price":4,"change1d":"-0.82%","change1y":"-22.13%","categories":"pharmaceuticals "}
@@ -7140,7 +7140,7 @@
 {"name":"navitas semiconductor","rank":"5088","marketcap":700000000,"country":"ireland","share_price":4,"change1d":"-0.65%","change1y":"-59.16%","categories":"semiconductors tech tech-hardware "}
 {"name":"gorman-rupp","rank":"5069","marketcap":710000000,"country":"usa","share_price":27,"change1d":"0.26%","change1y":"-34.68%","categories":" "}
 {"name":"merus","rank":"5080","marketcap":700000000,"country":"netherlands","share_price":15,"change1d":"-1.23%","change1y":"-46.38%","categories":"biotech pharmaceuticals "}
-{"name":"vital far","rank":"5072","marketcap":710000000,"country":"usa","share_price":17,"change1d":"0.57%","change1y":"-4.84%","categories":"food agriculture "}
+{"name":"vital farms","rank":"5072","marketcap":710000000,"country":"usa","share_price":17,"change1d":"0.57%","change1y":"-4.84%","categories":"food agriculture "}
 {"name":"old second bancorp","rank":"5074","marketcap":710000000,"country":"usa","share_price":15,"change1d":"-1.66%","change1y":"13.01%","categories":"banks financial-services "}
 {"name":"genco shipping & trading","rank":"5078","marketcap":700000000,"country":"usa","share_price":16,"change1d":"0.24%","change1y":"1.58%","categories":"transportation maritime-transportation "}
 {"name":"enhabit","rank":"5068","marketcap":710000000,"country":"usa","share_price":14,"change1d":"4.35%","change1y":" ","categories":"medical-care-facilities healthcare "}
@@ -7211,7 +7211,7 @@
 {"name":"cti biopharma ","rank":"5000","marketcap":750000000,"country":"usa","share_price":5,"change1d":"0.85%","change1y":"168.47%","categories":"pharmaceuticals biotech "}
 {"name":"protolabs","rank":"4999","marketcap":750000000,"country":"usa","share_price":27,"change1d":"1.36%","change1y":"-44.54%","categories":"3d-printing tech "}
 {"name":"atn international","rank":"5008","marketcap":750000000,"country":"usa","share_price":47,"change1d":"0.70%","change1y":"17.10%","categories":"telecommunication "}
-{"name":"al moammar information syste","rank":"5010","marketcap":750000000,"country":"saudi-arabia","share_price":25,"change1d":"0.32%","change1y":"-29.21%","categories":"it-services "}
+{"name":"al moammar information systems","rank":"5010","marketcap":750000000,"country":"saudi-arabia","share_price":25,"change1d":"0.32%","change1y":"-29.21%","categories":"it-services "}
 {"name":"karooooo","rank":"5014","marketcap":740000000,"country":"singapore","share_price":24,"change1d":"-1.26%","change1y":"-27.31%","categories":"software tech "}
 {"name":"aerie pharmaceuticals","rank":"5006","marketcap":750000000,"country":"usa","share_price":15,"change1d":"0.00%","change1y":"101.99%","categories":"pharmaceuticals biotech "}
 {"name":"farmland partners ","rank":"5004","marketcap":750000000,"country":"usa","share_price":13,"change1d":"0.15%","change1y":"10.92%","categories":"real-estate investment reit "}

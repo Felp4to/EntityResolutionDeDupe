@@ -15,12 +15,12 @@
 {"name":"tesla","master_cap":421300000000,"country":"usa","rank":" 15","share_price":133}
 {"name":"jpmorgan chase","master_cap":396360000000,"country":"usa","rank":" 16","share_price":135}
 {"name":"walmart","master_cap":379000000000,"country":"usa","rank":" 17","share_price":140}
-{"name":"meta platfor facebook","master_cap":365450000000,"country":"usa","rank":" 18","share_price":139}
+{"name":"meta platforfacebook","master_cap":365450000000,"country":"usa","rank":" 18","share_price":139}
 {"name":"mastercard","master_cap":361770000000,"country":"usa","rank":" 19","share_price":376}
 {"name":"chevron","master_cap":349790000000,"country":"usa","rank":" 20","share_price":180}
 {"name":"kweichow moutai","master_cap":348710000000,"country":"china","rank":" 21","share_price":277}
 {"name":"procter & gamble","master_cap":338790000000,"country":"usa","rank":" 22","share_price":142}
-{"name":"saung","master_cap":335280000000,"country":"south korea","rank":" 23","share_price":49}
+{"name":"samsung","master_cap":335280000000,"country":"south korea","rank":" 23","share_price":49}
 {"name":"nestle","master_cap":332300000000,"country":"switzerland","rank":" 24","share_price":120}
 {"name":"eli lilly","master_cap":328820000000,"country":"usa","rank":" 25","share_price":346}
 {"name":"home depot","master_cap":321040000000,"country":"usa","rank":" 26","share_price":315}
@@ -232,7 +232,7 @@
 {"name":"general dynamics","master_cap":63910000000,"country":"usa","rank":" 233","share_price":232}
 {"name":"micron technology","master_cap":63790000000,"country":"usa","rank":" 234","share_price":58}
 {"name":"truist financial","master_cap":63580000000,"country":"usa","rank":" 235","share_price":47}
-{"name":"sherwin-willia","master_cap":63570000000,"country":"usa","rank":" 236","share_price":245}
+{"name":"sherwin-williams","master_cap":63570000000,"country":"usa","rank":" 236","share_price":245}
 {"name":"abb","master_cap":63380000000,"country":"switzerland","rank":" 237","share_price":33}
 {"name":"colgate-palmolive","master_cap":63000000000,"country":"usa","rank":" 238","share_price":75}
 {"name":"cme group","master_cap":62970000000,"country":"usa","rank":" 239","share_price":175}
@@ -276,7 +276,7 @@
 {"name":"pioneer natural resources","master_cap":56880000000,"country":"usa","rank":" 277","share_price":239}
 {"name":"the saudi national bank","master_cap":56810000000,"country":"saudi arabia","rank":" 278","share_price":12}
 {"name":"heineken","master_cap":56730000000,"country":"netherlands","rank":" 279","share_price":98}
-{"name":"thoon reuters","master_cap":56550000000,"country":"canada","rank":" 280","share_price":117}
+{"name":"thomson reuters","master_cap":56550000000,"country":"canada","rank":" 280","share_price":117}
 {"name":"relx","master_cap":56510000000,"country":"uk","rank":" 281","share_price":29}
 {"name":"santander","master_cap":56330000000,"country":"spain","rank":" 282","share_price":3}
 {"name":"bharti airtel","master_cap":56090000000,"country":"india","rank":" 283","share_price":9}
@@ -327,10 +327,10 @@
 {"name":"o'reilly automotive","master_cap":49640000000,"country":"usa","rank":" 328","share_price":793}
 {"name":"woodside energy","master_cap":49320000000,"country":"australia","rank":" 329","share_price":25}
 {"name":"daikin","master_cap":49320000000,"country":"japan","rank":" 330","share_price":168}
-{"name":"keurig dr pepper","master_cap":49150000000,"country":"usa","rank":" 331","share_price":34}
+{"name":"keurig pepper","master_cap":49150000000,"country":"usa","rank":" 331","share_price":34}
 {"name":"maaden","master_cap":49040000000,"country":"saudi arabia","rank":" 332","share_price":19}
 {"name":"edwards lifesciences","master_cap":49020000000,"country":"usa","rank":" 333","share_price":79}
-{"name":"cadence design syste","master_cap":48890000000,"country":"usa","rank":" 334","share_price":178}
+{"name":"cadence design systems","master_cap":48890000000,"country":"usa","rank":" 334","share_price":178}
 {"name":"kraft heinz","master_cap":48850000000,"country":"usa","rank":" 335","share_price":39}
 {"name":"stellantis","master_cap":48840000000,"country":"netherlands","rank":" 336","share_price":15}
 {"name":"mitsubishi corporation","master_cap":48740000000,"country":"japan","rank":" 337","share_price":33}
@@ -363,7 +363,7 @@
 {"name":"agilent technologies","master_cap":46160000000,"country":"usa","rank":" 364","share_price":155}
 {"name":"zijin mining","master_cap":46150000000,"country":"china","rank":" 365","share_price":1}
 {"name":"mitsui bussan","master_cap":46140000000,"country":"japan","rank":" 366","share_price":29}
-{"name":"saung biologics","master_cap":46020000000,"country":"south korea","rank":" 367","share_price":646}
+{"name":"samsung biologics","master_cap":46020000000,"country":"south korea","rank":" 367","share_price":646}
 {"name":"east money information","master_cap":45810000000,"country":"china","rank":" 368","share_price":3}
 {"name":"intesa sanpaolo","master_cap":45680000000,"country":"italy","rank":" 369","share_price":2}
 {"name":"general mills","master_cap":45670000000,"country":"usa","rank":" 370","share_price":77}
@@ -396,7 +396,7 @@
 {"name":"tc energy","master_cap":43410000000,"country":"canada","rank":" 397","share_price":43}
 {"name":"centene","master_cap":43120000000,"country":"usa","rank":" 398","share_price":76}
 {"name":"chipotle mexican grill","master_cap":43110000000,"country":"usa","rank":" 399","share_price":1}
-{"name":"kotak mahindra bank","master_cap":43090000000,"country":"india","rank":" 400","share_price":21}
+{"name":"kotak mahinbank","master_cap":43090000000,"country":"india","rank":" 400","share_price":21}
 {"name":"ocbc bank","master_cap":43020000000,"country":"singapore","rank":" 401","share_price":9}
 {"name":"wuxi apptec","master_cap":43000000000,"country":"china","rank":" 402","share_price":13}
 {"name":"motorola solutions","master_cap":42680000000,"country":"usa","rank":" 403","share_price":255}
@@ -427,7 +427,7 @@
 {"name":"biogen","master_cap":41150000000,"country":"usa","rank":" 428","share_price":285}
 {"name":"anta sports","master_cap":41090000000,"country":"china","rank":" 429","share_price":15}
 {"name":"nutrien","master_cap":41000000000,"country":"canada","rank":" 430","share_price":78}
-{"name":"ci","master_cap":40910000000,"country":"usa","rank":" 431","share_price":511}
+{"name":"msci","master_cap":40910000000,"country":"usa","rank":" 431","share_price":511}
 {"name":"arthur j gallagher & co","master_cap":40880000000,"country":"usa","rank":" 432","share_price":193}
 {"name":"constellation brands","master_cap":40760000000,"country":"usa","rank":" 433","share_price":220}
 {"name":"7-eleven","master_cap":40750000000,"country":"japan","rank":" 434","share_price":46}
@@ -462,7 +462,7 @@
 {"name":"wuxi biologics","master_cap":38660000000,"country":"china","rank":" 463","share_price":18}
 {"name":"adani green energy","master_cap":38510000000,"country":"india","rank":" 464","share_price":24}
 {"name":"fortinet","master_cap":38490000000,"country":"usa","rank":" 465","share_price":49}
-{"name":"willia companies","master_cap":38320000000,"country":"usa","rank":" 466","share_price":31}
+{"name":"williacompanies","master_cap":38320000000,"country":"usa","rank":" 466","share_price":31}
 {"name":"rsted","master_cap":37890000000,"country":"denmark","rank":" 467","share_price":88}
 {"name":"jardine matheson","master_cap":37780000000,"country":"hong kong","rank":" 468","share_price":52}
 {"name":"cheniere energy","master_cap":26840000000,"country":"usa","rank":" 667","share_price":55}
@@ -525,7 +525,7 @@
 {"name":"consolidated edison","master_cap":33280000000,"country":"usa","rank":" 527","share_price":93}
 {"name":"pacific gas and electric","master_cap":33220000000,"country":"usa","rank":" 528","share_price":15}
 {"name":"cummins","master_cap":33210000000,"country":"usa","rank":" 529","share_price":235}
-{"name":"saung sdi","master_cap":33159999999,"country":"south korea","rank":" 530","share_price":235}
+{"name":"samsung sdi","master_cap":33159999999,"country":"south korea","rank":" 530","share_price":235}
 {"name":"telstra","master_cap":33080000000,"country":"australia","rank":" 531","share_price":2}
 {"name":"citic bank","master_cap":33080000000,"country":"china","rank":" 532","share_price":0}
 {"name":"waste connections","master_cap":33080000000,"country":"usa","rank":" 533","share_price":128}
@@ -539,7 +539,7 @@
 {"name":"bank of ningbo","master_cap":32720000000,"country":"china","rank":" 541","share_price":4}
 {"name":"ametek","master_cap":32720000000,"country":"usa","rank":" 542","share_price":142}
 {"name":"dollar tree","master_cap":32680000000,"country":"usa","rank":" 543","share_price":147}
-{"name":"bae syste","master_cap":32659999999,"country":"uk","rank":" 544","share_price":10}
+{"name":"bae systems","master_cap":32659999999,"country":"uk","rank":" 544","share_price":10}
 {"name":"airports of thailand","master_cap":32570000000,"country":"thailand","rank":" 545","share_price":2}
 {"name":"d r horton","master_cap":32549999999,"country":"usa","rank":" 546","share_price":94}
 {"name":"capgemini","master_cap":32350000000,"country":"france","rank":" 547","share_price":185}
@@ -567,7 +567,7 @@
 {"name":"bank mandiri","master_cap":31170000000,"country":"indonesia","rank":" 569","share_price":0}
 {"name":"kbc","master_cap":31150000000,"country":"belgium","rank":" 570","share_price":72}
 {"name":"oneok","master_cap":31150000000,"country":"usa","rank":" 571","share_price":69}
-{"name":"vestas wind syste","master_cap":31130000000,"country":"denmark","rank":" 572","share_price":29}
+{"name":"vestas wind systems","master_cap":31130000000,"country":"denmark","rank":" 572","share_price":29}
 {"name":"the people's insurance company picc","master_cap":31040000000,"country":"china","rank":" 573","share_price":0}
 {"name":"smc corp","master_cap":30990000000,"country":"japan","rank":" 574","share_price":474}
 {"name":"rockwell automation","master_cap":30980000000,"country":"usa","rank":" 575","share_price":270}
@@ -694,7 +694,7 @@
 {"name":"ultratech cement","master_cap":25460000000,"country":"india","rank":" 696","share_price":88}
 {"name":"enbw energie","master_cap":25410000000,"country":"germany","rank":" 697","share_price":93}
 {"name":"ebay","master_cap":25320000000,"country":"usa","rank":" 698","share_price":46}
-{"name":"veeva syste","master_cap":25280000000,"country":"usa","rank":" 699","share_price":162}
+{"name":"veeva systems","master_cap":25280000000,"country":"usa","rank":" 699","share_price":162}
 {"name":"lindt","master_cap":25230000000,"country":"switzerland","rank":" 700","share_price":10}
 {"name":"skandinaviska enskilda banken","master_cap":25200000000,"country":"sweden","rank":" 701","share_price":11}
 {"name":"bridgestone","master_cap":25160000000,"country":"japan","rank":" 702","share_price":36}
@@ -794,7 +794,7 @@
 {"name":"sany heavy industry","master_cap":21890000000,"country":"china","rank":" 796","share_price":2}
 {"name":"sumitomo","master_cap":21850000000,"country":"japan","rank":" 797","share_price":17}
 {"name":"chow tai fook","master_cap":21840000000,"country":"hong kong","rank":" 798","share_price":2}
-{"name":"udr apartments","master_cap":21820000000,"country":"usa","rank":" 799","share_price":39}
+{"name":"uapartments","master_cap":21820000000,"country":"usa","rank":" 799","share_price":39}
 {"name":"komatsu","master_cap":21790000000,"country":"japan","rank":" 800","share_price":23}
 {"name":"antofagasta","master_cap":21760000000,"country":"uk","rank":" 801","share_price":21}
 {"name":"china unicom","master_cap":21700000000,"country":"hong kong","rank":" 802","share_price":0}
@@ -861,7 +861,7 @@
 {"name":"cardinal health","master_cap":19870000000,"country":"usa","rank":" 863","share_price":75}
 {"name":"shiseido","master_cap":19870000000,"country":"japan","rank":" 864","share_price":49}
 {"name":"xylem","master_cap":19850000000,"country":"usa","rank":" 865","share_price":110}
-{"name":"epam syste","master_cap":19840000000,"country":"usa","rank":" 866","share_price":345}
+{"name":"epam systems","master_cap":19840000000,"country":"usa","rank":" 866","share_price":345}
 {"name":"ventas","master_cap":19690000000,"country":"usa","rank":" 867","share_price":49}
 {"name":"nexon","master_cap":19670000000,"country":"japan","rank":" 868","share_price":22}
 {"name":"the saudi british bank","master_cap":19650000000,"country":"saudi arabia","rank":" 869","share_price":9}
@@ -869,7 +869,7 @@
 {"name":"nan ya plastics","master_cap":19640000000,"country":"taiwan","rank":" 871","share_price":2}
 {"name":"united microelectronics","master_cap":19640000000,"country":"taiwan","rank":" 872","share_price":7}
 {"name":"j b hunt","master_cap":19610000000,"country":"usa","rank":" 873","share_price":189}
-{"name":"mahindra & mahindra","master_cap":19590000000,"country":"india","rank":" 874","share_price":16}
+{"name":"mahin& mahindra","master_cap":19590000000,"country":"india","rank":" 874","share_price":16}
 {"name":"hologic","master_cap":19580000000,"country":"usa","rank":" 875","share_price":79}
 {"name":"dover","master_cap":19550000000,"country":"usa","rank":" 877","share_price":139}
 {"name":"ez group","master_cap":19550000000,"country":"","rank":" 878","share_price":36}
@@ -882,7 +882,7 @@
 {"name":"west pharmaceutical","master_cap":19210000000,"country":"usa","rank":" 885","share_price":259}
 {"name":"wilmar international","master_cap":19210000000,"country":"singapore","rank":" 886","share_price":3}
 {"name":"powergrid corporation of india","master_cap":19160000000,"country":"india","rank":" 887","share_price":2}
-{"name":"m3, inc","master_cap":19100000000,"country":"japan","rank":" 888","share_price":28}
+{"name":"m3 inc","master_cap":19100000000,"country":"japan","rank":" 888","share_price":28}
 {"name":"posco","master_cap":19060000000,"country":"south korea","rank":" 889","share_price":62}
 {"name":"tata motors","master_cap":19050000000,"country":"india","rank":" 890","share_price":24}
 {"name":"legal & general","master_cap":19030000000,"country":"uk","rank":" 891","share_price":3}
@@ -904,7 +904,7 @@
 {"name":"george weston","master_cap":18680000000,"country":"canada","rank":" 907","share_price":129}
 {"name":"sun communities","master_cap":18670000000,"country":"usa","rank":" 908","share_price":147}
 {"name":"nio","master_cap":18670000000,"country":"china","rank":" 909","share_price":11}
-{"name":"monolithic power syste","master_cap":18670000000,"country":"usa","rank":" 910","share_price":397}
+{"name":"monolithic power systems","master_cap":18670000000,"country":"usa","rank":" 910","share_price":397}
 {"name":"eisai","master_cap":18630000000,"country":"japan","rank":" 911","share_price":64}
 {"name":"formosa plastics","master_cap":18620000000,"country":"taiwan","rank":" 912","share_price":2}
 {"name":"markel","master_cap":18560000000,"country":"usa","rank":" 913","share_price":1}
@@ -935,7 +935,7 @@
 {"name":"wharf reic","master_cap":18030000000,"country":"hong kong","rank":" 938","share_price":5}
 {"name":"guotai junan securities","master_cap":18030000000,"country":"china","rank":" 939","share_price":2}
 {"name":"kb financial group","master_cap":18010000000,"country":"south korea","rank":" 940","share_price":46}
-{"name":"c energy","master_cap":17990000000,"country":"usa","rank":" 941","share_price":62}
+{"name":"cenergy","master_cap":17990000000,"country":"usa","rank":" 941","share_price":62}
 {"name":"shinhan financial group","master_cap":17990000000,"country":"south korea","rank":" 942","share_price":35}
 {"name":"aes","master_cap":17980000000,"country":"usa","rank":" 943","share_price":26}
 {"name":"darden restaurants","master_cap":17930000000,"country":"usa","rank":" 944","share_price":147}
@@ -987,7 +987,7 @@
 {"name":"broadridge financial solutions","master_cap":17210000000,"country":"usa","rank":" 990","share_price":146}
 {"name":"alinma bank","master_cap":17200000000,"country":"saudi arabia","rank":" 991","share_price":8}
 {"name":"abiomed","master_cap":17180000000,"country":"usa","rank":" 992","share_price":381}
-{"name":"&ad insurance","master_cap":17160000000,"country":"japan","rank":" 993","share_price":32}
+{"name":"ms&ad insurance","master_cap":17160000000,"country":"japan","rank":" 993","share_price":32}
 {"name":"targa resources","master_cap":17120000000,"country":"usa","rank":" 994","share_price":75}
 {"name":"bollore","master_cap":17100000000,"country":"france","rank":" 995","share_price":5}
 {"name":"omnicom","master_cap":17079999999,"country":"usa","rank":" 996","share_price":83}
@@ -1001,8 +1001,8 @@
 {"name":"zscaler","master_cap":16890000000,"country":"usa","rank":" 1004","share_price":117}
 {"name":"mitsubishi estate","master_cap":16870000000,"country":"japan","rank":" 1005","share_price":12}
 {"name":"pkn orlen","master_cap":16770000000,"country":"poland","rank":" 1006","share_price":14}
-{"name":"hydro one","master_cap":16730000000,"country":"canada","rank":" 1007","share_price":27}
-{"name":"e-chemie","master_cap":16719999999,"country":"switzerland","rank":" 1008","share_price":715}
+{"name":"hyone","master_cap":16730000000,"country":"canada","rank":" 1007","share_price":27}
+{"name":"ems-chemie","master_cap":16719999999,"country":"switzerland","rank":" 1008","share_price":715}
 {"name":"asm international","master_cap":16710000000,"country":"netherlands","rank":" 1009","share_price":322}
 {"name":"aeon","master_cap":16700000000,"country":"japan","rank":" 1010","share_price":19}
 {"name":"fox corporation","master_cap":16700000000,"country":"usa","rank":" 1011","share_price":29}
@@ -1052,7 +1052,7 @@
 {"name":"sbi life insurance","master_cap":15960000000,"country":"india","rank":" 1056","share_price":15}
 {"name":"synchrony","master_cap":15950000000,"country":"usa","rank":" 1057","share_price":35}
 {"name":"china steel","master_cap":15940000000,"country":"taiwan","rank":" 1058","share_price":1}
-{"name":"syise","master_cap":15930000000,"country":"germany","rank":" 1059","share_price":114}
+{"name":"symrise","master_cap":15930000000,"country":"germany","rank":" 1059","share_price":114}
 {"name":"atmos energy","master_cap":15930000000,"country":"usa","rank":" 1060","share_price":113}
 {"name":"jm smucker company","master_cap":15880000000,"country":"usa","rank":" 1061","share_price":148}
 {"name":"rentokil initial","master_cap":15840000000,"country":"uk","rank":" 1062","share_price":31}
@@ -1078,7 +1078,7 @@
 {"name":"xero","master_cap":15240000000,"country":"new zealand","rank":" 1082","share_price":50}
 {"name":"aviva","master_cap":15220000000,"country":"uk","rank":" 1083","share_price":5}
 {"name":"jde peet's","master_cap":15210000000,"country":"netherlands","rank":" 1084","share_price":30}
-{"name":"coca-cola fea","master_cap":15200000000,"country":"mexico","rank":" 1085","share_price":70}
+{"name":"coca-cola femsa","master_cap":15200000000,"country":"mexico","rank":" 1085","share_price":70}
 {"name":"jacobs engineering","master_cap":15200000000,"country":"usa","rank":" 1086","share_price":120}
 {"name":"teradyne","master_cap":15190000000,"country":"usa","rank":" 1087","share_price":97}
 {"name":"aristocrat","master_cap":15170000000,"country":"australia","rank":" 1088","share_price":23}
@@ -1113,7 +1113,7 @@
 {"name":"palantir","master_cap":14600000000,"country":"usa","rank":" 1117","share_price":7}
 {"name":"bunge","master_cap":14590000000,"country":"usa","rank":" 1118","share_price":97}
 {"name":"south32","master_cap":14550000000,"country":"australia","rank":" 1119","share_price":3}
-{"name":"bangkok dusit medical services bd","master_cap":14540000000,"country":"thailand","rank":" 1120","share_price":0}
+{"name":"bangkok dusit medical services bdms","master_cap":14540000000,"country":"thailand","rank":" 1120","share_price":0}
 {"name":"westlake chemical","master_cap":14520000000,"country":"usa","rank":" 1121","share_price":113}
 {"name":"nomura research institute","master_cap":14520000000,"country":"japan","rank":" 1122","share_price":24}
 {"name":"sasa polyester","master_cap":14520000000,"country":"turkey","rank":" 1123","share_price":6}
@@ -1123,7 +1123,7 @@
 {"name":"sodexo","master_cap":14490000000,"country":"france","rank":" 1127","share_price":99}
 {"name":"essex property trust","master_cap":14490000000,"country":"usa","rank":" 1128","share_price":216}
 {"name":"burlington stores","master_cap":14460000000,"country":"usa","rank":" 1129","share_price":221}
-{"name":"abn ao","master_cap":14450000000,"country":"netherlands","rank":" 1130","share_price":15}
+{"name":"abn amro","master_cap":14450000000,"country":"netherlands","rank":" 1130","share_price":15}
 {"name":"coinbase","master_cap":14440000000,"country":"usa","rank":" 1131","share_price":55}
 {"name":"enel americas","master_cap":14440000000,"country":"chile","rank":" 1132","share_price":0}
 {"name":"healthpeak properties","master_cap":14430000000,"country":"usa","rank":" 1133","share_price":26}
@@ -1183,7 +1183,7 @@
 {"name":"hindalco industries","master_cap":13450000000,"country":"india","rank":" 1187","share_price":6}
 {"name":"continental","master_cap":13440000000,"country":"germany","rank":" 1188","share_price":67}
 {"name":"gaming and leisure properties","master_cap":13440000000,"country":"usa","rank":" 1189","share_price":52}
-{"name":"chandra asri petrochemical","master_cap":13420000000,"country":"indonesia","rank":" 1190","share_price":0}
+{"name":"chanasri petrochemical","master_cap":13420000000,"country":"indonesia","rank":" 1190","share_price":0}
 {"name":"siemens india","master_cap":13420000000,"country":"india","rank":" 1191","share_price":37}
 {"name":"grasim industries","master_cap":13410000000,"country":"india","rank":" 1192","share_price":20}
 {"name":"bio-rad laboratories","master_cap":13400000000,"country":"usa","rank":" 1193","share_price":457}
@@ -1387,13 +1387,13 @@
 {"name":"regency centers","master_cap":11050000000,"country":"usa","rank":" 1391","share_price":64}
 {"name":"teleflex","master_cap":11050000000,"country":"usa","rank":" 1392","share_price":235}
 {"name":"nisource","master_cap":11050000000,"country":"usa","rank":" 1393","share_price":27}
-{"name":"bentley syste","master_cap":11040000000,"country":"usa","rank":" 1394","share_price":38}
+{"name":"bentley systems","master_cap":11040000000,"country":"usa","rank":" 1394","share_price":38}
 {"name":"c h robinson","master_cap":11010000000,"country":"usa","rank":" 1395","share_price":93}
 {"name":"okta","master_cap":11000000000,"country":"usa","rank":" 1396","share_price":68}
 {"name":"billcom","master_cap":10990000000,"country":"usa","rank":" 1397","share_price":104}
 {"name":"scentre group","master_cap":10990000000,"country":"australia","rank":" 1398","share_price":2}
 {"name":"flex","master_cap":10970000000,"country":"singapore","rank":" 1399","share_price":24}
-{"name":"knorr-bree","master_cap":10970000000,"country":"germany","rank":" 1400","share_price":64}
+{"name":"knorr-bremse","master_cap":10970000000,"country":"germany","rank":" 1400","share_price":64}
 {"name":"gerdau","master_cap":10960000000,"country":"brazil","rank":" 1401","share_price":6}
 {"name":"yakult","master_cap":10960000000,"country":"japan","rank":" 1402","share_price":70}
 {"name":"eneos holdings","master_cap":10960000000,"country":"japan","rank":" 1403","share_price":3}
@@ -1429,7 +1429,7 @@
 {"name":"ceridian","master_cap":10710000000,"country":"usa","rank":" 1433","share_price":69}
 {"name":"kakaobank","master_cap":10700000000,"country":"south korea","rank":" 1434","share_price":22}
 {"name":"neurocrine biosciences","master_cap":10700000000,"country":"usa","rank":" 1435","share_price":111}
-{"name":"raay health care","master_cap":10690000000,"country":"australia","rank":" 1436","share_price":46}
+{"name":"ramsay health care","master_cap":10690000000,"country":"australia","rank":" 1436","share_price":46}
 {"name":"hongkong land","master_cap":10670000000,"country":"hong kong","rank":" 1437","share_price":4}
 {"name":"aegon","master_cap":10670000000,"country":"netherlands","rank":" 1438","share_price":5}
 {"name":"universal health services","master_cap":10670000000,"country":"usa","rank":" 1439","share_price":149}
@@ -1459,7 +1459,7 @@
 {"name":"builders firstsource","master_cap":10440000000,"country":"usa","rank":" 1463","share_price":70}
 {"name":"kasikornbank","master_cap":10440000000,"country":"thailand","rank":" 1464","share_price":4}
 {"name":"carmax","master_cap":10440000000,"country":"usa","rank":" 1465","share_price":66}
-{"name":"oon","master_cap":10430000000,"country":"japan","rank":" 1466","share_price":52}
+{"name":"omron","master_cap":10430000000,"country":"japan","rank":" 1466","share_price":52}
 {"name":"banco de chile","master_cap":10430000000,"country":"chile","rank":" 1467","share_price":20}
 {"name":"ana holdings","master_cap":10430000000,"country":"japan","rank":" 1468","share_price":22}
 {"name":"borgwarner","master_cap":10390000000,"country":"usa","rank":" 1469","share_price":44}
@@ -1472,7 +1472,7 @@
 {"name":"hindustan aeronautics","master_cap":10320000000,"country":"india","rank":" 1476","share_price":30}
 {"name":"suntory","master_cap":10320000000,"country":"japan","rank":" 1477","share_price":33}
 {"name":"synnex","master_cap":10320000000,"country":"usa","rank":" 1478","share_price":109}
-{"name":"saung life insurance","master_cap":10310000000,"country":"south korea","rank":" 1479","share_price":57}
+{"name":"samsung life insurance","master_cap":10310000000,"country":"south korea","rank":" 1479","share_price":57}
 {"name":"bath & body works","master_cap":10280000000,"country":"usa","rank":" 1480","share_price":45}
 {"name":"galp energia","master_cap":10260000000,"country":"portugal","rank":" 1481","share_price":13}
 {"name":"dick's sporting goods","master_cap":10260000000,"country":"usa","rank":" 1482","share_price":123}
@@ -1579,7 +1579,7 @@
 {"name":"churchill downs","master_cap":9090000000,"country":"usa","rank":" 1584","share_price":243}
 {"name":"store capital","master_cap":9090000000,"country":"usa","rank":" 1585","share_price":32}
 {"name":"kesko","master_cap":9080000000,"country":"finland","rank":" 1586","share_price":22}
-{"name":"saung electro-mechanics","master_cap":9080000000,"country":"south korea","rank":" 1587","share_price":56}
+{"name":"samsung electro-mechanics","master_cap":9080000000,"country":"south korea","rank":" 1587","share_price":56}
 {"name":"legend biotech","master_cap":9070000000,"country":"usa","rank":" 1588","share_price":54}
 {"name":"nov","master_cap":9070000000,"country":"usa","rank":" 1589","share_price":23}
 {"name":"lincoln electric","master_cap":9070000000,"country":"usa","rank":" 1590","share_price":156}
@@ -1600,7 +1600,7 @@
 {"name":"meridian energy","master_cap":8950000000,"country":"new zealand","rank":" 1605","share_price":3}
 {"name":"yandex","master_cap":8950000000,"country":"netherlands","rank":" 1606","share_price":24}
 {"name":"opentext","master_cap":8930000000,"country":"canada","rank":" 1607","share_price":33}
-{"name":"dr reddy's","master_cap":8930000000,"country":"india","rank":" 1608","share_price":53}
+{"name":"reddy's","master_cap":8930000000,"country":"india","rank":" 1608","share_price":53}
 {"name":"cognex","master_cap":8910000000,"country":"usa","rank":" 1609","share_price":51}
 {"name":"mondi","master_cap":8910000000,"country":"uk","rank":" 1610","share_price":18}
 {"name":"regal rexnord","master_cap":8910000000,"country":"usa","rank":" 1611","share_price":134}
@@ -1703,7 +1703,7 @@
 {"name":"dino polska","master_cap":8240000000,"country":"poland","rank":" 1709","share_price":84}
 {"name":"lifco","master_cap":8240000000,"country":"sweden","rank":" 1710","share_price":18}
 {"name":"us foods","master_cap":8240000000,"country":"usa","rank":" 1711","share_price":36}
-{"name":"willia-sonoma","master_cap":8230000000,"country":"usa","rank":" 1712","share_price":123}
+{"name":"williams-sonoma","master_cap":8230000000,"country":"usa","rank":" 1712","share_price":123}
 {"name":"wharf holdings","master_cap":8210000000,"country":"hong kong","rank":" 1713","share_price":2}
 {"name":"commerce bancshares","master_cap":8210000000,"country":"usa","rank":" 1714","share_price":65}
 {"name":"whirlpool","master_cap":8210000000,"country":"usa","rank":" 1715","share_price":150}
@@ -1777,7 +1777,7 @@
 {"name":"oge energy","master_cap":7670000000,"country":"usa","rank":" 1784","share_price":38}
 {"name":"arkema","master_cap":7660000000,"country":"france","rank":" 1785","share_price":100}
 {"name":"canadian utilities","master_cap":7660000000,"country":"canada","rank":" 1786","share_price":28}
-{"name":"elbit syste","master_cap":7660000000,"country":"israel","rank":" 1787","share_price":170}
+{"name":"elbit systems","master_cap":7660000000,"country":"israel","rank":" 1787","share_price":170}
 {"name":"manhattan associates","master_cap":7650000000,"country":"usa","rank":" 1788","share_price":122}
 {"name":"abb india","master_cap":7650000000,"country":"india","rank":" 1789","share_price":36}
 {"name":"bajaj holdings & investment","master_cap":7640000000,"country":"india","rank":" 1790","share_price":68}
@@ -1827,7 +1827,7 @@
 {"name":"aptargroup","master_cap":7390000000,"country":"usa","rank":" 1834","share_price":113}
 {"name":"globus medical","master_cap":7390000000,"country":"usa","rank":" 1835","share_price":74}
 {"name":"new fortress energy","master_cap":7380000000,"country":"usa","rank":" 1836","share_price":35}
-{"name":"advanced drainage syste","master_cap":7380000000,"country":"usa","rank":" 1837","share_price":89}
+{"name":"advanced drainage systems","master_cap":7380000000,"country":"usa","rank":" 1837","share_price":89}
 {"name":"etihad etisalat mobily","master_cap":7380000000,"country":"saudi arabia","rank":" 1838","share_price":9}
 {"name":"dish network","master_cap":7370000000,"country":"usa","rank":" 1839","share_price":13}
 {"name":"orkla","master_cap":7370000000,"country":"norway","rank":" 1840","share_price":7}
@@ -1842,7 +1842,7 @@
 {"name":"igm financial","master_cap":7320000000,"country":"canada","rank":" 1849","share_price":30}
 {"name":"jfe holdings","master_cap":7310000000,"country":"japan","rank":" 1850","share_price":12}
 {"name":"nestle malaysia","master_cap":7310000000,"country":"malaysia","rank":" 1851","share_price":31}
-{"name":"inspire medical syste","master_cap":7310000000,"country":"usa","rank":" 1852","share_price":253}
+{"name":"inspire medical systems","master_cap":7310000000,"country":"usa","rank":" 1852","share_price":253}
 {"name":"baloise","master_cap":7290000000,"country":"switzerland","rank":" 1853","share_price":161}
 {"name":"roku","master_cap":7290000000,"country":"usa","rank":" 1854","share_price":52}
 {"name":"zozo","master_cap":7280000000,"country":"japan","rank":" 1855","share_price":24}
@@ -1921,7 +1921,7 @@
 {"name":"restoration hardware","master_cap":6900000000,"country":"usa","rank":" 1928","share_price":299}
 {"name":"reece group","master_cap":6890000000,"country":"australia","rank":" 1929","share_price":10}
 {"name":"banca mediolanum","master_cap":6880000000,"country":"italy","rank":" 1930","share_price":9}
-{"name":"generac power syste","master_cap":6870000000,"country":"usa","rank":" 1931","share_price":108}
+{"name":"generac power systems","master_cap":6870000000,"country":"usa","rank":" 1931","share_price":108}
 {"name":"sensata technologies","master_cap":6860000000,"country":"usa","rank":" 1932","share_price":44}
 {"name":"globant","master_cap":6850000000,"country":"","rank":" 1933","share_price":164}
 {"name":"atlas arteria","master_cap":6850000000,"country":"australia","rank":" 1934","share_price":4}
@@ -2006,7 +2006,7 @@
 {"name":"starwood property trust","master_cap":6530000000,"country":"usa","rank":" 2013","share_price":20}
 {"name":"oz minerals","master_cap":6510000000,"country":"australia","rank":" 2014","share_price":19}
 {"name":"norwegian cruise line","master_cap":6510000000,"country":"usa","rank":" 2015","share_price":15}
-{"name":"saara","master_cap":6490000000,"country":"usa","rank":" 2016","share_price":12}
+{"name":"samsara","master_cap":6490000000,"country":"usa","rank":" 2016","share_price":12}
 {"name":"tpg telecom","master_cap":6470000000,"country":"australia","rank":" 2017","share_price":3}
 {"name":"nvent electric","master_cap":6470000000,"country":"uk","rank":" 2018","share_price":38}
 {"name":"stockland","master_cap":6470000000,"country":"australia","rank":" 2019","share_price":2}
@@ -2071,7 +2071,7 @@
 {"name":"newell brands","master_cap":6220000000,"country":"usa","rank":" 2078","share_price":15}
 {"name":"raiffeisen bank international","master_cap":6220000000,"country":"","rank":" 2079","share_price":18}
 {"name":"doximity","master_cap":6210000000,"country":"usa","rank":" 2080","share_price":32}
-{"name":"allegro microsyste","master_cap":6200000000,"country":"usa","rank":" 2081","share_price":32}
+{"name":"allegro microsystems","master_cap":6200000000,"country":"usa","rank":" 2081","share_price":32}
 {"name":"bombardier recreational products","master_cap":6200000000,"country":"canada","rank":" 2082","share_price":79}
 {"name":"unimicron","master_cap":6200000000,"country":"taiwan","rank":" 2083","share_price":4}
 {"name":"canadian apartment properties reit","master_cap":6190000000,"country":"canada","rank":" 2084","share_price":35}
@@ -2128,7 +2128,7 @@
 {"name":"rli corp","master_cap":6030000000,"country":"usa","rank":" 2135","share_price":133}
 {"name":"littelfuse","master_cap":6030000000,"country":"usa","rank":" 2136","share_price":243}
 {"name":"rockwool","master_cap":6030000000,"country":"denmark","rank":" 2137","share_price":272}
-{"name":"descartes syste","master_cap":6020000000,"country":"canada","rank":" 2138","share_price":71}
+{"name":"descartes systems","master_cap":6020000000,"country":"canada","rank":" 2138","share_price":71}
 {"name":"polaris","master_cap":6020000000,"country":"usa","rank":" 2139","share_price":103}
 {"name":"garantibank","master_cap":6010000000,"country":"turkey","rank":" 2140","share_price":1}
 {"name":"rightmove","master_cap":6000000000,"country":"uk","rank":" 2141","share_price":7}
@@ -2261,7 +2261,7 @@
 {"name":"clariant","master_cap":5470000000,"country":"switzerland","rank":" 2268","share_price":16}
 {"name":"madrigal pharmaceuticals","master_cap":5470000000,"country":"usa","rank":" 2269","share_price":306}
 {"name":"ebos group","master_cap":5460000000,"country":"new zealand","rank":" 2270","share_price":28}
-{"name":"toa","master_cap":5450000000,"country":"norway","rank":" 2271","share_price":18}
+{"name":"tomra","master_cap":5450000000,"country":"norway","rank":" 2271","share_price":18}
 {"name":"novanta","master_cap":5450000000,"country":"usa","rank":" 2272","share_price":152}
 {"name":"zydus lifesciences","master_cap":5450000000,"country":"india","rank":" 2273","share_price":5}
 {"name":"lundin mining","master_cap":5450000000,"country":"canada","rank":" 2274","share_price":7}
@@ -2348,7 +2348,7 @@
 {"name":"ashok leyland","master_cap":5200000000,"country":"india","rank":" 2355","share_price":1}
 {"name":"muthoot finance","master_cap":5200000000,"country":"india","rank":" 2356","share_price":12}
 {"name":"stevanato","master_cap":5180000000,"country":"italy","rank":" 2357","share_price":19}
-{"name":"a safety","master_cap":5180000000,"country":"usa","rank":" 2358","share_price":132}
+{"name":"safety","master_cap":5180000000,"country":"usa","rank":" 2358","share_price":132}
 {"name":"glacier bancorp","master_cap":5180000000,"country":"usa","rank":" 2359","share_price":46}
 {"name":"akbank","master_cap":5180000000,"country":"turkey","rank":" 2360","share_price":1}
 {"name":"dt midstream","master_cap":5170000000,"country":"usa","rank":" 2361","share_price":53}
@@ -2592,8 +2592,8 @@
 {"name":"bumble","master_cap":4430000000,"country":"usa","rank":" 2599","share_price":24}
 {"name":"box","master_cap":4420000000,"country":"usa","rank":" 2600","share_price":30}
 {"name":"a1 telekom austria","master_cap":4420000000,"country":"","rank":" 2601","share_price":6}
-{"name":"c industrial direct","master_cap":4420000000,"country":"usa","rank":" 2602","share_price":79}
-{"name":"g sports","master_cap":4420000000,"country":"usa","rank":" 2603","share_price":181}
+{"name":"industrial direct","master_cap":4420000000,"country":"usa","rank":" 2602","share_price":79}
+{"name":"sports","master_cap":4420000000,"country":"usa","rank":" 2603","share_price":181}
 {"name":"aurubis","master_cap":4420000000,"country":"germany","rank":" 2604","share_price":101}
 {"name":"sjm holdings","master_cap":4410000000,"country":"hong kong","rank":" 2605","share_price":0}
 {"name":"macom","master_cap":4410000000,"country":"usa","rank":" 2606","share_price":62}
@@ -2666,7 +2666,7 @@
 {"name":"herc holdings","master_cap":4190000000,"country":"usa","rank":" 2673","share_price":143}
 {"name":"spectris","master_cap":4190000000,"country":"uk","rank":" 2674","share_price":38}
 {"name":"evolution mining","master_cap":4190000000,"country":"australia","rank":" 2675","share_price":2}
-{"name":"comfort syste","master_cap":4179999999,"country":"usa","rank":" 2676","share_price":117}
+{"name":"comfort systems","master_cap":4179999999,"country":"usa","rank":" 2676","share_price":117}
 {"name":"tokyo century","master_cap":4170000000,"country":"japan","rank":" 2677","share_price":34}
 {"name":"onex","master_cap":4170000000,"country":"canada","rank":" 2678","share_price":50}
 {"name":"electrolux","master_cap":4160000000,"country":"sweden","rank":" 2679","share_price":17}
@@ -2695,7 +2695,7 @@
 {"name":"blackline","master_cap":4110000000,"country":"usa","rank":" 2702","share_price":68}
 {"name":"petronet lng","master_cap":4110000000,"country":"india","rank":" 2703","share_price":2}
 {"name":"umb financial","master_cap":4110000000,"country":"usa","rank":" 2704","share_price":85}
-{"name":"casella waste syste","master_cap":4110000000,"country":"usa","rank":" 2705","share_price":79}
+{"name":"casella waste systems","master_cap":4110000000,"country":"usa","rank":" 2705","share_price":79}
 {"name":"vakfbank","master_cap":4110000000,"country":"turkey","rank":" 2706","share_price":0}
 {"name":"tui","master_cap":4110000000,"country":"germany","rank":" 2707","share_price":2}
 {"name":"parkland corp","master_cap":4090000000,"country":"canada","rank":" 2708","share_price":23}
@@ -2708,7 +2708,7 @@
 {"name":"huhtamaki","master_cap":4070000000,"country":"finland","rank":" 2715","share_price":39}
 {"name":"dufry","master_cap":4059999999,"country":"switzerland","rank":" 2716","share_price":44}
 {"name":"elis","master_cap":4059999999,"country":"france","rank":" 2717","share_price":16}
-{"name":"persistent syste","master_cap":4059999999,"country":"india","rank":" 2718","share_price":53}
+{"name":"persistent systems","master_cap":4059999999,"country":"india","rank":" 2718","share_price":53}
 {"name":"applovin","master_cap":4059999999,"country":"usa","rank":" 2719","share_price":10}
 {"name":"sentinelone","master_cap":4059999999,"country":"usa","rank":" 2720","share_price":14}
 {"name":"crescent point energy","master_cap":4050000000,"country":"canada","rank":" 2721","share_price":7}
@@ -2883,7 +2883,7 @@
 {"name":"kosmos energy","master_cap":3610000000,"country":"usa","rank":" 2890","share_price":7}
 {"name":"ncr corporation","master_cap":3610000000,"country":"usa","rank":" 2891","share_price":26}
 {"name":"china lesso group","master_cap":3610000000,"country":"china","rank":" 2892","share_price":1}
-{"name":"interparfu","master_cap":3600000000,"country":"usa","rank":" 2893","share_price":113}
+{"name":"interparfums","master_cap":3600000000,"country":"usa","rank":" 2893","share_price":113}
 {"name":"smartcentres reit","master_cap":3590000000,"country":"canada","rank":" 2894","share_price":21}
 {"name":"imerys","master_cap":3590000000,"country":"france","rank":" 2895","share_price":42}
 {"name":"innolux","master_cap":3590000000,"country":"taiwan","rank":" 2896","share_price":0}
@@ -2964,14 +2964,14 @@
 {"name":"federated hermes","master_cap":3400000000,"country":"usa","rank":" 2971","share_price":38}
 {"name":"sega sammy holdings","master_cap":3400000000,"country":"japan","rank":" 2972","share_price":15}
 {"name":"escorts limited","master_cap":3400000000,"country":"india","rank":" 2973","share_price":25}
-{"name":"spirit aerosyste","master_cap":3400000000,"country":"usa","rank":" 2974","share_price":32}
+{"name":"spirit aerosystems","master_cap":3400000000,"country":"usa","rank":" 2974","share_price":32}
 {"name":"cactus wellhead","master_cap":3400000000,"country":"usa","rank":" 2975","share_price":53}
 {"name":"kohl's","master_cap":3390000000,"country":"usa","rank":" 2976","share_price":30}
 {"name":"duolingo","master_cap":3390000000,"country":"usa","rank":" 2977","share_price":84}
 {"name":"quaker houghton","master_cap":3390000000,"country":"usa","rank":" 2978","share_price":189}
 {"name":"life time group","master_cap":3390000000,"country":"usa","rank":" 2979","share_price":17}
 {"name":"asm pacific technology","master_cap":3390000000,"country":"hong kong","rank":" 2980","share_price":8}
-{"name":"artrong world industries","master_cap":3390000000,"country":"usa","rank":" 2981","share_price":74}
+{"name":"armstrong world industries","master_cap":3390000000,"country":"usa","rank":" 2981","share_price":74}
 {"name":"workman","master_cap":3380000000,"country":"japan","rank":" 2982","share_price":41}
 {"name":"boyd group","master_cap":3380000000,"country":"canada","rank":" 2983","share_price":157}
 {"name":"newmarket corp","master_cap":3380000000,"country":"usa","rank":" 2984","share_price":342}
@@ -2979,7 +2979,7 @@
 {"name":"jackson financial","master_cap":3380000000,"country":"usa","rank":" 2986","share_price":40}
 {"name":"mercari","master_cap":3370000000,"country":"japan","rank":" 2987","share_price":20}
 {"name":"amtrust financial services","master_cap":3370000000,"country":"usa","rank":" 2988","share_price":17}
-{"name":"quantucape","master_cap":3360000000,"country":"usa","rank":" 2989","share_price":7}
+{"name":"quantumscape","master_cap":3360000000,"country":"usa","rank":" 2989","share_price":7}
 {"name":"badger meter","master_cap":3360000000,"country":"usa","rank":" 2990","share_price":115}
 {"name":"associated banc-corp","master_cap":3360000000,"country":"usa","rank":" 2991","share_price":22}
 {"name":"teradata","master_cap":3360000000,"country":"usa","rank":" 2992","share_price":33}
@@ -3071,7 +3071,7 @@
 {"name":"idorsia","master_cap":3160000000,"country":"switzerland","rank":" 3078","share_price":17}
 {"name":"terex","master_cap":3160000000,"country":"usa","rank":" 3079","share_price":46}
 {"name":"billerudkorsnas","master_cap":3160000000,"country":"sweden","rank":" 3080","share_price":12}
-{"name":" cooper group","master_cap":3160000000,"country":"usa","rank":" 3081","share_price":44}
+{"name":"cooper group","master_cap":3160000000,"country":"usa","rank":" 3081","share_price":44}
 {"name":"alumina limited","master_cap":3160000000,"country":"australia","rank":" 3082","share_price":1}
 {"name":"viva energy","master_cap":3160000000,"country":"australia","rank":" 3083","share_price":2}
 {"name":"bellway","master_cap":3160000000,"country":"uk","rank":" 3084","share_price":25}
@@ -3095,7 +3095,7 @@
 {"name":"vz holding","master_cap":3130000000,"country":"switzerland","rank":" 3102","share_price":79}
 {"name":"acadia pharmaceuticals","master_cap":3130000000,"country":"usa","rank":" 3103","share_price":19}
 {"name":"frontline","master_cap":3130000000,"country":"","rank":" 3104","share_price":14}
-{"name":"pegasyste","master_cap":3120000000,"country":"usa","rank":" 3105","share_price":38}
+{"name":"pegasystems","master_cap":3120000000,"country":"usa","rank":" 3105","share_price":38}
 {"name":"atlantica","master_cap":3120000000,"country":"uk","rank":" 3106","share_price":26}
 {"name":"kinaxis","master_cap":3120000000,"country":"canada","rank":" 3107","share_price":112}
 {"name":"eastern bankshares","master_cap":3120000000,"country":"usa","rank":" 3108","share_price":17}
@@ -3177,21 +3177,21 @@
 {"name":"linamar","master_cap":2960000000,"country":"canada","rank":" 3184","share_price":47}
 {"name":"graham holdings","master_cap":2960000000,"country":"usa","rank":" 3185","share_price":617}
 {"name":"wsfs financial","master_cap":2960000000,"country":"usa","rank":" 3186","share_price":48}
-{"name":"cotock resources","master_cap":2960000000,"country":"usa","rank":" 3187","share_price":12}
+{"name":"comstock resources","master_cap":2960000000,"country":"usa","rank":" 3187","share_price":12}
 {"name":"shangri-la","master_cap":2960000000,"country":"hong kong","rank":" 3188","share_price":0}
 {"name":"certara","master_cap":2950000000,"country":"usa","rank":" 3189","share_price":18}
 {"name":"grupo aval","master_cap":2950000000,"country":"","rank":" 3190","share_price":2}
 {"name":"westports","master_cap":2950000000,"country":"malaysia","rank":" 3191","share_price":0}
 {"name":"abcellera","master_cap":2950000000,"country":"canada","rank":" 3192","share_price":10}
 {"name":"kansai paint","master_cap":2950000000,"country":"japan","rank":" 3193","share_price":12}
-{"name":"g group","master_cap":2950000000,"country":"india","rank":" 3194","share_price":0}
+{"name":"ggroup","master_cap":2950000000,"country":"india","rank":" 3194","share_price":0}
 {"name":"rubis","master_cap":2950000000,"country":"france","rank":" 3195","share_price":27}
 {"name":"bausch health","master_cap":2940000000,"country":"canada","rank":" 3196","share_price":8}
 {"name":"abm industries","master_cap":2940000000,"country":"usa","rank":" 3197","share_price":44}
-{"name":"saung heavy industries","master_cap":2940000000,"country":"south korea","rank":" 3198","share_price":145}
+{"name":"samsung heavy industries","master_cap":2940000000,"country":"south korea","rank":" 3198","share_price":145}
 {"name":"pennon group","master_cap":2940000000,"country":"uk","rank":" 3199","share_price":11}
 {"name":"conmed","master_cap":2940000000,"country":"usa","rank":" 3200","share_price":96}
-{"name":"hannon artrong","master_cap":2940000000,"country":"usa","rank":" 3201","share_price":33}
+{"name":"hannon armstrong","master_cap":2940000000,"country":"usa","rank":" 3201","share_price":33}
 {"name":"hensoldt","master_cap":2940000000,"country":"germany","rank":" 3202","share_price":28}
 {"name":"encavis","master_cap":2940000000,"country":"germany","rank":" 3203","share_price":18}
 {"name":"highpeak energy","master_cap":2930000000,"country":"usa","rank":" 3204","share_price":25}
@@ -3218,7 +3218,7 @@
 {"name":"park hotels & resorts","master_cap":2900000000,"country":"usa","rank":" 3225","share_price":12}
 {"name":"pacific premier bancorp","master_cap":2900000000,"country":"usa","rank":" 3226","share_price":30}
 {"name":"curaleaf","master_cap":2890000000,"country":"usa","rank":" 3227","share_price":4}
-{"name":"harmonic drive syste","master_cap":2890000000,"country":"japan","rank":" 3228","share_price":30}
+{"name":"harmonic drive systems","master_cap":2890000000,"country":"japan","rank":" 3228","share_price":30}
 {"name":"atlas air worldwide holdings","master_cap":2890000000,"country":"usa","rank":" 3229","share_price":102}
 {"name":"petco","master_cap":2890000000,"country":"usa","rank":" 3230","share_price":10}
 {"name":"sumitomo chemical india","master_cap":2890000000,"country":"india","rank":" 3231","share_price":5}
@@ -3271,7 +3271,7 @@
 {"name":"dorman products","master_cap":2810000000,"country":"usa","rank":" 3278","share_price":89}
 {"name":"ironsource","master_cap":2810000000,"country":"israel","rank":" 3279","share_price":2}
 {"name":"gland pharma","master_cap":2810000000,"country":"india","rank":" 3280","share_price":17}
-{"name":"mercury syste","master_cap":2800000000,"country":"usa","rank":" 3281","share_price":48}
+{"name":"mercury systems","master_cap":2800000000,"country":"usa","rank":" 3281","share_price":48}
 {"name":"lithium americas","master_cap":2800000000,"country":"canada","rank":" 3282","share_price":20}
 {"name":"patterson companies","master_cap":2800000000,"country":"usa","rank":" 3283","share_price":28}
 {"name":"simcorp","master_cap":2800000000,"country":"denmark","rank":" 3284","share_price":69}
@@ -3468,7 +3468,7 @@
 {"name":"compagnie plastic omnium","master_cap":2470000000,"country":"france","rank":" 3475","share_price":16}
 {"name":"baytex energy","master_cap":2470000000,"country":"canada","rank":" 3476","share_price":4}
 {"name":"bata india","master_cap":2470000000,"country":"india","rank":" 3477","share_price":19}
-{"name":"a ag","master_cap":2470000000,"country":"","rank":" 3478","share_price":9}
+{"name":"aag","master_cap":2470000000,"country":"","rank":" 3478","share_price":9}
 {"name":"genus","master_cap":2470000000,"country":"uk","rank":" 3479","share_price":37}
 {"name":"hays plc","master_cap":2460000000,"country":"uk","rank":" 3480","share_price":1}
 {"name":"joby aviation","master_cap":2460000000,"country":"usa","rank":" 3481","share_price":3}
@@ -3481,7 +3481,7 @@
 {"name":"permata bank","master_cap":2440000000,"country":"indonesia","rank":" 3488","share_price":0}
 {"name":"britvic","master_cap":2440000000,"country":"uk","rank":" 3489","share_price":9}
 {"name":"arbor realty trust","master_cap":2440000000,"country":"usa","rank":" 3490","share_price":14}
-{"name":" price group","master_cap":2440000000,"country":"south africa","rank":" 3491","share_price":9}
+{"name":"price group","master_cap":2440000000,"country":"south africa","rank":" 3491","share_price":9}
 {"name":"revolution medicines","master_cap":2440000000,"country":"usa","rank":" 3492","share_price":27}
 {"name":"amylyx pharmaceuticals","master_cap":2440000000,"country":"usa","rank":" 3493","share_price":36}
 {"name":"casio","master_cap":2440000000,"country":"japan","rank":" 3494","share_price":10}
@@ -3495,7 +3495,7 @@
 {"name":"acer","master_cap":2420000000,"country":"taiwan","rank":" 3502","share_price":0}
 {"name":"mandarin oriental","master_cap":2420000000,"country":"hong kong","rank":" 3503","share_price":1}
 {"name":"qinetiq","master_cap":2420000000,"country":"uk","rank":" 3504","share_price":4}
-{"name":"verint syste","master_cap":2420000000,"country":"usa","rank":" 3505","share_price":36}
+{"name":"verint systems","master_cap":2420000000,"country":"usa","rank":" 3505","share_price":36}
 {"name":"kemira","master_cap":2420000000,"country":"finland","rank":" 3506","share_price":15}
 {"name":"osterreichische post","master_cap":2420000000,"country":"","rank":" 3507","share_price":35}
 {"name":"blackberry","master_cap":2420000000,"country":"canada","rank":" 3508","share_price":4}
@@ -3629,7 +3629,7 @@
 {"name":"wafd bank","master_cap":2210000000,"country":"usa","rank":" 3636","share_price":33}
 {"name":"galaxy digital holdings","master_cap":2210000000,"country":"usa","rank":" 3637","share_price":3}
 {"name":"zim integrated shipping services","master_cap":2200000000,"country":"israel","rank":" 3638","share_price":18}
-{"name":"g","master_cap":2200000000,"country":"usa","rank":" 3639","share_price":53}
+{"name":"gms","master_cap":2200000000,"country":"usa","rank":" 3639","share_price":53}
 {"name":"six flags","master_cap":2200000000,"country":"usa","rank":" 3640","share_price":26}
 {"name":"prokidney","master_cap":2200000000,"country":"usa","rank":" 3641","share_price":9}
 {"name":"kennametal","master_cap":2200000000,"country":"usa","rank":" 3642","share_price":27}
@@ -3660,7 +3660,7 @@
 {"name":"philip morris r","master_cap":2150000000,"country":"","rank":" 3667","share_price":765}
 {"name":"jbg smith","master_cap":2150000000,"country":"usa","rank":" 3668","share_price":18}
 {"name":"triple flag precious metals","master_cap":2140000000,"country":"canada","rank":" 3669","share_price":13}
-{"name":"dr lal pathlabs","master_cap":2140000000,"country":"india","rank":" 3670","share_price":25}
+{"name":"lal pathlabs","master_cap":2140000000,"country":"india","rank":" 3670","share_price":25}
 {"name":"shimao property","master_cap":2140000000,"country":"hong kong","rank":" 3671","share_price":0}
 {"name":"tidewater","master_cap":2140000000,"country":"usa","rank":" 3672","share_price":42}
 {"name":"sunstone hotel investors","master_cap":2140000000,"country":"usa","rank":" 3673","share_price":10}
@@ -3674,7 +3674,7 @@
 {"name":"melco international development","master_cap":2130000000,"country":"hong kong","rank":" 3681","share_price":1}
 {"name":"basic-fit","master_cap":2130000000,"country":"netherlands","rank":" 3682","share_price":31}
 {"name":"redrow","master_cap":2130000000,"country":"uk","rank":" 3683","share_price":6}
-{"name":"indra sistemas","master_cap":2130000000,"country":"spain","rank":" 3684","share_price":12}
+{"name":"insistemas","master_cap":2130000000,"country":"spain","rank":" 3684","share_price":12}
 {"name":"wesbanco","master_cap":2130000000,"country":"usa","rank":" 3685","share_price":36}
 {"name":"central garden & pet","master_cap":2120000000,"country":"usa","rank":" 3686","share_price":40}
 {"name":"carborundum universal","master_cap":2120000000,"country":"india","rank":" 3687","share_price":11}
@@ -3866,7 +3866,7 @@
 {"name":"immofinanz","master_cap":1850000000,"country":"","rank":" 3873","share_price":13}
 {"name":"century communities","master_cap":1840000000,"country":"usa","rank":" 3874","share_price":58}
 {"name":"immunitybio","master_cap":1840000000,"country":"usa","rank":" 3875","share_price":4}
-{"name":"comcope","master_cap":1840000000,"country":"usa","rank":" 3876","share_price":8}
+{"name":"commscope","master_cap":1840000000,"country":"usa","rank":" 3876","share_price":8}
 {"name":"green plains","master_cap":1840000000,"country":"usa","rank":" 3877","share_price":31}
 {"name":"warby parker","master_cap":1840000000,"country":"usa","rank":" 3878","share_price":15}
 {"name":"q2","master_cap":1830000000,"country":"usa","rank":" 3879","share_price":31}
@@ -3936,7 +3936,7 @@
 {"name":"hillman solutions","master_cap":1750000000,"country":"usa","rank":" 3943","share_price":9}
 {"name":"ironwood pharmaceuticals","master_cap":1750000000,"country":"usa","rank":" 3944","share_price":11}
 {"name":"h&e equipment services","master_cap":1740000000,"country":"usa","rank":" 3945","share_price":48}
-{"name":"mahindra cie","master_cap":1740000000,"country":"india","rank":" 3946","share_price":4}
+{"name":"mahincie","master_cap":1740000000,"country":"india","rank":" 3946","share_price":4}
 {"name":"great eagle","master_cap":1740000000,"country":"hong kong","rank":" 3947","share_price":2}
 {"name":"target hospitality","master_cap":1740000000,"country":"usa","rank":" 3948","share_price":17}
 {"name":"nuvalent","master_cap":1740000000,"country":"usa","rank":" 3949","share_price":30}
@@ -3959,7 +3959,7 @@
 {"name":"oxford industries","master_cap":1720000000,"country":"usa","rank":" 3966","share_price":109}
 {"name":"aktieselskabet schouw & co","master_cap":1720000000,"country":"denmark","rank":" 3967","share_price":72}
 {"name":"dcm shriram","master_cap":1720000000,"country":"india","rank":" 3968","share_price":11}
-{"name":"ballard power syste","master_cap":1720000000,"country":"canada","rank":" 3969","share_price":5}
+{"name":"ballard power systems","master_cap":1720000000,"country":"canada","rank":" 3969","share_price":5}
 {"name":"idfc","master_cap":1710000000,"country":"india","rank":" 3970","share_price":1}
 {"name":"verona pharma","master_cap":1710000000,"country":"uk","rank":" 3971","share_price":22}
 {"name":"air new zealand","master_cap":1710000000,"country":"new zealand","rank":" 3972","share_price":0}
@@ -4024,7 +4024,7 @@
 {"name":"toda corp","master_cap":1640000000,"country":"japan","rank":" 4031","share_price":5}
 {"name":"vivid seats","master_cap":1640000000,"country":"usa","rank":" 4032","share_price":8}
 {"name":"resolute forest products","master_cap":1640000000,"country":"canada","rank":" 4033","share_price":21}
-{"name":"enghouse syste","master_cap":1640000000,"country":"canada","rank":" 4034","share_price":29}
+{"name":"enghouse systems","master_cap":1640000000,"country":"canada","rank":" 4034","share_price":29}
 {"name":"recursion pharmaceuticals","master_cap":1630000000,"country":"usa","rank":" 4035","share_price":8}
 {"name":"biotest","master_cap":1630000000,"country":"germany","rank":" 4036","share_price":46}
 {"name":"top glove","master_cap":1630000000,"country":"malaysia","rank":" 4037","share_price":0}
@@ -4129,11 +4129,11 @@
 {"name":"life healthcare group","master_cap":1510000000,"country":"south africa","rank":" 4136","share_price":1}
 {"name":"trisura group","master_cap":1510000000,"country":"canada","rank":" 4137","share_price":33}
 {"name":"replimune","master_cap":1510000000,"country":"usa","rank":" 4138","share_price":27}
-{"name":"osi syste","master_cap":1510000000,"country":"usa","rank":" 4139","share_price":89}
+{"name":"osi systems","master_cap":1510000000,"country":"usa","rank":" 4139","share_price":89}
 {"name":"horace mann educators","master_cap":1500000000,"country":"usa","rank":" 4140","share_price":36}
 {"name":"udemy","master_cap":1500000000,"country":"usa","rank":" 4141","share_price":10}
 {"name":"m/i homes","master_cap":1500000000,"country":"usa","rank":" 4142","share_price":54}
-{"name":"hi & hers health","master_cap":1500000000,"country":"usa","rank":" 4143","share_price":7}
+{"name":"hi& hers health","master_cap":1500000000,"country":"usa","rank":" 4143","share_price":7}
 {"name":"aston martin","master_cap":1500000000,"country":"uk","rank":" 4144","share_price":2}
 {"name":"westamerica bancorporation","master_cap":1500000000,"country":"usa","rank":" 4145","share_price":55}
 {"name":"textainer group","master_cap":1500000000,"country":"","rank":" 4146","share_price":33}
@@ -4251,7 +4251,7 @@
 {"name":"atoss","master_cap":1380000000,"country":"germany","rank":" 4258","share_price":173}
 {"name":"uranium energy","master_cap":1380000000,"country":"usa","rank":" 4259","share_price":3}
 {"name":"ladder capital","master_cap":1380000000,"country":"usa","rank":" 4260","share_price":10}
-{"name":"telephone and data syste","master_cap":1380000000,"country":"usa","rank":" 4261","share_price":12}
+{"name":"telephone and data systems","master_cap":1380000000,"country":"usa","rank":" 4261","share_price":12}
 {"name":"the chefs' warehouse","master_cap":1380000000,"country":"usa","rank":" 4262","share_price":36}
 {"name":"ourpalm","master_cap":1380000000,"country":"china","rank":" 4263","share_price":0}
 {"name":"now inc","master_cap":1380000000,"country":"usa","rank":" 4264","share_price":12}
@@ -4394,7 +4394,7 @@
 {"name":"mannkind corp","master_cap":1250000000,"country":"usa","rank":" 4402","share_price":4}
 {"name":"ryerson","master_cap":1240000000,"country":"usa","rank":" 4403","share_price":33}
 {"name":"grenke","master_cap":1240000000,"country":"germany","rank":" 4404","share_price":26}
-{"name":"formula syste","master_cap":1240000000,"country":"israel","rank":" 4405","share_price":79}
+{"name":"formula systems","master_cap":1240000000,"country":"israel","rank":" 4405","share_price":79}
 {"name":"pbf logistics","master_cap":1240000000,"country":"usa","rank":" 4406","share_price":19}
 {"name":"kayne anderson capital advisors","master_cap":1240000000,"country":"usa","rank":" 4407","share_price":9}
 {"name":"citizen watch","master_cap":1240000000,"country":"japan","rank":" 4408","share_price":4}
@@ -4402,7 +4402,7 @@
 {"name":"deciphera pharmaceuticals","master_cap":1240000000,"country":"usa","rank":" 4410","share_price":18}
 {"name":"opal fuels","master_cap":1240000000,"country":"usa","rank":" 4411","share_price":7}
 {"name":"palomar holdings","master_cap":1240000000,"country":"usa","rank":" 4412","share_price":49}
-{"name":"3d syste","master_cap":1230000000,"country":"usa","rank":" 4413","share_price":9}
+{"name":"3d systems","master_cap":1230000000,"country":"usa","rank":" 4413","share_price":9}
 {"name":"citycon","master_cap":1230000000,"country":"finland","rank":" 4414","share_price":7}
 {"name":"sapiens","master_cap":1230000000,"country":"israel","rank":" 4415","share_price":21}
 {"name":"kingsoft cloud","master_cap":1230000000,"country":"china","rank":" 4416","share_price":4}
@@ -4517,7 +4517,7 @@
 {"name":"cropenergies","master_cap":1130000000,"country":"germany","rank":" 4525","share_price":12}
 {"name":"mediaset espana comunicacion","master_cap":1130000000,"country":"spain","rank":" 4526","share_price":3}
 {"name":"advantage energy","master_cap":1130000000,"country":"canada","rank":" 4527","share_price":6}
-{"name":"seush","master_cap":1130000000,"country":"usa","rank":" 4528","share_price":7}
+{"name":"semrush","master_cap":1130000000,"country":"usa","rank":" 4528","share_price":7}
 {"name":"playa hotels & resorts","master_cap":1130000000,"country":"usa","rank":" 4529","share_price":6}
 {"name":"hangzhou shunwang technology","master_cap":1120000000,"country":"china","rank":" 4530","share_price":1}
 {"name":"piedmont lithium","master_cap":1120000000,"country":"australia","rank":" 4531","share_price":62}
@@ -4667,7 +4667,7 @@
 {"name":"fnac darty","master_cap":990000000,"country":"france","rank":" 4675","share_price":36}
 {"name":"applus services","master_cap":990000000,"country":"spain","rank":" 4676","share_price":7}
 {"name":"bellus health","master_cap":990000000,"country":"canada","rank":" 4677","share_price":7}
-{"name":"c global","master_cap":990000000,"country":"usa","rank":" 4678","share_price":11}
+{"name":"global","master_cap":990000000,"country":"usa","rank":" 4678","share_price":11}
 {"name":"preferred bank","master_cap":990000000,"country":"usa","rank":" 4679","share_price":69}
 {"name":"veon","master_cap":990000000,"country":"netherlands","rank":" 4680","share_price":0}
 {"name":"igm biosciences","master_cap":990000000,"country":"usa","rank":" 4681","share_price":23}
@@ -4710,17 +4710,17 @@
 {"name":"barloworld","master_cap":960000000,"country":"south africa","rank":" 4718","share_price":5}
 {"name":"i3 verticals","master_cap":950000000,"country":"usa","rank":" 4719","share_price":28}
 {"name":"dole plc","master_cap":950000000,"country":"ireland","rank":" 4720","share_price":10}
-{"name":"sturm, ruger & co","master_cap":950000000,"country":"usa","rank":" 4721","share_price":54}
+{"name":"sturm ruger & co","master_cap":950000000,"country":"usa","rank":" 4721","share_price":54}
 {"name":"italtile","master_cap":950000000,"country":"south africa","rank":" 4722","share_price":0}
 {"name":"rapt therapeutics","master_cap":950000000,"country":"usa","rank":" 4723","share_price":28}
-{"name":"aest","master_cap":950000000,"country":"spain","rank":" 4724","share_price":4}
+{"name":"amrest","master_cap":950000000,"country":"spain","rank":" 4724","share_price":4}
 {"name":"argo group","master_cap":950000000,"country":"","rank":" 4725","share_price":27}
 {"name":"fortress reit","master_cap":950000000,"country":"south africa","rank":" 4726","share_price":0}
 {"name":"cgn mining company","master_cap":950000000,"country":"hong kong","rank":" 4727","share_price":0}
 {"name":"pushpay holdings","master_cap":950000000,"country":"new zealand","rank":" 4728","share_price":0}
 {"name":"dril-quip","master_cap":950000000,"country":"usa","rank":" 4729","share_price":28}
 {"name":"silvercrest metals","master_cap":950000000,"country":"canada","rank":" 4730","share_price":6}
-{"name":"perdoceo education","master_cap":950000000,"country":"usa","rank":" 4731","share_price":14}
+{"name":"perdoeducation","master_cap":950000000,"country":"usa","rank":" 4731","share_price":14}
 {"name":"kura oncology","master_cap":950000000,"country":"usa","rank":" 4732","share_price":13}
 {"name":"nurnberger versicherung","master_cap":950000000,"country":"germany","rank":" 4733","share_price":81}
 {"name":"yatsen holding","master_cap":950000000,"country":"china","rank":" 4734","share_price":1}
@@ -4746,7 +4746,7 @@
 {"name":"terveystalo","master_cap":930000000,"country":"finland","rank":" 4754","share_price":7}
 {"name":"universal logistics holdings","master_cap":930000000,"country":"usa","rank":" 4755","share_price":35}
 {"name":"asiana airlines","master_cap":930000000,"country":"south korea","rank":" 4756","share_price":12}
-{"name":"ayt pharma","master_cap":930000000,"country":"uk","rank":" 4757","share_price":14}
+{"name":"amryt pharma","master_cap":930000000,"country":"uk","rank":" 4757","share_price":14}
 {"name":"juventus turin","master_cap":930000000,"country":"italy","rank":" 4758","share_price":0}
 {"name":"grindr","master_cap":930000000,"country":"usa","rank":" 4759","share_price":5}
 {"name":"puretech health","master_cap":930000000,"country":"usa","rank":" 4760","share_price":33}
@@ -4764,7 +4764,7 @@
 {"name":"titan machinery","master_cap":920000000,"country":"usa","rank":" 4772","share_price":40}
 {"name":"enerflex","master_cap":920000000,"country":"canada","rank":" 4773","share_price":7}
 {"name":"central puerto","master_cap":920000000,"country":"","rank":" 4774","share_price":6}
-{"name":"ichor syste","master_cap":920000000,"country":"usa","rank":" 4775","share_price":31}
+{"name":"ichor systems","master_cap":920000000,"country":"usa","rank":" 4775","share_price":31}
 {"name":"riskified","master_cap":920000000,"country":"israel","rank":" 4776","share_price":5}
 {"name":"sumo logic","master_cap":920000000,"country":"usa","rank":" 4777","share_price":7}
 {"name":"bls international","master_cap":920000000,"country":"india","rank":" 4778","share_price":2}
@@ -4813,7 +4813,7 @@
 {"name":"aersale","master_cap":890000000,"country":"usa","rank":" 4821","share_price":17}
 {"name":"rush street interactive","master_cap":880000000,"country":"usa","rank":" 4822","share_price":4}
 {"name":"perella weinberg partners","master_cap":880000000,"country":"usa","rank":" 4823","share_price":10}
-{"name":"aehr test syste","master_cap":880000000,"country":"usa","rank":" 4824","share_price":31}
+{"name":"aehr test systems","master_cap":880000000,"country":"usa","rank":" 4824","share_price":31}
 {"name":"iheartmedia","master_cap":880000000,"country":"usa","rank":" 4825","share_price":7}
 {"name":"summit therapeutics","master_cap":880000000,"country":"uk","rank":" 4826","share_price":4}
 {"name":"graphite india","master_cap":880000000,"country":"india","rank":" 4827","share_price":4}
@@ -4887,7 +4887,7 @@
 {"name":"boston omaha","master_cap":820000000,"country":"usa","rank":" 4895","share_price":27}
 {"name":"bristow group","master_cap":820000000,"country":"usa","rank":" 4896","share_price":29}
 {"name":"slr investment","master_cap":820000000,"country":"usa","rank":" 4897","share_price":15}
-{"name":"newaterdam pharma company","master_cap":820000000,"country":"netherlands","rank":" 4898","share_price":10}
+{"name":"newamsterdam pharma company","master_cap":820000000,"country":"netherlands","rank":" 4898","share_price":10}
 {"name":"scansource","master_cap":820000000,"country":"usa","rank":" 4899","share_price":32}
 {"name":"agenus","master_cap":820000000,"country":"usa","rank":" 4900","share_price":2}
 {"name":"chipmos technologies","master_cap":820000000,"country":"taiwan","rank":" 4901","share_price":22}
@@ -5001,7 +5001,7 @@
 {"name":"locaweb","master_cap":740000000,"country":"brazil","rank":" 5009","share_price":1}
 {"name":"hanmi financial","master_cap":740000000,"country":"usa","rank":" 5010","share_price":24}
 {"name":"pitney bowes","master_cap":740000000,"country":"usa","rank":" 5011","share_price":4}
-{"name":"al moammar information syste","master_cap":740000000,"country":"saudi arabia","rank":" 5012","share_price":24}
+{"name":"al moammar information systems","master_cap":740000000,"country":"saudi arabia","rank":" 5012","share_price":24}
 {"name":"eagle bulk shipping","master_cap":740000000,"country":"usa","rank":" 5013","share_price":54}
 {"name":"global medical reit","master_cap":740000000,"country":"usa","rank":" 5014","share_price":10}
 {"name":"theravance biopharma","master_cap":740000000,"country":"","rank":" 5015","share_price":11}
@@ -5015,7 +5015,7 @@
 {"name":"genco shipping & trading","master_cap":730000000,"country":"usa","rank":" 5023","share_price":17}
 {"name":"g-iii apparel group","master_cap":730000000,"country":"usa","rank":" 5024","share_price":15}
 {"name":"banco latinoamericano de comercio exterior","master_cap":730000000,"country":"","rank":" 5025","share_price":16}
-{"name":"idreaky","master_cap":730000000,"country":"china","rank":" 5026","share_price":0}
+{"name":"idreamsky","master_cap":730000000,"country":"china","rank":" 5026","share_price":0}
 {"name":"zeal network","master_cap":730000000,"country":"germany","rank":" 5027","share_price":33}
 {"name":"cti biopharma","master_cap":730000000,"country":"usa","rank":" 5028","share_price":5}
 {"name":"olvi plc","master_cap":730000000,"country":"finland","rank":" 5029","share_price":35}
@@ -5043,7 +5043,7 @@
 {"name":"sp plus corporation","master_cap":720000000,"country":"usa","rank":" 5051","share_price":35}
 {"name":"skyward specialty insurance group","master_cap":720000000,"country":"usa","rank":" 5052","share_price":18}
 {"name":"shoe carnival","master_cap":720000000,"country":"usa","rank":" 5053","share_price":26}
-{"name":"vital far","master_cap":720000000,"country":"usa","rank":" 5054","share_price":17}
+{"name":"vital farms","master_cap":720000000,"country":"usa","rank":" 5054","share_price":17}
 {"name":"rain industries","master_cap":720000000,"country":"india","rank":" 5055","share_price":2}
 {"name":"indus holding","master_cap":720000000,"country":"germany","rank":" 5056","share_price":26}
 {"name":"clear channel outdoor","master_cap":710000000,"country":"usa","rank":" 5057","share_price":1}
@@ -5057,7 +5057,7 @@
 {"name":"via sa","master_cap":710000000,"country":"brazil","rank":" 5065","share_price":0}
 {"name":"anaptysbio","master_cap":710000000,"country":"usa","rank":" 5066","share_price":25}
 {"name":"gorman-rupp","master_cap":700000000,"country":"usa","rank":" 5067","share_price":27}
-{"name":"mahindra lifespaces","master_cap":700000000,"country":"india","rank":" 5068","share_price":4}
+{"name":"mahinlifespaces","master_cap":700000000,"country":"india","rank":" 5068","share_price":4}
 {"name":"ethan allen","master_cap":700000000,"country":"usa","rank":" 5069","share_price":27}
 {"name":"bank first","master_cap":700000000,"country":"usa","rank":" 5070","share_price":78}
 {"name":"mbia","master_cap":700000000,"country":"usa","rank":" 5071","share_price":12}
@@ -5141,7 +5141,7 @@
 {"name":"the hackett group","master_cap":650000000,"country":"usa","rank":" 5149","share_price":20}
 {"name":"allakos","master_cap":650000000,"country":"usa","rank":" 5150","share_price":7}
 {"name":"4d molecular therapeutics","master_cap":650000000,"country":"usa","rank":" 5151","share_price":20}
-{"name":"cass information syste","master_cap":650000000,"country":"usa","rank":" 5152","share_price":48}
+{"name":"cass information systems","master_cap":650000000,"country":"usa","rank":" 5152","share_price":48}
 {"name":"energy resources of australia","master_cap":650000000,"country":"australia","rank":" 5153","share_price":0}
 {"name":"ducommun","master_cap":650000000,"country":"usa","rank":" 5154","share_price":54}
 {"name":"kelly services","master_cap":650000000,"country":"usa","rank":" 5155","share_price":17}
@@ -5180,7 +5180,7 @@
 {"name":"ehang holdings","master_cap":630000000,"country":"china","rank":" 5188","share_price":11}
 {"name":"sterling & wilson solar","master_cap":630000000,"country":"india","rank":" 5189","share_price":3}
 {"name":"lexinfintech holdings","master_cap":630000000,"country":"china","rank":" 5190","share_price":3}
-{"name":"community health syste","master_cap":630000000,"country":"usa","rank":" 5191","share_price":4}
+{"name":"community health systems","master_cap":630000000,"country":"usa","rank":" 5191","share_price":4}
 {"name":"cara therapeutics","master_cap":630000000,"country":"usa","rank":" 5192","share_price":11}
 {"name":"somalogic","master_cap":630000000,"country":"usa","rank":" 5193","share_price":3}
 {"name":"hawaiian airlines","master_cap":630000000,"country":"usa","rank":" 5194","share_price":12}
@@ -5273,7 +5273,7 @@
 {"name":"luther burbank","master_cap":570000000,"country":"usa","rank":" 5281","share_price":11}
 {"name":"tunas ridean","master_cap":570000000,"country":"indonesia","rank":" 5282","share_price":0}
 {"name":"acco brands","master_cap":570000000,"country":"usa","rank":" 5283","share_price":6}
-{"name":"cardiovascular syste","master_cap":570000000,"country":"usa","rank":" 5284","share_price":13}
+{"name":"cardiovascular systems","master_cap":570000000,"country":"usa","rank":" 5284","share_price":13}
 {"name":"protagonist therapeutics","master_cap":570000000,"country":"usa","rank":" 5285","share_price":11}
 {"name":"babcock & wilcox","master_cap":570000000,"country":"usa","rank":" 5286","share_price":6}
 {"name":"schneider electric infrastructure","master_cap":570000000,"country":"india","rank":" 5287","share_price":2}
@@ -5446,7 +5446,7 @@
 {"name":"greenpanel industries","master_cap":480000000,"country":"india","rank":" 5454","share_price":3}
 {"name":"nanostring technologies","master_cap":480000000,"country":"usa","rank":" 5455","share_price":10}
 {"name":"benson hill","master_cap":480000000,"country":"usa","rank":" 5456","share_price":2}
-{"name":"the r group","master_cap":480000000,"country":"usa","rank":" 5457","share_price":29}
+{"name":"the rgroup","master_cap":480000000,"country":"usa","rank":" 5457","share_price":29}
 {"name":"gevo","master_cap":480000000,"country":"usa","rank":" 5458","share_price":2}
 {"name":"ezcorp","master_cap":480000000,"country":"usa","rank":" 5459","share_price":8}
 {"name":"aarti drugs","master_cap":480000000,"country":"india","rank":" 5460","share_price":5}
@@ -5514,7 +5514,7 @@
 {"name":"webzen","master_cap":440000000,"country":"south korea","rank":" 5522","share_price":14}
 {"name":"gladstone investment","master_cap":440000000,"country":"usa","rank":" 5523","share_price":13}
 {"name":"reservoir media","master_cap":440000000,"country":"usa","rank":" 5524","share_price":6}
-{"name":"th international ti china","master_cap":440000000,"country":"china","rank":" 5525","share_price":2}
+{"name":"th international tichina","master_cap":440000000,"country":"china","rank":" 5525","share_price":2}
 {"name":"newpark resources","master_cap":440000000,"country":"usa","rank":" 5526","share_price":4}
 {"name":"indoco remedies","master_cap":440000000,"country":"india","rank":" 5527","share_price":4}
 {"name":"axogen","master_cap":440000000,"country":"usa","rank":" 5528","share_price":10}
@@ -5540,7 +5540,7 @@
 {"name":"aaron's","master_cap":430000000,"country":"usa","rank":" 5548","share_price":14}
 {"name":"nektar therapeutics","master_cap":430000000,"country":"usa","rank":" 5549","share_price":2}
 {"name":"luxfer","master_cap":430000000,"country":"uk","rank":" 5550","share_price":16}
-{"name":"mitek syste","master_cap":430000000,"country":"usa","rank":" 5551","share_price":9}
+{"name":"mitek systems","master_cap":430000000,"country":"usa","rank":" 5551","share_price":9}
 {"name":"fubotv","master_cap":430000000,"country":"usa","rank":" 5552","share_price":2}
 {"name":"west coast paper mills","master_cap":430000000,"country":"india","rank":" 5553","share_price":6}
 {"name":"giordano","master_cap":430000000,"country":"hong kong","rank":" 5554","share_price":0}
@@ -5549,7 +5549,7 @@
 {"name":"global indemnity","master_cap":430000000,"country":"","rank":" 5557","share_price":29}
 {"name":"aurelius group","master_cap":430000000,"country":"germany","rank":" 5558","share_price":15}
 {"name":"paisalo digital","master_cap":430000000,"country":"india","rank":" 5559","share_price":0}
-{"name":"mahindra logistics","master_cap":430000000,"country":"india","rank":" 5560","share_price":6}
+{"name":"mahinlogistics","master_cap":430000000,"country":"india","rank":" 5560","share_price":6}
 {"name":"enterprise bancorp","master_cap":430000000,"country":"usa","rank":" 5561","share_price":35}
 {"name":"national fertilizers","master_cap":430000000,"country":"india","rank":" 5562","share_price":0}
 {"name":"similarweb","master_cap":430000000,"country":"israel","rank":" 5563","share_price":5}
@@ -5600,11 +5600,11 @@
 {"name":"pepgen","master_cap":400000000,"country":"usa","rank":" 5608","share_price":17}
 {"name":"tway air","master_cap":400000000,"country":"south korea","rank":" 5609","share_price":2}
 {"name":"atea pharmaceuticals","master_cap":400000000,"country":"usa","rank":" 5610","share_price":4}
-{"name":"computer progra and syste","master_cap":400000000,"country":"usa","rank":" 5611","share_price":28}
+{"name":"computer prograand systems","master_cap":400000000,"country":"usa","rank":" 5611","share_price":28}
 {"name":"preos real estate","master_cap":400000000,"country":"germany","rank":" 5612","share_price":3}
 {"name":"icosavax","master_cap":400000000,"country":"usa","rank":" 5613","share_price":10}
 {"name":"international general insurance","master_cap":400000000,"country":"","rank":" 5614","share_price":8}
-{"name":"jindal poly fil","master_cap":400000000,"country":"india","rank":" 5615","share_price":9}
+{"name":"jindal poly films","master_cap":400000000,"country":"india","rank":" 5615","share_price":9}
 {"name":"latham group","master_cap":400000000,"country":"usa","rank":" 5616","share_price":3}
 {"name":"braemar hotels & resorts","master_cap":400000000,"country":"usa","rank":" 5617","share_price":5}
 {"name":"xperi","master_cap":400000000,"country":"usa","rank":" 5618","share_price":9}
@@ -5778,7 +5778,7 @@
 {"name":"village super market","master_cap":330000000,"country":"usa","rank":" 5786","share_price":23}
 {"name":"skillz","master_cap":330000000,"country":"usa","rank":" 5787","share_price":0}
 {"name":"quotient technology","master_cap":330000000,"country":"usa","rank":" 5788","share_price":3}
-{"name":"hbl power syste","master_cap":330000000,"country":"india","rank":" 5789","share_price":1}
+{"name":"hbl power systems","master_cap":330000000,"country":"india","rank":" 5789","share_price":1}
 {"name":"granite point mortgage trust","master_cap":330000000,"country":"usa","rank":" 5790","share_price":6}
 {"name":"forge global","master_cap":330000000,"country":"usa","rank":" 5791","share_price":1}
 {"name":"rain therapeutics","master_cap":330000000,"country":"usa","rank":" 5792","share_price":9}
@@ -5798,10 +5798,10 @@
 {"name":"focus entertainment","master_cap":320000000,"country":"france","rank":" 5806","share_price":53}
 {"name":"shriram pistons & rings","master_cap":320000000,"country":"india","rank":" 5807","share_price":14}
 {"name":"g1 therapeutics","master_cap":320000000,"country":"usa","rank":" 5808","share_price":6}
-{"name":"cosmo fil","master_cap":320000000,"country":"india","rank":" 5809","share_price":12}
+{"name":"cosmo films","master_cap":320000000,"country":"india","rank":" 5809","share_price":12}
 {"name":"telos","master_cap":320000000,"country":"usa","rank":" 5810","share_price":4}
 {"name":"siyaram silk mills","master_cap":320000000,"country":"india","rank":" 5811","share_price":6}
-{"name":"casa syste","master_cap":320000000,"country":"usa","rank":" 5812","share_price":3}
+{"name":"casa systems","master_cap":320000000,"country":"usa","rank":" 5812","share_price":3}
 {"name":"home bancorp","master_cap":320000000,"country":"usa","rank":" 5813","share_price":39}
 {"name":"velocity financial","master_cap":320000000,"country":"usa","rank":" 5814","share_price":10}
 {"name":"afc gamma","master_cap":320000000,"country":"usa","rank":" 5815","share_price":15}
@@ -5936,7 +5936,7 @@
 {"name":"somany ceramics","master_cap":270000000,"country":"india","rank":" 5945","share_price":6}
 {"name":"truecar","master_cap":270000000,"country":"usa","rank":" 5946","share_price":3}
 {"name":"dakota gold","master_cap":270000000,"country":"usa","rank":" 5947","share_price":3}
-{"name":"skyx platfor","master_cap":270000000,"country":"usa","rank":" 5948","share_price":3}
+{"name":"skyx platforms","master_cap":270000000,"country":"usa","rank":" 5948","share_price":3}
 {"name":"eastman kodak company","master_cap":270000000,"country":"usa","rank":" 5949","share_price":3}
 {"name":"livevox","master_cap":270000000,"country":"usa","rank":" 5950","share_price":2}
 {"name":"india glycols","master_cap":260000000,"country":"india","rank":" 5951","share_price":8}
@@ -5949,7 +5949,7 @@
 {"name":"seacor marine","master_cap":260000000,"country":"usa","rank":" 5958","share_price":10}
 {"name":"moolec science","master_cap":260000000,"country":"","rank":" 5959","share_price":5}
 {"name":"grindrod shipping","master_cap":260000000,"country":"singapore","rank":" 5960","share_price":14}
-{"name":"tc limited","master_cap":260000000,"country":"india","rank":" 5961","share_price":3}
+{"name":"mstc limited","master_cap":260000000,"country":"india","rank":" 5961","share_price":3}
 {"name":"babylon holdings","master_cap":260000000,"country":"uk","rank":" 5962","share_price":10}
 {"name":"stellus capital","master_cap":260000000,"country":"usa","rank":" 5963","share_price":13}
 {"name":"azure power","master_cap":260000000,"country":"india","rank":" 5964","share_price":4}
@@ -6013,17 +6013,17 @@
 {"name":"jjill","master_cap":250000000,"country":"usa","rank":" 6022","share_price":24}
 {"name":"lineage cell therapeutics","master_cap":250000000,"country":"usa","rank":" 6023","share_price":1}
 {"name":"opthea","master_cap":250000000,"country":"australia","rank":" 6024","share_price":4}
-{"name":"oil-dri corporation of america","master_cap":250000000,"country":"usa","rank":" 6025","share_price":35}
+{"name":"oil-corporation of america","master_cap":250000000,"country":"usa","rank":" 6025","share_price":35}
 {"name":"troops","master_cap":250000000,"country":"hong kong","rank":" 6026","share_price":2}
 {"name":"third coast bancshares","master_cap":250000000,"country":"usa","rank":" 6027","share_price":18}
 {"name":"focus universal","master_cap":250000000,"country":"usa","rank":" 6028","share_price":5}
 {"name":"porch group","master_cap":250000000,"country":"usa","rank":" 6029","share_price":2}
-{"name":"jain irrigation syste","master_cap":250000000,"country":"india","rank":" 6030","share_price":0}
+{"name":"jain irrigation systems","master_cap":250000000,"country":"india","rank":" 6030","share_price":0}
 {"name":"uranium royalty","master_cap":250000000,"country":"canada","rank":" 6031","share_price":2}
 {"name":"ten square games","master_cap":250000000,"country":"poland","rank":" 6032","share_price":30}
 {"name":"caledonia mining","master_cap":250000000,"country":"","rank":" 6033","share_price":14}
 {"name":"nacl industries","master_cap":250000000,"country":"india","rank":" 6034","share_price":1}
-{"name":"bitfar","master_cap":250000000,"country":"canada","rank":" 6035","share_price":1}
+{"name":"bitfarms","master_cap":250000000,"country":"canada","rank":" 6035","share_price":1}
 {"name":"homeland interactive technology","master_cap":240000000,"country":"china","rank":" 6036","share_price":0}
 {"name":"vera therapeutics","master_cap":240000000,"country":"usa","rank":" 6037","share_price":8}
 {"name":"brightcove","master_cap":240000000,"country":"usa","rank":" 6038","share_price":5}
@@ -6084,7 +6084,7 @@
 {"name":"limoneira","master_cap":230000000,"country":"usa","rank":" 6093","share_price":13}
 {"name":"american public education","master_cap":230000000,"country":"usa","rank":" 6094","share_price":12}
 {"name":"acumen pharmaceuticals","master_cap":230000000,"country":"usa","rank":" 6095","share_price":5}
-{"name":"plaid,inc","master_cap":230000000,"country":"japan","rank":" 6096","share_price":5}
+{"name":"plaidinc","master_cap":230000000,"country":"japan","rank":" 6096","share_price":5}
 {"name":"plumas bancorp","master_cap":230000000,"country":"usa","rank":" 6097","share_price":39}
 {"name":"bankwell financial group","master_cap":230000000,"country":"usa","rank":" 6098","share_price":30}
 {"name":"nacon","master_cap":230000000,"country":"france","rank":" 6099","share_price":2}
@@ -6181,7 +6181,7 @@
 {"name":"beyond air","master_cap":200000000,"country":"usa","rank":" 6191","share_price":6}
 {"name":"playags","master_cap":200000000,"country":"usa","rank":" 6192","share_price":5}
 {"name":"mahanagar telephone nigam","master_cap":200000000,"country":"india","rank":" 6193","share_price":0}
-{"name":"china automotive syste","master_cap":200000000,"country":"china","rank":" 6194","share_price":6}
+{"name":"china automotive systems","master_cap":200000000,"country":"china","rank":" 6194","share_price":6}
 {"name":"kandi technologies group","master_cap":200000000,"country":"china","rank":" 6195","share_price":2}
 {"name":"citius pharmaceuticals","master_cap":200000000,"country":"usa","rank":" 6196","share_price":1}
 {"name":"tethys oil","master_cap":200000000,"country":"sweden","rank":" 6197","share_price":6}
@@ -6239,7 +6239,7 @@
 {"name":"united","master_cap":180000000,"country":"japan","rank":" 6249","share_price":9}
 {"name":"drecom","master_cap":180000000,"country":"japan","rank":" 6250","share_price":6}
 {"name":"cormedix","master_cap":180000000,"country":"usa","rank":" 6251","share_price":4}
-{"name":"singular genomics syste","master_cap":180000000,"country":"usa","rank":" 6252","share_price":2}
+{"name":"singular genomics systems","master_cap":180000000,"country":"usa","rank":" 6252","share_price":2}
 {"name":"peoples bancorp of north carolina","master_cap":180000000,"country":"usa","rank":" 6253","share_price":32}
 {"name":"tupperware brands","master_cap":180000000,"country":"usa","rank":" 6254","share_price":4}
 {"name":"ashiana housing","master_cap":180000000,"country":"india","rank":" 6255","share_price":1}
@@ -6252,7 +6252,7 @@
 {"name":"hurco companies","master_cap":180000000,"country":"usa","rank":" 6262","share_price":27}
 {"name":"biodesix","master_cap":180000000,"country":"usa","rank":" 6263","share_price":2}
 {"name":"affimed","master_cap":180000000,"country":"germany","rank":" 6264","share_price":1}
-{"name":"view, inc","master_cap":180000000,"country":"usa","rank":" 6265","share_price":0}
+{"name":"view inc","master_cap":180000000,"country":"usa","rank":" 6265","share_price":0}
 {"name":"immutep","master_cap":180000000,"country":"australia","rank":" 6266","share_price":2}
 {"name":"repco home finance","master_cap":180000000,"country":"india","rank":" 6267","share_price":2}
 {"name":"nature's sunshine products","master_cap":180000000,"country":"usa","rank":" 6268","share_price":9}

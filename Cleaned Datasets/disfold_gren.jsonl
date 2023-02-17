@@ -1,12 +1,12 @@
 {"name":"apple inc","market_capitalization_usd":"2825000000000","stock":"aapl","country":"united states","sector":"technology","industry":"consumer electronics"}
-{"name":"microsoft corporation","market_capitalization_usd":"2328000000000","stock":" ft","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"microsoft corporation","market_capitalization_usd":"2328000000000","stock":"msft","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"saudi arabian oil company","market_capitalization_usd":"2297000000000","stock":"2222","country":"saudi arabia","sector":"energy","industry":"oil & gas integrated"}
 {"name":"alphabet inc","market_capitalization_usd":"1825000000000","stock":"goog","country":"united states","sector":"communication services","industry":"internet content & information"}
-{"name":"amazoncom, inc","market_capitalization_usd":"1642000000000","stock":"amzn","country":"united states","sector":"consumer discretionary","industry":"internet retail"}
-{"name":"tesla, inc","market_capitalization_usd":"1016000000000","stock":"tsla","country":"united states","sector":"consumer discretionary","industry":"auto manufacturers"}
+{"name":"amazoncom inc","market_capitalization_usd":"1642000000000","stock":"amzn","country":"united states","sector":"consumer discretionary","industry":"internet retail"}
+{"name":"tesla inc","market_capitalization_usd":"1016000000000","stock":"tsla","country":"united states","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"berkshire hathaway inc","market_capitalization_usd":"798470000000","stock":"brk.a","country":"united states","sector":"financials","industry":"financial conglomerates"}
 {"name":"nvidia corporation","market_capitalization_usd":"660380000000","stock":"nvda","country":"united states","sector":"technology","industry":"semiconductors"}
-{"name":"meta platfor, inc","market_capitalization_usd":"617500000000","stock":"meta","country":"united states","sector":"communication services","industry":"internet content & information"}
+{"name":"meta platforinc","market_capitalization_usd":"617500000000","stock":"meta","country":"united states","sector":"communication services","industry":"internet content & information"}
 {"name":"taiwan semiconductor manufacturing company limited","market_capitalization_usd":"527890000000","stock":"2330","country":"taiwan","sector":"technology","industry":"semiconductors"}
 {"name":"unitedhealth group incorporated","market_capitalization_usd":"488520000000","stock":"unh","country":"united states","sector":"healthcare","industry":"healthcare plans"}
 {"name":"visa inc","market_capitalization_usd":"486770000000","stock":"v","country":"united states","sector":"financials","industry":"credit services"}
@@ -15,14 +15,14 @@
 {"name":"walmart inc","market_capitalization_usd":"429050000000","stock":"wmt","country":"united states","sector":"consumer staples","industry":"discount stores"}
 {"name":"jpmorgan chase & co","market_capitalization_usd":"410840000000","stock":"jpm","country":"united states","sector":"financials","industry":"banks"}
 {"name":"the procter & gamble company","market_capitalization_usd":"384600000000","stock":"pg","country":"united states","sector":"consumer staples","industry":"household & personal products"}
-{"name":"saung electronics co, ltd","market_capitalization_usd":"378350000000","stock":"005930","country":"south korea","sector":"technology","industry":"consumer electronics"}
-{"name":"lvmh moet hennessy - louis vuitton, se","market_capitalization_usd":"359260000000","stock":"mc","country":"france","sector":"consumer discretionary","industry":"luxury goods"}
+{"name":"samsung electronics co ltd","market_capitalization_usd":"378350000000","stock":"005930","country":"south korea","sector":"technology","industry":"consumer electronics"}
+{"name":"lvmh moet hennessy - louis vuitton se","market_capitalization_usd":"359260000000","stock":"mc","country":"france","sector":"consumer discretionary","industry":"luxury goods"}
 {"name":"mastercard incorporated","market_capitalization_usd":"358600000000","stock":"ma","country":"united states","sector":"financials","industry":"credit services"}
 {"name":"bank of america corporation","market_capitalization_usd":"350840000000","stock":"bac","country":"united states","sector":"financials","industry":"banks"}
 {"name":"roche holding ag","market_capitalization_usd":"349500000000","stock":"rog","country":"switzerland","sector":"healthcare","industry":"drug manufacturersgeneral"}
 {"name":"exxon mobil corporation","market_capitalization_usd":"348720000000","stock":"xom","country":"united states","sector":"energy","industry":"oil & gas integrated"}
 {"name":"kweichow moutai co ltd","market_capitalization_usd":"348220000000","stock":"600519","country":"china","sector":"consumer staples","industry":"beverageswineries & distilleries"}
-{"name":"the home depot, inc","market_capitalization_usd":"321470000000","stock":"hd","country":"united states","sector":"consumer discretionary","industry":"home improvement retail"}
+{"name":"the home depot inc","market_capitalization_usd":"321470000000","stock":"hd","country":"united states","sector":"consumer discretionary","industry":"home improvement retail"}
 {"name":"chevron corporation","market_capitalization_usd":"315130000000","stock":"cvx","country":"united states","sector":"energy","industry":"oil & gas integrated"}
 {"name":"pfizer inc","market_capitalization_usd":"300790000000","stock":"pfe","country":"united states","sector":"healthcare","industry":"drug manufacturersgeneral"}
 {"name":"abbvie inc","market_capitalization_usd":"294270000000","stock":"abbv","country":"united states","sector":"healthcare","industry":"drug manufacturersgeneral"}
@@ -35,8 +35,8 @@
 {"name":"novo nordisk a/s","market_capitalization_usd":"257240000000","stock":"novo.b","country":"denmark","sector":"healthcare","industry":"biotechnology"}
 {"name":"industrial & commercial bank of china ltd","market_capitalization_usd":"250370000000","stock":"601398","country":"china","sector":"financials","industry":"banks"}
 {"name":"the walt disney company","market_capitalization_usd":"247880000000","stock":"dis","country":"united states","sector":"communication services","industry":"entertainment"}
-{"name":"pepsico, inc","market_capitalization_usd":"241050000000","stock":"pep","country":"united states","sector":"consumer staples","industry":"beveragesnon-alcoholic"}
-{"name":"cisco syste, inc","market_capitalization_usd":"238450000000","stock":"csco","country":"united states","sector":"technology","industry":"communication equipment"}
+{"name":"pepsico inc","market_capitalization_usd":"241050000000","stock":"pep","country":"united states","sector":"consumer staples","industry":"beveragesnon-alcoholic"}
+{"name":"cisco systeinc","market_capitalization_usd":"238450000000","stock":"csco","country":"united states","sector":"technology","industry":"communication equipment"}
 {"name":"thermo fisher scientific inc","market_capitalization_usd":"236150000000","stock":"tmo","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"oracle corporation","market_capitalization_usd":"228180000000","stock":"orcl","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"l'oreal sa","market_capitalization_usd":"225240000000","stock":"or","country":"france","sector":"consumer staples","industry":"household & personal products"}
@@ -44,9 +44,9 @@
 {"name":"comcast corporation","market_capitalization_usd":"218900000000","stock":"cmcsa","country":"united states","sector":"communication services","industry":"entertainment"}
 {"name":"verizon communications inc","market_capitalization_usd":"216680000000","stock":"vz","country":"united states","sector":"communication services","industry":"telecom services"}
 {"name":"abbott laboratories","market_capitalization_usd":"215020000000","stock":"abt","country":"united states","sector":"healthcare","industry":"medical devices"}
-{"name":"nike, inc","market_capitalization_usd":"213600000000","stock":"nke","country":"united states","sector":"consumer discretionary","industry":"footwear & accessories"}
+{"name":"nike inc","market_capitalization_usd":"213600000000","stock":"nke","country":"united states","sector":"consumer discretionary","industry":"footwear & accessories"}
 {"name":"bhp group","market_capitalization_usd":"211250000000","stock":"bhp","country":"australia","sector":"basic materials","industry":"other industrial metals & mining"}
-{"name":"merck & co, inc","market_capitalization_usd":"210380000000","stock":" k","country":"united states","sector":"healthcare","industry":"drug manufacturersgeneral"}
+{"name":"merck & co inc","market_capitalization_usd":"210380000000","stock":"mrk","country":"united states","sector":"healthcare","industry":"drug manufacturersgeneral"}
 {"name":"danaher corporation","market_capitalization_usd":"208030000000","stock":"dhr","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"shell plc","market_capitalization_usd":"207680000000","stock":"shel","country":"united kingdom","sector":"energy","industry":"oil & gas integrated"}
 {"name":"novartis ag","market_capitalization_usd":"204130000000","stock":"novn","country":"switzerland","sector":"healthcare","industry":"drug manufacturersgeneral"}
@@ -54,8 +54,8 @@
 {"name":"intel corporation","market_capitalization_usd":"201720000000","stock":"intc","country":"united states","sector":"technology","industry":"semiconductors"}
 {"name":"wells fargo & company","market_capitalization_usd":"200010000000","stock":"wfc","country":"united states","sector":"financials","industry":"banks"}
 {"name":"adobe inc","market_capitalization_usd":"199570000000","stock":"adbe","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
-{"name":"salesforcecom, inc","market_capitalization_usd":"193800000000","stock":"crm","country":"united states","sector":"technology","industry":"softwareapplication"}
-{"name":"united parcel service, inc","market_capitalization_usd":"190500000000","stock":"ups","country":"united states","sector":"industrials","industry":"integrated freight & logistics"}
+{"name":"salesforcecom inc","market_capitalization_usd":"193800000000","stock":"crm","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"united parcel service inc","market_capitalization_usd":"190500000000","stock":"ups","country":"united states","sector":"industrials","industry":"integrated freight & logistics"}
 {"name":"china construction bank corp","market_capitalization_usd":"189370000000","stock":"601939","country":"china","sector":"financials","industry":"banks"}
 {"name":"mcdonald's corporation","market_capitalization_usd":"186570000000","stock":"mcd","country":"united states","sector":"consumer discretionary","industry":"restaurants"}
 {"name":"china merchants bank co ltd","market_capitalization_usd":"185980000000","stock":"600036","country":"china","sector":"financials","industry":"banks"}
@@ -67,22 +67,22 @@
 {"name":"bristol-myers squibb company","market_capitalization_usd":"170560000000","stock":"bmy","country":"united states","sector":"healthcare","industry":"drug manufacturersgeneral"}
 {"name":"prosus nv","market_capitalization_usd":"170000000000","stock":"prx","country":"netherlands","sector":"communication services","industry":"internet content & information"}
 {"name":"linde plc","market_capitalization_usd":"166070000000","stock":"lin","country":"united kingdom","sector":"basic materials","industry":"specialty chemicals"}
-{"name":"nextera energy, inc","market_capitalization_usd":"165530000000","stock":"nee","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
+{"name":"nextera energy inc","market_capitalization_usd":"165530000000","stock":"nee","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"agricultural bank of china ltd","market_capitalization_usd":"165000000000","stock":"601288","country":"china","sector":"financials","industry":"banks"}
-{"name":"t-mobile us, inc","market_capitalization_usd":"164310000000","stock":"tmus","country":"united states","sector":"communication services","industry":"telecom services"}
-{"name":"morgan stanley","market_capitalization_usd":"164050000000","stock":" ","country":"united states","sector":"financials","industry":"capital markets"}
-{"name":"netflix, inc","market_capitalization_usd":"163190000000","stock":"nflx","country":"united states","sector":"communication services","industry":"entertainment"}
+{"name":"t-mobile us inc","market_capitalization_usd":"164310000000","stock":"tmus","country":"united states","sector":"communication services","industry":"telecom services"}
+{"name":"morgan stanley","market_capitalization_usd":"164050000000","stock":"ms","country":"united states","sector":"financials","industry":"capital markets"}
+{"name":"netflix inc","market_capitalization_usd":"163190000000","stock":"nflx","country":"united states","sector":"communication services","industry":"entertainment"}
 {"name":"royal bank of canada","market_capitalization_usd":"159740000000","stock":"ry","country":"canada","sector":"financials","industry":"banks"}
 {"name":"the charles schwab corporation","market_capitalization_usd":"158060000000","stock":"schw","country":"united states","sector":"financials","industry":"capital markets"}
 {"name":"philip morris international inc","market_capitalization_usd":"154710000000","stock":"pm","country":"united states","sector":"consumer staples","industry":"tobacco"}
 {"name":"medtronic plc","market_capitalization_usd":"151060000000","stock":"mdt","country":"ireland","sector":"healthcare","industry":"medical devices"}
 {"name":"raytheon technologies corporation","market_capitalization_usd":"150960000000","stock":"rtx","country":"united states","sector":"industrials","industry":"aerospace & defense"}
 {"name":"american express company","market_capitalization_usd":"150760000000","stock":"axp","country":"united states","sector":"financials","industry":"credit services"}
-{"name":"hermes international sca","market_capitalization_usd":"148980000000","stock":"r ","country":"france","sector":"consumer discretionary","industry":"luxury goods"}
+{"name":"hermes international sca","market_capitalization_usd":"148980000000","stock":"rms","country":"france","sector":"consumer discretionary","industry":"luxury goods"}
 {"name":"toronto-dominion bank","market_capitalization_usd":"145410000000","stock":"td","country":"canada","sector":"financials","industry":"banks"}
 {"name":"petrochina company limited","market_capitalization_usd":"144500000000","stock":"601857","country":"china","sector":"energy","industry":"oil & gas integrated"}
 {"name":"commonwealth bank of australia","market_capitalization_usd":"144320000000","stock":"cba","country":"australia","sector":"financials","industry":"banks"}
-{"name":"lowe's companies, inc","market_capitalization_usd":"143770000000","stock":"low","country":"united states","sector":"consumer discretionary","industry":"home improvement retail"}
+{"name":"lowe's companies inc","market_capitalization_usd":"143770000000","stock":"low","country":"united states","sector":"consumer discretionary","industry":"home improvement retail"}
 {"name":"amgen inc","market_capitalization_usd":"141720000000","stock":"amgn","country":"united states","sector":"healthcare","industry":"drug manufacturersgeneral"}
 {"name":"bank of china ltd","market_capitalization_usd":"141220000000","stock":"601988","country":"china","sector":"financials","industry":"banks"}
 {"name":"hsbc holdings plc","market_capitalization_usd":"140150000000","stock":"hsba","country":"united kingdom","sector":"financials","industry":"banks"}
@@ -93,10 +93,10 @@
 {"name":"cvs health corporation","market_capitalization_usd":"135270000000","stock":"cvs","country":"united states","sector":"healthcare","industry":"healthcare plans"}
 {"name":"ping an insurance group company of china ltd","market_capitalization_usd":"134250000000","stock":"601318","country":"china","sector":"financials","industry":"insurancelife"}
 {"name":"sap se","market_capitalization_usd":"134190000000","stock":"sap","country":"germany","sector":"technology","industry":"softwareapplication"}
-{"name":"paypal holdings, inc","market_capitalization_usd":"133920000000","stock":"pypl","country":"united states","sector":"financials","industry":"credit services"}
+{"name":"paypal holdings inc","market_capitalization_usd":"133920000000","stock":"pypl","country":"united states","sector":"financials","industry":"credit services"}
 {"name":"sanofi","market_capitalization_usd":"132290000000","stock":"san","country":"france","sector":"healthcare","industry":"drug manufacturersgeneral"}
 {"name":"deere & company","market_capitalization_usd":"130310000000","stock":"de","country":"united states","sector":"industrials","industry":"farm & heavy construction machinery"}
-{"name":"advanced micro devices, inc","market_capitalization_usd":"128290000000","stock":"amd","country":"united states","sector":"technology","industry":"semiconductors"}
+{"name":"advanced micro devices inc","market_capitalization_usd":"128290000000","stock":"amd","country":"united states","sector":"technology","industry":"semiconductors"}
 {"name":"intuit inc","market_capitalization_usd":"126770000000","stock":"intu","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"sony group corporation","market_capitalization_usd":"126640000000","stock":"6758","country":"japan","sector":"technology","industry":"consumer electronics"}
 {"name":"rio tinto group","market_capitalization_usd":"125840000000","stock":"rio","country":"united kingdom","sector":"basic materials","industry":"other industrial metals & mining"}
@@ -106,37 +106,37 @@
 {"name":"anheuser-busch inbev sa/nv","market_capitalization_usd":"123590000000","stock":"abi","country":"belgium","sector":"consumer staples","industry":"beveragesbrewers"}
 {"name":"equinor asa","market_capitalization_usd":"122740000000","stock":"eqnr","country":"norway","sector":"energy","industry":"oil & gas integrated"}
 {"name":"christian dior se","market_capitalization_usd":"122110000000","stock":"cdi","country":"france","sector":"consumer discretionary","industry":"luxury goods"}
-{"name":"prologis, inc","market_capitalization_usd":"121200000000","stock":"pld","country":"united states","sector":"real estate","industry":"reitindustrial"}
-{"name":"applied materials, inc","market_capitalization_usd":"121120000000","stock":"amat","country":"united states","sector":"technology","industry":"semiconductor equipment & materials"}
-{"name":"anthem, inc","market_capitalization_usd":"119800000000","stock":"antm","country":"united states","sector":"healthcare","industry":"healthcare plans"}
+{"name":"prologis inc","market_capitalization_usd":"121200000000","stock":"pld","country":"united states","sector":"real estate","industry":"reitindustrial"}
+{"name":"applied materials inc","market_capitalization_usd":"121120000000","stock":"amat","country":"united states","sector":"technology","industry":"semiconductor equipment & materials"}
+{"name":"anthem inc","market_capitalization_usd":"119800000000","stock":"antm","country":"united states","sector":"healthcare","industry":"healthcare plans"}
 {"name":"international business machines corporation","market_capitalization_usd":"119200000000","stock":"ibm","country":"united states","sector":"technology","industry":"information technology services"}
 {"name":"unilever plc","market_capitalization_usd":"117840000000","stock":"ulvr","country":"united kingdom","sector":"consumer staples","industry":"household & personal products"}
-{"name":"blackrock, inc","market_capitalization_usd":"115980000000","stock":"blk","country":"united states","sector":"financials","industry":"asset management"}
+{"name":"blackrock inc","market_capitalization_usd":"115980000000","stock":"blk","country":"united states","sector":"financials","industry":"asset management"}
 {"name":"hdfc bank limited","market_capitalization_usd":"115680000000","stock":"hdb","country":"india","sector":"financials","industry":"banks"}
 {"name":"diageo plc","market_capitalization_usd":"115580000000","stock":"dge","country":"united kingdom","sector":"consumer staples","industry":"beverageswineries & distilleries"}
 {"name":"american tower corporation reit","market_capitalization_usd":"115110000000","stock":"amt","country":"united states","sector":"real estate","industry":"reitspecialty"}
 {"name":"siemens ag","market_capitalization_usd":"114660000000","stock":"sie","country":"germany","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"meituan","market_capitalization_usd":"114280000000","stock":"3690","country":"china","sector":"consumer discretionary","industry":"internet retail"}
 {"name":"keyence corp","market_capitalization_usd":"113200000000","stock":"6861","country":"japan","sector":"technology","industry":"scientific & technical instruments"}
-{"name":"the goldman sachs group, inc","market_capitalization_usd":"112710000000","stock":"gs","country":"united states","sector":"financials","industry":"capital markets"}
+{"name":"the goldman sachs group inc","market_capitalization_usd":"112710000000","stock":"gs","country":"united states","sector":"financials","industry":"capital markets"}
 {"name":"transurban group","market_capitalization_usd":"110790000000","stock":"tcl","country":"australia","sector":"industrials","industry":"infrastructure operations"}
-{"name":"industria de diseno textil, sa","market_capitalization_usd":"110650000000","stock":"itx","country":"spain","sector":"consumer discretionary","industry":"apparel retail"}
+{"name":"industria de diseno textil sa","market_capitalization_usd":"110650000000","stock":"itx","country":"spain","sector":"consumer discretionary","industry":"apparel retail"}
 {"name":"the boeing company","market_capitalization_usd":"110460000000","stock":"ba","country":"united states","sector":"industrials","industry":"aerospace & defense"}
 {"name":"glaxosmithkline plc","market_capitalization_usd":"109980000000","stock":"gsk","country":"united kingdom","sector":"healthcare","industry":"drug manufacturersgeneral"}
 {"name":"citigroup inc","market_capitalization_usd":"109560000000","stock":"c","country":"united states","sector":"financials","industry":"banks"}
 {"name":"volkswagen ag","market_capitalization_usd":"108630000000","stock":"vow3","country":"germany","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"starbucks corporation","market_capitalization_usd":"108190000000","stock":"sbux","country":"united states","sector":"consumer discretionary","industry":"restaurants"}
 {"name":"vale sa","market_capitalization_usd":"107990000000","stock":"vale3","country":"brazil","sector":"basic materials","industry":"other industrial metals & mining"}
-{"name":"servicenow, inc","market_capitalization_usd":"107990000000","stock":"now","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"servicenow inc","market_capitalization_usd":"107990000000","stock":"now","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"target corporation","market_capitalization_usd":"106890000000","stock":"tgt","country":"united states","sector":"consumer staples","industry":"discount stores"}
 {"name":"infosys limited","market_capitalization_usd":"106770000000","stock":"infy","country":"india","sector":"technology","industry":"information technology services"}
 {"name":"al rajhi banking and investment corp","market_capitalization_usd":"106370000000","stock":"1120","country":"saudi arabia","sector":"financials","industry":"banks"}
-{"name":"airbnb, inc","market_capitalization_usd":"105070000000","stock":"abnb","country":"united states","sector":"communication services","industry":"internet content & information"}
-{"name":"charter communications, inc","market_capitalization_usd":"104970000000","stock":"chtr","country":"united states","sector":"communication services","industry":"entertainment"}
+{"name":"airbnb inc","market_capitalization_usd":"105070000000","stock":"abnb","country":"united states","sector":"communication services","industry":"internet content & information"}
+{"name":"charter communications inc","market_capitalization_usd":"104970000000","stock":"chtr","country":"united states","sector":"communication services","industry":"entertainment"}
 {"name":"byd co ltd","market_capitalization_usd":"104420000000","stock":"002594","country":"china","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"saudi basic industries corp","market_capitalization_usd":"104000000000","stock":"2010","country":"saudi arabia","sector":"basic materials","industry":"chemicals"}
 {"name":"nippon telegraph & telephone corp","market_capitalization_usd":"103750000000","stock":"9432","country":"japan","sector":"communication services","industry":"telecom services"}
-{"name":"altria group, inc","market_capitalization_usd":"102980000000","stock":"mo","country":"united states","sector":"consumer staples","industry":"tobacco"}
+{"name":"altria group inc","market_capitalization_usd":"102980000000","stock":"mo","country":"united states","sector":"consumer staples","industry":"tobacco"}
 {"name":"british american tobacco plc","market_capitalization_usd":"101440000000","stock":"bats","country":"united kingdom","sector":"consumer staples","industry":"tobacco"}
 {"name":"stryker corporation","market_capitalization_usd":"101410000000","stock":"syk","country":"united states","sector":"healthcare","industry":"medical devices"}
 {"name":"s&p global inc","market_capitalization_usd":"100840000000","stock":"spgi","country":"united states","sector":"financials","industry":"financial data & stock exchanges"}
@@ -148,7 +148,7 @@
 {"name":"petroleo brasileiro sa - petrobras","market_capitalization_usd":"98370000000","stock":"pbr","country":"brazil","sector":"energy","industry":"oil & gas integrated"}
 {"name":"airbus se","market_capitalization_usd":"97410000000","stock":"air","country":"netherlands","sector":"industrials","industry":"aerospace & defense"}
 {"name":"china life insurance company limited","market_capitalization_usd":"97310000000","stock":"lfc","country":"china","sector":"financials","industry":"insurancelife"}
-{"name":"automatic data processing, inc","market_capitalization_usd":"96980000000","stock":"adp","country":"united states","sector":"industrials","industry":"staffing & employment services"}
+{"name":"automatic data processing inc","market_capitalization_usd":"96980000000","stock":"adp","country":"united states","sector":"industrials","industry":"staffing & employment services"}
 {"name":"bp plc","market_capitalization_usd":"96240000000","stock":"bp.","country":"united kingdom","sector":"energy","industry":"oil & gas integrated"}
 {"name":"china shenhua energy company ltd","market_capitalization_usd":"95340000000","stock":"601088","country":"china","sector":"energy","industry":"thermal coal"}
 {"name":"booking holdings inc","market_capitalization_usd":"95020000000","stock":"bkng","country":"united states","sector":"consumer discretionary","industry":"travel services"}
@@ -156,9 +156,9 @@
 {"name":"enbridge inc","market_capitalization_usd":"94940000000","stock":"enb","country":"canada","sector":"energy","industry":"oil & gas midstream"}
 {"name":"schneider electric se","market_capitalization_usd":"94340000000","stock":"su","country":"france","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"deutsche telekom ag","market_capitalization_usd":"93010000000","stock":"dte","country":"germany","sector":"communication services","industry":"telecom services"}
-{"name":"merck kommanditgesellschaft auf aktien","market_capitalization_usd":"90740000000","stock":" k","country":"germany","sector":"healthcare","industry":"drug manufacturersspecialty & generic"}
-{"name":"mondelez international, inc","market_capitalization_usd":"90670000000","stock":"mdlz","country":"united states","sector":"consumer staples","industry":"confectioners"}
-{"name":"jdcom, inc","market_capitalization_usd":"90460000000","stock":"9618","country":"china","sector":"consumer discretionary","industry":"internet retail"}
+{"name":"merck kommanditgesellschaft auf aktien","market_capitalization_usd":"90740000000","stock":"mrk","country":"germany","sector":"healthcare","industry":"drug manufacturersspecialty & generic"}
+{"name":"mondelez international inc","market_capitalization_usd":"90670000000","stock":"mdlz","country":"united states","sector":"consumer staples","industry":"confectioners"}
+{"name":"jdcom inc","market_capitalization_usd":"90460000000","stock":"9618","country":"china","sector":"consumer discretionary","industry":"internet retail"}
 {"name":"vulcan international corp","market_capitalization_usd":"90340000000","stock":"vulc","country":"united states","sector":"basic materials","industry":"chemicals"}
 {"name":"zoetis inc","market_capitalization_usd":"89820000000","stock":"zts","country":"united states","sector":"healthcare","industry":"drug manufacturersspecialty & generic"}
 {"name":"csl limited","market_capitalization_usd":"89690000000","stock":"csl","country":"australia","sector":"healthcare","industry":"biotechnology"}
@@ -169,13 +169,13 @@
 {"name":"brookfield asset management inc","market_capitalization_usd":"87460000000","stock":"bam.a","country":"canada","sector":"financials","industry":"asset management"}
 {"name":"glencore plc","market_capitalization_usd":"87310000000","stock":"glen","country":"switzerland","sector":"basic materials","industry":"other industrial metals & mining"}
 {"name":"cme group inc","market_capitalization_usd":"87170000000","stock":"cme","country":"united states","sector":"financials","industry":"financial data & stock exchanges"}
-{"name":"marsh & mclennan companies, inc","market_capitalization_usd":"87160000000","stock":"mmc","country":"united states","sector":"financials","industry":"insurance brokers"}
-{"name":"micron technology, inc","market_capitalization_usd":"86490000000","stock":"mu","country":"united states","sector":"technology","industry":"semiconductors"}
-{"name":"mitsubishi ufj financial group, inc","market_capitalization_usd":"85030000000","stock":"8306","country":"japan","sector":"financials","industry":"banks"}
+{"name":"marsh & mclennan companies inc","market_capitalization_usd":"87160000000","stock":"mmc","country":"united states","sector":"financials","industry":"insurance brokers"}
+{"name":"micron technology inc","market_capitalization_usd":"86490000000","stock":"mu","country":"united states","sector":"technology","industry":"semiconductors"}
+{"name":"mitsubishi ufj financial group inc","market_capitalization_usd":"85030000000","stock":"8306","country":"japan","sector":"financials","industry":"banks"}
 {"name":"cigna corporation","market_capitalization_usd":"84670000000","stock":"ci","country":"united states","sector":"healthcare","industry":"healthcare plans"}
 {"name":"shopify inc","market_capitalization_usd":"83800000000","stock":"shop","country":"canada","sector":"technology","industry":"softwareapplication"}
 {"name":"air liquide sa","market_capitalization_usd":"83240000000","stock":"ai","country":"france","sector":"basic materials","industry":"chemicals"}
-{"name":"hca healthcare, inc","market_capitalization_usd":"82600000000","stock":"hca","country":"united states","sector":"healthcare","industry":"medical care facilities"}
+{"name":"hca healthcare inc","market_capitalization_usd":"82600000000","stock":"hca","country":"united states","sector":"healthcare","industry":"medical care facilities"}
 {"name":"national australia bank limited","market_capitalization_usd":"81030000000","stock":"nab","country":"australia","sector":"financials","industry":"banks"}
 {"name":"crown castle international corp reit","market_capitalization_usd":"80920000000","stock":"cci","country":"united states","sector":"real estate","industry":"reitspecialty"}
 {"name":"essilorluxottica sa","market_capitalization_usd":"80490000000","stock":"el","country":"france","sector":"healthcare","industry":"medical instruments & supplies"}
@@ -187,14 +187,14 @@
 {"name":"china petroleum & chemical corporation","market_capitalization_usd":"78390000000","stock":"600028","country":"china","sector":"energy","industry":"oil & gas integrated"}
 {"name":"the southern company","market_capitalization_usd":"78380000000","stock":"so","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"lam research corporation","market_capitalization_usd":"77600000000","stock":"lrcx","country":"united states","sector":"technology","industry":"semiconductor equipment & materials"}
-{"name":"the pnc financial services group, inc","market_capitalization_usd":"77100000000","stock":"pnc","country":"united states","sector":"financials","industry":"banks"}
-{"name":"becton, dickinson and company","market_capitalization_usd":"76980000000","stock":"bdx","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
-{"name":"gilead sciences, inc","market_capitalization_usd":"76150000000","stock":"gild","country":"united states","sector":"healthcare","industry":"drug manufacturersgeneral"}
-{"name":"regeneron pharmaceuticals, inc","market_capitalization_usd":"74910000000","stock":"regn","country":"united states","sector":"healthcare","industry":"biotechnology"}
+{"name":"the pnc financial services group inc","market_capitalization_usd":"77100000000","stock":"pnc","country":"united states","sector":"financials","industry":"banks"}
+{"name":"becton dickinson and company","market_capitalization_usd":"76980000000","stock":"bdx","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
+{"name":"gilead sciences inc","market_capitalization_usd":"76150000000","stock":"gild","country":"united states","sector":"healthcare","industry":"drug manufacturersgeneral"}
+{"name":"regeneron pharmaceuticals inc","market_capitalization_usd":"74910000000","stock":"regn","country":"united states","sector":"healthcare","industry":"biotechnology"}
 {"name":"truist financial corporation","market_capitalization_usd":"74790000000","stock":"tfc","country":"united states","sector":"financials","industry":"banks"}
 {"name":"canadian natural resources limited","market_capitalization_usd":"74780000000","stock":"cnq","country":"canada","sector":"energy","industry":"oil & gas e&p"}
-{"name":"intercontinental exchange, inc","market_capitalization_usd":"74170000000","stock":"ice","country":"united states","sector":"financials","industry":"financial data & stock exchanges"}
-{"name":"the tjx companies, inc","market_capitalization_usd":"73990000000","stock":"tjx","country":"united states","sector":"consumer discretionary","industry":"apparel retail"}
+{"name":"intercontinental exchange inc","market_capitalization_usd":"74170000000","stock":"ice","country":"united states","sector":"financials","industry":"financial data & stock exchanges"}
+{"name":"the tjx companies inc","market_capitalization_usd":"73990000000","stock":"tjx","country":"united states","sector":"consumer discretionary","industry":"apparel retail"}
 {"name":"atlassian corporation plc","market_capitalization_usd":"73720000000","stock":"team","country":"australia","sector":"technology","industry":"softwareapplication"}
 {"name":"zurich insurance group ag","market_capitalization_usd":"73580000000","stock":"zurn","country":"switzerland","sector":"financials","industry":"insurancediversified"}
 {"name":"edwards lifesciences corporation","market_capitalization_usd":"73380000000","stock":"ew","country":"united states","sector":"healthcare","industry":"medical devices"}
@@ -205,70 +205,70 @@
 {"name":"freeport-mcmoran inc","market_capitalization_usd":"72160000000","stock":"fcx","country":"united states","sector":"basic materials","industry":"copper"}
 {"name":"wal-mart de mexico sab de cv","market_capitalization_usd":"71960000000","stock":"walmex","country":"mexico","sector":"consumer staples","industry":"discount stores"}
 {"name":"pt bank central asia tbk","market_capitalization_usd":"71910000000","stock":"bbca","country":"indonesia","sector":"financials","industry":"banks"}
-{"name":"eog resources, inc","market_capitalization_usd":"71900000000","stock":"eog","country":"united states","sector":"energy","industry":"oil & gas e&p"}
+{"name":"eog resources inc","market_capitalization_usd":"71900000000","stock":"eog","country":"united states","sector":"energy","industry":"oil & gas e&p"}
 {"name":"siemens healthineers ag","market_capitalization_usd":"71500000000","stock":"shl","country":"germany","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"anglo american plc","market_capitalization_usd":"71480000000","stock":"aal","country":"united kingdom","sector":"basic materials","industry":"other industrial metals & mining"}
-{"name":"moderna, inc","market_capitalization_usd":"70810000000","stock":" na","country":"united states","sector":"healthcare","industry":"biotechnology"}
+{"name":"moderna inc","market_capitalization_usd":"70810000000","stock":"mrna","country":"united states","sector":"healthcare","industry":"biotechnology"}
 {"name":"general dynamics corporation","market_capitalization_usd":"70550000000","stock":"gd","country":"united states","sector":"industrials","industry":"aerospace & defense"}
 {"name":"axa sa","market_capitalization_usd":"70200000000","stock":"cs","country":"france","sector":"financials","industry":"insurancediversified"}
-{"name":"dominion energy, inc","market_capitalization_usd":"70200000000","stock":"d","country":"united states","sector":"utilities","industry":"utilitiesdiversified"}
+{"name":"dominion energy inc","market_capitalization_usd":"70200000000","stock":"d","country":"united states","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"enel spa","market_capitalization_usd":"70150000000","stock":"enel","country":"italy","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"bnp paribas sa","market_capitalization_usd":"69900000000","stock":"bnp","country":"france","sector":"financials","industry":"banks"}
-{"name":"america movil, sab de cv","market_capitalization_usd":"69450000000","stock":"amxa","country":"mexico","sector":"communication services","industry":"telecom services"}
+{"name":"america movil sab de cv","market_capitalization_usd":"69450000000","stock":"amxa","country":"mexico","sector":"communication services","industry":"telecom services"}
 {"name":"public storage","market_capitalization_usd":"69310000000","stock":"psa","country":"united states","sector":"real estate","industry":"reitindustrial"}
 {"name":"ubs group ag","market_capitalization_usd":"68930000000","stock":"ubsg","country":"switzerland","sector":"financials","industry":"banks"}
 {"name":"sberbank of russia pjsc","market_capitalization_usd":"68690000000","stock":"sber","country":"russia","sector":"financials","industry":"banks"}
-{"name":"fiserv, inc","market_capitalization_usd":"68680000000","stock":"fisv","country":"united states","sector":"technology","industry":"information technology services"}
-{"name":"iberdrola, sa","market_capitalization_usd":"68230000000","stock":"ibe","country":"spain","sector":"utilities","industry":"utilitiesdiversified"}
+{"name":"fiserv inc","market_capitalization_usd":"68680000000","stock":"fisv","country":"united states","sector":"technology","industry":"information technology services"}
+{"name":"iberdrola sa","market_capitalization_usd":"68230000000","stock":"ibe","country":"spain","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"recruit holdings co ltd","market_capitalization_usd":"68110000000","stock":"6098","country":"japan","sector":"industrials","industry":"staffing & employment services"}
 {"name":"bayer ag","market_capitalization_usd":"68090000000","stock":"bayn","country":"germany","sector":"healthcare","industry":"drug manufacturersgeneral"}
-{"name":"the sherwin-willia company","market_capitalization_usd":"67540000000","stock":"shw","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
+{"name":"the sherwin-williacompany","market_capitalization_usd":"67540000000","stock":"shw","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"vertex pharmaceuticals incorporated","market_capitalization_usd":"67490000000","stock":"vrtx","country":"united states","sector":"healthcare","industry":"biotechnology"}
 {"name":"illinois tool works inc","market_capitalization_usd":"67490000000","stock":"itw","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"the progressive corporation","market_capitalization_usd":"67310000000","stock":"pgr","country":"united states","sector":"financials","industry":"insuranceproperty & casualty"}
 {"name":"westpac banking corporation","market_capitalization_usd":"67200000000","stock":"wbc","country":"australia","sector":"financials","industry":"banks"}
 {"name":"abb ltd","market_capitalization_usd":"67190000000","stock":"abbn","country":"switzerland","sector":"industrials","industry":"electrical equipment & parts"}
-{"name":"waste management, inc","market_capitalization_usd":"66950000000","stock":"wm","country":"united states","sector":"industrials","industry":"waste management"}
+{"name":"waste management inc","market_capitalization_usd":"66950000000","stock":"wm","country":"united states","sector":"industrials","industry":"waste management"}
 {"name":"industrial bank co ltd","market_capitalization_usd":"66870000000","stock":"601166","country":"china","sector":"financials","industry":"banks"}
 {"name":"dbs group holdings ltd","market_capitalization_usd":"66740000000","stock":"d05","country":"singapore","sector":"financials","industry":"banks"}
 {"name":"icici bank limited","market_capitalization_usd":"66620000000","stock":"ibn","country":"india","sector":"financials","industry":"banks"}
-{"name":"equinix, inc reit","market_capitalization_usd":"66350000000","stock":"eqix","country":"united states","sector":"real estate","industry":"reitspecialty"}
+{"name":"equinix inc reit","market_capitalization_usd":"66350000000","stock":"eqix","country":"united states","sector":"real estate","industry":"reitspecialty"}
 {"name":"newmont corporation","market_capitalization_usd":"65890000000","stock":"nem","country":"united states","sector":"basic materials","industry":"gold"}
 {"name":"ford motor company","market_capitalization_usd":"65740000000","stock":"f","country":"united states","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"colgate-palmolive company","market_capitalization_usd":"65640000000","stock":"cl","country":"united states","sector":"consumer staples","industry":"household & personal products"}
 {"name":"exelon corporation","market_capitalization_usd":"65530000000","stock":"exc","country":"united states","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"snowflake inc","market_capitalization_usd":"65040000000","stock":"snow","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"oriental land co ltd","market_capitalization_usd":"64660000000","stock":"4661","country":"japan","sector":"consumer discretionary","industry":"leisure"}
-{"name":"sk hynix, inc","market_capitalization_usd":"64600000000","stock":"000660","country":"south korea","sector":"technology","industry":"semiconductors"}
+{"name":"sk hynix inc","market_capitalization_usd":"64600000000","stock":"000660","country":"south korea","sector":"technology","industry":"semiconductors"}
 {"name":"ap moller - maersk a-s","market_capitalization_usd":"64400000000","stock":"maersk.b","country":"denmark","sector":"industrials","industry":"marine shipping"}
 {"name":"shin-etsu chemical co ltd","market_capitalization_usd":"63430000000","stock":"4063","country":"japan","sector":"basic materials","industry":"chemicals"}
 {"name":"fedex corporation","market_capitalization_usd":"63250000000","stock":"fdx","country":"united states","sector":"industrials","industry":"integrated freight & logistics"}
 {"name":"boston scientific corporation","market_capitalization_usd":"63080000000","stock":"bsx","country":"united states","sector":"healthcare","industry":"medical devices"}
 {"name":"pacificorp","market_capitalization_usd":"62870000000","stock":"ppwlm","country":"united states","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"dassault systemes se","market_capitalization_usd":"62750000000","stock":"dsy","country":"france","sector":"technology","industry":"softwareapplication"}
-{"name":"metlife, inc","market_capitalization_usd":"62690000000","stock":"met","country":"united states","sector":"financials","industry":"insurancelife"}
+{"name":"metlife inc","market_capitalization_usd":"62690000000","stock":"met","country":"united states","sector":"financials","industry":"insurancelife"}
 {"name":"general motors company","market_capitalization_usd":"62690000000","stock":"gm","country":"united states","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"sea limited","market_capitalization_usd":"62660000000","stock":"se","country":"singapore","sector":"communication services","industry":"electronic gaming & multimedia"}
-{"name":"uber technologies, inc","market_capitalization_usd":"62660000000","stock":"uber","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"uber technologies inc","market_capitalization_usd":"62660000000","stock":"uber","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"moody's corporation","market_capitalization_usd":"62580000000","stock":"mco","country":"united states","sector":"financials","industry":"financial data & stock exchanges"}
 {"name":"nintendo co ltd","market_capitalization_usd":"62200000000","stock":"7974","country":"japan","sector":"communication services","industry":"electronic gaming & multimedia"}
 {"name":"pioneer natural resources company","market_capitalization_usd":"62190000000","stock":"pxd","country":"united states","sector":"energy","industry":"oil & gas e&p"}
 {"name":"eaton corporation plc","market_capitalization_usd":"62170000000","stock":"etn","country":"ireland","sector":"industrials","industry":"specialty industrial machinery"}
-{"name":"analog devices, inc","market_capitalization_usd":"62000000000","stock":"adi","country":"united states","sector":"technology","industry":"semiconductors"}
-{"name":"fidelity national information services, inc","market_capitalization_usd":"61730000000","stock":"fis","country":"united states","sector":"technology","industry":"information technology services"}
-{"name":"banco santander, sa","market_capitalization_usd":"61670000000","stock":"san","country":"spain","sector":"financials","industry":"banks"}
+{"name":"analog devices inc","market_capitalization_usd":"62000000000","stock":"adi","country":"united states","sector":"technology","industry":"semiconductors"}
+{"name":"fidelity national information services inc","market_capitalization_usd":"61730000000","stock":"fis","country":"united states","sector":"technology","industry":"information technology services"}
+{"name":"banco santander sa","market_capitalization_usd":"61670000000","stock":"san","country":"spain","sector":"financials","industry":"banks"}
 {"name":"hapag-lloyd ag","market_capitalization_usd":"61460000000","stock":"hlag","country":"germany","sector":"industrials","industry":"marine shipping"}
 {"name":"adyen nv","market_capitalization_usd":"61110000000","stock":"adyen","country":"netherlands","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"atlas copco ab","market_capitalization_usd":"60970000000","stock":"atco.a","country":"sweden","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"cnooc limited","market_capitalization_usd":"60190000000","stock":"0883","country":"hong kong","sector":"energy","industry":"oil & gas e&p"}
 {"name":"nutrien ltd","market_capitalization_usd":"60060000000","stock":"ntr","country":"canada","sector":"basic materials","industry":"agricultural inputs"}
-{"name":"block, inc","market_capitalization_usd":"59950000000","stock":"sq","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"block inc","market_capitalization_usd":"59950000000","stock":"sq","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"deutsche post ag","market_capitalization_usd":"59800000000","stock":"dpwa","country":"germany","sector":"industrials","industry":"integrated freight & logistics"}
-{"name":"netease, inc","market_capitalization_usd":"59760000000","stock":"9999","country":"china","sector":"communication services","industry":"internet content & information"}
+{"name":"netease inc","market_capitalization_usd":"59760000000","stock":"9999","country":"china","sector":"communication services","industry":"internet content & information"}
 {"name":"hong kong exchanges & clearing ltd","market_capitalization_usd":"59750000000","stock":"0388","country":"hong kong","sector":"financials","industry":"financial data & stock exchanges"}
 {"name":"capital one financial corporation","market_capitalization_usd":"59670000000","stock":"cof","country":"united states","sector":"financials","industry":"credit services"}
-{"name":"emerson electric co","market_capitalization_usd":"59660000000","stock":"e ","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
-{"name":"palo alto networks, inc","market_capitalization_usd":"59650000000","stock":"panw","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"emerson electric co","market_capitalization_usd":"59660000000","stock":"emr","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
+{"name":"palo alto networks inc","market_capitalization_usd":"59650000000","stock":"panw","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"australia and new zealand banking group limited","market_capitalization_usd":"59550000000","stock":"anz","country":"australia","sector":"financials","industry":"banks"}
 {"name":"reckitt benckiser group plc","market_capitalization_usd":"59530000000","stock":"rkt","country":"united kingdom","sector":"consumer staples","industry":"household & personal products"}
 {"name":"nongfu spring co ltd","market_capitalization_usd":"59500000000","stock":"9633","country":"china","sector":"consumer staples","industry":"beveragesnon-alcoholic"}
@@ -276,19 +276,19 @@
 {"name":"southern copper corporation","market_capitalization_usd":"59460000000","stock":"scco","country":"united states","sector":"basic materials","industry":"copper"}
 {"name":"shenzhen mindray bio-medical electronics co ltd","market_capitalization_usd":"59260000000","stock":"300760","country":"china","sector":"healthcare","industry":"medical devices"}
 {"name":"vinci sa","market_capitalization_usd":"59010000000","stock":"dg","country":"france","sector":"industrials","industry":"engineering & construction"}
-{"name":"workday, inc","market_capitalization_usd":"58700000000","stock":"wday","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"workday inc","market_capitalization_usd":"58700000000","stock":"wday","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"relx plc","market_capitalization_usd":"58530000000","stock":"rel","country":"united kingdom","sector":"communication services","industry":"publishing"}
-{"name":"marvell technology group ltd","market_capitalization_usd":"58360000000","stock":" vl","country":"bermuda","sector":"technology","industry":"semiconductors"}
-{"name":"air products and chemicals, inc","market_capitalization_usd":"57820000000","stock":"apd","country":"united states","sector":"basic materials","industry":"chemicals"}
+{"name":"marvell technology group ltd","market_capitalization_usd":"58360000000","stock":"mrvl","country":"bermuda","sector":"technology","industry":"semiconductors"}
+{"name":"air products and chemicals inc","market_capitalization_usd":"57820000000","stock":"apd","country":"united states","sector":"basic materials","industry":"chemicals"}
 {"name":"pernod ricard sa","market_capitalization_usd":"57750000000","stock":"ri","country":"france","sector":"consumer staples","industry":"beverageswineries & distilleries"}
 {"name":"schlumberger limited","market_capitalization_usd":"57630000000","stock":"slb","country":"united states","sector":"energy","industry":"oil & gas equipment & services"}
-{"name":"marvell technology, inc","market_capitalization_usd":"57620000000","stock":"9mw","country":"united states","sector":"technology","industry":"semiconductors"}
+{"name":"marvell technology inc","market_capitalization_usd":"57620000000","stock":"9mw","country":"united states","sector":"technology","industry":"semiconductors"}
 {"name":"itau unibanco holding sa","market_capitalization_usd":"57450000000","stock":"itub","country":"brazil","sector":"financials","industry":"banks"}
 {"name":"enterprise products partners lp","market_capitalization_usd":"57430000000","stock":"epd","country":"united states","sector":"energy","industry":"oil & gas midstream"}
 {"name":"foshan haitian flavouring and food company ltd","market_capitalization_usd":"57400000000","stock":"603288","country":"china","sector":"consumer staples","industry":"packaged foods"}
 {"name":"mitsubishi corp","market_capitalization_usd":"57230000000","stock":"8058","country":"japan","sector":"industrials","industry":"conglomerates"}
 {"name":"canadian imperial bank of commerce","market_capitalization_usd":"57200000000","stock":"cm","country":"canada","sector":"financials","industry":"banks"}
-{"name":"marriott international, inc","market_capitalization_usd":"57180000000","stock":"mar","country":"united states","sector":"consumer discretionary","industry":"lodging"}
+{"name":"marriott international inc","market_capitalization_usd":"57180000000","stock":"mar","country":"united states","sector":"consumer discretionary","industry":"lodging"}
 {"name":"pinduoduo inc","market_capitalization_usd":"57090000000","stock":"pdd","country":"china","sector":"consumer discretionary","industry":"internet retail"}
 {"name":"ihs markit ltd","market_capitalization_usd":"56940000000","stock":"info","country":"united kingdom","sector":"industrials","industry":"consulting services"}
 {"name":"the saudi national bank","market_capitalization_usd":"56890000000","stock":"1180","country":"saudi arabia","sector":"financials","industry":"banks"}
@@ -299,121 +299,121 @@
 {"name":"bayerische motoren werke ag","market_capitalization_usd":"56170000000","stock":"bmwb","country":"germany","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"macquarie group limited","market_capitalization_usd":"55990000000","stock":"mqg","country":"australia","sector":"financials","industry":"capital markets"}
 {"name":"national grid plc","market_capitalization_usd":"55880000000","stock":"ng.","country":"united kingdom","sector":"utilities","industry":"utilitiesdiversified"}
-{"name":"daikin industries,ltd","market_capitalization_usd":"55580000000","stock":"6367","country":"japan","sector":"industrials","industry":"building products & equipment"}
+{"name":"daikin industriesltd","market_capitalization_usd":"55580000000","stock":"6367","country":"japan","sector":"industrials","industry":"building products & equipment"}
 {"name":"chugai pharmaceutical co ltd","market_capitalization_usd":"55310000000","stock":"4519","country":"japan","sector":"healthcare","industry":"drug manufacturersgeneral"}
-{"name":"keurig dr pepper inc","market_capitalization_usd":"55280000000","stock":"kdp","country":"united states","sector":"consumer staples","industry":"beveragesnon-alcoholic"}
+{"name":"keurig pepper inc","market_capitalization_usd":"55280000000","stock":"kdp","country":"united states","sector":"consumer staples","industry":"beveragesnon-alcoholic"}
 {"name":"ergo science corp","market_capitalization_usd":"55230000000","stock":"ergn","country":"united states","sector":"industrials","industry":"staffing & employment services"}
 {"name":"softbank group corp","market_capitalization_usd":"54930000000","stock":"9984","country":"japan","sector":"communication services","industry":"telecom services"}
 {"name":"heineken nv","market_capitalization_usd":"54870000000","stock":"heia","country":"netherlands","sector":"consumer staples","industry":"beveragesbrewers"}
 {"name":"ambev sa","market_capitalization_usd":"54690000000","stock":"abev3","country":"brazil","sector":"consumer staples","industry":"beveragesbrewers"}
 {"name":"canadian pacific railway limited","market_capitalization_usd":"54590000000","stock":"cp","country":"canada","sector":"industrials","industry":"railroads"}
 {"name":"marathon petroleum corporation","market_capitalization_usd":"54540000000","stock":"mpc","country":"united states","sector":"energy","industry":"oil & gas refining & marketing"}
-{"name":"american international group, inc","market_capitalization_usd":"54310000000","stock":"aig","country":"united states","sector":"financials","industry":"insurancediversified"}
+{"name":"american international group inc","market_capitalization_usd":"54310000000","stock":"aig","country":"united states","sector":"financials","industry":"insurancediversified"}
 {"name":"dollar general corporation","market_capitalization_usd":"54300000000","stock":"dg","country":"united states","sector":"consumer staples","industry":"discount stores"}
-{"name":"fortinet, inc","market_capitalization_usd":"53860000000","stock":"ftnt","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"fortinet inc","market_capitalization_usd":"53860000000","stock":"ftnt","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"snap inc","market_capitalization_usd":"53860000000","stock":"snap","country":"united states","sector":"communication services","industry":"internet content & information"}
 {"name":"ferrari nv","market_capitalization_usd":"53780000000","stock":"race","country":"italy","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"lonza group ltd","market_capitalization_usd":"53760000000","stock":"lonn","country":"switzerland","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"london stock exchange group plc","market_capitalization_usd":"53330000000","stock":"lseg","country":"united kingdom","sector":"financials","industry":"financial data & stock exchanges"}
-{"name":"thoon reuters corporation","market_capitalization_usd":"53300000000","stock":"tri","country":"canada","sector":"industrials","industry":"consulting services"}
+{"name":"thomson reuters corporation","market_capitalization_usd":"53300000000","stock":"tri","country":"canada","sector":"industrials","industry":"consulting services"}
 {"name":"basf se","market_capitalization_usd":"52760000000","stock":"bas","country":"germany","sector":"basic materials","industry":"chemicals"}
 {"name":"sempra energy","market_capitalization_usd":"52470000000","stock":"sre","country":"united states","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"occidental petroleum corporation","market_capitalization_usd":"52300000000","stock":"oxy","country":"united states","sector":"energy","industry":"oil & gas e&p"}
-{"name":"liberty bancshares, inc oh","market_capitalization_usd":"52300000000","stock":"lbsi","country":"united states","sector":"financials","industry":"banks"}
+{"name":"liberty bancshares inc oh","market_capitalization_usd":"52300000000","stock":"lbsi","country":"united states","sector":"financials","industry":"banks"}
 {"name":"fast retailing co ltd","market_capitalization_usd":"52290000000","stock":"9983","country":"japan","sector":"consumer discretionary","industry":"apparel retail"}
 {"name":"nxp semiconductors nv","market_capitalization_usd":"52280000000","stock":"nxpi","country":"netherlands","sector":"technology","industry":"semiconductors"}
-{"name":"xilinx, inc","market_capitalization_usd":"52190000000","stock":"xlnx","country":"united states","sector":"technology","industry":"semiconductors"}
+{"name":"xilinx inc","market_capitalization_usd":"52190000000","stock":"xlnx","country":"united states","sector":"technology","industry":"semiconductors"}
 {"name":"itochu corp","market_capitalization_usd":"52190000000","stock":"8001","country":"japan","sector":"industrials","industry":"conglomerates"}
 {"name":"eni spa","market_capitalization_usd":"52000000000","stock":"eni","country":"italy","sector":"energy","industry":"oil & gas integrated"}
 {"name":"stellantis nv","market_capitalization_usd":"51800000000","stock":"stla","country":"netherlands","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"bce inc","market_capitalization_usd":"51710000000","stock":"bce","country":"canada","sector":"communication services","industry":"telecom services"}
 {"name":"denso corp","market_capitalization_usd":"51580000000","stock":"6902","country":"japan","sector":"consumer discretionary","industry":"auto parts"}
 {"name":"toyota motor corporation","market_capitalization_usd":"51550000000","stock":"7203","country":"japan","sector":"consumer discretionary","industry":"auto manufacturers"}
-{"name":"l3harris technologies, inc","market_capitalization_usd":"51510000000","stock":"lhx","country":"united states","sector":"industrials","industry":"aerospace & defense"}
-{"name":"agribank, fcb","market_capitalization_usd":"51490000000","stock":"agrip","country":"united states","sector":"financials","industry":"credit services"}
+{"name":"l3harris technologies inc","market_capitalization_usd":"51510000000","stock":"lhx","country":"united states","sector":"industrials","industry":"aerospace & defense"}
+{"name":"agribank fcb","market_capitalization_usd":"51490000000","stock":"agrip","country":"united states","sector":"financials","industry":"credit services"}
 {"name":"general accident plc","market_capitalization_usd":"51430000000","stock":"gaca","country":"united kingdom","sector":"financials","industry":"insuranceproperty & casualty"}
 {"name":"archer-daniels-midland company","market_capitalization_usd":"51030000000","stock":"adm","country":"united states","sector":"consumer staples","industry":"farm products"}
-{"name":"american electric power company, inc","market_capitalization_usd":"50950000000","stock":"aep","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
+{"name":"american electric power company inc","market_capitalization_usd":"50950000000","stock":"aep","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"fortescue metals group limited","market_capitalization_usd":"50760000000","stock":"fmg","country":"australia","sector":"basic materials","industry":"other industrial metals & mining"}
 {"name":"hon hai precision industry co ltd","market_capitalization_usd":"50750000000","stock":"2317","country":"taiwan","sector":"technology","industry":"electronic components"}
 {"name":"china tourism group duty free corp ltd","market_capitalization_usd":"50460000000","stock":"601888","country":"china","sector":"consumer discretionary","industry":"travel services"}
 {"name":"ecolab inc","market_capitalization_usd":"50290000000","stock":"ecl","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"novatek pjsc","market_capitalization_usd":"50190000000","stock":"nvtk","country":"russia","sector":"energy","industry":"oil & gas e&p"}
-{"name":"synopsys, inc","market_capitalization_usd":"50180000000","stock":"snps","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"synopsys inc","market_capitalization_usd":"50180000000","stock":"snps","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"safran sa","market_capitalization_usd":"50020000000","stock":"saf","country":"france","sector":"industrials","industry":"aerospace & defense"}
-{"name":"illumina, inc","market_capitalization_usd":"49910000000","stock":"ilmn","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
-{"name":"mercadolibre, inc","market_capitalization_usd":"49830000000","stock":"meli","country":"argentina","sector":"consumer discretionary","industry":"internet retail"}
-{"name":"roper technologies, inc","market_capitalization_usd":"49660000000","stock":"rop","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
+{"name":"illumina inc","market_capitalization_usd":"49910000000","stock":"ilmn","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
+{"name":"mercadolibre inc","market_capitalization_usd":"49830000000","stock":"meli","country":"argentina","sector":"consumer discretionary","industry":"internet retail"}
+{"name":"roper technologies inc","market_capitalization_usd":"49660000000","stock":"rop","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"the kraft heinz company","market_capitalization_usd":"49420000000","stock":"khc","country":"united states","sector":"consumer staples","industry":"packaged foods"}
 {"name":"centene corporation","market_capitalization_usd":"49320000000","stock":"cnc","country":"united states","sector":"healthcare","industry":"healthcare plans"}
-{"name":"paychex, inc","market_capitalization_usd":"49230000000","stock":"payx","country":"united states","sector":"industrials","industry":"staffing & employment services"}
-{"name":"honda motor co, ltd","market_capitalization_usd":"49110000000","stock":"7267","country":"japan","sector":"consumer discretionary","industry":"auto manufacturers"}
+{"name":"paychex inc","market_capitalization_usd":"49230000000","stock":"payx","country":"united states","sector":"industrials","industry":"staffing & employment services"}
+{"name":"honda motor co ltd","market_capitalization_usd":"49110000000","stock":"7267","country":"japan","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"hitachi ltd","market_capitalization_usd":"48920000000","stock":"6501","country":"japan","sector":"industrials","industry":"conglomerates"}
 {"name":"scentre group","market_capitalization_usd":"48830000000","stock":"scg","country":"australia","sector":"real estate","industry":"reitretail"}
-{"name":"mediatek, inc","market_capitalization_usd":"48740000000","stock":"2454","country":"taiwan","sector":"technology","industry":"semiconductors"}
+{"name":"mediatek inc","market_capitalization_usd":"48740000000","stock":"2454","country":"taiwan","sector":"technology","industry":"semiconductors"}
 {"name":"lululemon athletica inc","market_capitalization_usd":"48520000000","stock":"lulu","country":"canada","sector":"consumer discretionary","industry":"apparel retail"}
 {"name":"dow inc","market_capitalization_usd":"48500000000","stock":"dow","country":"united states","sector":"basic materials","industry":"chemicals"}
 {"name":"rosneft oil co pjsc","market_capitalization_usd":"48500000000","stock":"rosn","country":"russia","sector":"energy","industry":"oil & gas integrated"}
 {"name":"mckesson corporation","market_capitalization_usd":"48460000000","stock":"mck","country":"united states","sector":"healthcare","industry":"medical distribution"}
 {"name":"suncor energy inc","market_capitalization_usd":"48270000000","stock":"su","country":"canada","sector":"energy","industry":"oil & gas integrated"}
-{"name":"vmware, inc","market_capitalization_usd":"48170000000","stock":"vmw","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"vmware inc","market_capitalization_usd":"48170000000","stock":"vmw","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"johnson controls international plc","market_capitalization_usd":"48150000000","stock":"jci","country":"ireland","sector":"industrials","industry":"engineering & construction"}
-{"name":"o'reilly automotive, inc","market_capitalization_usd":"48140000000","stock":"orly","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
+{"name":"o'reilly automotive inc","market_capitalization_usd":"48140000000","stock":"orly","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
 {"name":"grupo mexico sab de cv","market_capitalization_usd":"48000000000","stock":"gmexicob","country":"mexico","sector":"basic materials","industry":"other industrial metals & mining"}
-{"name":"crowdstrike holdings, inc","market_capitalization_usd":"47890000000","stock":"crwd","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"crowdstrike holdings inc","market_capitalization_usd":"47890000000","stock":"crwd","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"naspers ltd","market_capitalization_usd":"47730000000","stock":"npn","country":"south africa","sector":"communication services","industry":"internet content & information"}
-{"name":"autodesk, inc","market_capitalization_usd":"47690000000","stock":"adsk","country":"united states","sector":"technology","industry":"softwareapplication"}
-{"name":"prudential financial, inc","market_capitalization_usd":"47170000000","stock":"pru","country":"united states","sector":"financials","industry":"insurancelife"}
+{"name":"autodesk inc","market_capitalization_usd":"47690000000","stock":"adsk","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"prudential financial inc","market_capitalization_usd":"47170000000","stock":"pru","country":"united states","sector":"financials","industry":"insurancelife"}
 {"name":"open joint stock company omz","market_capitalization_usd":"47150000000","stock":"omzzp","country":"russia","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"cognizant technology solutions corporation","market_capitalization_usd":"47070000000","stock":"ctsh","country":"united states","sector":"technology","industry":"information technology services"}
 {"name":"nucor corporation","market_capitalization_usd":"46860000000","stock":"nue","country":"united states","sector":"basic materials","industry":"steel"}
-{"name":"dexcom, inc","market_capitalization_usd":"46860000000","stock":"dxcm","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
+{"name":"dexcom inc","market_capitalization_usd":"46860000000","stock":"dxcm","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"banco bradesco sa","market_capitalization_usd":"46710000000","stock":"bbdc3","country":"brazil","sector":"financials","industry":"banks"}
 {"name":"nidec corp","market_capitalization_usd":"46330000000","stock":"6594","country":"japan","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"adidas ag","market_capitalization_usd":"46130000000","stock":"ads1","country":"germany","sector":"consumer discretionary","industry":"footwear & accessories"}
 {"name":"sika ag","market_capitalization_usd":"46010000000","stock":"sika","country":"switzerland","sector":"basic materials","industry":"specialty chemicals"}
-{"name":"baidu, inc","market_capitalization_usd":"45980000000","stock":"9888","country":"china","sector":"communication services","industry":"internet content & information"}
+{"name":"baidu inc","market_capitalization_usd":"45980000000","stock":"9888","country":"china","sector":"communication services","industry":"internet content & information"}
 {"name":"takeda pharmaceutical company limited","market_capitalization_usd":"45890000000","stock":"4502","country":"japan","sector":"healthcare","industry":"drug manufacturersspecialty & generic"}
 {"name":"the hershey company","market_capitalization_usd":"45830000000","stock":"hsy","country":"united states","sector":"consumer staples","industry":"confectioners"}
 {"name":"amphenol corporation","market_capitalization_usd":"45770000000","stock":"aph","country":"united states","sector":"technology","industry":"electronic components"}
 {"name":"vanjia corp","market_capitalization_usd":"45740000000","stock":"vnja","country":"united states","sector":"consumer discretionary","industry":"residential construction"}
 {"name":"vodafone group plc","market_capitalization_usd":"45740000000","stock":"vod","country":"united kingdom","sector":"communication services","industry":"telecom services"}
-{"name":"idexx laboratories, inc","market_capitalization_usd":"45640000000","stock":"idxx","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
-{"name":"the travelers companies, inc","market_capitalization_usd":"45560000000","stock":"trv","country":"united states","sector":"financials","industry":"insuranceproperty & casualty"}
+{"name":"idexx laboratories inc","market_capitalization_usd":"45640000000","stock":"idxx","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
+{"name":"the travelers companies inc","market_capitalization_usd":"45560000000","stock":"trv","country":"united states","sector":"financials","industry":"insuranceproperty & casualty"}
 {"name":"infineon technologies ag","market_capitalization_usd":"45350000000","stock":"ifxa","country":"germany","sector":"technology","industry":"semiconductors"}
-{"name":"constellation brands, inc","market_capitalization_usd":"45210000000","stock":"stz","country":"united states","sector":"consumer staples","industry":"beverageswineries & distilleries"}
-{"name":"datadog, inc","market_capitalization_usd":"45130000000","stock":"ddog","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"constellation brands inc","market_capitalization_usd":"45210000000","stock":"stz","country":"united states","sector":"consumer staples","industry":"beverageswineries & distilleries"}
+{"name":"datadog inc","market_capitalization_usd":"45130000000","stock":"ddog","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"mitsui & co ltd","market_capitalization_usd":"45090000000","stock":"8031","country":"japan","sector":"energy","industry":"oil & gas e&p"}
 {"name":"saudi arabian mining company","market_capitalization_usd":"45000000000","stock":"1211","country":"saudi arabia","sector":"basic materials","industry":"other industrial metals & mining"}
 {"name":"pjsc lukoil","market_capitalization_usd":"44960000000","stock":"lkoh","country":"russia","sector":"energy","industry":"oil & gas integrated"}
 {"name":"intesa sanpaolo spa","market_capitalization_usd":"44950000000","stock":"isp","country":"italy","sector":"financials","industry":"banks"}
 {"name":"te connectivity ltd","market_capitalization_usd":"44780000000","stock":"tel","country":"switzerland","sector":"technology","industry":"electronic components"}
-{"name":"autozone, inc","market_capitalization_usd":"44390000000","stock":"azo","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
+{"name":"autozone inc","market_capitalization_usd":"44390000000","stock":"azo","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
 {"name":"iqvia holdings inc","market_capitalization_usd":"44320000000","stock":"iqv","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"cintas corporation","market_capitalization_usd":"44320000000","stock":"ctas","country":"united states","sector":"industrials","industry":"specialty business services"}
-{"name":"cadence design syste, inc","market_capitalization_usd":"44230000000","stock":"cdns","country":"united states","sector":"technology","industry":"softwareapplication"}
-{"name":"chipotle mexican grill, inc","market_capitalization_usd":"44110000000","stock":"cmg","country":"united states","sector":"consumer discretionary","industry":"restaurants"}
-{"name":"sumitomo mitsui financial group, inc","market_capitalization_usd":"44060000000","stock":"8316","country":"japan","sector":"financials","industry":"banks"}
-{"name":"saung biologics co,ltd","market_capitalization_usd":"44010000000","stock":"207940","country":"south korea","sector":"healthcare","industry":"biotechnology"}
+{"name":"cadence design systeinc","market_capitalization_usd":"44230000000","stock":"cdns","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"chipotle mexican grill inc","market_capitalization_usd":"44110000000","stock":"cmg","country":"united states","sector":"consumer discretionary","industry":"restaurants"}
+{"name":"sumitomo mitsui financial group inc","market_capitalization_usd":"44060000000","stock":"8316","country":"japan","sector":"financials","industry":"banks"}
+{"name":"samsung biologics coltd","market_capitalization_usd":"44010000000","stock":"207940","country":"south korea","sector":"healthcare","industry":"biotechnology"}
 {"name":"wipro limited","market_capitalization_usd":"43980000000","stock":"wipro","country":"india","sector":"technology","industry":"information technology services"}
 {"name":"zijin mining group co ltd","market_capitalization_usd":"43930000000","stock":"601899","country":"china","sector":"basic materials","industry":"gold"}
 {"name":"hp inc","market_capitalization_usd":"43900000000","stock":"hpq","country":"united states","sector":"technology","industry":"computer hardware"}
 {"name":"lloyds banking group plc","market_capitalization_usd":"43700000000","stock":"lloy","country":"united kingdom","sector":"financials","industry":"banks"}
-{"name":"simon property group, inc","market_capitalization_usd":"43690000000","stock":"spg","country":"united states","sector":"real estate","industry":"reitretail"}
+{"name":"simon property group inc","market_capitalization_usd":"43690000000","stock":"spg","country":"united states","sector":"real estate","industry":"reitretail"}
 {"name":"aflac incorporated","market_capitalization_usd":"43590000000","stock":"afl","country":"united states","sector":"financials","industry":"insurancelife"}
 {"name":"barrick gold corporation","market_capitalization_usd":"43500000000","stock":"abx","country":"canada","sector":"basic materials","industry":"gold"}
 {"name":"murata manufacturing co ltd","market_capitalization_usd":"43410000000","stock":"6981","country":"japan","sector":"technology","industry":"electronic components"}
-{"name":"kinder morgan, inc","market_capitalization_usd":"43380000000","stock":"kmi","country":"united states","sector":"energy","industry":"oil & gas midstream"}
+{"name":"kinder morgan inc","market_capitalization_usd":"43380000000","stock":"kmi","country":"united states","sector":"energy","industry":"oil & gas midstream"}
 {"name":"kimberly-clark corporation","market_capitalization_usd":"43210000000","stock":"kmb","country":"united states","sector":"consumer staples","industry":"household & personal products"}
 {"name":"xiaomi corp","market_capitalization_usd":"43100000000","stock":"1810","country":"china","sector":"technology","industry":"consumer electronics"}
 {"name":"wesfarmers limited","market_capitalization_usd":"43090000000","stock":"wes","country":"australia","sector":"consumer discretionary","industry":"home improvement retail"}
-{"name":"republic services, inc","market_capitalization_usd":"42910000000","stock":"rsg","country":"united states","sector":"industrials","industry":"waste management"}
+{"name":"republic services inc","market_capitalization_usd":"42910000000","stock":"rsg","country":"united states","sector":"industrials","industry":"waste management"}
 {"name":"hoya corp","market_capitalization_usd":"42880000000","stock":"7741","country":"japan","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"yihai kerry arawana holdings co ltd","market_capitalization_usd":"42840000000","stock":"300999","country":"china","sector":"consumer staples","industry":"packaged foods"}
 {"name":"monster beverage corporation","market_capitalization_usd":"42810000000","stock":"mnst","country":"united states","sector":"consumer staples","industry":"beveragesnon-alcoholic"}
 {"name":"longi green energy technology co ltd","market_capitalization_usd":"42680000000","stock":"601012","country":"china","sector":"technology","industry":"semiconductor equipment & materials"}
-{"name":"corteva, inc","market_capitalization_usd":"42660000000","stock":"ctva","country":"united states","sector":"basic materials","industry":"agricultural inputs"}
-{"name":"general mills, inc","market_capitalization_usd":"42650000000","stock":"gis","country":"united states","sector":"consumer staples","industry":"packaged foods"}
+{"name":"corteva inc","market_capitalization_usd":"42660000000","stock":"ctva","country":"united states","sector":"basic materials","industry":"agricultural inputs"}
+{"name":"general mills inc","market_capitalization_usd":"42650000000","stock":"gis","country":"united states","sector":"consumer staples","industry":"packaged foods"}
 {"name":"seven & i holdings co ltd","market_capitalization_usd":"42530000000","stock":"3382","country":"japan","sector":"consumer staples","industry":"grocery stores"}
 {"name":"dsv panalpina a-s","market_capitalization_usd":"42490000000","stock":"dsv","country":"denmark","sector":"industrials","industry":"integrated freight & logistics"}
 {"name":"hilton worldwide holdings inc","market_capitalization_usd":"42390000000","stock":"hlt","country":"united states","sector":"consumer discretionary","industry":"lodging"}
@@ -424,30 +424,30 @@
 {"name":"biontech se","market_capitalization_usd":"41930000000","stock":"22ua","country":"germany","sector":"healthcare","industry":"biotechnology"}
 {"name":"stmicroelectronics nv","market_capitalization_usd":"41910000000","stock":"stm","country":"switzerland","sector":"technology","industry":"semiconductors"}
 {"name":"devon energy corporation","market_capitalization_usd":"41820000000","stock":"dvn","country":"united states","sector":"energy","industry":"oil & gas e&p"}
-{"name":"the willia companies, inc","market_capitalization_usd":"41600000000","stock":"wmb","country":"united states","sector":"energy","industry":"oil & gas midstream"}
+{"name":"the williacompanies inc","market_capitalization_usd":"41600000000","stock":"wmb","country":"united states","sector":"energy","industry":"oil & gas midstream"}
 {"name":"the allstate corporation","market_capitalization_usd":"41540000000","stock":"all","country":"united states","sector":"financials","industry":"insuranceproperty & casualty"}
 {"name":"hang seng bank limited","market_capitalization_usd":"41470000000","stock":"0011","country":"hong kong","sector":"financials","industry":"banks"}
 {"name":"valero energy corporation","market_capitalization_usd":"41270000000","stock":"vlo","country":"united states","sector":"energy","industry":"oil & gas refining & marketing"}
 {"name":"ing groep nv","market_capitalization_usd":"41250000000","stock":"inga","country":"netherlands","sector":"financials","industry":"banks"}
 {"name":"mmc norilsk nickel pjsc","market_capitalization_usd":"41160000000","stock":"gmkn","country":"russia","sector":"basic materials","industry":"other industrial metals & mining"}
-{"name":"motorola solutions, inc","market_capitalization_usd":"40870000000","stock":" i","country":"united states","sector":"technology","industry":"communication equipment"}
-{"name":"east money information co,ltd","market_capitalization_usd":"40830000000","stock":"300059","country":"china","sector":"communication services","industry":"internet content & information"}
+{"name":"motorola solutions inc","market_capitalization_usd":"40870000000","stock":"msi","country":"united states","sector":"technology","industry":"communication equipment"}
+{"name":"east money information coltd","market_capitalization_usd":"40830000000","stock":"300059","country":"china","sector":"communication services","industry":"internet content & information"}
 {"name":"the bank of new york mellon corporation","market_capitalization_usd":"40830000000","stock":"bk","country":"united states","sector":"financials","industry":"asset management"}
 {"name":"carrier global corporation","market_capitalization_usd":"40790000000","stock":"carr","country":"united states","sector":"industrials","industry":"building products & equipment"}
 {"name":"oversea-chinese banking corp ltd","market_capitalization_usd":"40770000000","stock":"o39","country":"singapore","sector":"financials","industry":"banks"}
-{"name":"digital realty trust, inc","market_capitalization_usd":"40640000000","stock":"dlr","country":"united states","sector":"real estate","industry":"reitoffice"}
-{"name":"walgreens boots alliance, inc","market_capitalization_usd":"40550000000","stock":"wba","country":"united states","sector":"healthcare","industry":"pharmaceutical retailers"}
-{"name":"agilent technologies, inc","market_capitalization_usd":"40490000000","stock":"a","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
+{"name":"digital realty trust inc","market_capitalization_usd":"40640000000","stock":"dlr","country":"united states","sector":"real estate","industry":"reitoffice"}
+{"name":"walgreens boots alliance inc","market_capitalization_usd":"40550000000","stock":"wba","country":"united states","sector":"healthcare","industry":"pharmaceutical retailers"}
+{"name":"agilent technologies inc","market_capitalization_usd":"40490000000","stock":"a","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"global payments inc","market_capitalization_usd":"40350000000","stock":"gpn","country":"united states","sector":"industrials","industry":"specialty business services"}
 {"name":"citic securities company ltd","market_capitalization_usd":"40170000000","stock":"600030","country":"china","sector":"financials","industry":"capital markets"}
 {"name":"baxter international inc","market_capitalization_usd":"40130000000","stock":"bax","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"boc hong kong holdings ltd","market_capitalization_usd":"39990000000","stock":"2388","country":"hong kong","sector":"financials","industry":"banks"}
-{"name":"ci inc","market_capitalization_usd":"39970000000","stock":" ci","country":"united states","sector":"financials","industry":"financial data & stock exchanges"}
+{"name":"msci inc","market_capitalization_usd":"39970000000","stock":"msci","country":"united states","sector":"financials","industry":"financial data & stock exchanges"}
 {"name":"welltower inc","market_capitalization_usd":"39960000000","stock":"well","country":"united states","sector":"real estate","industry":"reithealthcare facilities"}
 {"name":"xcel energy inc","market_capitalization_usd":"39760000000","stock":"xel","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"united overseas bank ltd","market_capitalization_usd":"39730000000","stock":"u11","country":"singapore","sector":"financials","industry":"banks"}
 {"name":"wanhua chemical group co ltd","market_capitalization_usd":"39730000000","stock":"600309","country":"china","sector":"basic materials","industry":"chemicals"}
-{"name":"dupont de nemours, inc","market_capitalization_usd":"39720000000","stock":"dd","country":"united states","sector":"basic materials","industry":"chemicals"}
+{"name":"dupont de nemours inc","market_capitalization_usd":"39720000000","stock":"dd","country":"united states","sector":"basic materials","industry":"chemicals"}
 {"name":"eqt ab","market_capitalization_usd":"39710000000","stock":"6eq","country":"japan","sector":"financials","industry":"asset management"}
 {"name":"alimentation couche-tard inc","market_capitalization_usd":"39560000000","stock":"atd.b","country":"canada","sector":"consumer staples","industry":"grocery stores"}
 {"name":"ebay inc","market_capitalization_usd":"39340000000","stock":"ebay","country":"united states","sector":"consumer discretionary","industry":"internet retail"}
@@ -457,12 +457,12 @@
 {"name":"alcon inc","market_capitalization_usd":"38900000000","stock":"alc","country":"switzerland","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"ecopetrol sa","market_capitalization_usd":"38690000000","stock":"ec","country":"colombia","sector":"energy","industry":"oil & gas integrated"}
 {"name":"baker hughes company","market_capitalization_usd":"38390000000","stock":"bkr","country":"united states","sector":"energy","industry":"oil & gas equipment & services"}
-{"name":"banco bilbao vizcaya argentaria, sa","market_capitalization_usd":"38250000000","stock":"bbva","country":"spain","sector":"financials","industry":"banks"}
+{"name":"banco bilbao vizcaya argentaria sa","market_capitalization_usd":"38250000000","stock":"bbva","country":"spain","sector":"financials","industry":"banks"}
 {"name":"dell technologies inc","market_capitalization_usd":"38160000000","stock":"dell","country":"united states","sector":"technology","industry":"computer hardware"}
 {"name":"kuaishou technology","market_capitalization_usd":"38150000000","stock":"1024","country":"china","sector":"communication services","industry":"broadcasting"}
 {"name":"ab volvo","market_capitalization_usd":"38130000000","stock":"vol4","country":"sweden","sector":"industrials","industry":"farm & heavy construction machinery"}
 {"name":"credit agricole sa","market_capitalization_usd":"38010000000","stock":"aca","country":"france","sector":"financials","industry":"banks"}
-{"name":"dollar tree, inc","market_capitalization_usd":"38000000000","stock":"dltr","country":"united states","sector":"consumer staples","industry":"discount stores"}
+{"name":"dollar tree inc","market_capitalization_usd":"38000000000","stock":"dltr","country":"united states","sector":"consumer staples","industry":"discount stores"}
 {"name":"sba communications corporation","market_capitalization_usd":"37930000000","stock":"sbac","country":"united states","sector":"real estate","industry":"reitspecialty"}
 {"name":"capgemini se","market_capitalization_usd":"37820000000","stock":"cap","country":"france","sector":"technology","industry":"information technology services"}
 {"name":"daiichi sankyo company ltd","market_capitalization_usd":"37790000000","stock":"4568","country":"japan","sector":"healthcare","industry":"drug manufacturersgeneral"}
@@ -474,87 +474,87 @@
 {"name":"trane technologies plc","market_capitalization_usd":"37360000000","stock":"tt","country":"ireland","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"smc corp","market_capitalization_usd":"37080000000","stock":"6273","country":"japan","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"parker-hannifin corporation","market_capitalization_usd":"37050000000","stock":"ph","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
-{"name":"tokio marine holdings, inc","market_capitalization_usd":"36990000000","stock":"8766","country":"japan","sector":"financials","industry":"insuranceproperty & casualty"}
+{"name":"tokio marine holdings inc","market_capitalization_usd":"36990000000","stock":"8766","country":"japan","sector":"financials","industry":"insuranceproperty & casualty"}
 {"name":"jiangsu hengrui medicine co ltd","market_capitalization_usd":"36900000000","stock":"600276","country":"china","sector":"healthcare","industry":"drug manufacturersgeneral"}
-{"name":"beijing-shanghai high-speed railway co,ltd","market_capitalization_usd":"36900000000","stock":"601816","country":"china","sector":"industrials","industry":"railroads"}
+{"name":"beijing-shanghai high-speed railway coltd","market_capitalization_usd":"36900000000","stock":"601816","country":"china","sector":"industrials","industry":"railroads"}
 {"name":"munchener ruckversicherungs-gesellschaft aktiengesellschaft in munchen","market_capitalization_usd":"36890000000","stock":"muv2","country":"germany","sector":"financials","industry":"insurancereinsurance"}
-{"name":"doordash, inc","market_capitalization_usd":"36740000000","stock":"dash","country":"united states","sector":"communication services","industry":"internet content & information"}
+{"name":"doordash inc","market_capitalization_usd":"36740000000","stock":"dash","country":"united states","sector":"communication services","industry":"internet content & information"}
 {"name":"shanghai pudong development bank co ltd","market_capitalization_usd":"36720000000","stock":"600000","country":"china","sector":"financials","industry":"banks"}
 {"name":"constellation software inc","market_capitalization_usd":"36670000000","stock":"csu","country":"canada","sector":"technology","industry":"softwareapplication"}
 {"name":"inner mongolia yili industrial group co ltd","market_capitalization_usd":"36610000000","stock":"600887","country":"china","sector":"consumer staples","industry":"packaged foods"}
 {"name":"telus corporation","market_capitalization_usd":"36370000000","stock":"t","country":"canada","sector":"communication services","industry":"telecom services"}
 {"name":"public service enterprise group incorporated","market_capitalization_usd":"36280000000","stock":"peg","country":"united states","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"transdigm group incorporated","market_capitalization_usd":"36140000000","stock":"tdg","country":"united states","sector":"industrials","industry":"aerospace & defense"}
-{"name":"waste connections, inc","market_capitalization_usd":"36140000000","stock":"wcn","country":"united states","sector":"industrials","industry":"waste management"}
+{"name":"waste connections inc","market_capitalization_usd":"36140000000","stock":"wcn","country":"united states","sector":"industrials","industry":"waste management"}
 {"name":"lyondellbasell industries nv","market_capitalization_usd":"35960000000","stock":"lyb","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"da sa","market_capitalization_usd":"35930000000","stock":"bn","country":"france","sector":"consumer staples","industry":"packaged foods"}
-{"name":"cloudflare, inc","market_capitalization_usd":"35920000000","stock":"net","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"cloudflare inc","market_capitalization_usd":"35920000000","stock":"net","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"nio limited","market_capitalization_usd":"35860000000","stock":"nio","country":"china","sector":"consumer discretionary","industry":"auto manufacturers"}
-{"name":"coinbase global, inc","market_capitalization_usd":"35860000000","stock":"coin","country":"united states","sector":"technology","industry":"softwareapplication"}
-{"name":"shanxi xinghuacun fen wine factory co,ltd","market_capitalization_usd":"35840000000","stock":"600809","country":"china","sector":"consumer staples","industry":"beverageswineries & distilleries"}
+{"name":"coinbase global inc","market_capitalization_usd":"35860000000","stock":"coin","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"shanxi xinghuacun fen wine factory coltd","market_capitalization_usd":"35840000000","stock":"600809","country":"china","sector":"consumer staples","industry":"beverageswineries & distilleries"}
 {"name":"neste oyj","market_capitalization_usd":"35570000000","stock":"neste","country":"finland","sector":"energy","industry":"oil & gas refining & marketing"}
 {"name":"resmed inc","market_capitalization_usd":"35440000000","stock":"rmd","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"experian plc","market_capitalization_usd":"35400000000","stock":"expn","country":"ireland","sector":"industrials","industry":"consulting services"}
-{"name":"intuitive surgical, inc","market_capitalization_usd":"35370000000","stock":"isrg","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
+{"name":"intuitive surgical inc","market_capitalization_usd":"35370000000","stock":"isrg","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"woolworths group limited","market_capitalization_usd":"35330000000","stock":"wow","country":"australia","sector":"consumer staples","industry":"grocery stores"}
 {"name":"mplx lp","market_capitalization_usd":"35270000000","stock":"mplx","country":"united states","sector":"energy","industry":"oil & gas midstream"}
 {"name":"telstra corporation limited","market_capitalization_usd":"35240000000","stock":"tls","country":"australia","sector":"communication services","industry":"telecom services"}
 {"name":"hexagon ab","market_capitalization_usd":"35210000000","stock":"hxg","country":"sweden","sector":"technology","industry":"scientific & technical instruments"}
 {"name":"assicurazioni generali","market_capitalization_usd":"35200000000","stock":"g","country":"italy","sector":"financials","industry":"insurancediversified"}
-{"name":"avalonbay communities, inc","market_capitalization_usd":"35190000000","stock":"avb","country":"united states","sector":"real estate","industry":"reitresidential"}
+{"name":"avalonbay communities inc","market_capitalization_usd":"35190000000","stock":"avb","country":"united states","sector":"real estate","industry":"reitresidential"}
 {"name":"imperial oil limited","market_capitalization_usd":"35130000000","stock":"imo","country":"canada","sector":"energy","industry":"oil & gas integrated"}
-{"name":"yum brands, inc","market_capitalization_usd":"35120000000","stock":"yum","country":"united states","sector":"consumer discretionary","industry":"restaurants"}
+{"name":"yum brands inc","market_capitalization_usd":"35120000000","stock":"yum","country":"united states","sector":"consumer discretionary","industry":"restaurants"}
 {"name":"sun hung kai properties ltd","market_capitalization_usd":"35040000000","stock":"0016","country":"hong kong","sector":"real estate","industry":"real estatedevelopment"}
-{"name":"old dominion freight line, inc","market_capitalization_usd":"34940000000","stock":"odfl","country":"united states","sector":"industrials","industry":"trucking"}
-{"name":"cheniere energy, inc","market_capitalization_usd":"34920000000","stock":"lng","country":"united states","sector":"energy","industry":"oil & gas midstream"}
-{"name":"consolidated edison, inc","market_capitalization_usd":"34890000000","stock":"ed","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
+{"name":"old dominion freight line inc","market_capitalization_usd":"34940000000","stock":"odfl","country":"united states","sector":"industrials","industry":"trucking"}
+{"name":"cheniere energy inc","market_capitalization_usd":"34920000000","stock":"lng","country":"united states","sector":"energy","industry":"oil & gas midstream"}
+{"name":"consolidated edison inc","market_capitalization_usd":"34890000000","stock":"ed","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"china citic bank corp ltd","market_capitalization_usd":"34840000000","stock":"601998","country":"china","sector":"financials","industry":"banks"}
 {"name":"budweiser brewing company apac ltd","market_capitalization_usd":"34730000000","stock":"1876","country":"hong kong","sector":"consumer staples","industry":"beveragesbrewers"}
 {"name":"arcelormittal","market_capitalization_usd":"34660000000","stock":"mt","country":"luxembourg","sector":"basic materials","industry":"steel"}
-{"name":"ameriprise financial, inc","market_capitalization_usd":"34640000000","stock":"amp","country":"united states","sector":"financials","industry":"asset management"}
+{"name":"ameriprise financial inc","market_capitalization_usd":"34640000000","stock":"amp","country":"united states","sector":"financials","industry":"asset management"}
 {"name":"fastenal company","market_capitalization_usd":"34580000000","stock":"fast","country":"united states","sector":"industrials","industry":"industrial distribution"}
-{"name":"align technology, inc","market_capitalization_usd":"34490000000","stock":"algn","country":"united states","sector":"healthcare","industry":"medical devices"}
+{"name":"align technology inc","market_capitalization_usd":"34490000000","stock":"algn","country":"united states","sector":"healthcare","industry":"medical devices"}
 {"name":"verbund ag","market_capitalization_usd":"34440000000","stock":"oew","country":"austria","sector":"utilities","industry":"utilitiesrenewable"}
 {"name":"sydney airport limited","market_capitalization_usd":"34400000000","stock":"syd","country":"australia","sector":"industrials","industry":"airports & air services"}
-{"name":"verisk analytics, inc","market_capitalization_usd":"34390000000","stock":"vrsk","country":"united states","sector":"industrials","industry":"consulting services"}
+{"name":"verisk analytics inc","market_capitalization_usd":"34390000000","stock":"vrsk","country":"united states","sector":"industrials","industry":"consulting services"}
 {"name":"z holdings corp","market_capitalization_usd":"34240000000","stock":"4689","country":"japan","sector":"consumer discretionary","industry":"internet retail"}
 {"name":"arthur j gallagher & co","market_capitalization_usd":"34220000000","stock":"ajg","country":"united states","sector":"financials","industry":"insurance brokers"}
 {"name":"chongqing zhifei biological products co ltd","market_capitalization_usd":"34130000000","stock":"300122","country":"china","sector":"healthcare","industry":"biotechnology"}
 {"name":"equity residential","market_capitalization_usd":"34110000000","stock":"eqr","country":"united states","sector":"real estate","industry":"reitresidential"}
-{"name":"chunghwa telecom co, ltd","market_capitalization_usd":"34060000000","stock":"2412","country":"taiwan","sector":"communication services","industry":"telecom services"}
-{"name":"t rowe price group, inc","market_capitalization_usd":"34010000000","stock":"trow","country":"united states","sector":"financials","industry":"asset management"}
+{"name":"chunghwa telecom co ltd","market_capitalization_usd":"34060000000","stock":"2412","country":"taiwan","sector":"communication services","industry":"telecom services"}
+{"name":"t rowe price group inc","market_capitalization_usd":"34010000000","stock":"trow","country":"united states","sector":"financials","industry":"asset management"}
 {"name":"halliburton company","market_capitalization_usd":"33950000000","stock":"hal","country":"united states","sector":"energy","industry":"oil & gas equipment & services"}
-{"name":"tyson foods, inc","market_capitalization_usd":"33730000000","stock":"tsn","country":"united states","sector":"consumer staples","industry":"farm products"}
+{"name":"tyson foods inc","market_capitalization_usd":"33730000000","stock":"tsn","country":"united states","sector":"consumer staples","industry":"farm products"}
 {"name":"discover financial services","market_capitalization_usd":"33730000000","stock":"dfs","country":"united states","sector":"financials","industry":"credit services"}
 {"name":"kuehne  nagel international ag","market_capitalization_usd":"33690000000","stock":"knin","country":"switzerland","sector":"industrials","industry":"integrated freight & logistics"}
 {"name":"fanuc corp","market_capitalization_usd":"33680000000","stock":"6954","country":"japan","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"mtr corp ltd","market_capitalization_usd":"33660000000","stock":"0066","country":"hong kong","sector":"industrials","industry":"railroads"}
 {"name":"poly developments and holdings group co ltd","market_capitalization_usd":"33640000000","stock":"600048","country":"china","sector":"real estate","industry":"real estatedevelopment"}
 {"name":"kkr & co inc","market_capitalization_usd":"33490000000","stock":"kkr","country":"united states","sector":"financials","industry":"asset management"}
-{"name":"mizuho financial group, inc","market_capitalization_usd":"33470000000","stock":"8411","country":"japan","sector":"financials","industry":"banks"}
+{"name":"mizuho financial group inc","market_capitalization_usd":"33470000000","stock":"8411","country":"japan","sector":"financials","industry":"banks"}
 {"name":"ptt pcl","market_capitalization_usd":"33460000000","stock":"ptt","country":"thailand","sector":"energy","industry":"oil & gas integrated"}
 {"name":"koninklijke ahold delhaize nv","market_capitalization_usd":"33430000000","stock":"ad","country":"netherlands","sector":"consumer staples","industry":"grocery stores"}
 {"name":"china vanke co ltd","market_capitalization_usd":"33350000000","stock":"000002","country":"china","sector":"real estate","industry":"real estatedevelopment"}
 {"name":"international flavors & fragrances inc","market_capitalization_usd":"33320000000","stock":"iff","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"telefonaktiebolaget lm ericsson","market_capitalization_usd":"33290000000","stock":"eric.a","country":"sweden","sector":"technology","industry":"communication equipment"}
 {"name":"china resources land ltd","market_capitalization_usd":"33260000000","stock":"1109","country":"hong kong","sector":"real estate","industry":"real estatedevelopment"}
-{"name":"zoom video communications, inc","market_capitalization_usd":"33220000000","stock":"zm","country":"united states","sector":"communication services","industry":"telecom services"}
+{"name":"zoom video communications inc","market_capitalization_usd":"33220000000","stock":"zm","country":"united states","sector":"communication services","industry":"telecom services"}
 {"name":"otis worldwide corporation","market_capitalization_usd":"33090000000","stock":"otis","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"sun life financial inc","market_capitalization_usd":"33080000000","stock":"slf","country":"canada","sector":"financials","industry":"insurancediversified"}
-{"name":"rockwell automation, inc","market_capitalization_usd":"33050000000","stock":"rok","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
+{"name":"rockwell automation inc","market_capitalization_usd":"33050000000","stock":"rok","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"aptiv plc","market_capitalization_usd":"33020000000","stock":"aptv","country":"ireland","sector":"consumer discretionary","industry":"auto parts"}
 {"name":"cenovus energy inc","market_capitalization_usd":"33020000000","stock":"cve","country":"canada","sector":"energy","industry":"oil & gas integrated"}
 {"name":"deutsche borse ag","market_capitalization_usd":"32990000000","stock":"db1","country":"germany","sector":"financials","industry":"financial data & stock exchanges"}
 {"name":"orange sa","market_capitalization_usd":"32840000000","stock":"ora","country":"france","sector":"communication services","industry":"telecom services"}
 {"name":"hess corporation","market_capitalization_usd":"32810000000","stock":"hes","country":"united states","sector":"energy","industry":"oil & gas e&p"}
 {"name":"natwest group plc","market_capitalization_usd":"32720000000","stock":"nwg","country":"united kingdom","sector":"financials","industry":"banks"}
-{"name":"ross stores, inc","market_capitalization_usd":"32710000000","stock":"rost","country":"united states","sector":"consumer discretionary","industry":"apparel retail"}
-{"name":"wec energy group, inc","market_capitalization_usd":"32540000000","stock":"wec","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
+{"name":"ross stores inc","market_capitalization_usd":"32710000000","stock":"rost","country":"united states","sector":"consumer discretionary","industry":"apparel retail"}
+{"name":"wec energy group inc","market_capitalization_usd":"32540000000","stock":"wec","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"amerisourcebergen corporation","market_capitalization_usd":"32510000000","stock":"abc","country":"united states","sector":"healthcare","industry":"medical distribution"}
 {"name":"china overseas land & investment ltd","market_capitalization_usd":"32490000000","stock":"0688","country":"hong kong","sector":"real estate","industry":"real estatedevelopment"}
 {"name":"wuxi biologics","market_capitalization_usd":"32410000000","stock":"2269","country":"china","sector":"healthcare","industry":"biotechnology"}
 {"name":"citic ltd","market_capitalization_usd":"32330000000","stock":"0267","country":"hong kong","sector":"industrials","industry":"conglomerates"}
-{"name":"cellnex telecom, sa","market_capitalization_usd":"32320000000","stock":"clnx","country":"spain","sector":"communication services","industry":"telecom services"}
+{"name":"cellnex telecom sa","market_capitalization_usd":"32320000000","stock":"clnx","country":"spain","sector":"communication services","industry":"telecom services"}
 {"name":"haier smart home co ltd","market_capitalization_usd":"32310000000","stock":"600690","country":"china","sector":"consumer discretionary","industry":"furnishings, fixtures & appliances"}
 {"name":"singapore telecommunications ltd","market_capitalization_usd":"32230000000","stock":"z74","country":"singapore","sector":"communication services","industry":"telecom services"}
 {"name":"anta sports products ltd","market_capitalization_usd":"32200000000","stock":"2020","country":"china","sector":"consumer discretionary","industry":"leisure"}
@@ -564,14 +564,14 @@
 {"name":"paccar inc","market_capitalization_usd":"32040000000","stock":"pcar","country":"united states","sector":"industrials","industry":"farm & heavy construction machinery"}
 {"name":"great wall motor co ltd","market_capitalization_usd":"32010000000","stock":"601633","country":"china","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"longfor group holdings ltd","market_capitalization_usd":"31980000000","stock":"0960","country":"china","sector":"real estate","industry":"real estatedevelopment"}
-{"name":"japan post bank co,ltd","market_capitalization_usd":"31930000000","stock":"7182","country":"japan","sector":"financials","industry":"banks"}
-{"name":"ppg industries, inc","market_capitalization_usd":"31890000000","stock":"ppg","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
+{"name":"japan post bank coltd","market_capitalization_usd":"31930000000","stock":"7182","country":"japan","sector":"financials","industry":"banks"}
+{"name":"ppg industries inc","market_capitalization_usd":"31890000000","stock":"ppg","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"perusahaan perseroan persero pt telekomunikasi indonesia tbk","market_capitalization_usd":"31780000000","stock":"tlk","country":"indonesia","sector":"communication services","industry":"telecom services"}
 {"name":"mettler-toledo international inc","market_capitalization_usd":"31780000000","stock":"mtd","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
-{"name":"oneok, inc","market_capitalization_usd":"31660000000","stock":"oke","country":"united states","sector":"energy","industry":"oil & gas midstream"}
+{"name":"oneok inc","market_capitalization_usd":"31660000000","stock":"oke","country":"united states","sector":"energy","industry":"oil & gas midstream"}
 {"name":"goodman group","market_capitalization_usd":"31640000000","stock":"gmg","country":"australia","sector":"real estate","industry":"reitdiversified"}
 {"name":"corning incorporated","market_capitalization_usd":"31600000000","stock":"glw","country":"united states","sector":"technology","industry":"electronic components"}
-{"name":"japan tobacco, inc","market_capitalization_usd":"31590000000","stock":"2914","country":"japan","sector":"consumer staples","industry":"tobacco"}
+{"name":"japan tobacco inc","market_capitalization_usd":"31590000000","stock":"2914","country":"japan","sector":"consumer staples","industry":"tobacco"}
 {"name":"foxconn industrial internet co ltd","market_capitalization_usd":"31580000000","stock":"601138","country":"china","sector":"technology","industry":"communication equipment"}
 {"name":"eversource energy","market_capitalization_usd":"31560000000","stock":"es","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"china telecom corp ltd","market_capitalization_usd":"31490000000","stock":"0728","country":"hong kong","sector":"communication services","industry":"telecom services"}
@@ -582,49 +582,49 @@
 {"name":"koninklijke dsm nv","market_capitalization_usd":"31250000000","stock":"dsm","country":"netherlands","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"formosa petrochemical corp","market_capitalization_usd":"31220000000","stock":"6505","country":"taiwan","sector":"energy","industry":"oil & gas refining & marketing"}
 {"name":"zhangzhou pientzehuang pharmaceutical ltd","market_capitalization_usd":"31170000000","stock":"600436","country":"china","sector":"healthcare","industry":"drug manufacturersgeneral"}
-{"name":"ametek, inc","market_capitalization_usd":"31150000000","stock":"ame","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
+{"name":"ametek inc","market_capitalization_usd":"31150000000","stock":"ame","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"eon se","market_capitalization_usd":"31120000000","stock":"eoaa","country":"germany","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"china pacific insurance","market_capitalization_usd":"31040000000","stock":"601601","country":"china","sector":"financials","industry":"insurancelife"}
-{"name":"zscaler, inc","market_capitalization_usd":"31030000000","stock":"zs","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"zscaler inc","market_capitalization_usd":"31030000000","stock":"zs","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"anhui conch cement company ltd","market_capitalization_usd":"31020000000","stock":"600585","country":"china","sector":"basic materials","industry":"building materials"}
 {"name":"franco-nevada corporation","market_capitalization_usd":"31000000000","stock":"fnv","country":"canada","sector":"basic materials","industry":"gold"}
 {"name":"engie sa","market_capitalization_usd":"31000000000","stock":"engi","country":"france","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"state street corporation","market_capitalization_usd":"30950000000","stock":"stt","country":"united states","sector":"financials","industry":"asset management"}
 {"name":"saic motor corp ltd","market_capitalization_usd":"30930000000","stock":"600104","country":"china","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"nokia corporation","market_capitalization_usd":"30910000000","stock":"nokia.sek","country":"finland","sector":"technology","industry":"communication equipment"}
-{"name":"twitter, inc","market_capitalization_usd":"30830000000","stock":"twtr","country":"united states","sector":"communication services","industry":"internet content & information"}
-{"name":"veeva syste inc","market_capitalization_usd":"30760000000","stock":"veev","country":"united states","sector":"healthcare","industry":"health information services"}
+{"name":"twitter inc","market_capitalization_usd":"30830000000","stock":"twtr","country":"united states","sector":"communication services","industry":"internet content & information"}
+{"name":"veeva systeinc","market_capitalization_usd":"30760000000","stock":"veev","country":"united states","sector":"healthcare","industry":"health information services"}
 {"name":"loblaw companies limited","market_capitalization_usd":"30700000000","stock":"l","country":"canada","sector":"consumer staples","industry":"grocery stores"}
 {"name":"energy transfer lp","market_capitalization_usd":"30690000000","stock":"et","country":"united states","sector":"energy","industry":"oil & gas midstream"}
 {"name":"henkel ag & co kgaa","market_capitalization_usd":"30530000000","stock":"hen","country":"germany","sector":"consumer staples","industry":"household & personal products"}
-{"name":"coupang, inc","market_capitalization_usd":"30530000000","stock":"cpng","country":"south korea","sector":"consumer discretionary","industry":"internet retail"}
+{"name":"coupang inc","market_capitalization_usd":"30530000000","stock":"cpng","country":"south korea","sector":"consumer discretionary","industry":"internet retail"}
 {"name":"ferguson plc","market_capitalization_usd":"30520000000","stock":"ferg","country":"united kingdom","sector":"industrials","industry":"industrial distribution"}
-{"name":"bae syste plc","market_capitalization_usd":"30510000000","stock":"ba.","country":"united kingdom","sector":"industrials","industry":"aerospace & defense"}
+{"name":"bae systeplc","market_capitalization_usd":"30510000000","stock":"ba.","country":"united kingdom","sector":"industrials","industry":"aerospace & defense"}
 {"name":"fifth third bancorp","market_capitalization_usd":"30460000000","stock":"fitb","country":"united states","sector":"financials","industry":"banks"}
-{"name":"cbre group, inc","market_capitalization_usd":"30450000000","stock":"cbre","country":"united states","sector":"real estate","industry":"real estate services"}
-{"name":"american water works company, inc","market_capitalization_usd":"30430000000","stock":"awk","country":"united states","sector":"utilities","industry":"utilitiesregulated water"}
+{"name":"cbre group inc","market_capitalization_usd":"30450000000","stock":"cbre","country":"united states","sector":"real estate","industry":"real estate services"}
+{"name":"american water works company inc","market_capitalization_usd":"30430000000","stock":"awk","country":"united states","sector":"utilities","industry":"utilitiesregulated water"}
 {"name":"fujitsu ltd","market_capitalization_usd":"30280000000","stock":"6702","country":"japan","sector":"technology","industry":"information technology services"}
-{"name":"west pharmaceutical services, inc","market_capitalization_usd":"30230000000","stock":"wst","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
+{"name":"west pharmaceutical services inc","market_capitalization_usd":"30230000000","stock":"wst","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"compagnie de saint-gobain sa","market_capitalization_usd":"30160000000","stock":"sgo","country":"france","sector":"industrials","industry":"building products & equipment"}
-{"name":"alexandria real estate equities, inc","market_capitalization_usd":"30100000000","stock":"are","country":"united states","sector":"real estate","industry":"reitoffice"}
+{"name":"alexandria real estate equities inc","market_capitalization_usd":"30100000000","stock":"are","country":"united states","sector":"real estate","industry":"reitoffice"}
 {"name":"assa abloy ab","market_capitalization_usd":"30050000000","stock":"alz","country":"sweden","sector":"industrials","industry":"security & protection services"}
 {"name":"cummins inc","market_capitalization_usd":"29940000000","stock":"cmi","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
-{"name":"vestas wind syste a-s","market_capitalization_usd":"29930000000","stock":"vws","country":"denmark","sector":"industrials","industry":"specialty industrial machinery"}
+{"name":"vestas wind systea-s","market_capitalization_usd":"29930000000","stock":"vws","country":"denmark","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"riyad bank","market_capitalization_usd":"29860000000","stock":"1010","country":"saudi arabia","sector":"financials","industry":"banks"}
 {"name":"willis towers watson plc","market_capitalization_usd":"29850000000","stock":"wltw","country":"united kingdom","sector":"financials","industry":"insurance brokers"}
-{"name":"match group, inc","market_capitalization_usd":"29820000000","stock":"mtch","country":"united states","sector":"communication services","industry":"internet content & information"}
+{"name":"match group inc","market_capitalization_usd":"29820000000","stock":"mtch","country":"united states","sector":"communication services","industry":"internet content & information"}
 {"name":"kbc group nv","market_capitalization_usd":"29810000000","stock":"kdb","country":"belgium","sector":"financials","industry":"banks"}
 {"name":"unicredit spa","market_capitalization_usd":"29650000000","stock":"ucg","country":"italy","sector":"financials","industry":"banks"}
 {"name":"cathay financial holding co ltd","market_capitalization_usd":"29580000000","stock":"2882","country":"taiwan","sector":"financials","industry":"insurancelife"}
-{"name":"copart, inc","market_capitalization_usd":"29580000000","stock":"cprt","country":"united states","sector":"industrials","industry":"specialty business services"}
+{"name":"copart inc","market_capitalization_usd":"29580000000","stock":"cprt","country":"united states","sector":"industrials","industry":"specialty business services"}
 {"name":"spotify technology sa","market_capitalization_usd":"29560000000","stock":"spot","country":"luxembourg","sector":"communication services","industry":"internet content & information"}
-{"name":"nasdaq, inc","market_capitalization_usd":"29520000000","stock":"ndaq","country":"united states","sector":"financials","industry":"financial data & stock exchanges"}
+{"name":"nasdaq inc","market_capitalization_usd":"29520000000","stock":"ndaq","country":"united states","sector":"financials","industry":"financial data & stock exchanges"}
 {"name":"weyerhaeuser company","market_capitalization_usd":"29420000000","stock":"wy","country":"united states","sector":"real estate","industry":"reitspecialty"}
 {"name":"saudi electricity company","market_capitalization_usd":"29420000000","stock":"5110","country":"saudi arabia","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"ball corporation","market_capitalization_usd":"29400000000","stock":"bll","country":"united states","sector":"consumer discretionary","industry":"packaging & containers"}
-{"name":"keysight technologies, inc","market_capitalization_usd":"29400000000","stock":"keys","country":"united states","sector":"technology","industry":"scientific & technical instruments"}
-{"name":"astellas pharma, inc","market_capitalization_usd":"29220000000","stock":"4503","country":"japan","sector":"healthcare","industry":"drug manufacturersgeneral"}
-{"name":"amadeus it group, sa","market_capitalization_usd":"29190000000","stock":"a ","country":"spain","sector":"technology","industry":"information technology services"}
+{"name":"keysight technologies inc","market_capitalization_usd":"29400000000","stock":"keys","country":"united states","sector":"technology","industry":"scientific & technical instruments"}
+{"name":"astellas pharma inc","market_capitalization_usd":"29220000000","stock":"4503","country":"japan","sector":"healthcare","industry":"drug manufacturersgeneral"}
+{"name":"amadeus it group sa","market_capitalization_usd":"29190000000","stock":"ams","country":"spain","sector":"technology","industry":"information technology services"}
 {"name":"electricite de france sa","market_capitalization_usd":"29170000000","stock":"edf","country":"france","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"rogers communications inc","market_capitalization_usd":"29130000000","stock":"rci.b","country":"canada","sector":"communication services","industry":"telecom services"}
 {"name":"tongwei co ltd","market_capitalization_usd":"29100000000","stock":"600438","country":"china","sector":"consumer staples","industry":"farm products"}
@@ -634,7 +634,7 @@
 {"name":"svb financial group","market_capitalization_usd":"28910000000","stock":"sivb","country":"united states","sector":"financials","industry":"banks"}
 {"name":"csx corporation","market_capitalization_usd":"28900000000","stock":"csx","country":"united states","sector":"industrials","industry":"railroads"}
 {"name":"techtronic industries company ltd","market_capitalization_usd":"28750000000","stock":"0669","country":"hong kong","sector":"industrials","industry":"tools & accessories"}
-{"name":"naturgy energy group, sa","market_capitalization_usd":"28710000000","stock":"ntgy","country":"spain","sector":"utilities","industry":"utilitiesregulated gas"}
+{"name":"naturgy energy group sa","market_capitalization_usd":"28710000000","stock":"ntgy","country":"spain","sector":"utilities","industry":"utilitiesregulated gas"}
 {"name":"apa group","market_capitalization_usd":"28550000000","stock":"apa","country":"australia","sector":"utilities","industry":"utilitiesregulated gas"}
 {"name":"hormel foods corporation","market_capitalization_usd":"28520000000","stock":"hrl","country":"united states","sector":"consumer staples","industry":"packaged foods"}
 {"name":"cerner corporation","market_capitalization_usd":"28310000000","stock":"cern","country":"united states","sector":"healthcare","industry":"health information services"}
@@ -647,7 +647,7 @@
 {"name":"airports of thailand public company ltd","market_capitalization_usd":"28000000000","stock":"aot","country":"thailand","sector":"industrials","industry":"airports & air services"}
 {"name":"ck hutchison holdings ltd","market_capitalization_usd":"27940000000","stock":"0001","country":"hong kong","sector":"industrials","industry":"conglomerates"}
 {"name":"the people's insurance company group of china ltd","market_capitalization_usd":"27930000000","stock":"601319","country":"china","sector":"financials","industry":"insuranceproperty & casualty"}
-{"name":"expedia group, inc","market_capitalization_usd":"27910000000","stock":"expe","country":"united states","sector":"consumer discretionary","industry":"travel services"}
+{"name":"expedia group inc","market_capitalization_usd":"27910000000","stock":"expe","country":"united states","sector":"consumer discretionary","industry":"travel services"}
 {"name":"first republic bank","market_capitalization_usd":"27900000000","stock":"frc","country":"united states","sector":"financials","industry":"banks"}
 {"name":"koninklijke philips nv","market_capitalization_usd":"27890000000","stock":"phia","country":"netherlands","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"great-west lifeco inc","market_capitalization_usd":"27850000000","stock":"gwo","country":"canada","sector":"financials","industry":"insurancelife"}
@@ -656,33 +656,33 @@
 {"name":"edison international","market_capitalization_usd":"27670000000","stock":"eix","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"wolters kluwer nv","market_capitalization_usd":"27650000000","stock":"wkl","country":"netherlands","sector":"communication services","industry":"publishing"}
 {"name":"on semiconductor corporation","market_capitalization_usd":"27630000000","stock":"on","country":"united states","sector":"technology","industry":"semiconductors"}
-{"name":"caixabank, sa","market_capitalization_usd":"27580000000","stock":"cabk","country":"spain","sector":"financials","industry":"banks"}
+{"name":"caixabank sa","market_capitalization_usd":"27580000000","stock":"cabk","country":"spain","sector":"financials","industry":"banks"}
 {"name":"sampo oyj","market_capitalization_usd":"27460000000","stock":"sampo","country":"finland","sector":"financials","industry":"insurancediversified"}
 {"name":"extra space storage inc","market_capitalization_usd":"27370000000","stock":"exr","country":"united states","sector":"real estate","industry":"reitindustrial"}
 {"name":"sartorius ag","market_capitalization_usd":"27350000000","stock":"srt","country":"germany","sector":"healthcare","industry":"medical instruments & supplies"}
-{"name":"dr horton, inc","market_capitalization_usd":"27340000000","stock":"dhi","country":"united states","sector":"consumer discretionary","industry":"residential construction"}
-{"name":"ww grainger, inc","market_capitalization_usd":"27330000000","stock":"gww","country":"united states","sector":"industrials","industry":"industrial distribution"}
+{"name":"dr horton inc","market_capitalization_usd":"27340000000","stock":"dhi","country":"united states","sector":"consumer discretionary","industry":"residential construction"}
+{"name":"ww grainger inc","market_capitalization_usd":"27330000000","stock":"gww","country":"united states","sector":"industrials","industry":"industrial distribution"}
 {"name":"nari technology co ltd","market_capitalization_usd":"27330000000","stock":"600406","country":"china","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"kone oyj","market_capitalization_usd":"27290000000","stock":"knebv","country":"finland","sector":"industrials","industry":"specialty industrial machinery"}
-{"name":"mccormick & company, incorporated","market_capitalization_usd":"27290000000","stock":"mkc","country":"united states","sector":"consumer staples","industry":"packaged foods"}
+{"name":"mccormick & company incorporated","market_capitalization_usd":"27290000000","stock":"mkc","country":"united states","sector":"consumer staples","industry":"packaged foods"}
 {"name":"ntt data corp","market_capitalization_usd":"27260000000","stock":"9613","country":"japan","sector":"technology","industry":"information technology services"}
 {"name":"ganfeng lithium co ltd","market_capitalization_usd":"27250000000","stock":"002460","country":"china","sector":"basic materials","industry":"chemicals"}
 {"name":"will semiconductor co ltd","market_capitalization_usd":"27240000000","stock":"603501","country":"china","sector":"technology","industry":"semiconductors"}
-{"name":"interactive brokers group, inc","market_capitalization_usd":"27220000000","stock":"ibkr","country":"united states","sector":"financials","industry":"capital markets"}
+{"name":"interactive brokers group inc","market_capitalization_usd":"27220000000","stock":"ibkr","country":"united states","sector":"financials","industry":"capital markets"}
 {"name":"gazprom neft pjsc","market_capitalization_usd":"27140000000","stock":"sibn","country":"russia","sector":"energy","industry":"oil & gas integrated"}
 {"name":"fubon financial holding co ltd","market_capitalization_usd":"27130000000","stock":"2881","country":"taiwan","sector":"financials","industry":"insurancelife"}
 {"name":"tractor supply company","market_capitalization_usd":"27090000000","stock":"tsco","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
 {"name":"chocoladefabriken lindt & sprungli ag","market_capitalization_usd":"27080000000","stock":"lisn","country":"switzerland","sector":"consumer staples","industry":"confectioners"}
-{"name":"ansys, inc","market_capitalization_usd":"26980000000","stock":"anss","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"ansys inc","market_capitalization_usd":"26980000000","stock":"anss","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"shaanxi coal industry company ltd","market_capitalization_usd":"26950000000","stock":"601225","country":"china","sector":"energy","industry":"thermal coal"}
 {"name":"aier eye hospital group co ltd","market_capitalization_usd":"26950000000","stock":"300015","country":"china","sector":"healthcare","industry":"medical care facilities"}
-{"name":"zimmer biomet holdings, inc","market_capitalization_usd":"26940000000","stock":"zbh","country":"united states","sector":"healthcare","industry":"medical devices"}
+{"name":"zimmer biomet holdings inc","market_capitalization_usd":"26940000000","stock":"zbh","country":"united states","sector":"healthcare","industry":"medical devices"}
 {"name":"bridgestone corp","market_capitalization_usd":"26880000000","stock":"5108","country":"japan","sector":"consumer discretionary","industry":"auto parts"}
 {"name":"evolution gaming group ab","market_capitalization_usd":"26820000000","stock":"evo","country":"sweden","sector":"consumer discretionary","industry":"gambling"}
 {"name":"beijing wantai biological pharmacy enterprise co ltd","market_capitalization_usd":"26800000000","stock":"603392","country":"china","sector":"healthcare","industry":"biotechnology"}
 {"name":"vonovia se","market_capitalization_usd":"26780000000","stock":"vna","country":"germany","sector":"real estate","industry":"real estate services"}
 {"name":"sandvik ab","market_capitalization_usd":"26710000000","stock":"sand","country":"sweden","sector":"industrials","industry":"specialty industrial machinery"}
-{"name":"cheniere energy partners, lp","market_capitalization_usd":"26680000000","stock":"cqp","country":"united states","sector":"energy","industry":"oil & gas midstream"}
+{"name":"cheniere energy partners lp","market_capitalization_usd":"26680000000","stock":"cqp","country":"united states","sector":"energy","industry":"oil & gas midstream"}
 {"name":"pg&e corporation","market_capitalization_usd":"26660000000","stock":"pcg","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"kansas city southern","market_capitalization_usd":"26590000000","stock":"ksu","country":"united states","sector":"industrials","industry":"railroads"}
 {"name":"unity software inc","market_capitalization_usd":"26560000000","stock":"u","country":"united states","sector":"technology","industry":"softwareapplication"}
@@ -692,24 +692,24 @@
 {"name":"intact financial corporation","market_capitalization_usd":"26400000000","stock":"ifc","country":"canada","sector":"financials","industry":"insuranceproperty & casualty"}
 {"name":"deutsche bank ag","market_capitalization_usd":"26380000000","stock":"dbk","country":"germany","sector":"financials","industry":"banks"}
 {"name":"canon inc","market_capitalization_usd":"26380000000","stock":"7751","country":"japan","sector":"technology","industry":"computer hardware"}
-{"name":"lyondellbasell advanced polymers, inc","market_capitalization_usd":"26380000000","stock":"slmnp","country":"united states","sector":"basic materials","industry":"chemicals"}
+{"name":"lyondellbasell advanced polymers inc","market_capitalization_usd":"26380000000","stock":"slmnp","country":"united states","sector":"basic materials","industry":"chemicals"}
 {"name":"national bank of canada","market_capitalization_usd":"26290000000","stock":"na","country":"canada","sector":"financials","industry":"banks"}
 {"name":"sonova holding ag","market_capitalization_usd":"26220000000","stock":"soon","country":"switzerland","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"realty income corporation","market_capitalization_usd":"26180000000","stock":"o","country":"united states","sector":"real estate","industry":"reitretail"}
 {"name":"china everbright bank company ltd","market_capitalization_usd":"26130000000","stock":"601818","country":"china","sector":"financials","industry":"banks"}
 {"name":"twilio inc","market_capitalization_usd":"26090000000","stock":"twlo","country":"united states","sector":"communication services","industry":"internet content & information"}
 {"name":"roblox corp","market_capitalization_usd":"26050000000","stock":"rblx","country":"united states","sector":"communication services","industry":"electronic gaming & multimedia"}
-{"name":"telefonica, sa","market_capitalization_usd":"26040000000","stock":"tef","country":"spain","sector":"communication services","industry":"telecom services"}
+{"name":"telefonica sa","market_capitalization_usd":"26040000000","stock":"tef","country":"spain","sector":"communication services","industry":"telecom services"}
 {"name":"central japan railway co","market_capitalization_usd":"26000000000","stock":"9022","country":"japan","sector":"industrials","industry":"railroads"}
 {"name":"li auto inc","market_capitalization_usd":"25830000000","stock":"li","country":"china","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"enbw energie baden-wuerttemberg ag","market_capitalization_usd":"25820000000","stock":"ebk","country":"germany","sector":"utilities","industry":"utilitiesdiversified"}
-{"name":"the hartford financial services group, inc","market_capitalization_usd":"25760000000","stock":"hig","country":"united states","sector":"financials","industry":"insurancediversified"}
+{"name":"the hartford financial services group inc","market_capitalization_usd":"25760000000","stock":"hig","country":"united states","sector":"financials","industry":"insurancediversified"}
 {"name":"laboratory corporation of america holdings","market_capitalization_usd":"25750000000","stock":"lh","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
-{"name":"mongodb, inc","market_capitalization_usd":"25730000000","stock":"mdb","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"mongodb inc","market_capitalization_usd":"25730000000","stock":"mdb","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"mitsubishi electric corporation","market_capitalization_usd":"25610000000","stock":"6503","country":"japan","sector":"industrials","industry":"electrical equipment & parts"}
 {"name":"banco santander brasil sa","market_capitalization_usd":"25590000000","stock":"sanb11","country":"brazil","sector":"financials","industry":"banks"}
 {"name":"axis bank ltd","market_capitalization_usd":"25540000000","stock":"axisbank","country":"india","sector":"financials","industry":"banks"}
-{"name":"united rentals, inc","market_capitalization_usd":"25460000000","stock":"uri","country":"united states","sector":"industrials","industry":"rental & leasing services"}
+{"name":"united rentals inc","market_capitalization_usd":"25460000000","stock":"uri","country":"united states","sector":"industrials","industry":"rental & leasing services"}
 {"name":"nan ya plastics corp","market_capitalization_usd":"25410000000","stock":"1303","country":"taiwan","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"lennar corporation","market_capitalization_usd":"25340000000","stock":"len","country":"united states","sector":"consumer discretionary","industry":"residential construction"}
 {"name":"straumann holding ag","market_capitalization_usd":"25310000000","stock":"stmn","country":"switzerland","sector":"healthcare","industry":"medical instruments & supplies"}
@@ -718,62 +718,62 @@
 {"name":"firstenergy corp","market_capitalization_usd":"25260000000","stock":"fe","country":"united states","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"albemarle corporation","market_capitalization_usd":"25250000000","stock":"alb","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"ck asset holdings limited","market_capitalization_usd":"25210000000","stock":"1113","country":"hong kong","sector":"real estate","industry":"real estatedevelopment"}
-{"name":"enphase energy, inc","market_capitalization_usd":"25200000000","stock":"enph","country":"united states","sector":"technology","industry":"solar"}
+{"name":"enphase energy inc","market_capitalization_usd":"25200000000","stock":"enph","country":"united states","sector":"technology","industry":"solar"}
 {"name":"legrand sa","market_capitalization_usd":"25190000000","stock":"lr","country":"france","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"galaxy entertainment group ltd","market_capitalization_usd":"25170000000","stock":"0027","country":"hong kong","sector":"consumer discretionary","industry":"resorts & casinos"}
 {"name":"skandinaviska enskilda banken ab","market_capitalization_usd":"25150000000","stock":"seb.a","country":"sweden","sector":"financials","industry":"banks"}
 {"name":"the mosaic company","market_capitalization_usd":"25090000000","stock":"mos","country":"united states","sector":"basic materials","industry":"agricultural inputs"}
 {"name":"cdw corporation","market_capitalization_usd":"25040000000","stock":"cdw","country":"united states","sector":"technology","industry":"information technology services"}
-{"name":"gartner, inc","market_capitalization_usd":"25030000000","stock":"it","country":"united states","sector":"technology","industry":"information technology services"}
-{"name":"edp renovaveis, sa","market_capitalization_usd":"25010000000","stock":"edpr","country":"spain","sector":"utilities","industry":"utilitiesrenewable"}
-{"name":"delta air lines, inc","market_capitalization_usd":"24920000000","stock":"dal","country":"united states","sector":"industrials","industry":"airlines"}
+{"name":"gartner inc","market_capitalization_usd":"25030000000","stock":"it","country":"united states","sector":"technology","industry":"information technology services"}
+{"name":"edp renovaveis sa","market_capitalization_usd":"25010000000","stock":"edpr","country":"spain","sector":"utilities","industry":"utilitiesrenewable"}
+{"name":"delta air lines inc","market_capitalization_usd":"24920000000","stock":"dal","country":"united states","sector":"industrials","industry":"airlines"}
 {"name":"palantir technologies inc","market_capitalization_usd":"24910000000","stock":"pltr","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"seagen inc","market_capitalization_usd":"24870000000","stock":"sgen","country":"united states","sector":"healthcare","industry":"biotechnology"}
-{"name":"diamondback energy, inc","market_capitalization_usd":"24840000000","stock":"fang","country":"united states","sector":"energy","industry":"oil & gas e&p"}
-{"name":"verisign, inc","market_capitalization_usd":"24810000000","stock":"vrsn","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
-{"name":"church & dwight co, inc","market_capitalization_usd":"24810000000","stock":"chd","country":"united states","sector":"consumer staples","industry":"household & personal products"}
+{"name":"diamondback energy inc","market_capitalization_usd":"24840000000","stock":"fang","country":"united states","sector":"energy","industry":"oil & gas e&p"}
+{"name":"verisign inc","market_capitalization_usd":"24810000000","stock":"vrsn","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"church & dwight co inc","market_capitalization_usd":"24810000000","stock":"chd","country":"united states","sector":"consumer staples","industry":"household & personal products"}
 {"name":"ameren corporation","market_capitalization_usd":"24790000000","stock":"aee","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"china minsheng banking corp ltd","market_capitalization_usd":"24650000000","stock":"600016","country":"china","sector":"financials","industry":"banks"}
-{"name":"live nation entertainment, inc","market_capitalization_usd":"24610000000","stock":"lyv","country":"united states","sector":"communication services","industry":"entertainment"}
+{"name":"live nation entertainment inc","market_capitalization_usd":"24610000000","stock":"lyv","country":"united states","sector":"communication services","industry":"entertainment"}
 {"name":"woodside petroleum ltd","market_capitalization_usd":"24600000000","stock":"wpl","country":"australia","sector":"energy","industry":"oil & gas e&p"}
 {"name":"evergreen marine corp","market_capitalization_usd":"24490000000","stock":"2603","country":"taiwan","sector":"industrials","industry":"marine shipping"}
-{"name":"aena sme, sa","market_capitalization_usd":"24450000000","stock":"aena","country":"spain","sector":"industrials","industry":"airports & air services"}
+{"name":"aena sme sa","market_capitalization_usd":"24450000000","stock":"aena","country":"spain","sector":"industrials","industry":"airports & air services"}
 {"name":"xpeng inc","market_capitalization_usd":"24440000000","stock":"xpev","country":"china","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"northern trust corporation","market_capitalization_usd":"24420000000","stock":"ntrs","country":"united states","sector":"financials","industry":"asset management"}
-{"name":"slack technologies, inc","market_capitalization_usd":"24300000000","stock":"work","country":"united states","sector":"technology","industry":"softwareapplication"}
-{"name":"mid-america apartment communities, inc","market_capitalization_usd":"24180000000","stock":"maa","country":"united states","sector":"real estate","industry":"reitresidential"}
+{"name":"slack technologies inc","market_capitalization_usd":"24300000000","stock":"work","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"mid-america apartment communities inc","market_capitalization_usd":"24180000000","stock":"maa","country":"united states","sector":"real estate","industry":"reitresidential"}
 {"name":"fresenius se & co kgaa","market_capitalization_usd":"24120000000","stock":"fre","country":"germany","sector":"healthcare","industry":"medical care facilities"}
 {"name":"fujifilm holdings corp","market_capitalization_usd":"24120000000","stock":"4901","country":"japan","sector":"industrials","industry":"business equipment & supplies"}
 {"name":"bt group plc","market_capitalization_usd":"24090000000","stock":"bt.a","country":"united kingdom","sector":"communication services","industry":"telecom services"}
 {"name":"vulcan materials company","market_capitalization_usd":"24080000000","stock":"vmc","country":"united states","sector":"basic materials","industry":"building materials"}
 {"name":"epiroc ab","market_capitalization_usd":"24080000000","stock":"3ad2","country":"sweden","sector":"industrials","industry":"farm & heavy construction machinery"}
-{"name":"delta electronics, inc","market_capitalization_usd":"24050000000","stock":"2308","country":"taiwan","sector":"technology","industry":"electronic components"}
+{"name":"delta electronics inc","market_capitalization_usd":"24050000000","stock":"2308","country":"taiwan","sector":"technology","industry":"electronic components"}
 {"name":"public joint stock company polyus","market_capitalization_usd":"24020000000","stock":"plzl","country":"russia","sector":"basic materials","industry":"gold"}
 {"name":"schindler holding ag","market_capitalization_usd":"24020000000","stock":"schn","country":"switzerland","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"orix corporation","market_capitalization_usd":"23970000000","stock":"8591","country":"japan","sector":"financials","industry":"credit services"}
-{"name":"martin marietta materials, inc","market_capitalization_usd":"23940000000","stock":"mlm","country":"united states","sector":"basic materials","industry":"building materials"}
+{"name":"martin marietta materials inc","market_capitalization_usd":"23940000000","stock":"mlm","country":"united states","sector":"basic materials","industry":"building materials"}
 {"name":"csc financial co ltd","market_capitalization_usd":"23940000000","stock":"601066","country":"china","sector":"financials","industry":"capital markets"}
-{"name":"best buy co, inc","market_capitalization_usd":"23930000000","stock":"bby","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
+{"name":"best buy co inc","market_capitalization_usd":"23930000000","stock":"bby","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
 {"name":"steris plc","market_capitalization_usd":"23930000000","stock":"ste","country":"ireland","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"entergy corporation","market_capitalization_usd":"23920000000","stock":"etr","country":"united states","sector":"utilities","industry":"utilitiesdiversified"}
-{"name":"m3, inc","market_capitalization_usd":"23890000000","stock":"2413","country":"japan","sector":"healthcare","industry":"health information services"}
+{"name":"m3 inc","market_capitalization_usd":"23890000000","stock":"2413","country":"japan","sector":"healthcare","industry":"health information services"}
 {"name":"splunk inc","market_capitalization_usd":"23840000000","stock":"splk","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"eve energy co ltd","market_capitalization_usd":"23820000000","stock":"300014","country":"china","sector":"industrials","industry":"electrical equipment & parts"}
-{"name":"ventas, inc","market_capitalization_usd":"23810000000","stock":"vtr","country":"united states","sector":"real estate","industry":"reithealthcare facilities"}
-{"name":"endesa, sa","market_capitalization_usd":"23780000000","stock":"ele","country":"spain","sector":"utilities","industry":"utilitiesregulated electric"}
+{"name":"ventas inc","market_capitalization_usd":"23810000000","stock":"vtr","country":"united states","sector":"real estate","industry":"reithealthcare facilities"}
+{"name":"endesa sa","market_capitalization_usd":"23780000000","stock":"ele","country":"spain","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"sse plc","market_capitalization_usd":"23730000000","stock":"sse","country":"united kingdom","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"compagnie generale des etablissements michelin sca","market_capitalization_usd":"23650000000","stock":"ml","country":"france","sector":"consumer discretionary","industry":"auto parts"}
 {"name":"horizon therapeutics public limited company","market_capitalization_usd":"23640000000","stock":"hznp","country":"ireland","sector":"healthcare","industry":"drug manufacturersgeneral"}
 {"name":"baoshan iron & steel co ltd","market_capitalization_usd":"23590000000","stock":"600019","country":"china","sector":"basic materials","industry":"steel"}
-{"name":"stanley black & decker, inc","market_capitalization_usd":"23570000000","stock":"swk","country":"united states","sector":"industrials","industry":"tools & accessories"}
+{"name":"stanley black & decker inc","market_capitalization_usd":"23570000000","stock":"swk","country":"united states","sector":"industrials","industry":"tools & accessories"}
 {"name":"sungrow power supply co ltd","market_capitalization_usd":"23550000000","stock":"300274","country":"china","sector":"industrials","industry":"electrical equipment & parts"}
 {"name":"beiersdorf ag","market_capitalization_usd":"23510000000","stock":"bei","country":"germany","sector":"consumer staples","industry":"household & personal products"}
 {"name":"pt bank mandiri persero tbk","market_capitalization_usd":"23510000000","stock":"pq9","country":"indonesia","sector":"financials","industry":"banks"}
 {"name":"first quantum minerals ltd","market_capitalization_usd":"23470000000","stock":"fm","country":"canada","sector":"basic materials","industry":"copper"}
 {"name":"kubota corp","market_capitalization_usd":"23460000000","stock":"6326","country":"japan","sector":"industrials","industry":"farm & heavy construction machinery"}
 {"name":"mtn group ltd","market_capitalization_usd":"23450000000","stock":"mtn","country":"south africa","sector":"communication services","industry":"telecom services"}
-{"name":"maxim integrated products, inc","market_capitalization_usd":"23440000000","stock":"mxim","country":"united states","sector":"technology","industry":"semiconductors"}
-{"name":"rocket companies, inc","market_capitalization_usd":"23440000000","stock":"rkt","country":"united states","sector":"financials","industry":"mortgage finance"}
+{"name":"maxim integrated products inc","market_capitalization_usd":"23440000000","stock":"mxim","country":"united states","sector":"technology","industry":"semiconductors"}
+{"name":"rocket companies inc","market_capitalization_usd":"23440000000","stock":"rkt","country":"united states","sector":"financials","industry":"mortgage finance"}
 {"name":"fortis inc","market_capitalization_usd":"23430000000","stock":"fts","country":"canada","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"formosa plastics corp","market_capitalization_usd":"23420000000","stock":"1301","country":"taiwan","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"liberty broadband corporation","market_capitalization_usd":"23400000000","stock":"lbrdk","country":"united states","sector":"communication services","industry":"entertainment"}
@@ -793,7 +793,7 @@
 {"name":"vf corporation","market_capitalization_usd":"22960000000","stock":"vfc","country":"united states","sector":"consumer discretionary","industry":"apparel manufacturing"}
 {"name":"dover corporation","market_capitalization_usd":"22940000000","stock":"dov","country":"united states","sector":"industrials","industry":"specialty industrial machinery"}
 {"name":"ppl corporation","market_capitalization_usd":"22870000000","stock":"ppl","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
-{"name":"hengli petrochemical co,ltd","market_capitalization_usd":"22860000000","stock":"600346","country":"china","sector":"consumer discretionary","industry":"textile manufacturing"}
+{"name":"hengli petrochemical coltd","market_capitalization_usd":"22860000000","stock":"600346","country":"china","sector":"consumer discretionary","industry":"textile manufacturing"}
 {"name":"genmab a/s","market_capitalization_usd":"22830000000","stock":"gmab","country":"denmark","sector":"healthcare","industry":"biotechnology"}
 {"name":"sabic agri-nutrients company","market_capitalization_usd":"22780000000","stock":"2020","country":"saudi arabia","sector":"basic materials","industry":"agricultural inputs"}
 {"name":"heineken holding nv","market_capitalization_usd":"22780000000","stock":"heio","country":"netherlands","sector":"consumer staples","industry":"beveragesbrewers"}
@@ -810,52 +810,52 @@
 {"name":"komatsu ltd","market_capitalization_usd":"22560000000","stock":"6301","country":"japan","sector":"industrials","industry":"farm & heavy construction machinery"}
 {"name":"the hong kong and china gas company ltd","market_capitalization_usd":"22540000000","stock":"0003","country":"hong kong","sector":"utilities","industry":"utilitiesregulated gas"}
 {"name":"coca-cola europacific partners plc","market_capitalization_usd":"22530000000","stock":"ccep","country":"united kingdom","sector":"consumer staples","industry":"beveragesnon-alcoholic"}
-{"name":"essex property trust, inc","market_capitalization_usd":"22510000000","stock":"ess","country":"united states","sector":"real estate","industry":"reitresidential"}
-{"name":"e-chemie holding ag","market_capitalization_usd":"22480000000","stock":"e n","country":"switzerland","sector":"basic materials","industry":"specialty chemicals"}
-{"name":"okta, inc","market_capitalization_usd":"22450000000","stock":"okta","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"essex property trust inc","market_capitalization_usd":"22510000000","stock":"ess","country":"united states","sector":"real estate","industry":"reitresidential"}
+{"name":"ems-chemie holding ag","market_capitalization_usd":"22480000000","stock":"emsn","country":"switzerland","sector":"basic materials","industry":"specialty chemicals"}
+{"name":"okta inc","market_capitalization_usd":"22450000000","stock":"okta","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"china national nuclear power co ltd","market_capitalization_usd":"22420000000","stock":"601985","country":"china","sector":"utilities","industry":"utilitiesindependent power producers"}
 {"name":"sumitomo corp","market_capitalization_usd":"22420000000","stock":"8053","country":"japan","sector":"industrials","industry":"conglomerates"}
 {"name":"tata motors limited","market_capitalization_usd":"22380000000","stock":"ttm","country":"india","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"banco do brasil sa","market_capitalization_usd":"22360000000","stock":"bbas3","country":"brazil","sector":"financials","industry":"banks"}
 {"name":"hennes & mauritz ab","market_capitalization_usd":"22330000000","stock":"hm.b","country":"sweden","sector":"consumer discretionary","industry":"apparel manufacturing"}
-{"name":"bio-rad laboratories, inc","market_capitalization_usd":"22320000000","stock":"bio","country":"united states","sector":"healthcare","industry":"medical devices"}
+{"name":"bio-rad laboratories inc","market_capitalization_usd":"22320000000","stock":"bio","country":"united states","sector":"healthcare","industry":"medical devices"}
 {"name":"teleperformance se","market_capitalization_usd":"22300000000","stock":"tep","country":"france","sector":"industrials","industry":"consulting services"}
-{"name":"fomento economico mexicano, sab de cv","market_capitalization_usd":"22280000000","stock":"fe aub","country":"mexico","sector":"consumer staples","industry":"beveragesbrewers"}
-{"name":"huntington bancshares, inc","market_capitalization_usd":"22260000000","stock":"hu3","country":"united states","sector":"financials","industry":"banks"}
-{"name":"continental resources, inc","market_capitalization_usd":"22250000000","stock":"clr","country":"united states","sector":"energy","industry":"oil & gas e&p"}
+{"name":"fomento economico mexicano sab de cv","market_capitalization_usd":"22280000000","stock":"femsaub","country":"mexico","sector":"consumer staples","industry":"beveragesbrewers"}
+{"name":"huntington bancshares inc","market_capitalization_usd":"22260000000","stock":"hu3","country":"united states","sector":"financials","industry":"banks"}
+{"name":"continental resources inc","market_capitalization_usd":"22250000000","stock":"clr","country":"united states","sector":"energy","industry":"oil & gas e&p"}
 {"name":"crrc corp ltd","market_capitalization_usd":"22210000000","stock":"601766","country":"china","sector":"industrials","industry":"railroads"}
-{"name":"skyworks solutions, inc","market_capitalization_usd":"22170000000","stock":"swks","country":"united states","sector":"technology","industry":"semiconductors"}
+{"name":"skyworks solutions inc","market_capitalization_usd":"22170000000","stock":"swks","country":"united states","sector":"technology","industry":"semiconductors"}
 {"name":"xp inc","market_capitalization_usd":"22160000000","stock":"xpbr31","country":"brazil","sector":"financials","industry":"capital markets"}
 {"name":"unicharm corp","market_capitalization_usd":"22080000000","stock":"8113","country":"japan","sector":"consumer staples","industry":"household & personal products"}
 {"name":"zto express cayman inc","market_capitalization_usd":"22050000000","stock":"zto","country":"china","sector":"industrials","industry":"integrated freight & logistics"}
 {"name":"geberit ag","market_capitalization_usd":"22030000000","stock":"gebn","country":"switzerland","sector":"industrials","industry":"building products & equipment"}
 {"name":"toyota industries corp","market_capitalization_usd":"21990000000","stock":"6201","country":"japan","sector":"consumer discretionary","industry":"auto manufacturers"}
 {"name":"cincinnati financial corporation","market_capitalization_usd":"21990000000","stock":"cinf","country":"united states","sector":"financials","industry":"insuranceproperty & casualty"}
-{"name":"cf industries holdings, inc","market_capitalization_usd":"21950000000","stock":"cf","country":"united states","sector":"basic materials","industry":"agricultural inputs"}
+{"name":"cf industries holdings inc","market_capitalization_usd":"21950000000","stock":"cf","country":"united states","sector":"basic materials","industry":"agricultural inputs"}
 {"name":"nibe industrier ab","market_capitalization_usd":"21930000000","stock":"njb","country":"sweden","sector":"industrials","industry":"building products & equipment"}
 {"name":"cnh industrial nv","market_capitalization_usd":"21930000000","stock":"cnhi","country":"united kingdom","sector":"industrials","industry":"farm & heavy construction machinery"}
 {"name":"huntington bancshares incorporated","market_capitalization_usd":"21930000000","stock":"hban","country":"united states","sector":"financials","industry":"banks"}
 {"name":"duke realty corporation","market_capitalization_usd":"21930000000","stock":"dre","country":"united states","sector":"real estate","industry":"reitindustrial"}
 {"name":"restaurant brands international limited partnership","market_capitalization_usd":"21890000000","stock":"qsp.un","country":"canada","sector":"consumer discretionary","industry":"restaurants"}
-{"name":"monolithic power syste, inc","market_capitalization_usd":"21870000000","stock":"mpwr","country":"united states","sector":"technology","industry":"semiconductors"}
+{"name":"monolithic power systeinc","market_capitalization_usd":"21870000000","stock":"mpwr","country":"united states","sector":"technology","industry":"semiconductors"}
 {"name":"zebra technologies corporation","market_capitalization_usd":"21870000000","stock":"zbra","country":"united states","sector":"technology","industry":"communication equipment"}
-{"name":"ulta beauty, inc","market_capitalization_usd":"21820000000","stock":"ulta","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
-{"name":"dai-ichi life holdings, inc","market_capitalization_usd":"21760000000","stock":"8750","country":"japan","sector":"financials","industry":"insurancelife"}
+{"name":"ulta beauty inc","market_capitalization_usd":"21820000000","stock":"ulta","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
+{"name":"dai-ichi life holdings inc","market_capitalization_usd":"21760000000","stock":"8750","country":"japan","sector":"financials","industry":"insurancelife"}
 {"name":"m&t bank corporation","market_capitalization_usd":"21740000000","stock":"mtb","country":"united states","sector":"financials","industry":"banks"}
 {"name":"keycorp","market_capitalization_usd":"21710000000","stock":"key","country":"united states","sector":"financials","industry":"banks"}
 {"name":"teledyne technologies incorporated","market_capitalization_usd":"21650000000","stock":"tdy","country":"united states","sector":"technology","industry":"scientific & technical instruments"}
-{"name":"b3 sa - brasil, bolsa, balcao","market_capitalization_usd":"21580000000","stock":"b3sa3","country":"brazil","sector":"financials","industry":"financial data & stock exchanges"}
-{"name":"contura energy, inc","market_capitalization_usd":"21570000000","stock":"ctra","country":"united states","sector":"energy","industry":"thermal coal"}
-{"name":"shimano, inc","market_capitalization_usd":"21510000000","stock":"7309","country":"japan","sector":"consumer discretionary","industry":"leisure"}
+{"name":"b3 sa - brasil bolsa balcao","market_capitalization_usd":"21580000000","stock":"b3sa3","country":"brazil","sector":"financials","industry":"financial data & stock exchanges"}
+{"name":"contura energy inc","market_capitalization_usd":"21570000000","stock":"ctra","country":"united states","sector":"energy","industry":"thermal coal"}
+{"name":"shimano inc","market_capitalization_usd":"21510000000","stock":"7309","country":"japan","sector":"consumer discretionary","industry":"leisure"}
 {"name":"power corporation of canada","market_capitalization_usd":"21480000000","stock":"pow","country":"canada","sector":"financials","industry":"insurancelife"}
-{"name":"jb hunt transport services, inc","market_capitalization_usd":"21480000000","stock":"jbht","country":"united states","sector":"industrials","industry":"integrated freight & logistics"}
+{"name":"jb hunt transport services inc","market_capitalization_usd":"21480000000","stock":"jbht","country":"united states","sector":"industrials","industry":"integrated freight & logistics"}
 {"name":"mitsui fudosan co ltd","market_capitalization_usd":"21460000000","stock":"8801","country":"japan","sector":"real estate","industry":"real estatediversified"}
 {"name":"the saudi british bank","market_capitalization_usd":"21450000000","stock":"1060","country":"saudi arabia","sector":"financials","industry":"banks"}
 {"name":"sgs sa","market_capitalization_usd":"21430000000","stock":"sgsn","country":"switzerland","sector":"industrials","industry":"consulting services"}
 {"name":"teck resources limited","market_capitalization_usd":"21410000000","stock":"teck.b","country":"canada","sector":"basic materials","industry":"other industrial metals & mining"}
 {"name":"rede d'or sao luiz sa","market_capitalization_usd":"21400000000","stock":"rdor3","country":"brazil","sector":"healthcare","industry":"medical care facilities"}
 {"name":"nexon co ltd","market_capitalization_usd":"21360000000","stock":"3659","country":"japan","sector":"communication services","industry":"electronic gaming & multimedia"}
-{"name":"the cooper companies, inc","market_capitalization_usd":"21350000000","stock":"coo","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
+{"name":"the cooper companies inc","market_capitalization_usd":"21350000000","stock":"coo","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"legal & general group plc","market_capitalization_usd":"21340000000","stock":"lgen","country":"united kingdom","sector":"financials","industry":"insurancelife"}
 {"name":"regions financial corporation","market_capitalization_usd":"21320000000","stock":"rf","country":"united states","sector":"financials","industry":"banks"}
 {"name":"wheaton precious metals corp","market_capitalization_usd":"21260000000","stock":"wpm","country":"canada","sector":"basic materials","industry":"gold"}
@@ -868,8 +868,8 @@
 {"name":"segro plc","market_capitalization_usd":"21080000000","stock":"sgro","country":"united kingdom","sector":"real estate","industry":"reitindustrial"}
 {"name":"yandex nv","market_capitalization_usd":"21050000000","stock":"yndx","country":"netherlands","sector":"communication services","industry":"internet content & information"}
 {"name":"microchip technology incorporated","market_capitalization_usd":"21030000000","stock":"mchp","country":"united states","sector":"technology","industry":"semiconductors"}
-{"name":"hubspot, inc","market_capitalization_usd":"20930000000","stock":"hubs","country":"united states","sector":"technology","industry":"softwareapplication"}
-{"name":"fleetcor technologies, inc","market_capitalization_usd":"20920000000","stock":"flt","country":"united states","sector":"technology","industry":"information technology services"}
+{"name":"hubspot inc","market_capitalization_usd":"20930000000","stock":"hubs","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"fleetcor technologies inc","market_capitalization_usd":"20920000000","stock":"flt","country":"united states","sector":"technology","industry":"information technology services"}
 {"name":"fortive corporation","market_capitalization_usd":"20880000000","stock":"ftv","country":"united states","sector":"technology","industry":"scientific & technical instruments"}
 {"name":"applovin corp","market_capitalization_usd":"20860000000","stock":"app","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"royal caribbean cruises ltd","market_capitalization_usd":"20810000000","stock":"rcl","country":"united states","sector":"consumer discretionary","industry":"travel services"}
@@ -877,14 +877,14 @@
 {"name":"marubeni corp","market_capitalization_usd":"20780000000","stock":"8002","country":"japan","sector":"industrials","industry":"conglomerates"}
 {"name":"standard chartered plc","market_capitalization_usd":"20780000000","stock":"stan","country":"united kingdom","sector":"financials","industry":"banks"}
 {"name":"li ning co ltd","market_capitalization_usd":"20750000000","stock":"2331","country":"china","sector":"consumer discretionary","industry":"leisure"}
-{"name":"c energy corporation","market_capitalization_usd":"20730000000","stock":"c ","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
+{"name":"cenergy corporation","market_capitalization_usd":"20730000000","stock":"cms","country":"united states","sector":"utilities","industry":"utilitiesregulated electric"}
 {"name":"steris corp","market_capitalization_usd":"20660000000","stock":"s1te34","country":"united states","sector":"healthcare","industry":"medical devices"}
 {"name":"advanced info service pcl","market_capitalization_usd":"20650000000","stock":"advanc","country":"thailand","sector":"communication services","industry":"telecom services"}
 {"name":"kyocera corp","market_capitalization_usd":"20620000000","stock":"6971","country":"japan","sector":"technology","industry":"consumer electronics"}
 {"name":"pembina pipeline corporation","market_capitalization_usd":"20610000000","stock":"ppl","country":"canada","sector":"energy","industry":"oil & gas midstream"}
 {"name":"flutter entertainment plc","market_capitalization_usd":"20580000000","stock":"fltr","country":"ireland","sector":"consumer discretionary","industry":"gambling"}
 {"name":"sojitz corp","market_capitalization_usd":"20550000000","stock":"2768","country":"japan","sector":"industrials","industry":"conglomerates"}
-{"name":"boston properties, inc","market_capitalization_usd":"20540000000","stock":"bxp","country":"united states","sector":"real estate","industry":"reitoffice"}
+{"name":"boston properties inc","market_capitalization_usd":"20540000000","stock":"bxp","country":"united states","sector":"real estate","industry":"reitoffice"}
 {"name":"synchrony financial","market_capitalization_usd":"20430000000","stock":"syf","country":"united states","sector":"financials","industry":"credit services"}
 {"name":"alinma bank","market_capitalization_usd":"20410000000","stock":"1150","country":"saudi arabia","sector":"financials","industry":"banks"}
 {"name":"investment ab latour","market_capitalization_usd":"20390000000","stock":"lato.b","country":"sweden","sector":"financials","industry":"asset management"}
@@ -893,7 +893,7 @@
 {"name":"nippon paint holdings co ltd","market_capitalization_usd":"20380000000","stock":"4612","country":"japan","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"carvana co","market_capitalization_usd":"20330000000","stock":"cvna","country":"united states","sector":"consumer discretionary","industry":"internet retail"}
 {"name":"markel corporation","market_capitalization_usd":"20300000000","stock":"mkl","country":"united states","sector":"financials","industry":"insuranceproperty & casualty"}
-{"name":"brown & brown, inc","market_capitalization_usd":"20270000000","stock":"bro","country":"united states","sector":"financials","industry":"insurance brokers"}
+{"name":"brown & brown inc","market_capitalization_usd":"20270000000","stock":"bro","country":"united states","sector":"financials","industry":"insurance brokers"}
 {"name":"nomura research institute ltd","market_capitalization_usd":"20260000000","stock":"4307","country":"japan","sector":"technology","industry":"information technology services"}
 {"name":"mgm resorts international","market_capitalization_usd":"20220000000","stock":"mgm","country":"united states","sector":"consumer discretionary","industry":"resorts & casinos"}
 {"name":"mega financial holding co ltd","market_capitalization_usd":"20210000000","stock":"2886","country":"taiwan","sector":"financials","industry":"banks"}
@@ -903,43 +903,43 @@
 {"name":"china railway group ltd","market_capitalization_usd":"20150000000","stock":"0390","country":"hong kong","sector":"industrials","industry":"engineering & construction"}
 {"name":"ctbc financial holding co ltd","market_capitalization_usd":"20150000000","stock":"2891","country":"taiwan","sector":"financials","industry":"insurancelife"}
 {"name":"imperial brands plc","market_capitalization_usd":"20140000000","stock":"imb","country":"united kingdom","sector":"consumer staples","industry":"tobacco"}
-{"name":"principal financial group, inc","market_capitalization_usd":"20130000000","stock":"pfg","country":"united states","sector":"financials","industry":"insurancediversified"}
-{"name":"norsk hydro asa","market_capitalization_usd":"20100000000","stock":"nhy","country":"norway","sector":"basic materials","industry":"aluminum"}
-{"name":"perkinelmer, inc","market_capitalization_usd":"20050000000","stock":"pki","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
+{"name":"principal financial group inc","market_capitalization_usd":"20130000000","stock":"pfg","country":"united states","sector":"financials","industry":"insurancediversified"}
+{"name":"norsk hyasa","market_capitalization_usd":"20100000000","stock":"nhy","country":"norway","sector":"basic materials","industry":"aluminum"}
+{"name":"perkinelmer inc","market_capitalization_usd":"20050000000","stock":"pki","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"hannover ruck se","market_capitalization_usd":"20020000000","stock":"hnrb","country":"germany","sector":"financials","industry":"insurancereinsurance"}
-{"name":"sun communities, inc","market_capitalization_usd":"19980000000","stock":"sui","country":"united states","sector":"real estate","industry":"reitresidential"}
+{"name":"sun communities inc","market_capitalization_usd":"19980000000","stock":"sui","country":"united states","sector":"real estate","industry":"reitresidential"}
 {"name":"tradeweb markets inc","market_capitalization_usd":"19980000000","stock":"tw","country":"united states","sector":"financials","industry":"capital markets"}
 {"name":"trina solar co ltd","market_capitalization_usd":"19940000000","stock":"688599","country":"china","sector":"technology","industry":"solar"}
 {"name":"vedanta limited","market_capitalization_usd":"19930000000","stock":"vedl","country":"india","sector":"basic materials","industry":"other industrial metals & mining"}
-{"name":"paycom software, inc","market_capitalization_usd":"19870000000","stock":"payc","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"paycom software inc","market_capitalization_usd":"19870000000","stock":"payc","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"klabin sa","market_capitalization_usd":"19860000000","stock":"klbn11","country":"brazil","sector":"basic materials","industry":"paper & paper products"}
 {"name":"kao corp","market_capitalization_usd":"19850000000","stock":"4452","country":"japan","sector":"consumer staples","industry":"household & personal products"}
-{"name":"teradyne, inc","market_capitalization_usd":"19850000000","stock":"ter","country":"united states","sector":"technology","industry":"semiconductor equipment & materials"}
+{"name":"teradyne inc","market_capitalization_usd":"19850000000","stock":"ter","country":"united states","sector":"technology","industry":"semiconductor equipment & materials"}
 {"name":"china resources beer holdings company ltd","market_capitalization_usd":"19840000000","stock":"0291","country":"hong kong","sector":"consumer staples","industry":"beveragesbrewers"}
 {"name":"china communications construction co ltd","market_capitalization_usd":"19830000000","stock":"601800","country":"china","sector":"industrials","industry":"engineering & construction"}
 {"name":"aviva plc","market_capitalization_usd":"19820000000","stock":"av.","country":"united kingdom","sector":"financials","industry":"insurancediversified"}
 {"name":"standard bank group ltd","market_capitalization_usd":"19820000000","stock":"sbk","country":"south africa","sector":"financials","industry":"banks"}
 {"name":"ryanair holdings plc","market_capitalization_usd":"19780000000","stock":"ry4c","country":"ireland","sector":"industrials","industry":"airlines"}
-{"name":"hologic, inc","market_capitalization_usd":"19750000000","stock":"holx","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
+{"name":"hologic inc","market_capitalization_usd":"19750000000","stock":"holx","country":"united states","sector":"healthcare","industry":"medical instruments & supplies"}
 {"name":"kerry group plc","market_capitalization_usd":"19740000000","stock":"krz","country":"ireland","sector":"consumer staples","industry":"packaged foods"}
 {"name":"renesas electronics corp","market_capitalization_usd":"19730000000","stock":"6723","country":"japan","sector":"technology","industry":"semiconductors"}
 {"name":"brookfield infrastructure partners lp","market_capitalization_usd":"19700000000","stock":"bip.un","country":"bermuda","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"shiseido co ltd","market_capitalization_usd":"19690000000","stock":"4911","country":"japan","sector":"consumer staples","industry":"household & personal products"}
 {"name":"cgi inc","market_capitalization_usd":"19670000000","stock":"gib.a","country":"canada","sector":"technology","industry":"information technology services"}
 {"name":"henderson land development co ltd","market_capitalization_usd":"19670000000","stock":"0012","country":"hong kong","sector":"real estate","industry":"real estate services"}
-{"name":"billcom holdings, inc","market_capitalization_usd":"19650000000","stock":"bill","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"billcom holdings inc","market_capitalization_usd":"19650000000","stock":"bill","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"shanghai fosun pharmaceutical","market_capitalization_usd":"19630000000","stock":"600196","country":"china","sector":"healthcare","industry":"drug manufacturersspecialty & generic"}
-{"name":"akamai technologies, inc","market_capitalization_usd":"19590000000","stock":"akam","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
+{"name":"akamai technologies inc","market_capitalization_usd":"19590000000","stock":"akam","country":"united states","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"china tower corp ltd","market_capitalization_usd":"19550000000","stock":"0788","country":"china","sector":"communication services","industry":"telecom services"}
-{"name":"huatai securities co, ltd","market_capitalization_usd":"19550000000","stock":"601688","country":"china","sector":"financials","industry":"capital markets"}
-{"name":"marathon oil corporation","market_capitalization_usd":"19540000000","stock":" o","country":"united states","sector":"energy","industry":"oil & gas e&p"}
+{"name":"huatai securities co ltd","market_capitalization_usd":"19550000000","stock":"601688","country":"china","sector":"financials","industry":"capital markets"}
+{"name":"marathon oil corporation","market_capitalization_usd":"19540000000","stock":"mro","country":"united states","sector":"energy","industry":"oil & gas e&p"}
 {"name":"arch capital group ltd","market_capitalization_usd":"19540000000","stock":"acgl","country":"bermuda","sector":"financials","industry":"insurancediversified"}
 {"name":"transunion","market_capitalization_usd":"19530000000","stock":"tru","country":"united states","sector":"industrials","industry":"consulting services"}
 {"name":"jbs sa","market_capitalization_usd":"19530000000","stock":"jbss3","country":"brazil","sector":"consumer staples","industry":"packaged foods"}
 {"name":"shenzhou international group holdings ltd","market_capitalization_usd":"19500000000","stock":"2313","country":"hong kong","sector":"consumer discretionary","industry":"textile manufacturing"}
-{"name":"avantor, inc","market_capitalization_usd":"19480000000","stock":"avtr","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
-{"name":"molina healthcare, inc","market_capitalization_usd":"19460000000","stock":"moh","country":"united states","sector":"healthcare","industry":"healthcare plans"}
-{"name":"ferrovial, sa","market_capitalization_usd":"19440000000","stock":"fer","country":"spain","sector":"industrials","industry":"infrastructure operations"}
+{"name":"avantor inc","market_capitalization_usd":"19480000000","stock":"avtr","country":"united states","sector":"basic materials","industry":"specialty chemicals"}
+{"name":"molina healthcare inc","market_capitalization_usd":"19460000000","stock":"moh","country":"united states","sector":"healthcare","industry":"healthcare plans"}
+{"name":"ferrovial sa","market_capitalization_usd":"19440000000","stock":"fer","country":"spain","sector":"industrials","industry":"infrastructure operations"}
 {"name":"edp - energias de portugal sa","market_capitalization_usd":"19430000000","stock":"edp","country":"portugal","sector":"utilities","industry":"utilitiesdiversified"}
 {"name":"fresenius medical care ag & co kgaa","market_capitalization_usd":"19420000000","stock":"fme","country":"germany","sector":"healthcare","industry":"medical care facilities"}
 {"name":"svenska handelsbanken ab","market_capitalization_usd":"19420000000","stock":"shb.a","country":"sweden","sector":"financials","industry":"banks"}
@@ -950,52 +950,52 @@
 {"name":"croda international plc","market_capitalization_usd":"19220000000","stock":"crda","country":"united kingdom","sector":"basic materials","industry":"specialty chemicals"}
 {"name":"warner music group corp","market_capitalization_usd":"19210000000","stock":"wmg","country":"united states","sector":"communication services","industry":"entertainment"}
 {"name":"zhejiang huayou cobalt co ltd","market_capitalization_usd":"19200000000","stock":"603799","country":"china","sector":"basic materials","industry":"other industrial metals & mining"}
-{"name":"ss&c technologies holdings, inc","market_capitalization_usd":"19150000000","stock":"ssnc","country":"united states","sector":"technology","industry":"softwareapplication"}
+{"name":"ss&c technologies holdings inc","market_capitalization_usd":"19150000000","stock":"ssnc","country":"united states","sector":"technology","industry":"softwareapplication"}
 {"name":"carlsberg a-s","market_capitalization_usd":"19120000000","stock":"carl.a","country":"denmark","sector":"consumer staples","industry":"beveragesbrewers"}
 {"name":"nice ltd","market_capitalization_usd":"19120000000","stock":"nice","country":"israel","sector":"technology","industry":"softwareapplication"}
 {"name":"waters corporation","market_capitalization_usd":"19110000000","stock":"wat","country":"united states","sector":"healthcare","industry":"diagnostics & research"}
 {"name":"otsuka holdings co ltd","market_capitalization_usd":"19030000000","stock":"4578","country":"japan","sector":"healthcare","industry":"drug manufacturersgeneral"}
 {"name":"tenaris sa","market_capitalization_usd":"18980000000","stock":"ten","country":"luxembourg","sector":"energy","industry":"oil & gas equipment & services"}
-{"name":"citizens financial group, inc","market_capitalization_usd":"18950000000","stock":"cfg","country":"united states","sector":"financials","industry":"banks"}
+{"name":"citizens financial group inc","market_capitalization_usd":"18950000000","stock":"cfg","country":"united states","sector":"financials","industry":"banks"}
 {"name":"check point software technologies ltd","market_capitalization_usd":"18940000000","stock":"chkp","country":"israel","sector":"technology","industry":"softwareinfrastructure"}
 {"name":"toshiba corp","market_capitalization_usd":"18930000000","stock":"6502","country":"japan","sector":"industrials","industry":"specialty industrial machinery"}
-{"name":"lg electronics, inc","market_capitalization_usd":"18910000000","stock":"066570","country":"south korea","sector":"technology","industry":"consumer electronics"}
+{"name":"lg electronics inc","market_capitalization_usd":"18910000000","stock":"066570","country":"south korea","sector":"technology","industry":"consumer electronics"}
 {"name":"astra international tbk pt","market_capitalization_usd":"18900000000","stock":"asja","country":"indonesia","sector":"consumer discretionary","industry":"auto parts"}
 {"name":"omnicom group inc","market_capitalization_usd":"18800000000","stock":"omc","country":"united states","sector":"communication services","industry":"advertising agencies"}
-{"name":"aecc aviation power co,ltd","market_capitalization_usd":"18790000000","stock":"600893","country":"china","sector":"industrials","industry":"aerospace & defense"}
+{"name":"aecc aviation power coltd","market_capitalization_usd":"18790000000","stock":"600893","country":"china","sector":"industrials","industry":"aerospace & defense"}
 {"name":"international paper company","market_capitalization_usd":"18780000000","stock":"inpap","country":"united states","sector":"consumer discretionary","industry":"packaging & containers"}
 {"name":"scottish mortgage investment trust plc","market_capitalization_usd":"18780000000","stock":"smt","country":"united kingdom","sector":"financials","industry":"asset management"}
 {"name":"george weston limited","market_capitalization_usd":"18770000000","stock":"wn","country":"canada","sector":"consumer staples","industry":"grocery stores"}
-{"name":"netapp, inc","market_capitalization_usd":"18760000000","stock":"ntap","country":"united states","sector":"technology","industry":"computer hardware"}
-{"name":"healthpeak properties, inc","market_capitalization_usd":"18760000000","stock":"peak","country":"united states","sector":"real estate","industry":"reithealthcare facilities"}
-{"name":"&ad insurance group holdings, inc","market_capitalization_usd":"18750000000","stock":"8725","country":"japan","sector":"financials","industry":"insuranceproperty & casualty"}
+{"name":"netapp inc","market_capitalization_usd":"18760000000","stock":"ntap","country":"united states","sector":"technology","industry":"computer hardware"}
+{"name":"healthpeak properties inc","market_capitalization_usd":"18760000000","stock":"peak","country":"united states","sector":"real estate","industry":"reithealthcare facilities"}
+{"name":"ms&ad insurance group holdings inc","market_capitalization_usd":"18750000000","stock":"8725","country":"japan","sector":"financials","industry":"insuranceproperty & casualty"}
 {"name":"the liberty siriusxm group","market_capitalization_usd":"18740000000","stock":"lsxmb","country":"united states","sector":"communication services","industry":"broadcasting"}
 {"name":"credit suisse group ag","market_capitalization_usd":"18720000000","stock":"csgn","country":"switzerland","sector":"financials","industry":"banks"}
 {"name":"air china ltd","market_capitalization_usd":"18720000000","stock":"601111","country":"china","sector":"industrials","industry":"airlines"}
 {"name":"power construction corp of china ltd","market_capitalization_usd":"18690000000","stock":"601669","country":"china","sector":"industrials","industry":"engineering & construction"}
-{"name":"jd health international, inc","market_capitalization_usd":"18690000000","stock":"8zn","country":"china","sector":"healthcare","industry":"medical care facilities"}
+{"name":"jd health international inc","market_capitalization_usd":"18690000000","stock":"8zn","country":"china","sector":"healthcare","industry":"medical care facilities"}
 {"name":"south32 limited","market_capitalization_usd":"18670000000","stock":"s32","country":"australia","sector":"basic materials","industry":"other industrial metals & mining"}
-{"name":"huaneng power international, inc","market_capitalization_usd":"18570000000","stock":"600011","country":"china","sector":"utilities","industry":"utilitiesindependent power producers"}
+{"name":"huaneng power international inc","market_capitalization_usd":"18570000000","stock":"600011","country":"china","sector":"utilities","industry":"utilitiesindependent power producers"}
 {"name":"sands china ltd","market_capitalization_usd":"18520000000","stock":"1928","country":"macao","sector":"consumer discretionary","industry":"resorts & casinos"}
 {"name":"heico corporation","market_capitalization_usd":"18490000000","stock":"hei","country":"united states","sector":"industrials","industry":"aerospace & defense"}
 {"name":"gf securities co ltd","market_capitalization_usd":"18440000000","stock":"000776","country":"china","sector":"financials","industry":"capital markets"}
 {"name":"genuine parts company","market_capitalization_usd":"18410000000","stock":"gpc","country":"united states","sector":"consumer discretionary","industry":"specialty retail"}
 {"name":"vodacom group ltd","market_capitalization_usd":"18410000000","stock":"vod","country":"south africa","sector":"communication services","industry":"telecom services"}
-{"name":"take-two interactive software, inc","market_capitalization_usd":"18350000000","stock":"ttwo","country":"united states","sector":"communication services","industry":"electronic gaming & multimedia"}
+{"name":"take-two interactive software inc","market_capitalization_usd":"18350000000","stock":"ttwo","country":"united states","sector":"communication services","industry":"electronic gaming & multimedia"}
 {"name":"china merchants securities co ltd","market_capitalization_usd":"18350000000","stock":"600999","country":"china","sector":"financials","industry":"capital markets"}
-{"name":"alnylam pharmaceuticals, inc","market_capitalization_usd":"18330000000","stock":"alny","country":"united states","sector":"healthcare","industry":"biotechnology"}
+{"name":"alnylam pharmaceuticals inc","market_capitalization_usd":"18330000000","stock":"alny","country":"united states","sector":"healthcare","industry":"biotechnology"}
 {"name":"aeon co ltd","market_capitalization_usd":"18320000000","stock":"8267","country":"japan","sector":"consumer discretionary","industry":"department stores"}
 {"name":"link real estate investment trust","market_capitalization_usd":"18270000000","stock":"0823","country":"hong kong","sector":"real estate","industry":"reitretail"}
 {"name":"shionogi & co ltd","market_capitalization_usd":"18270000000","stock":"4507","country":"japan","sector":"healthcare","industry":"drug manufacturersspecialty & generic"}
 {"name":"ubiquiti inc","market_capitalization_usd":"18250000000","stock":"ui","country":"united states","sector":"technology","industry":"communication equipment"}
-{"name":"quanta services, inc","market_capitalization_usd":"18250000000","stock":"pwr","country":"united states","sector":"industrials","industry":"engineering & construction"}
-{"name":"catalent, inc","market_capitalization_usd":"18240000000","stock":"ctlt","country":"united states","sector":"healthcare","industry":"drug manufacturersspecialty & generic"}
+{"name":"quanta services inc","market_capitalization_usd":"18250000000","stock":"pwr","country":"united states","sector":"industrials","industry":"engineering & construction"}
+{"name":"catalent inc","market_capitalization_usd":"18240000000","stock":"ctlt","country":"united states","sector":"healthcare","industry":"drug manufacturersspecialty & generic"}
 {"name":"haitong securities co ltd","market_capitalization_usd":"18230000000","stock":"600837","country":"china","sector":"financials","industry":"capital markets"}
 {"name":"asahi group holdings ltd","market_capitalization_usd":"18210000000","stock":"2502","country":"japan","sector":"consumer staples","industry":"beveragesbrewers"}
 {"name":"capitec bank holdings ltd","market_capitalization_usd":"18210000000","stock":"cpi","country":"south africa","sector":"financials","industry":"banks"}
 {"name":"restaurant brands international inc","market_capitalization_usd":"18190000000","stock":"qsr","country":"canada","sector":"consumer discretionary","industry":"restaurants"}
-{"name":"yum china holdings, inc","market_capitalization_usd":"18180000000","stock":"yumc","country":"china","sector":"consumer discretionary","industry":"restaurants"}
+{"name":"yum china holdings inc","market_capitalization_usd":"18180000000","stock":"yumc","country":"china","sector":"consumer discretionary","industry":"restaurants"}
 {"name":"cez as","market_capitalization_usd":"18160000000","stock":"cez","country":"czechia","sector":"utilities","industry":"utilitiesrenewable"}
 {"name":"veolia environnement sa","market_capitalization_usd":"18140000000","stock":"vie","country":"france","sector":"industrials","industry":"waste management"}
-{"name":"avis budget group, inc","market_capitalization_usd":"18120000000","stock":"car","country":"united states","sector":"industrials","industry":"rental & leasing services"}
+{"name":"avis budget group inc","market_capitalization_usd":"18120000000","stock":"car","country":"united states","sector":"industrials","industry":"rental & leasing services"}
 

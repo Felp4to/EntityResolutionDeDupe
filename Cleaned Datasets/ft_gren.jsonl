@@ -3,7 +3,7 @@
 {"name":"oci","country":"uk","sector":"financial services","revenue_2020_eu":"568322073","revenue_2017_eu":"4325512","employees_number_2020":"32","employees_number_2017":"4","founding_year":"2012"}
 {"name":"onlyfans","country":"uk","sector":"technology","revenue_2020_eu":"316732986","revenue_2017_eu":"2652185","employees_number_2020":"800","employees_number_2017":"4","founding_year":"2016"}
 {"name":"enpal","country":"germany","sector":"energy","revenue_2020_eu":"56109613","revenue_2017_eu":"486165","employees_number_2020":"365","employees_number_2017":"9","founding_year":"2017"}
-{"name":" consulting","country":"germany","sector":"waste management & recycling","revenue_2020_eu":"13165586","revenue_2017_eu":"150908","employees_number_2020":"9","employees_number_2017":"2","founding_year":"2017"}
+{"name":"consulting","country":"germany","sector":"waste management & recycling","revenue_2020_eu":"13165586","revenue_2017_eu":"150908","employees_number_2020":"9","employees_number_2017":"2","founding_year":"2017"}
 {"name":"thriva","country":"uk","sector":"health","revenue_2020_eu":"18732563","revenue_2017_eu":"251668","employees_number_2020":"57","employees_number_2017":"12","founding_year":"2015"}
 {"name":"exotec","country":"france","sector":"industrial goods","revenue_2020_eu":"47597000","revenue_2017_eu":"706700","employees_number_2020":"200","employees_number_2017":"15","founding_year":"2015"}
 {"name":"winelivery","country":"italy","sector":"ecommerce","revenue_2020_eu":"7337290","revenue_2017_eu":"111500","employees_number_2020":"10","employees_number_2017":"1","founding_year":"2015"}
@@ -143,9 +143,9 @@
 {"name":"kiteworldshopcom","country":"italy","sector":"ecommerce","revenue_2020_eu":"1671984","revenue_2017_eu":"160539","employees_number_2020":"5","employees_number_2017":"2","founding_year":"2014"}
 {"name":"peter kenkel","country":"germany","sector":"retail","revenue_2020_eu":"22137000","revenue_2017_eu":"2131000","employees_number_2020":"19","employees_number_2017":"10","founding_year":"2006"}
 {"name":"templafy","country":"denmark","sector":"technology","revenue_2020_eu":"15486451","revenue_2017_eu":"1521010","employees_number_2020":"292","employees_number_2017":"32","founding_year":"2014"}
-{"name":"coervice","country":"italy","sector":"support services","revenue_2020_eu":"2016300","revenue_2017_eu":"194780","employees_number_2020":"99","employees_number_2017":"17","founding_year":"2014"}
+{"name":"comservice","country":"italy","sector":"support services","revenue_2020_eu":"2016300","revenue_2017_eu":"194780","employees_number_2020":"99","employees_number_2017":"17","founding_year":"2014"}
 {"name":"falcor presse","country":"italy","sector":"industrial goods","revenue_2020_eu":"2996770","revenue_2017_eu":"291720","employees_number_2020":"5","employees_number_2017":"1","founding_year":"2017"}
-{"name":"rooaccoon","country":"the netherlands","sector":"technology","revenue_2020_eu":"1715334","revenue_2017_eu":"167000","employees_number_2020":"40","employees_number_2017":"8","founding_year":"2017"}
+{"name":"roomraccoon","country":"the netherlands","sector":"technology","revenue_2020_eu":"1715334","revenue_2017_eu":"167000","employees_number_2020":"40","employees_number_2017":"8","founding_year":"2017"}
 {"name":"signaturit","country":"spain","sector":"technology","revenue_2020_eu":"5639953","revenue_2017_eu":"552355","employees_number_2020":"95","employees_number_2017":"37","founding_year":"2013"}
 {"name":"modulr","country":"uk","sector":"fintech","revenue_2020_eu":"12789098","revenue_2017_eu":"1269382","employees_number_2020":"191","employees_number_2017":"31","founding_year":"2015"}
 {"name":"profishop","country":"germany","sector":"ecommerce","revenue_2020_eu":"43812068","revenue_2017_eu":"4340517","employees_number_2020":"63","employees_number_2017":"17","founding_year":"2012"}
@@ -237,7 +237,7 @@
 {"name":"delante","country":"poland","sector":"sales & marketing","revenue_2020_eu":"2160094","revenue_2017_eu":"316525","employees_number_2020":"48","employees_number_2017":"21","founding_year":"2015"}
 {"name":"intumind","country":"germany","sector":"health","revenue_2020_eu":"6560962","revenue_2017_eu":"884885","employees_number_2020":"15","employees_number_2017":"8","founding_year":"2015"}
 {"name":"saljol","country":"germany","sector":"health","revenue_2020_eu":"4146403","revenue_2017_eu":"559778","employees_number_2020":"15","employees_number_2017":"10","founding_year":"2016"}
-{"name":"tkd solutions","country":"germany","sector":"teleco ","revenue_2020_eu":"15874245","revenue_2017_eu":"2146950","employees_number_2020":"20","employees_number_2017":"9","founding_year":"2014"}
+{"name":"tkd solutions","country":"germany","sector":"telecoms","revenue_2020_eu":"15874245","revenue_2017_eu":"2146950","employees_number_2020":"20","employees_number_2017":"9","founding_year":"2014"}
 {"name":"kuori","country":"finland","sector":"technology","revenue_2020_eu":"2501902","revenue_2017_eu":"340000","employees_number_2020":"15","employees_number_2017":"5","founding_year":"2016"}
 {"name":"ferroamp","country":"sweden","sector":"energy","revenue_2020_eu":"7645003","revenue_2017_eu":"1062649","employees_number_2020":"42","employees_number_2017":"21","founding_year":"2010"}
 {"name":"valor real estate partners","country":"uk","sector":"financial services","revenue_2020_eu":"4534588","revenue_2017_eu":"621636","employees_number_2020":"23","employees_number_2017":"6","founding_year":"2016"}
@@ -258,7 +258,7 @@
 {"name":"mia-platform","country":"italy","sector":"technology","revenue_2020_eu":"6515510","revenue_2017_eu":"923730","employees_number_2020":"74","employees_number_2017":"15","founding_year":"2016"}
 {"name":"tecnimed","country":"italy","sector":"health","revenue_2020_eu":"9551790","revenue_2017_eu":"1354980","employees_number_2020":"32","employees_number_2017":"20","founding_year":"1976"}
 {"name":"longevity partners","country":"uk","sector":"retail","revenue_2020_eu":"2336243","revenue_2017_eu":"335460","employees_number_2020":"22","employees_number_2017":"5","founding_year":"2015"}
-{"name":"nexutp","country":"italy","sector":"management consulting","revenue_2020_eu":"25667400","revenue_2017_eu":"3659630","employees_number_2020":"345","employees_number_2017":"56","founding_year":"2015"}
+{"name":"nexumstp","country":"italy","sector":"management consulting","revenue_2020_eu":"25667400","revenue_2017_eu":"3659630","employees_number_2020":"345","employees_number_2017":"56","founding_year":"2015"}
 {"name":"g-on","country":"france","sector":"support services","revenue_2020_eu":"1810459","revenue_2017_eu":"259342","employees_number_2020":"16","employees_number_2017":"3","founding_year":"2016"}
 {"name":"picnic","country":"uk","sector":"advertising","revenue_2020_eu":"1508869","revenue_2017_eu":"219999","employees_number_2020":"10","employees_number_2017":"3","founding_year":"2016"}
 {"name":"egomnia","country":"italy","sector":"technology","revenue_2020_eu":"1901140","revenue_2017_eu":"276750","employees_number_2020":"36","employees_number_2017":"2","founding_year":"2012"}
@@ -278,7 +278,7 @@
 {"name":"autosalon uhingen","country":"germany","sector":"automobiles","revenue_2020_eu":"10540000","revenue_2017_eu":"1587500","employees_number_2020":"11","employees_number_2017":"2","founding_year":"2015"}
 {"name":"yumi beauty","country":"france","sector":"chemicals & pharmaceuticals","revenue_2020_eu":"2678257","revenue_2017_eu":"404819","employees_number_2020":"5","employees_number_2017":"1","founding_year":"2013"}
 {"name":"for me lab","country":"france","sector":"ecommerce","revenue_2020_eu":"1652073","revenue_2017_eu":"251795","employees_number_2020":"7","employees_number_2017":"2","founding_year":"2016"}
-{"name":"stockhol elbolag","country":"sweden","sector":"energy","revenue_2020_eu":"32265912","revenue_2017_eu":"5033032","employees_number_2020":"25","employees_number_2017":"7","founding_year":"2015"}
+{"name":"stockholelbolag","country":"sweden","sector":"energy","revenue_2020_eu":"32265912","revenue_2017_eu":"5033032","employees_number_2020":"25","employees_number_2017":"7","founding_year":"2015"}
 {"name":"flohr","country":"germany","sector":"waste management & recycling","revenue_2020_eu":"21249638","revenue_2017_eu":"3241629","employees_number_2020":"84","employees_number_2017":"21","founding_year":"1999"}
 {"name":"agricodem","country":"italy","sector":"agricultural commodities","revenue_2020_eu":"2856530","revenue_2017_eu":"436610","employees_number_2020":"4","employees_number_2017":"1","founding_year":"2008"}
 {"name":"dach schutzbekleidung","country":"germany","sector":"industrial goods","revenue_2020_eu":"45227730","revenue_2017_eu":"6936038","employees_number_2020":"80","employees_number_2017":"14","founding_year":"2005"}
@@ -317,7 +317,7 @@
 {"name":"therapiezentrumcom nw","country":"germany","sector":"health","revenue_2020_eu":"2916337","revenue_2017_eu":"492860","employees_number_2020":"87","employees_number_2017":"23","founding_year":"2017"}
 {"name":"beauhurst","country":"uk","sector":"technology","revenue_2020_eu":"5355215","revenue_2017_eu":"916511","employees_number_2020":"82","employees_number_2017":"39","founding_year":"2010"}
 {"name":"cun cargo carriers","country":"romania","sector":"transport","revenue_2020_eu":"7103702","revenue_2017_eu":"1207613","employees_number_2020":"49","employees_number_2017":"43","founding_year":"2017"}
-{"name":"mg project","country":"italy","sector":"teleco ","revenue_2020_eu":"8208450","revenue_2017_eu":"1396400","employees_number_2020":"34","employees_number_2017":"23","founding_year":"2016"}
+{"name":"mg project","country":"italy","sector":"telecoms","revenue_2020_eu":"8208450","revenue_2017_eu":"1396400","employees_number_2020":"34","employees_number_2017":"23","founding_year":"2016"}
 {"name":"bonmea","country":"germany","sector":"retail","revenue_2020_eu":"14597418","revenue_2017_eu":"2484783","employees_number_2020":"6","employees_number_2017":"3","founding_year":"2015"}
 {"name":"oceanis yachts","country":"italy","sector":"travel & leisure","revenue_2020_eu":"3059130","revenue_2017_eu":"521250","employees_number_2020":"6","employees_number_2017":"2","founding_year":"2007"}
 {"name":"opus db","country":"france","sector":"construction","revenue_2020_eu":"12171118","revenue_2017_eu":"2076139","employees_number_2020":"8","employees_number_2017":"2","founding_year":"2016"}
@@ -341,7 +341,7 @@
 {"name":"aquis exchange","country":"uk","sector":"financial services","revenue_2020_eu":"12824155","revenue_2017_eu":"2267165","employees_number_2020":"46","employees_number_2017":"31","founding_year":"2012"}
 {"name":"chattermill","country":"uk","sector":"technology","revenue_2020_eu":"2306045","revenue_2017_eu":"408336","employees_number_2020":"50","employees_number_2017":"8","founding_year":"2015"}
 {"name":"schonertel","country":"germany","sector":"construction","revenue_2020_eu":"16388546","revenue_2017_eu":"2884392","employees_number_2020":"45","employees_number_2017":"10","founding_year":"2016"}
-{"name":"global work","country":"italy","sector":"teleco ","revenue_2020_eu":"3174000","revenue_2017_eu":"558820","employees_number_2020":"57","employees_number_2017":"8","founding_year":"2011"}
+{"name":"global work","country":"italy","sector":"telecoms","revenue_2020_eu":"3174000","revenue_2017_eu":"558820","employees_number_2020":"57","employees_number_2017":"8","founding_year":"2011"}
 {"name":"allygatr","country":"germany","sector":"support services","revenue_2020_eu":"1914500","revenue_2017_eu":"338300","employees_number_2020":"9","employees_number_2017":"1","founding_year":"2012"}
 {"name":"cru wine","country":"uk","sector":"food & beverage","revenue_2020_eu":"9235946","revenue_2017_eu":"1644134","employees_number_2020":"14","employees_number_2017":"3","founding_year":"2013"}
 {"name":"abc rent","country":"italy","sector":"automobiles","revenue_2020_eu":"21818000","revenue_2017_eu":"3878370","employees_number_2020":"8","employees_number_2017":"5","founding_year":"2004"}
@@ -358,14 +358,14 @@
 {"name":"tutosme","country":"france","sector":"education","revenue_2020_eu":"4989872","revenue_2017_eu":"910963","employees_number_2020":"42","employees_number_2017":"4","founding_year":"2015"}
 {"name":"studio eko","country":"italy","sector":"management consulting","revenue_2020_eu":"1740660","revenue_2017_eu":"318370","employees_number_2020":"10","employees_number_2017":"4","founding_year":"2011"}
 {"name":"beings","country":"uk","sector":"technology","revenue_2020_eu":"1881768","revenue_2017_eu":"348129","employees_number_2020":"7","employees_number_2017":"2","founding_year":"2010"}
-{"name":"dgroupltdcom","country":"poland","sector":"chemicals & pharmaceuticals","revenue_2020_eu":"7050124","revenue_2017_eu":"1418769","employees_number_2020":"6","employees_number_2017":"3","founding_year":"2013"}
-{"name":"ice telecommunications ltd","country":"uk","sector":"teleco ","revenue_2020_eu":"16067551","revenue_2017_eu":"2982238","employees_number_2020":"119","employees_number_2017":"35","founding_year":"2014"}
+{"name":"dmrgroupltdcom","country":"poland","sector":"chemicals & pharmaceuticals","revenue_2020_eu":"7050124","revenue_2017_eu":"1418769","employees_number_2020":"6","employees_number_2017":"3","founding_year":"2013"}
+{"name":"ice telecommunications ltd","country":"uk","sector":"telecoms","revenue_2020_eu":"16067551","revenue_2017_eu":"2982238","employees_number_2020":"119","employees_number_2017":"35","founding_year":"2014"}
 {"name":"gallas group","country":"italy","sector":"support services","revenue_2020_eu":"4640710","revenue_2017_eu":"856790","employees_number_2020":"95","employees_number_2017":"18","founding_year":"2012"}
 {"name":"etracom","country":"italy","sector":"ecommerce","revenue_2020_eu":"22952660","revenue_2017_eu":"4253600","employees_number_2020":"10","employees_number_2017":"4","founding_year":"2010"}
 {"name":"xalient","country":"uk","sector":"technology","revenue_2020_eu":"26199717","revenue_2017_eu":"4893654","employees_number_2020":"88","employees_number_2017":"38","founding_year":"2015"}
 {"name":"labevolution","country":"italy","sector":"health","revenue_2020_eu":"7264130","revenue_2017_eu":"1349250","employees_number_2020":"n/a","employees_number_2017":"5","founding_year":"2009"}
 {"name":"kuadra","country":"italy","sector":"interiors","revenue_2020_eu":"3400580","revenue_2017_eu":"635400","employees_number_2020":"20","employees_number_2017":"9","founding_year":"2015"}
-{"name":"kyo electric","country":"spain","sector":"teleco ","revenue_2020_eu":"5402302","revenue_2017_eu":"1013181","employees_number_2020":"8","employees_number_2017":"3","founding_year":"2014"}
+{"name":"kyo electric","country":"spain","sector":"telecoms","revenue_2020_eu":"5402302","revenue_2017_eu":"1013181","employees_number_2020":"8","employees_number_2017":"3","founding_year":"2014"}
 {"name":"sopost","country":"uk","sector":"technology","revenue_2020_eu":"7825138","revenue_2017_eu":"1481398","employees_number_2020":"32","employees_number_2017":"13","founding_year":"2012"}
 {"name":"sfre","country":"italy","sector":"construction","revenue_2020_eu":"3004290","revenue_2017_eu":"564910","employees_number_2020":"44","employees_number_2017":"7","founding_year":"2016"}
 {"name":"sportstech","country":"germany","sector":"retail","revenue_2020_eu":"108500233","revenue_2017_eu":"20436426","employees_number_2020":"262","employees_number_2017":"60","founding_year":"2012"}
@@ -388,11 +388,11 @@
 {"name":"westrafo","country":"italy","sector":"energy","revenue_2020_eu":"22072700","revenue_2017_eu":"4356500","employees_number_2020":"58","employees_number_2017":"19","founding_year":"2014"}
 {"name":"goboony","country":"the netherlands","sector":"travel & leisure","revenue_2020_eu":"1718442","revenue_2017_eu":"340309","employees_number_2020":"21","employees_number_2017":"10","founding_year":"2015"}
 {"name":"multiservice ambrosiana","country":"italy","sector":"support services","revenue_2020_eu":"4266770","revenue_2017_eu":"846360","employees_number_2020":"180","employees_number_2017":"60","founding_year":"2016"}
-{"name":"b&c syste","country":"germany","sector":"construction","revenue_2020_eu":"5339538","revenue_2017_eu":"1061327","employees_number_2020":"65","employees_number_2017":"16","founding_year":"2016"}
+{"name":"b&c systems","country":"germany","sector":"construction","revenue_2020_eu":"5339538","revenue_2017_eu":"1061327","employees_number_2020":"65","employees_number_2017":"16","founding_year":"2016"}
 {"name":"s&g solar","country":"bulgaria","sector":"energy","revenue_2020_eu":"3980920","revenue_2017_eu":"792093","employees_number_2020":"10","employees_number_2017":"31","founding_year":"2014"}
 {"name":"bittnet","country":"romania","sector":"management consulting","revenue_2020_eu":"22436395","revenue_2017_eu":"4641712","employees_number_2020":"120","employees_number_2017":"40","founding_year":"2007"}
 {"name":"ibanfirst","country":"belgium","sector":"fintech","revenue_2020_eu":"12062697","revenue_2017_eu":"2408187","employees_number_2020":"204","employees_number_2017":"47","founding_year":"2013"}
-{"name":"uplink network","country":"germany","sector":"teleco ","revenue_2020_eu":"28140196","revenue_2017_eu":"5629906","employees_number_2020":"46","employees_number_2017":"20","founding_year":"2013"}
+{"name":"uplink network","country":"germany","sector":"telecoms","revenue_2020_eu":"28140196","revenue_2017_eu":"5629906","employees_number_2020":"46","employees_number_2017":"20","founding_year":"2013"}
 {"name":"base organic food","country":"france","sector":"agricultural commodities","revenue_2020_eu":"10802997","revenue_2017_eu":"2163006","employees_number_2020":"25","employees_number_2017":"6","founding_year":"2015"}
 {"name":"currentbody","country":"uk","sector":"ecommerce","revenue_2020_eu":"38002441","revenue_2017_eu":"7671961","employees_number_2020":"74","employees_number_2017":"20","founding_year":"2009"}
 {"name":"apex aero","country":"uk","sector":"aerospace & defence","revenue_2020_eu":"3812785","revenue_2017_eu":"770031","employees_number_2020":"6","employees_number_2017":"1","founding_year":"2016"}
@@ -403,7 +403,7 @@
 {"name":"prusseit auto-outlet","country":"germany","sector":"automobiles","revenue_2020_eu":"2576602","revenue_2017_eu":"520998","employees_number_2020":"17","employees_number_2017":"3","founding_year":"2017"}
 {"name":"techouse","country":"norway","sector":"energy","revenue_2020_eu":"31852584","revenue_2017_eu":"6863940","employees_number_2020":"72","employees_number_2017":"30","founding_year":"2002"}
 {"name":"svs","country":"italy","sector":"construction","revenue_2020_eu":"9694310","revenue_2017_eu":"1965560","employees_number_2020":"8","employees_number_2017":"3","founding_year":"2016"}
-{"name":"telcoswitch group","country":"uk","sector":"teleco ","revenue_2020_eu":"7519236","revenue_2017_eu":"1543824","employees_number_2020":"86","employees_number_2017":"18","founding_year":"2017"}
+{"name":"telcoswitch group","country":"uk","sector":"telecoms","revenue_2020_eu":"7519236","revenue_2017_eu":"1543824","employees_number_2020":"86","employees_number_2017":"18","founding_year":"2017"}
 {"name":"bothe-reimann tortechnik","country":"germany","sector":"construction","revenue_2020_eu":"2277791","revenue_2017_eu":"464354","employees_number_2020":"8","employees_number_2017":"3","founding_year":"2017"}
 {"name":"e-pol / personalizzalo","country":"italy","sector":"ecommerce","revenue_2020_eu":"16089160","revenue_2017_eu":"3284400","employees_number_2020":"12","employees_number_2017":"8","founding_year":"2012"}
 {"name":"riluxa","country":"spain","sector":"interiors","revenue_2020_eu":"3428464","revenue_2017_eu":"700007","employees_number_2020":"18","employees_number_2017":"3","founding_year":"2016"}
@@ -443,7 +443,7 @@
 {"name":"star digital","country":"croatia","sector":"advertising","revenue_2020_eu":"3211868","revenue_2017_eu":"699907","employees_number_2020":"8","employees_number_2017":"10","founding_year":"2013"}
 {"name":"funding options","country":"uk","sector":"fintech","revenue_2020_eu":"5922043","revenue_2017_eu":"1297717","employees_number_2020":"62","employees_number_2017":"29","founding_year":"2011"}
 {"name":"isimed","country":"italy","sector":"health","revenue_2020_eu":"4828920","revenue_2017_eu":"1050660","employees_number_2020":"14","employees_number_2017":"8","founding_year":"2014"}
-{"name":"sonar, sonarqube, sonarcloud, sonarlint","country":"switzerland","sector":"technology","revenue_2020_eu":"83632640","revenue_2017_eu":"16861349","employees_number_2020":"195","employees_number_2017":"50","founding_year":"2008"}
+{"name":"sonar sonarqube sonarcloud sonarlint","country":"switzerland","sector":"technology","revenue_2020_eu":"83632640","revenue_2017_eu":"16861349","employees_number_2020":"195","employees_number_2017":"50","founding_year":"2008"}
 {"name":"scherer","country":"germany","sector":"support services","revenue_2020_eu":"4285766","revenue_2017_eu":"934994","employees_number_2020":"30","employees_number_2017":"4","founding_year":"2016"}
 {"name":"mycroclean italia","country":"italy","sector":"support services","revenue_2020_eu":"3366730","revenue_2017_eu":"736000","employees_number_2020":"24","employees_number_2017":"14","founding_year":"2002"}
 {"name":"piscor","country":"italy","sector":"ecommerce","revenue_2020_eu":"4842410","revenue_2017_eu":"1061360","employees_number_2020":"16","employees_number_2017":"8","founding_year":"2015"}
@@ -454,7 +454,7 @@
 {"name":"obiz","country":"france","sector":"media","revenue_2020_eu":"15377000","revenue_2017_eu":"3389300","employees_number_2020":"38","employees_number_2017":"27","founding_year":"2010"}
 {"name":"vmway","country":"italy","sector":"technology","revenue_2020_eu":"15901220","revenue_2017_eu":"3525720","employees_number_2020":"70","employees_number_2017":"33","founding_year":"2012"}
 {"name":"legimi","country":"poland","sector":"media","revenue_2020_eu":"7007093","revenue_2017_eu":"1698358","employees_number_2020":"12","employees_number_2017":"8","founding_year":"2009"}
-{"name":"g beauty","country":"germany","sector":"retail","revenue_2020_eu":"2910737","revenue_2017_eu":"645633","employees_number_2020":"11","employees_number_2017":"5","founding_year":"2011"}
+{"name":"beauty","country":"germany","sector":"retail","revenue_2020_eu":"2910737","revenue_2017_eu":"645633","employees_number_2020":"11","employees_number_2017":"5","founding_year":"2011"}
 {"name":"leogra trading","country":"germany","sector":"retail","revenue_2020_eu":"5078464","revenue_2017_eu":"1128243","employees_number_2020":"11","employees_number_2017":"4","founding_year":"2014"}
 {"name":"benefind","country":"italy","sector":"technology","revenue_2020_eu":"2262490","revenue_2017_eu":"505520","employees_number_2020":"32","employees_number_2017":"10","founding_year":"2012"}
 {"name":"ab oil & gas service","country":"italy","sector":"support services","revenue_2020_eu":"2310000","revenue_2017_eu":"516640","employees_number_2020":"13","employees_number_2017":"5","founding_year":"2017"}
@@ -464,7 +464,7 @@
 {"name":"macingo technologies","country":"italy","sector":"support services","revenue_2020_eu":"1601000","revenue_2017_eu":"361790","employees_number_2020":"17","employees_number_2017":"9","founding_year":"2014"}
 {"name":"mycs","country":"germany","sector":"retail","revenue_2020_eu":"39355846","revenue_2017_eu":"8935361","employees_number_2020":"210","employees_number_2017":"120","founding_year":"2014"}
 {"name":"audience serv","country":"germany","sector":"advertising","revenue_2020_eu":"6107018","revenue_2017_eu":"1389534","employees_number_2020":"92","employees_number_2017":"23","founding_year":"2008"}
-{"name":"start","country":"italy","sector":"teleco ","revenue_2020_eu":"3769100","revenue_2017_eu":"857590","employees_number_2020":"8","employees_number_2017":"4","founding_year":"2012"}
+{"name":"start","country":"italy","sector":"telecoms","revenue_2020_eu":"3769100","revenue_2017_eu":"857590","employees_number_2020":"8","employees_number_2017":"4","founding_year":"2012"}
 {"name":"mvh media","country":"the netherlands","sector":"sales & marketing","revenue_2020_eu":"2391654","revenue_2017_eu":"544943","employees_number_2020":"29","employees_number_2017":"8","founding_year":"2010"}
 {"name":"pure gaming","country":"france","sector":"ecommerce","revenue_2020_eu":"6984956","revenue_2017_eu":"1593667","employees_number_2020":"2","employees_number_2017":"1","founding_year":"2010"}
 {"name":"parcel compare","country":"uk","sector":"transport","revenue_2020_eu":"9085936","revenue_2017_eu":"2091995","employees_number_2020":"8","employees_number_2017":"4","founding_year":"1998"}
@@ -499,7 +499,7 @@
 {"name":"convert group","country":"greece","sector":"technology","revenue_2020_eu":"2789489","revenue_2017_eu":"666118","employees_number_2020":"55","employees_number_2017":"17","founding_year":"2014"}
 {"name":"revolution race","country":"sweden","sector":"ecommerce","revenue_2020_eu":"89332521","revenue_2017_eu":"21841341","employees_number_2020":"65","employees_number_2017":"17","founding_year":"2013"}
 {"name":"gong galaxy","country":"france","sector":"retail","revenue_2020_eu":"11320706","revenue_2017_eu":"2708258","employees_number_2020":"40","employees_number_2017":"11","founding_year":"2009"}
-{"name":"gdr costruzioni","country":"italy","sector":"construction","revenue_2020_eu":"1573480","revenue_2017_eu":"376440","employees_number_2020":"8","employees_number_2017":"8","founding_year":"2011"}
+{"name":"gcostruzioni","country":"italy","sector":"construction","revenue_2020_eu":"1573480","revenue_2017_eu":"376440","employees_number_2020":"8","employees_number_2017":"8","founding_year":"2011"}
 {"name":"emporio elettrico","country":"italy","sector":"ecommerce","revenue_2020_eu":"1979050","revenue_2017_eu":"473640","employees_number_2020":"4","employees_number_2017":"1","founding_year":"2015"}
 {"name":"exscientia ai","country":"uk","sector":"technology","revenue_2020_eu":"10807048","revenue_2017_eu":"2606296","employees_number_2020":"87","employees_number_2017":"15","founding_year":"2012"}
 {"name":"featurespace","country":"uk","sector":"fintech","revenue_2020_eu":"23501473","revenue_2017_eu":"5688822","employees_number_2020":"324","employees_number_2017":"128","founding_year":"2005"}
@@ -508,7 +508,7 @@
 {"name":"timberagents","country":"germany","sector":"retail","revenue_2020_eu":"5302985","revenue_2017_eu":"1280989","employees_number_2020":"4","employees_number_2017":"3","founding_year":"2010"}
 {"name":"fermeture econhome","country":"france","sector":"construction","revenue_2020_eu":"1862632","revenue_2017_eu":"451196","employees_number_2020":"30","employees_number_2017":"2","founding_year":"2012"}
 {"name":"nrse","country":"sweden","sector":"management consulting","revenue_2020_eu":"3268813","revenue_2017_eu":"815449","employees_number_2020":"70","employees_number_2017":"20","founding_year":"2014"}
-{"name":"simwert","country":"germany","sector":"teleco ","revenue_2020_eu":"26386701","revenue_2017_eu":"6450759","employees_number_2020":"21","employees_number_2017":"16","founding_year":"2011"}
+{"name":"simwert","country":"germany","sector":"telecoms","revenue_2020_eu":"26386701","revenue_2017_eu":"6450759","employees_number_2020":"21","employees_number_2017":"16","founding_year":"2011"}
 {"name":"flex legal","country":"uk","sector":"law","revenue_2020_eu":"4319146","revenue_2017_eu":"1064498","employees_number_2020":"24","employees_number_2017":"2","founding_year":"2015"}
 {"name":"documaster","country":"norway","sector":"technology","revenue_2020_eu":"3328791","revenue_2017_eu":"868552","employees_number_2020":"41","employees_number_2017":"15","founding_year":"2010"}
 {"name":"immo-team allgau","country":"germany","sector":"construction","revenue_2020_eu":"21974565","revenue_2017_eu":"5381108","employees_number_2020":"4","employees_number_2017":"1","founding_year":"2014"}
@@ -555,9 +555,9 @@
 {"name":"vizion network","country":"uk","sector":"automobiles","revenue_2020_eu":"117817156","revenue_2017_eu":"30862156","employees_number_2020":"194","employees_number_2017":"156","founding_year":"2008"}
 {"name":"beyond law group","country":"uk","sector":"law","revenue_2020_eu":"8233616","revenue_2017_eu":"2159010","employees_number_2020":"66","employees_number_2017":"27","founding_year":"2017"}
 {"name":"eda warehousing","country":"germany","sector":"transport","revenue_2020_eu":"4570000","revenue_2017_eu":"1190000","employees_number_2020":"14","employees_number_2017":"13","founding_year":"2014"}
-{"name":"bpv","country":"germany","sector":"teleco ","revenue_2020_eu":"22704275","revenue_2017_eu":"5923571","employees_number_2020":"90","employees_number_2017":"45","founding_year":"2013"}
+{"name":"bpv","country":"germany","sector":"telecoms","revenue_2020_eu":"22704275","revenue_2017_eu":"5923571","employees_number_2020":"90","employees_number_2017":"45","founding_year":"2013"}
 {"name":"ultra premium direct","country":"france","sector":"agricultural commodities","revenue_2020_eu":"20779890","revenue_2017_eu":"5422583","employees_number_2020":"81","employees_number_2017":"29","founding_year":"2013"}
-{"name":"afr-ix telecom","country":"spain","sector":"teleco ","revenue_2020_eu":"9933867","revenue_2017_eu":"2593649","employees_number_2020":"24","employees_number_2017":"12","founding_year":"2013"}
+{"name":"afr-ix telecom","country":"spain","sector":"telecoms","revenue_2020_eu":"9933867","revenue_2017_eu":"2593649","employees_number_2020":"24","employees_number_2017":"12","founding_year":"2013"}
 {"name":"blue energy","country":"poland","sector":"cyber security","revenue_2020_eu":"4527970","revenue_2017_eu":"1293181","employees_number_2020":"44","employees_number_2017":"28","founding_year":"2010"}
 {"name":"cjuste paris","country":"france","sector":"retail","revenue_2020_eu":"2404398","revenue_2017_eu":"628388","employees_number_2020":"15","employees_number_2017":"5","founding_year":"2013"}
 {"name":"sos-accessoire","country":"france","sector":"ecommerce","revenue_2020_eu":"14690408","revenue_2017_eu":"3848262","employees_number_2020":"44","employees_number_2017":"13","founding_year":"2007"}
@@ -571,7 +571,7 @@
 {"name":"im global partner","country":"france","sector":"financial services","revenue_2020_eu":"31463692","revenue_2017_eu":"8392541","employees_number_2020":"50","employees_number_2017":"10","founding_year":"2015"}
 {"name":"confinvest","country":"italy","sector":"precious metals","revenue_2020_eu":"41130000","revenue_2017_eu":"10982110","employees_number_2020":"6","employees_number_2017":"2","founding_year":"1983"}
 {"name":"ethic technology","country":"france","sector":"technology","revenue_2020_eu":"8340824","revenue_2017_eu":"2229273","employees_number_2020":"3","employees_number_2017":"2","founding_year":"2012"}
-{"name":"bomax","country":"italy","sector":"teleco ","revenue_2020_eu":"71290680","revenue_2017_eu":"19088830","employees_number_2020":"7","employees_number_2017":"6","founding_year":"2001"}
+{"name":"bomax","country":"italy","sector":"telecoms","revenue_2020_eu":"71290680","revenue_2017_eu":"19088830","employees_number_2020":"7","employees_number_2017":"6","founding_year":"2001"}
 {"name":"kk-trade","country":"germany","sector":"retail","revenue_2020_eu":"4383254","revenue_2017_eu":"1174770","employees_number_2020":"15","employees_number_2017":"4","founding_year":"2017"}
 {"name":"marsapet","country":"germany","sector":"retail","revenue_2020_eu":"3960200","revenue_2017_eu":"1061642","employees_number_2020":"26","employees_number_2017":"4","founding_year":"2015"}
 {"name":"gruppo tera","country":"italy","sector":"ecommerce","revenue_2020_eu":"20222750","revenue_2017_eu":"5428300","employees_number_2020":"16","employees_number_2017":"8","founding_year":"2015"}
@@ -604,7 +604,7 @@
 {"name":"couteaujaponaiscom","country":"france","sector":"retail","revenue_2020_eu":"4579102","revenue_2017_eu":"1272558","employees_number_2020":"17","employees_number_2017":"5","founding_year":"2004"}
 {"name":"physidia","country":"france","sector":"health","revenue_2020_eu":"16746545","revenue_2017_eu":"4656191","employees_number_2020":"58","employees_number_2017":"20","founding_year":"2010"}
 {"name":"horando deutschland","country":"germany","sector":"retail","revenue_2020_eu":"8111269","revenue_2017_eu":"2257390","employees_number_2020":"3","employees_number_2017":"2","founding_year":"2013"}
-{"name":"diablochairs, jan nowak","country":"poland","sector":"ecommerce","revenue_2020_eu":"21520495","revenue_2017_eu":"6549376","employees_number_2020":"79","employees_number_2017":"22","founding_year":"2004"}
+{"name":"diablochairs jan nowak","country":"poland","sector":"ecommerce","revenue_2020_eu":"21520495","revenue_2017_eu":"6549376","employees_number_2020":"79","employees_number_2017":"22","founding_year":"2004"}
 {"name":"parkster","country":"sweden","sector":"technology","revenue_2020_eu":"55139984","revenue_2017_eu":"15711602","employees_number_2020":"28","employees_number_2017":"16","founding_year":"2011"}
 {"name":"biotyfull","country":"france","sector":"ecommerce","revenue_2020_eu":"20248436","revenue_2017_eu":"5642145","employees_number_2020":"13","employees_number_2017":"5","founding_year":"2015"}
 {"name":"bioksan","country":"spain","sector":"food & beverage","revenue_2020_eu":"5914732","revenue_2017_eu":"1650756","employees_number_2020":"51","employees_number_2017":"14","founding_year":"2014"}
@@ -616,7 +616,7 @@
 {"name":"aue genc warenhandels-ug","country":"germany","sector":"retail","revenue_2020_eu":"19890000","revenue_2017_eu":"5573000","employees_number_2020":"12","employees_number_2017":"8","founding_year":"2010"}
 {"name":"mgvision","country":"italy","sector":"advertising","revenue_2020_eu":"4010560","revenue_2017_eu":"1127170","employees_number_2020":"18","employees_number_2017":"10","founding_year":"2010"}
 {"name":"new general service","country":"italy","sector":"support services","revenue_2020_eu":"1539360","revenue_2017_eu":"433540","employees_number_2020":"26","employees_number_2017":"13","founding_year":"2015"}
-{"name":"andre renovation","country":"france","sector":"construction","revenue_2020_eu":"11594389","revenue_2017_eu":"3266703","employees_number_2020":"41","employees_number_2017":"15","founding_year":"2010"}
+{"name":"anrenovation","country":"france","sector":"construction","revenue_2020_eu":"11594389","revenue_2017_eu":"3266703","employees_number_2020":"41","employees_number_2017":"15","founding_year":"2010"}
 {"name":"mdg components unipersonale","country":"italy","sector":"industrial goods","revenue_2020_eu":"2283970","revenue_2017_eu":"644440","employees_number_2020":"14","employees_number_2017":"10","founding_year":"2017"}
 {"name":"amco-bulgaria","country":"bulgaria","sector":"retail","revenue_2020_eu":"6298606","revenue_2017_eu":"1778274","employees_number_2020":"22","employees_number_2017":"5","founding_year":"2011"}
 {"name":"symprove","country":"uk","sector":"personal & household goods","revenue_2020_eu":"12298843","revenue_2017_eu":"3498275","employees_number_2020":"39","employees_number_2017":"16","founding_year":"2005"}
@@ -636,7 +636,7 @@
 {"name":"midstream lighting","country":"uk","sector":"technology","revenue_2020_eu":"8204844","revenue_2017_eu":"2363526","employees_number_2020":"12","employees_number_2017":"4","founding_year":"2012"}
 {"name":"propulse it","country":"france","sector":"technology","revenue_2020_eu":"6326861","revenue_2017_eu":"1809858","employees_number_2020":"2","employees_number_2017":"2","founding_year":"2014"}
 {"name":"additius santa maria","country":"spain","sector":"agricultural commodities","revenue_2020_eu":"31757362","revenue_2017_eu":"9100083","employees_number_2020":"30","employees_number_2017":"25","founding_year":"2012"}
-{"name":"conexio telecom","country":"france","sector":"teleco ","revenue_2020_eu":"1908640","revenue_2017_eu":"547084","employees_number_2020":"15","employees_number_2017":"3","founding_year":"2017"}
+{"name":"conexio telecom","country":"france","sector":"telecoms","revenue_2020_eu":"1908640","revenue_2017_eu":"547084","employees_number_2020":"15","employees_number_2017":"3","founding_year":"2017"}
 {"name":"tripin","country":"germany","sector":"retail","revenue_2020_eu":"5465080","revenue_2017_eu":"1568506","employees_number_2020":"9","employees_number_2017":"5","founding_year":"2012"}
 {"name":"continental wood kft","country":"hungary","sector":"industrial goods","revenue_2020_eu":"2724073","revenue_2017_eu":"910973","employees_number_2020":"9","employees_number_2017":"4","founding_year":"1996"}
 {"name":"geoteam","country":"italy","sector":"energy","revenue_2020_eu":"7623730","revenue_2017_eu":"2195780","employees_number_2020":"120","employees_number_2017":"71","founding_year":"2008"}
@@ -759,10 +759,10 @@
 {"name":"smart battery solutions","country":"germany","sector":"technology","revenue_2020_eu":"10203000","revenue_2017_eu":"3264000","employees_number_2020":"69","employees_number_2017":"28","founding_year":"2010"}
 {"name":"eu-bay commerce","country":"germany","sector":"retail","revenue_2020_eu":"8122686","revenue_2017_eu":"2601485","employees_number_2020":"20","employees_number_2017":"10","founding_year":"2003"}
 {"name":"jens rabe academy","country":"germany","sector":"education","revenue_2020_eu":"3655345","revenue_2017_eu":"1171373","employees_number_2020":"20","employees_number_2017":"6","founding_year":"2009"}
-{"name":"hyperoptic","country":"uk","sector":"teleco ","revenue_2020_eu":"57766084","revenue_2017_eu":"18649681","employees_number_2020":"1251","employees_number_2017":"407","founding_year":"2010"}
+{"name":"hyperoptic","country":"uk","sector":"telecoms","revenue_2020_eu":"57766084","revenue_2017_eu":"18649681","employees_number_2020":"1251","employees_number_2017":"407","founding_year":"2010"}
 {"name":"sepale","country":"france","sector":"energy","revenue_2020_eu":"7879983","revenue_2017_eu":"2531055","employees_number_2020":"21","employees_number_2017":"2","founding_year":"2009"}
-{"name":"3a informatica","country":"italy","sector":"teleco ","revenue_2020_eu":"1970000","revenue_2017_eu":"633990","employees_number_2020":"33","employees_number_2017":"19","founding_year":"2005"}
-{"name":"eproto","country":"france","sector":"ecommerce","revenue_2020_eu":"3136947","revenue_2017_eu":"1009846","employees_number_2020":"22","employees_number_2017":"10","founding_year":"2014"}
+{"name":"3a informatica","country":"italy","sector":"telecoms","revenue_2020_eu":"1970000","revenue_2017_eu":"633990","employees_number_2020":"33","employees_number_2017":"19","founding_year":"2005"}
+{"name":"emsproto","country":"france","sector":"ecommerce","revenue_2020_eu":"3136947","revenue_2017_eu":"1009846","employees_number_2020":"22","employees_number_2017":"10","founding_year":"2014"}
 {"name":"laboratoires dermosun","country":"france","sector":"chemicals & pharmaceuticals","revenue_2020_eu":"5626849","revenue_2017_eu":"1815835","employees_number_2020":"13","employees_number_2017":"9","founding_year":"2011"}
 {"name":"saico","country":"italy","sector":"construction","revenue_2020_eu":"6737600","revenue_2017_eu":"2177950","employees_number_2020":"23","employees_number_2017":"13","founding_year":"2013"}
 {"name":"nutis","country":"italy","sector":"food & beverage","revenue_2020_eu":"6566530","revenue_2017_eu":"2124990","employees_number_2020":"19","employees_number_2017":"9","founding_year":"1956"}
@@ -806,8 +806,8 @@
 {"name":"jointly il welfare condiviso","country":"italy","sector":"support services","revenue_2020_eu":"2400550","revenue_2017_eu":"808700","employees_number_2020":"34","employees_number_2017":"18","founding_year":"2014"}
 {"name":"abtot mark & anlaggning ab","country":"sweden","sector":"construction","revenue_2020_eu":"9983094","revenue_2017_eu":"3450305","employees_number_2020":"23","employees_number_2017":"10","founding_year":"2012"}
 {"name":"dusapro immobilien","country":"germany","sector":"property","revenue_2020_eu":"33903865","revenue_2017_eu":"11484801","employees_number_2020":"36","employees_number_2017":"10","founding_year":"2012"}
-{"name":"soldats fil","country":"france","sector":"media","revenue_2020_eu":"2320653","revenue_2017_eu":"787160","employees_number_2020":"8","employees_number_2017":"4","founding_year":"2012"}
-{"name":"eagleprojects","country":"italy","sector":"teleco ","revenue_2020_eu":"15140480","revenue_2017_eu":"5137900","employees_number_2020":"287","employees_number_2017":"120","founding_year":"2016"}
+{"name":"soldats films","country":"france","sector":"media","revenue_2020_eu":"2320653","revenue_2017_eu":"787160","employees_number_2020":"8","employees_number_2017":"4","founding_year":"2012"}
+{"name":"eagleprojects","country":"italy","sector":"telecoms","revenue_2020_eu":"15140480","revenue_2017_eu":"5137900","employees_number_2020":"287","employees_number_2017":"120","founding_year":"2016"}
 {"name":"agile lab","country":"italy","sector":"technology","revenue_2020_eu":"5590450","revenue_2017_eu":"1897650","employees_number_2020":"43","employees_number_2017":"15","founding_year":"2013"}
 {"name":"importprisno","country":"norway","sector":"ecommerce","revenue_2020_eu":"3113197","revenue_2017_eu":"1126971","employees_number_2020":"8","employees_number_2017":"4","founding_year":"2012"}
 {"name":"truu","country":"germany","sector":"industrial goods","revenue_2020_eu":"12472561","revenue_2017_eu":"4245861","employees_number_2020":"72","employees_number_2017":"18","founding_year":"2011"}
@@ -818,11 +818,11 @@
 {"name":"sp architecte","country":"france","sector":"construction","revenue_2020_eu":"2825876","revenue_2017_eu":"964998","employees_number_2020":"18","employees_number_2017":"14","founding_year":"2009"}
 {"name":"embargos a lo bestia","country":"spain","sector":"retail","revenue_2020_eu":"22559217","revenue_2017_eu":"7709375","employees_number_2020":"178","employees_number_2017":"54","founding_year":"2011"}
 {"name":"snigel","country":"ireland","sector":"technology","revenue_2020_eu":"20479764","revenue_2017_eu":"7000063","employees_number_2020":"3","employees_number_2017":"2","founding_year":"2011"}
-{"name":"i rettungsdienst","country":"germany","sector":"health","revenue_2020_eu":"1900000","revenue_2017_eu":"650000","employees_number_2020":"120","employees_number_2017":"5","founding_year":"2006"}
+{"name":"irettungsdienst","country":"germany","sector":"health","revenue_2020_eu":"1900000","revenue_2017_eu":"650000","employees_number_2020":"120","employees_number_2017":"5","founding_year":"2006"}
 {"name":"way2global sb","country":"italy","sector":"support services","revenue_2020_eu":"2411600","revenue_2017_eu":"828820","employees_number_2020":"16","employees_number_2017":"1","founding_year":"2017"}
 {"name":"media access solutions","country":"uk","sector":"support services","revenue_2020_eu":"3407930","revenue_2017_eu":"1181642","employees_number_2020":"33","employees_number_2017":"3","founding_year":"2014"}
 {"name":"exadi","country":"spain","sector":"sales and marketing","revenue_2020_eu":"42525086","revenue_2017_eu":"14649568","employees_number_2020":"44","employees_number_2017":"21","founding_year":"2008"}
-{"name":"fiber-service-gesellschaft","country":"germany","sector":"teleco ","revenue_2020_eu":"4049655","revenue_2017_eu":"1395607","employees_number_2020":"29","employees_number_2017":"10","founding_year":"2014"}
+{"name":"fiber-service-gesellschaft","country":"germany","sector":"telecoms","revenue_2020_eu":"4049655","revenue_2017_eu":"1395607","employees_number_2020":"29","employees_number_2017":"10","founding_year":"2014"}
 {"name":"tenderhut group","country":"poland","sector":"technology","revenue_2020_eu":"10264611","revenue_2017_eu":"3868483","employees_number_2020":"280","employees_number_2017":"140","founding_year":"2010"}
 {"name":"worldwide fishing company","country":"spain","sector":"food & beverage","revenue_2020_eu":"140442673","revenue_2017_eu":"48449141","employees_number_2020":"30","employees_number_2017":"12","founding_year":"2016"}
 {"name":"doctor hail spa","country":"italy","sector":"automobiles","revenue_2020_eu":"18101114","revenue_2017_eu":"6246592","employees_number_2020":"43","employees_number_2017":"26","founding_year":"2013"}
@@ -909,10 +909,10 @@
 {"name":"reveg fruit","country":"italy","sector":"food & beverage","revenue_2020_eu":"2356570","revenue_2017_eu":"870070","employees_number_2020":"4","employees_number_2017":"2","founding_year":"2016"}
 {"name":"sciant","country":"bulgaria","sector":"technology","revenue_2020_eu":"3192139","revenue_2017_eu":"1178653","employees_number_2020":"79","employees_number_2017":"39","founding_year":"2016"}
 {"name":"boender & beutel","country":"germany","sector":"industrial goods","revenue_2020_eu":"14550131","revenue_2017_eu":"5376347","employees_number_2020":"130","employees_number_2017":"50","founding_year":"2012"}
-{"name":"ekinops","country":"france","sector":"teleco ","revenue_2020_eu":"92800000","revenue_2017_eu":"34291000","employees_number_2020":"456","employees_number_2017":"419","founding_year":"2003"}
+{"name":"ekinops","country":"france","sector":"telecoms","revenue_2020_eu":"92800000","revenue_2017_eu":"34291000","employees_number_2020":"456","employees_number_2017":"419","founding_year":"2003"}
 {"name":"sano-tecnica","country":"portugal","sector":"health","revenue_2020_eu":"4972658","revenue_2017_eu":"1838120","employees_number_2020":"13","employees_number_2017":"12","founding_year":"1938"}
 {"name":"mobelando","country":"germany","sector":"retail","revenue_2020_eu":"16692390","revenue_2017_eu":"6170577","employees_number_2020":"24","employees_number_2017":"16","founding_year":"2013"}
-{"name":"democom","country":"italy","sector":"teleco ","revenue_2020_eu":"3347950","revenue_2017_eu":"1238210","employees_number_2020":"37","employees_number_2017":"12","founding_year":"2011"}
+{"name":"democom","country":"italy","sector":"telecoms","revenue_2020_eu":"3347950","revenue_2017_eu":"1238210","employees_number_2020":"37","employees_number_2017":"12","founding_year":"2011"}
 {"name":"erbagil","country":"italy","sector":"pharmaceuticals","revenue_2020_eu":"4021010","revenue_2017_eu":"1490280","employees_number_2020":"11","employees_number_2017":"3","founding_year":"2009"}
 {"name":"axopar boats","country":"finland","sector":"travel & leisure","revenue_2020_eu":"78765693","revenue_2017_eu":"29247774","employees_number_2020":"32","employees_number_2017":"9","founding_year":"2014"}
 {"name":"advanced composites solutions","country":"italy","sector":"automobiles","revenue_2020_eu":"5393690","revenue_2017_eu":"2006100","employees_number_2020":"54","employees_number_2017":"11","founding_year":"2012"}
@@ -951,7 +951,7 @@
 {"name":"cafe du cycliste","country":"france","sector":"ecommerce","revenue_2020_eu":"7445865","revenue_2017_eu":"2826571","employees_number_2020":"20","employees_number_2017":"14","founding_year":"2009"}
 {"name":"langer luftungs- und klimaanlagen","country":"germany","sector":"construction","revenue_2020_eu":"4609256","revenue_2017_eu":"1749794","employees_number_2020":"8","employees_number_2017":"5","founding_year":"2016"}
 {"name":"formind","country":"france","sector":"cyber security","revenue_2020_eu":"16845354","revenue_2017_eu":"6398583","employees_number_2020":"130","employees_number_2017":"60","founding_year":"2010"}
-{"name":"oasis smart sim europe","country":"france","sector":"teleco ","revenue_2020_eu":"3065165","revenue_2017_eu":"1167000","employees_number_2020":"20","employees_number_2017":"4","founding_year":"2010"}
+{"name":"oasis smart sim europe","country":"france","sector":"telecoms","revenue_2020_eu":"3065165","revenue_2017_eu":"1167000","employees_number_2020":"20","employees_number_2017":"4","founding_year":"2010"}
 {"name":"aferetica","country":"italy","sector":"health","revenue_2020_eu":"6376910","revenue_2017_eu":"2429230","employees_number_2020":"13","employees_number_2017":"9","founding_year":"2013"}
 {"name":"zero","country":"italy","sector":"energy","revenue_2020_eu":"42000000","revenue_2017_eu":"16000000","employees_number_2020":"37","employees_number_2017":"15","founding_year":"2014"}
 {"name":"skills","country":"france","sector":"support services","revenue_2020_eu":"11650138","revenue_2017_eu":"4443710","employees_number_2020":"70","employees_number_2017":"20","founding_year":"2011"}

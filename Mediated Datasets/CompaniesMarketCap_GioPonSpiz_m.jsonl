@@ -16,14 +16,14 @@
 {"name": "walmart", "market_cap": 391810000000, "country": "usa"}
 {"name": "tesla", "market_cap": 386500000000, "country": "usa"}
 {"name": "mastercard", "market_cap": 361040000000, "country": "usa"}
-{"name": "meta platfor facebook", "market_cap": 359180000000, "country": "usa"}
+{"name": "meta platforfacebook", "market_cap": 359180000000, "country": "usa"}
 {"name": "kweichow moutai", "market_cap": 358620000000, "country": "china"}
 {"name": "procter & gamble", "market_cap": 357540000000, "country": "usa"}
 {"name": "eli lilly", "market_cap": 343600000000, "country": "usa"}
 {"name": "chevron", "market_cap": 343330000000, "country": "usa"}
 {"name": "nestle", "market_cap": 339240000000, "country": "switzerland"}
 {"name": "home depot", "market_cap": 337560000000, "country": "usa"}
-{"name": "saung", "market_cap": 331690000000, "country": "s. korea"}
+{"name": "samsung", "market_cap": 331690000000, "country": "s. korea"}
 {"name": "alibaba", "market_cap": 310680000000, "country": "china"}
 {"name": "novo nordisk", "market_cap": 306650000000, "country": "denmark"}
 {"name": "merck", "market_cap": 284590000000, "country": "usa"}
@@ -232,7 +232,7 @@
 {"name": "lam research", "market_cap": 64590000000, "country": "usa"}
 {"name": "kddi", "market_cap": 64560000000, "country": "japan"}
 {"name": "freeport-mcmoran", "market_cap": 64390000000, "country": "usa"}
-{"name": "sherwin-willia", "market_cap": 63710000000, "country": "usa"}
+{"name": "sherwin-williams", "market_cap": 63710000000, "country": "usa"}
 {"name": "enel", "market_cap": 63640000000, "country": "italy"}
 {"name": "canadian natural resources", "market_cap": 63560000000, "country": "canada"}
 {"name": "airbnb", "market_cap": 63550000000, "country": "usa"}
@@ -281,7 +281,7 @@
 {"name": "pioneer natural resources", "market_cap": 56780000000, "country": "usa"}
 {"name": "santander", "market_cap": 56750000000, "country": "spain"}
 {"name": "industrial bank", "market_cap": 56520000000, "country": "china"}
-{"name": "thoon reuters", "market_cap": 56470000000, "country": "canada"}
+{"name": "thomson reuters", "market_cap": 56470000000, "country": "canada"}
 {"name": "metlife", "market_cap": 56420000000, "country": "usa"}
 {"name": "enterprise products", "market_cap": 56020000000, "country": "usa"}
 {"name": "relx", "market_cap": 55760000000, "country": "uk"}
@@ -315,7 +315,7 @@
 {"name": "recruit", "market_cap": 50720000000, "country": "japan"}
 {"name": "edf electricite de france", "market_cap": 50670000000, "country": "france"}
 {"name": "sempra energy", "market_cap": 50550000000, "country": "usa"}
-{"name": "keurig dr pepper", "market_cap": 50540000000, "country": "usa"}
+{"name": "keurig pepper", "market_cap": 50540000000, "country": "usa"}
 {"name": "adani total gas", "market_cap": 50520000000, "country": "india"}
 {"name": "saudi telecom company", "market_cap": 50470000000, "country": "s. arabia"}
 {"name": "itc", "market_cap": 50440000000, "country": "india"}
@@ -358,8 +358,8 @@
 {"name": "the hershey company", "market_cap": 46470000000, "country": "usa"}
 {"name": "agilent technologies", "market_cap": 46450000000, "country": "usa"}
 {"name": "national grid", "market_cap": 46430000000, "country": "uk"}
-{"name": "cadence design syste", "market_cap": 46430000000, "country": "usa"}
-{"name": "saung biologics", "market_cap": 46420000000, "country": "s. korea"}
+{"name": "cadence design systems", "market_cap": 46430000000, "country": "usa"}
+{"name": "samsung biologics", "market_cap": 46420000000, "country": "s. korea"}
 {"name": "hitachi", "market_cap": 46280000000, "country": "japan"}
 {"name": "kimberly-clark", "market_cap": 46170000000, "country": "usa"}
 {"name": "itochu shoji", "market_cap": 45790000000, "country": "japan"}
@@ -388,7 +388,7 @@
 {"name": "realty income", "market_cap": 43700000000, "country": "usa"}
 {"name": "ping an bank", "market_cap": 43670000000, "country": "china"}
 {"name": "prudential", "market_cap": 43650000000, "country": "uk"}
-{"name": "kotak mahindra bank", "market_cap": 43620000000, "country": "india"}
+{"name": "kotak mahinbank", "market_cap": 43620000000, "country": "india"}
 {"name": "centene", "market_cap": 43620000000, "country": "usa"}
 {"name": "budweiser apac", "market_cap": 43580000000, "country": "hong kong"}
 {"name": "banco santander brasil", "market_cap": 43570000000, "country": "brazil"}
@@ -438,11 +438,11 @@
 {"name": "sysco", "market_cap": 40700000000, "country": "usa"}
 {"name": "lloyds banking group", "market_cap": 40540000000, "country": "uk"}
 {"name": "nucor", "market_cap": 40420000000, "country": "usa"}
-{"name": "ci", "market_cap": 40390000000, "country": "usa"}
+{"name": "msci", "market_cap": 40390000000, "country": "usa"}
 {"name": "sun hung kai properties", "market_cap": 40300000000, "country": "hong kong"}
 {"name": "lululemon athletica", "market_cap": 40220000000, "country": "canada"}
 {"name": "anta sports", "market_cap": 40030000000, "country": "china"}
-{"name": "willia companies", "market_cap": 39970000000, "country": "usa"}
+{"name": "williacompanies", "market_cap": 39970000000, "country": "usa"}
 {"name": "lonza", "market_cap": 39950000000, "country": "switzerland"}
 {"name": "honda", "market_cap": 39890000000, "country": "japan"}
 {"name": "idexx laboratories", "market_cap": 39670000000, "country": "usa"}
@@ -522,7 +522,7 @@
 {"name": "japan post bank", "market_cap": 33799999999, "country": "japan"}
 {"name": "sea garena", "market_cap": 33770000000, "country": "singapore"}
 {"name": "pacific gas and electric", "market_cap": 33720000000, "country": "usa"}
-{"name": "saung sdi", "market_cap": 33710000000, "country": "s. korea"}
+{"name": "samsung sdi", "market_cap": 33710000000, "country": "s. korea"}
 {"name": "bank of ningbo", "market_cap": 33700000000, "country": "china"}
 {"name": "holcim group", "market_cap": 33630000000, "country": "switzerland"}
 {"name": "welltower", "market_cap": 33610000000, "country": "usa"}
@@ -562,8 +562,8 @@
 {"name": "illumina", "market_cap": 31630000000, "country": "usa"}
 {"name": "warner bros discovery", "market_cap": 31620000000, "country": "usa"}
 {"name": "luxshare precision", "market_cap": 31620000000, "country": "china"}
-{"name": "vestas wind syste", "market_cap": 31580000000, "country": "denmark"}
-{"name": "bae syste", "market_cap": 31490000000, "country": "uk"}
+{"name": "vestas wind systems", "market_cap": 31580000000, "country": "denmark"}
+{"name": "bae systems", "market_cap": 31490000000, "country": "uk"}
 {"name": "vanke", "market_cap": 31360000000, "country": "china"}
 {"name": "hang seng bank", "market_cap": 31330000000, "country": "hong kong"}
 {"name": "pseg", "market_cap": 31260000000, "country": "usa"}
@@ -685,7 +685,7 @@
 {"name": "coca-cola european partners", "market_cap": 25730000000, "country": "uk"}
 {"name": "horizon therapeutics", "market_cap": 25700000000, "country": "ireland"}
 {"name": "saic motor", "market_cap": 25630000000, "country": "china"}
-{"name": "veeva syste", "market_cap": 25570000000, "country": "usa"}
+{"name": "veeva systems", "market_cap": 25570000000, "country": "usa"}
 {"name": "alexandria real estate equities", "market_cap": 25520000000, "country": "usa"}
 {"name": "agnico eagle mines", "market_cap": 25500000000, "country": "canada"}
 {"name": "saudi electricity", "market_cap": 25500000000, "country": "s. arabia"}
@@ -791,7 +791,7 @@
 {"name": "aena", "market_cap": 21970000000, "country": "spain"}
 {"name": "southwest airlines", "market_cap": 21960000000, "country": "usa"}
 {"name": "li auto", "market_cap": 21950000000, "country": "china"}
-{"name": "udr apartments", "market_cap": 21910000000, "country": "usa"}
+{"name": "uapartments", "market_cap": 21910000000, "country": "usa"}
 {"name": "principal", "market_cap": 21850000000, "country": "usa"}
 {"name": "chow tai fook", "market_cap": 21760000000, "country": "hong kong"}
 {"name": "mccormick & company", "market_cap": 21740000000, "country": "usa"}
@@ -857,7 +857,7 @@
 {"name": "church & dwight", "market_cap": 19970000000, "country": "usa"}
 {"name": "roblox", "market_cap": 19950000000, "country": "usa"}
 {"name": "nippon paint", "market_cap": 19920000000, "country": "japan"}
-{"name": "epam syste", "market_cap": 19880000000, "country": "usa"}
+{"name": "epam systems", "market_cap": 19880000000, "country": "usa"}
 {"name": "pembina pipeline", "market_cap": 19870000000, "country": "canada"}
 {"name": "marubeni", "market_cap": 19830000000, "country": "japan"}
 {"name": "china tower", "market_cap": 19830000000, "country": "china"}
@@ -868,7 +868,7 @@
 {"name": "nio", "market_cap": 19710000000, "country": "china"}
 {"name": "centerpoint energy", "market_cap": 19710000000, "country": "usa"}
 {"name": "hologic", "market_cap": 19650000000, "country": "usa"}
-{"name": "mahindra & mahindra", "market_cap": 19600000000, "country": "india"}
+{"name": "mahin& mahindra", "market_cap": 19600000000, "country": "india"}
 {"name": "heico", "market_cap": 19580000000, "country": "usa"}
 {"name": "ventas", "market_cap": 19580000000, "country": "usa"}
 {"name": "steel dynamics", "market_cap": 19570000000, "country": "usa"}
@@ -895,7 +895,7 @@
 {"name": "mid-america apartment communities", "market_cap": 18970000000, "country": "usa"}
 {"name": "wabtec", "market_cap": 18930000000, "country": "usa"}
 {"name": "kanzhun", "market_cap": 18880000000, "country": "china"}
-{"name": "m3, inc", "market_cap": 18850000000, "country": "japan"}
+{"name": "m3 inc", "market_cap": 18850000000, "country": "japan"}
 {"name": "garmin", "market_cap": 18820000000, "country": "switzerland"}
 {"name": "sun communities", "market_cap": 18810000000, "country": "usa"}
 {"name": "centrais electricas brasileiras", "market_cap": 18800000000, "country": "brazil"}
@@ -905,7 +905,7 @@
 {"name": "tsingtao", "market_cap": 18750000000, "country": "china"}
 {"name": "align technology", "market_cap": 18720000000, "country": "usa"}
 {"name": "united microelectronics", "market_cap": 18720000000, "country": "taiwan"}
-{"name": "monolithic power syste", "market_cap": 18700000000, "country": "usa"}
+{"name": "monolithic power systems", "market_cap": 18700000000, "country": "usa"}
 {"name": "posco", "market_cap": 18630000000, "country": "s. korea"}
 {"name": "aes", "market_cap": 18600000000, "country": "usa"}
 {"name": "rollins", "market_cap": 18600000000, "country": "usa"}
@@ -915,7 +915,7 @@
 {"name": "cp all", "market_cap": 18560000000, "country": "thailand"}
 {"name": "formosa plastics", "market_cap": 18560000000, "country": "taiwan"}
 {"name": "west pharmaceutical", "market_cap": 18560000000, "country": "usa"}
-{"name": "c energy", "market_cap": 18550000000, "country": "usa"}
+{"name": "cenergy", "market_cap": 18550000000, "country": "usa"}
 {"name": "chewy", "market_cap": 18520000000, "country": "usa"}
 {"name": "powergrid corporation of india", "market_cap": 18520000000, "country": "india"}
 {"name": "porsche se", "market_cap": 18450000000, "country": "germany"}
@@ -968,7 +968,7 @@
 {"name": "royalty pharma", "market_cap": 17360000000, "country": "uk"}
 {"name": "brown & brown", "market_cap": 17350000000, "country": "usa"}
 {"name": "expeditors", "market_cap": 17330000000, "country": "usa"}
-{"name": "&ad insurance", "market_cap": 17310000000, "country": "japan"}
+{"name": "ms&ad insurance", "market_cap": 17310000000, "country": "japan"}
 {"name": "w p carey", "market_cap": 17290000000, "country": "usa"}
 {"name": "cooper companies", "market_cap": 17290000000, "country": "usa"}
 {"name": "china merchants securities", "market_cap": 17280000000, "country": "china"}
@@ -1002,7 +1002,7 @@
 {"name": "kubota", "market_cap": 16899999999, "country": "japan"}
 {"name": "perkinelmer", "market_cap": 16890000000, "country": "usa"}
 {"name": "united airlines holdings", "market_cap": 16879999999, "country": "usa"}
-{"name": "e-chemie", "market_cap": 16860000000, "country": "switzerland"}
+{"name": "ems-chemie", "market_cap": 16860000000, "country": "switzerland"}
 {"name": "howmet aerospace", "market_cap": 16850000000, "country": "usa"}
 {"name": "quest diagnostics", "market_cap": 16840000000, "country": "usa"}
 {"name": "china communications construction", "market_cap": 16809999999, "country": "china"}
@@ -1011,7 +1011,7 @@
 {"name": "warner music group", "market_cap": 16770000000, "country": "usa"}
 {"name": "itausa", "market_cap": 16770000000, "country": "brazil"}
 {"name": "tourmaline oil", "market_cap": 16670000000, "country": "canada"}
-{"name": "hydro one", "market_cap": 16660000000, "country": "canada"}
+{"name": "hyone", "market_cap": 16660000000, "country": "canada"}
 {"name": "texas pacific land trust", "market_cap": 16620000000, "country": "usa"}
 {"name": "aeon", "market_cap": 16620000000, "country": "japan"}
 {"name": "china merchants shekou industrial zone", "market_cap": 16590000000, "country": "china"}
@@ -1045,7 +1045,7 @@
 {"name": "nvr", "market_cap": 15950000000, "country": "usa"}
 {"name": "jacobs engineering", "market_cap": 15950000000, "country": "usa"}
 {"name": "china steel", "market_cap": 15880000000, "country": "taiwan"}
-{"name": "syise", "market_cap": 15860000000, "country": "germany"}
+{"name": "symrise", "market_cap": 15860000000, "country": "germany"}
 {"name": "asahi group", "market_cap": 15830000000, "country": "japan"}
 {"name": "brookfield infrastructure partners", "market_cap": 15820000000, "country": "bermuda"}
 {"name": "avery dennison", "market_cap": 15810000000, "country": "usa"}
@@ -1081,7 +1081,7 @@
 {"name": "zebra technologies", "market_cap": 15160000000, "country": "usa"}
 {"name": "ase group", "market_cap": 15110000000, "country": "taiwan"}
 {"name": "huazhu hotels", "market_cap": 15100000000, "country": "china"}
-{"name": "coca-cola fea", "market_cap": 15090000000, "country": "mexico"}
+{"name": "coca-cola femsa", "market_cap": 15090000000, "country": "mexico"}
 {"name": "geely", "market_cap": 15090000000, "country": "china"}
 {"name": "synchrony", "market_cap": 15070000000, "country": "usa"}
 {"name": "toshiba", "market_cap": 15070000000, "country": "japan"}
@@ -1114,7 +1114,7 @@
 {"name": "apache corporation", "market_cap": 14570000000, "country": "usa"}
 {"name": "gen digital", "market_cap": 14570000000, "country": "usa"}
 {"name": "continental", "market_cap": 14560000000, "country": "germany"}
-{"name": "bangkok dusit medical services bd", "market_cap": 14540000000, "country": "thailand"}
+{"name": "bangkok dusit medical services bdms", "market_cap": 14540000000, "country": "thailand"}
 {"name": "healthpeak properties", "market_cap": 14540000000, "country": "usa"}
 {"name": "almarai", "market_cap": 14530000000, "country": "s. arabia"}
 {"name": "splunk", "market_cap": 14530000000, "country": "usa"}
@@ -1138,7 +1138,7 @@
 {"name": "indian oil", "market_cap": 14290000000, "country": "india"}
 {"name": "volvo car", "market_cap": 14260000000, "country": "sweden"}
 {"name": "shinkin central bank", "market_cap": 14230000000, "country": "japan"}
-{"name": "abn ao", "market_cap": 14220000000, "country": "netherlands"}
+{"name": "abn amro", "market_cap": 14220000000, "country": "netherlands"}
 {"name": "sodexo", "market_cap": 14160000000, "country": "france"}
 {"name": "shionogi", "market_cap": 14140000000, "country": "japan"}
 {"name": "lamb weston", "market_cap": 14120000000, "country": "usa"}
@@ -1188,7 +1188,7 @@
 {"name": "amundi", "market_cap": 13420000000, "country": "france"}
 {"name": "bank of beijing", "market_cap": 13410000000, "country": "china"}
 {"name": "axon enterprise", "market_cap": 13380000000, "country": "usa"}
-{"name": "chandra asri petrochemical", "market_cap": 13370000000, "country": "indonesia"}
+{"name": "chanasri petrochemical", "market_cap": 13370000000, "country": "indonesia"}
 {"name": "grasim industries", "market_cap": 13350000000, "country": "india"}
 {"name": "siemens gamesa", "market_cap": 13340000000, "country": "spain"}
 {"name": "bio-rad laboratories", "market_cap": 13330000000, "country": "usa"}
@@ -1392,7 +1392,7 @@
 {"name": "barry callebaut", "market_cap": 11010000000, "country": "switzerland"}
 {"name": "finecobank", "market_cap": 11000000000, "country": "italy"}
 {"name": "eastman chemical", "market_cap": 10960000000, "country": "usa"}
-{"name": "bentley syste", "market_cap": 10950000000, "country": "usa"}
+{"name": "bentley systems", "market_cap": 10950000000, "country": "usa"}
 {"name": "service corporation international", "market_cap": 10940000000, "country": "usa"}
 {"name": "aegon", "market_cap": 10930000000, "country": "netherlands"}
 {"name": "sk innovation", "market_cap": 10920000000, "country": "s. korea"}
@@ -1420,7 +1420,7 @@
 {"name": "eneos holdings", "market_cap": 10750000000, "country": "japan"}
 {"name": "dick's sporting goods", "market_cap": 10730000000, "country": "usa"}
 {"name": "bilibili", "market_cap": 10710000000, "country": "china"}
-{"name": "raay health care", "market_cap": 10700000000, "country": "australia"}
+{"name": "ramsay health care", "market_cap": 10700000000, "country": "australia"}
 {"name": "shree cement", "market_cap": 10680000000, "country": "india"}
 {"name": "bath & body works", "market_cap": 10650000000, "country": "usa"}
 {"name": "dynatrace", "market_cap": 10650000000, "country": "usa"}
@@ -1461,13 +1461,13 @@
 {"name": "inwit", "market_cap": 10380000000, "country": "italy"}
 {"name": "lamar advertising", "market_cap": 10380000000, "country": "usa"}
 {"name": "caesars entertainment", "market_cap": 10370000000, "country": "usa"}
-{"name": "saung life insurance", "market_cap": 10370000000, "country": "s. korea"}
+{"name": "samsung life insurance", "market_cap": 10370000000, "country": "s. korea"}
 {"name": "toast", "market_cap": 10360000000, "country": "usa"}
 {"name": "suncorp", "market_cap": 10360000000, "country": "australia"}
 {"name": "juniper networks", "market_cap": 10360000000, "country": "usa"}
 {"name": "lg corp", "market_cap": 10360000000, "country": "s. korea"}
 {"name": "jabil", "market_cap": 10350000000, "country": "usa"}
-{"name": "knorr-bree", "market_cap": 10340000000, "country": "germany"}
+{"name": "knorr-bremse", "market_cap": 10340000000, "country": "germany"}
 {"name": "localiza", "market_cap": 10320000000, "country": "brazil"}
 {"name": "freddie mac", "market_cap": 10300000000, "country": "usa"}
 {"name": "galp energia", "market_cap": 10290000000, "country": "portugal"}
@@ -1485,7 +1485,7 @@
 {"name": "vail resorts", "market_cap": 10150000000, "country": "usa"}
 {"name": "rheinmetall", "market_cap": 10140000000, "country": "germany"}
 {"name": "jd sports fashion", "market_cap": 10140000000, "country": "uk"}
-{"name": "oon", "market_cap": 10120000000, "country": "japan"}
+{"name": "omron", "market_cap": 10120000000, "country": "japan"}
 {"name": "adevinta", "market_cap": 10100000000, "country": "norway"}
 {"name": "prysmian group", "market_cap": 10100000000, "country": "italy"}
 {"name": "west japan railway", "market_cap": 10080000000, "country": "japan"}
@@ -1609,7 +1609,7 @@
 {"name": "lg household & health care", "market_cap": 8900000000, "country": "s. korea"}
 {"name": "huntington ingalls industries", "market_cap": 8900000000, "country": "usa"}
 {"name": "advantech", "market_cap": 8900000000, "country": "taiwan"}
-{"name": "dr reddy's", "market_cap": 8900000000, "country": "india"}
+{"name": "reddy's", "market_cap": 8900000000, "country": "india"}
 {"name": "mitsui osk lines", "market_cap": 8860000000, "country": "japan"}
 {"name": "knight-swift", "market_cap": 8860000000, "country": "usa"}
 {"name": "logitech", "market_cap": 8840000000, "country": "switzerland"}
@@ -1622,7 +1622,7 @@
 {"name": "invesco", "market_cap": 8810000000, "country": "usa"}
 {"name": "cullen/frost bankers", "market_cap": 8810000000, "country": "usa"}
 {"name": "opentext", "market_cap": 8810000000, "country": "canada"}
-{"name": "saung electro-mechanics", "market_cap": 8810000000, "country": "s. korea"}
+{"name": "samsung electro-mechanics", "market_cap": 8810000000, "country": "s. korea"}
 {"name": "sumitomo denki kogyo", "market_cap": 8800000000, "country": "japan"}
 {"name": "mediobanca", "market_cap": 8800000000, "country": "italy"}
 {"name": "getlink", "market_cap": 8800000000, "country": "france"}
@@ -1654,7 +1654,7 @@
 {"name": "unibail-rodamco-westfield", "market_cap": 8580000000, "country": "france"}
 {"name": "xpeng", "market_cap": 8550000000, "country": "china"}
 {"name": "intertek", "market_cap": 8550000000, "country": "uk"}
-{"name": "willia-sonoma", "market_cap": 8550000000, "country": "usa"}
+{"name": "williams-sonoma", "market_cap": 8550000000, "country": "usa"}
 {"name": "tata consumer products", "market_cap": 8550000000, "country": "india"}
 {"name": "ugi corporation", "market_cap": 8529999999, "country": "usa"}
 {"name": "lifco", "market_cap": 8529999999, "country": "sweden"}
@@ -1783,7 +1783,7 @@
 {"name": "agc", "market_cap": 7650000000, "country": "japan"}
 {"name": "manhattan associates", "market_cap": 7630000000, "country": "usa"}
 {"name": "uipath", "market_cap": 7630000000, "country": "usa"}
-{"name": "elbit syste", "market_cap": 7620000000, "country": "israel"}
+{"name": "elbit systems", "market_cap": 7620000000, "country": "israel"}
 {"name": "canadian utilities", "market_cap": 7620000000, "country": "canada"}
 {"name": "japan exchange group", "market_cap": 7610000000, "country": "japan"}
 {"name": "kingdom holding", "market_cap": 7610000000, "country": "s. arabia"}
@@ -1819,7 +1819,7 @@
 {"name": "globus medical", "market_cap": 7420000000, "country": "usa"}
 {"name": "old republic international", "market_cap": 7420000000, "country": "usa"}
 {"name": "monotaro", "market_cap": 7420000000, "country": "japan"}
-{"name": "inspire medical syste", "market_cap": 7420000000, "country": "usa"}
+{"name": "inspire medical systems", "market_cap": 7420000000, "country": "usa"}
 {"name": "rohm", "market_cap": 7420000000, "country": "japan"}
 {"name": "jindal steel & power", "market_cap": 7400000000, "country": "india"}
 {"name": "mitsubishi chemical holdings", "market_cap": 7400000000, "country": "japan"}
@@ -1830,7 +1830,7 @@
 {"name": "bkw ag", "market_cap": 7380000000, "country": "switzerland"}
 {"name": "erdemir", "market_cap": 7360000000, "country": "turkey"}
 {"name": "united spirits", "market_cap": 7360000000, "country": "india"}
-{"name": "advanced drainage syste", "market_cap": 7350000000, "country": "usa"}
+{"name": "advanced drainage systems", "market_cap": 7350000000, "country": "usa"}
 {"name": "idbi bank", "market_cap": 7350000000, "country": "india"}
 {"name": "alfamart", "market_cap": 7350000000, "country": "indonesia"}
 {"name": "singapore exchange", "market_cap": 7340000000, "country": "singapore"}
@@ -1862,7 +1862,7 @@
 {"name": "canara bank", "market_cap": 7210000000, "country": "india"}
 {"name": "valmont industries", "market_cap": 7210000000, "country": "usa"}
 {"name": "oci", "market_cap": 7200000000, "country": "netherlands"}
-{"name": "generac power syste", "market_cap": 7200000000, "country": "usa"}
+{"name": "generac power systems", "market_cap": 7200000000, "country": "usa"}
 {"name": "indorama ventures", "market_cap": 7190000000, "country": "thailand"}
 {"name": "kt corporation", "market_cap": 7180000000, "country": "s. korea"}
 {"name": "skanska", "market_cap": 7180000000, "country": "sweden"}
@@ -2018,7 +2018,7 @@
 {"name": "bankinter", "market_cap": 6460000000, "country": "spain"}
 {"name": "magnolia oil & gas", "market_cap": 6450000000, "country": "usa"}
 {"name": "agnc investment", "market_cap": 6450000000, "country": "usa"}
-{"name": "allegro microsyste", "market_cap": 6450000000, "country": "usa"}
+{"name": "allegro microsystems", "market_cap": 6450000000, "country": "usa"}
 {"name": "starwood property trust", "market_cap": 6430000000, "country": "usa"}
 {"name": "woodward", "market_cap": 6430000000, "country": "usa"}
 {"name": "stag industrial", "market_cap": 6400000000, "country": "usa"}
@@ -2070,7 +2070,7 @@
 {"name": "taishin financial holdings", "market_cap": 6240000000, "country": "taiwan"}
 {"name": "gamestop", "market_cap": 6240000000, "country": "usa"}
 {"name": "macy's", "market_cap": 6230000000, "country": "usa"}
-{"name": "saara", "market_cap": 6230000000, "country": "usa"}
+{"name": "samsara", "market_cap": 6230000000, "country": "usa"}
 {"name": "tube investments of india", "market_cap": 6220000000, "country": "india"}
 {"name": "toll brothers", "market_cap": 6210000000, "country": "usa"}
 {"name": "hikari tsushin", "market_cap": 6210000000, "country": "japan"}
@@ -2121,7 +2121,7 @@
 {"name": "adecco group", "market_cap": 6050000000, "country": "switzerland"}
 {"name": "coupa", "market_cap": 6040000000, "country": "usa"}
 {"name": "crane co", "market_cap": 6040000000, "country": "usa"}
-{"name": "descartes syste", "market_cap": 6030000000, "country": "canada"}
+{"name": "descartes systems", "market_cap": 6030000000, "country": "canada"}
 {"name": "indus towers", "market_cap": 6030000000, "country": "india"}
 {"name": "pi industries", "market_cap": 6030000000, "country": "india"}
 {"name": "beijer ref", "market_cap": 6020000000, "country": "sweden"}
@@ -2232,7 +2232,7 @@
 {"name": "kose", "market_cap": 5600000000, "country": "japan"}
 {"name": "ebos group", "market_cap": 5590000000, "country": "new zealand"}
 {"name": "valmet", "market_cap": 5590000000, "country": "finland"}
-{"name": "toa", "market_cap": 5590000000, "country": "norway"}
+{"name": "tomra", "market_cap": 5590000000, "country": "norway"}
 {"name": "tenet healthcare", "market_cap": 5590000000, "country": "usa"}
 {"name": "persimmon", "market_cap": 5590000000, "country": "uk"}
 {"name": "fti consulting", "market_cap": 5590000000, "country": "usa"}
@@ -2323,7 +2323,7 @@
 {"name": "mitsubishi motors", "market_cap": 5290000000, "country": "japan"}
 {"name": "balkrishna industries", "market_cap": 5290000000, "country": "india"}
 {"name": "mercury nz", "market_cap": 5280000000, "country": "new zealand"}
-{"name": "a safety", "market_cap": 5280000000, "country": "usa"}
+{"name": "safety", "market_cap": 5280000000, "country": "usa"}
 {"name": "dt midstream", "market_cap": 5280000000, "country": "usa"}
 {"name": "gruma maseca", "market_cap": 5280000000, "country": "mexico"}
 {"name": "brookfield renewable", "market_cap": 5270000000, "country": "usa"}
@@ -2565,7 +2565,7 @@
 {"name": "iida group", "market_cap": 4510000000, "country": "japan"}
 {"name": "nexans", "market_cap": 4500000000, "country": "france"}
 {"name": "amn healthcare services", "market_cap": 4500000000, "country": "usa"}
-{"name": "c industrial direct", "market_cap": 4490000000, "country": "usa"}
+{"name": "industrial direct", "market_cap": 4490000000, "country": "usa"}
 {"name": "magazine luiza", "market_cap": 4490000000, "country": "brazil"}
 {"name": "b2gold", "market_cap": 4490000000, "country": "canada"}
 {"name": "bucher industries", "market_cap": 4480000000, "country": "switzerland"}
@@ -2581,7 +2581,7 @@
 {"name": "cencosud", "market_cap": 4450000000, "country": "chile"}
 {"name": "denbury", "market_cap": 4450000000, "country": "usa"}
 {"name": "sixt", "market_cap": 4450000000, "country": "germany"}
-{"name": "comfort syste", "market_cap": 4440000000, "country": "usa"}
+{"name": "comfort systems", "market_cap": 4440000000, "country": "usa"}
 {"name": "southwest gas", "market_cap": 4420000000, "country": "usa"}
 {"name": "flowserve", "market_cap": 4420000000, "country": "usa"}
 {"name": "manpowergroup", "market_cap": 4420000000, "country": "usa"}
@@ -2602,7 +2602,7 @@
 {"name": "south jersey industries", "market_cap": 4380000000, "country": "usa"}
 {"name": "schneider", "market_cap": 4370000000, "country": "usa"}
 {"name": "janus henderson", "market_cap": 4370000000, "country": "uk"}
-{"name": "g sports", "market_cap": 4370000000, "country": "usa"}
+{"name": "sports", "market_cap": 4370000000, "country": "usa"}
 {"name": "wingstop restaurants", "market_cap": 4360000000, "country": "usa"}
 {"name": "hancock whitney", "market_cap": 4360000000, "country": "usa"}
 {"name": "one gas", "market_cap": 4350000000, "country": "usa"}
@@ -2720,7 +2720,7 @@
 {"name": "bim birlesik magazalar", "market_cap": 4030000000, "country": "turkey"}
 {"name": "elang mahkota teknologi", "market_cap": 4019999999, "country": "indonesia"}
 {"name": "tofas turk otomobil fabrikas", "market_cap": 4019999999, "country": "turkey"}
-{"name": "casella waste syste", "market_cap": 4010000000, "country": "usa"}
+{"name": "casella waste systems", "market_cap": 4010000000, "country": "usa"}
 {"name": "visteon", "market_cap": 4010000000, "country": "usa"}
 {"name": "cytokinetics", "market_cap": 4010000000, "country": "usa"}
 {"name": "applovin", "market_cap": 4010000000, "country": "usa"}
@@ -2840,7 +2840,7 @@
 {"name": "manchester united", "market_cap": 3740000000, "country": "uk"}
 {"name": "assured guaranty", "market_cap": 3740000000, "country": "bermuda"}
 {"name": "allete", "market_cap": 3740000000, "country": "usa"}
-{"name": "persistent syste", "market_cap": 3730000000, "country": "india"}
+{"name": "persistent systems", "market_cap": 3730000000, "country": "india"}
 {"name": "de' longhi", "market_cap": 3730000000, "country": "italy"}
 {"name": "affirm", "market_cap": 3730000000, "country": "usa"}
 {"name": "grupo catalana occidente", "market_cap": 3730000000, "country": "spain"}
@@ -2876,8 +2876,8 @@
 {"name": "agl energy", "market_cap": 3620000000, "country": "australia"}
 {"name": "sig semen indonesia", "market_cap": 3620000000, "country": "indonesia"}
 {"name": "wizz air", "market_cap": 3620000000, "country": "jersey"}
-{"name": "spirit aerosyste", "market_cap": 3610000000, "country": "usa"}
-{"name": "quantucape", "market_cap": 3610000000, "country": "usa"}
+{"name": "spirit aerosystems", "market_cap": 3610000000, "country": "usa"}
+{"name": "quantumscape", "market_cap": 3610000000, "country": "usa"}
 {"name": "instructure holdings", "market_cap": 3610000000, "country": "usa"}
 {"name": "national shipping company of saudi arabia bahri", "market_cap": 3610000000, "country": "s. arabia"}
 {"name": "ginkgo bioworks", "market_cap": 3600000000, "country": "usa"}
@@ -2912,7 +2912,7 @@
 {"name": "jungheinrich", "market_cap": 3560000000, "country": "germany"}
 {"name": "bb biotech", "market_cap": 3550000000, "country": "switzerland"}
 {"name": "amtrust financial services", "market_cap": 3550000000, "country": "usa"}
-{"name": "interparfu", "market_cap": 3550000000, "country": "usa"}
+{"name": "interparfums", "market_cap": 3550000000, "country": "usa"}
 {"name": "direct line group", "market_cap": 3550000000, "country": "uk"}
 {"name": "evn group", "market_cap": 3550000000, "country": "austria"}
 {"name": "mercari", "market_cap": 3540000000, "country": "japan"}
@@ -2967,7 +2967,7 @@
 {"name": "max financial services", "market_cap": 3420000000, "country": "india"}
 {"name": "taisho pharmaceutical", "market_cap": 3420000000, "country": "japan"}
 {"name": "romgaz", "market_cap": 3420000000, "country": "romania"}
-{"name": "artrong world industries", "market_cap": 3420000000, "country": "usa"}
+{"name": "armstrong world industries", "market_cap": 3420000000, "country": "usa"}
 {"name": "harbour energy", "market_cap": 3420000000, "country": "uk"}
 {"name": "enviva", "market_cap": 3420000000, "country": "usa"}
 {"name": "bayanat ai", "market_cap": 3420000000, "country": "uae"}
@@ -3086,9 +3086,9 @@
 {"name": "eastern bankshares", "market_cap": 3160000000, "country": "usa"}
 {"name": "avista", "market_cap": 3160000000, "country": "usa"}
 {"name": "pennymac", "market_cap": 3150000000, "country": "usa"}
-{"name": "saung heavy industries", "market_cap": 3150000000, "country": "s. korea"}
+{"name": "samsung heavy industries", "market_cap": 3150000000, "country": "s. korea"}
 {"name": "cushman & wakefield", "market_cap": 3150000000, "country": "usa"}
-{"name": " cooper group", "market_cap": 3140000000, "country": "usa"}
+{"name": "cooper group", "market_cap": 3140000000, "country": "usa"}
 {"name": "frontline", "market_cap": 3140000000, "country": "bermuda"}
 {"name": "pjt partners", "market_cap": 3130000000, "country": "usa"}
 {"name": "capstone copper", "market_cap": 3130000000, "country": "canada"}
@@ -3110,7 +3110,7 @@
 {"name": "pagseguro", "market_cap": 3110000000, "country": "brazil"}
 {"name": "kumho petrochemical", "market_cap": 3100000000, "country": "s. korea"}
 {"name": "moelis & company", "market_cap": 3100000000, "country": "usa"}
-{"name": "hannon artrong", "market_cap": 3100000000, "country": "usa"}
+{"name": "hannon armstrong", "market_cap": 3100000000, "country": "usa"}
 {"name": "plains gp", "market_cap": 3100000000, "country": "usa"}
 {"name": "st galler kantonalbank", "market_cap": 3100000000, "country": "switzerland"}
 {"name": "victoria's secret & co", "market_cap": 3100000000, "country": "usa"}
@@ -3157,7 +3157,7 @@
 {"name": "abm industries", "market_cap": 3040000000, "country": "usa"}
 {"name": "hisense visual technology", "market_cap": 3040000000, "country": "china"}
 {"name": "wienerberger", "market_cap": 3040000000, "country": "austria"}
-{"name": "cotock resources", "market_cap": 3030000000, "country": "usa"}
+{"name": "comstock resources", "market_cap": 3030000000, "country": "usa"}
 {"name": "sabra health care reit", "market_cap": 3030000000, "country": "usa"}
 {"name": "euronav", "market_cap": 3020000000, "country": "belgium"}
 {"name": "halkbank", "market_cap": 3020000000, "country": "turkey"}
@@ -3180,7 +3180,7 @@
 {"name": "tripadvisor", "market_cap": 3000000000, "country": "usa"}
 {"name": "cd projekt", "market_cap": 3000000000, "country": "poland"}
 {"name": "wsfs financial", "market_cap": 2990000000, "country": "usa"}
-{"name": "g group", "market_cap": 2990000000, "country": "india"}
+{"name": "ggroup", "market_cap": 2990000000, "country": "india"}
 {"name": "syngene international", "market_cap": 2990000000, "country": "india"}
 {"name": "ats automation", "market_cap": 2990000000, "country": "canada"}
 {"name": "growthpoint properties", "market_cap": 2990000000, "country": "south africa"}
@@ -3225,9 +3225,9 @@
 {"name": "kulicke and soffa industries", "market_cap": 2920000000, "country": "singapore"}
 {"name": "grupo aval", "market_cap": 2920000000, "country": "colombia"}
 {"name": "stepstone group", "market_cap": 2910000000, "country": "usa"}
-{"name": "pegasyste", "market_cap": 2910000000, "country": "usa"}
+{"name": "pegasystems", "market_cap": 2910000000, "country": "usa"}
 {"name": "brink's", "market_cap": 2900000000, "country": "usa"}
-{"name": "harmonic drive syste", "market_cap": 2900000000, "country": "japan"}
+{"name": "harmonic drive systems", "market_cap": 2900000000, "country": "japan"}
 {"name": "simmons first national", "market_cap": 2900000000, "country": "usa"}
 {"name": "maxlinear", "market_cap": 2900000000, "country": "usa"}
 {"name": "papa john's pizza", "market_cap": 2900000000, "country": "usa"}
@@ -3303,7 +3303,7 @@
 {"name": "petco", "market_cap": 2750000000, "country": "usa"}
 {"name": "jk cement", "market_cap": 2750000000, "country": "india"}
 {"name": "sumitomo dainippon pharma", "market_cap": 2740000000, "country": "japan"}
-{"name": "mercury syste", "market_cap": 2740000000, "country": "usa"}
+{"name": "mercury systems", "market_cap": 2740000000, "country": "usa"}
 {"name": "ermenegildo zegna", "market_cap": 2740000000, "country": "italy"}
 {"name": "atlantic union bankshares", "market_cap": 2740000000, "country": "usa"}
 {"name": "big yellow group", "market_cap": 2740000000, "country": "uk"}
@@ -3405,7 +3405,7 @@
 {"name": "dunelm group", "market_cap": 2580000000, "country": "uk"}
 {"name": "champion reit", "market_cap": 2570000000, "country": "hong kong"}
 {"name": "ebro foods", "market_cap": 2570000000, "country": "spain"}
-{"name": " price group", "market_cap": 2570000000, "country": "south africa"}
+{"name": "price group", "market_cap": 2570000000, "country": "south africa"}
 {"name": "boral", "market_cap": 2570000000, "country": "australia"}
 {"name": "kunlun tech", "market_cap": 2570000000, "country": "china"}
 {"name": "wh smith", "market_cap": 2570000000, "country": "uk"}
@@ -3456,7 +3456,7 @@
 {"name": "innergex renewable energy", "market_cap": 2500000000, "country": "canada"}
 {"name": "uniqa insurance group", "market_cap": 2500000000, "country": "austria"}
 {"name": "sd biosensor", "market_cap": 2500000000, "country": "s. korea"}
-{"name": "a ag", "market_cap": 2490000000, "country": "austria"}
+{"name": "aag", "market_cap": 2490000000, "country": "austria"}
 {"name": "alpha metallurgical resources", "market_cap": 2490000000, "country": "usa"}
 {"name": "pb fintech", "market_cap": 2490000000, "country": "india"}
 {"name": "lgi homes", "market_cap": 2490000000, "country": "usa"}
@@ -3480,7 +3480,7 @@
 {"name": "united natural foods", "market_cap": 2450000000, "country": "usa"}
 {"name": "sl green realty", "market_cap": 2450000000, "country": "usa"}
 {"name": "commvault", "market_cap": 2450000000, "country": "usa"}
-{"name": "verint syste", "market_cap": 2450000000, "country": "usa"}
+{"name": "verint systems", "market_cap": 2450000000, "country": "usa"}
 {"name": "compagnie plastic omnium", "market_cap": 2450000000, "country": "france"}
 {"name": "mcgrath rentcorp", "market_cap": 2450000000, "country": "usa"}
 {"name": "millicom", "market_cap": 2450000000, "country": "luxembourg"}
@@ -3628,7 +3628,7 @@
 {"name": "wesbanco", "market_cap": 2210000000, "country": "usa"}
 {"name": "barnes group", "market_cap": 2210000000, "country": "usa"}
 {"name": "patria investments", "market_cap": 2210000000, "country": "cayman islands"}
-{"name": "g", "market_cap": 2210000000, "country": "usa"}
+{"name": "gms", "market_cap": 2210000000, "country": "usa"}
 {"name": "agiliti", "market_cap": 2210000000, "country": "usa"}
 {"name": "nos", "market_cap": 2210000000, "country": "portugal"}
 {"name": "blackberry", "market_cap": 2210000000, "country": "canada"}
@@ -3644,7 +3644,7 @@
 {"name": "six flags", "market_cap": 2190000000, "country": "usa"}
 {"name": "international games system", "market_cap": 2190000000, "country": "taiwan"}
 {"name": "sprinklr", "market_cap": 2190000000, "country": "usa"}
-{"name": "dr lal pathlabs", "market_cap": 2190000000, "country": "india"}
+{"name": "lal pathlabs", "market_cap": 2190000000, "country": "india"}
 {"name": "enlight renewable energy", "market_cap": 2190000000, "country": "israel"}
 {"name": "strategic education", "market_cap": 2190000000, "country": "usa"}
 {"name": "interroll", "market_cap": 2190000000, "country": "switzerland"}
@@ -3706,7 +3706,7 @@
 {"name": "eve air mobility", "market_cap": 2089999999, "country": "usa"}
 {"name": "tri pointe group", "market_cap": 2089999999, "country": "usa"}
 {"name": "bharat dynamics", "market_cap": 2089999999, "country": "india"}
-{"name": "indra sistemas", "market_cap": 2089999999, "country": "spain"}
+{"name": "insistemas", "market_cap": 2089999999, "country": "spain"}
 {"name": "goodrx", "market_cap": 2080000000, "country": "usa"}
 {"name": "orange polska", "market_cap": 2080000000, "country": "poland"}
 {"name": "philip morris cr", "market_cap": 2080000000, "country": "czech republic"}
@@ -3824,7 +3824,7 @@
 {"name": "pagegroup", "market_cap": 1900000000, "country": "uk"}
 {"name": "masonite", "market_cap": 1900000000, "country": "usa"}
 {"name": "enterprise financial services corp", "market_cap": 1900000000, "country": "usa"}
-{"name": "comcope", "market_cap": 1900000000, "country": "usa"}
+{"name": "commscope", "market_cap": 1900000000, "country": "usa"}
 {"name": "colbun", "market_cap": 1900000000, "country": "chile"}
 {"name": "us cellular", "market_cap": 1890000000, "country": "usa"}
 {"name": "canadian western bank", "market_cap": 1890000000, "country": "canada"}
@@ -3895,7 +3895,7 @@
 {"name": "shaftesbury", "market_cap": 1800000000, "country": "uk"}
 {"name": "tdcx", "market_cap": 1800000000, "country": "singapore"}
 {"name": "sonic automotive", "market_cap": 1800000000, "country": "usa"}
-{"name": "ballard power syste", "market_cap": 1790000000, "country": "canada"}
+{"name": "ballard power systems", "market_cap": 1790000000, "country": "canada"}
 {"name": "nmi holdings", "market_cap": 1790000000, "country": "usa"}
 {"name": "olav thon", "market_cap": 1790000000, "country": "norway"}
 {"name": "hongkong and shanghai hotels", "market_cap": 1790000000, "country": "hong kong"}
@@ -3912,7 +3912,7 @@
 {"name": "hercules capital", "market_cap": 1770000000, "country": "usa"}
 {"name": "ryman healthcare", "market_cap": 1770000000, "country": "new zealand"}
 {"name": "kenon holdings", "market_cap": 1770000000, "country": "singapore"}
-{"name": "mahindra cie", "market_cap": 1770000000, "country": "india"}
+{"name": "mahincie", "market_cap": 1770000000, "country": "india"}
 {"name": "fb financial", "market_cap": 1760000000, "country": "usa"}
 {"name": "ttm technologies", "market_cap": 1760000000, "country": "usa"}
 {"name": "q2", "market_cap": 1760000000, "country": "usa"}
@@ -4039,7 +4039,7 @@
 {"name": "getty realty", "market_cap": 1620000000, "country": "usa"}
 {"name": "hbm healthcare investments", "market_cap": 1620000000, "country": "switzerland"}
 {"name": "zhejiang jinke tom culture industry", "market_cap": 1620000000, "country": "china"}
-{"name": "enghouse syste", "market_cap": 1620000000, "country": "canada"}
+{"name": "enghouse systems", "market_cap": 1620000000, "country": "canada"}
 {"name": "toda corp", "market_cap": 1620000000, "country": "japan"}
 {"name": "madison square garden", "market_cap": 1610000000, "country": "usa"}
 {"name": "tav airports holding", "market_cap": 1610000000, "country": "turkey"}
@@ -4085,7 +4085,7 @@
 {"name": "infinera", "market_cap": 1560000000, "country": "usa"}
 {"name": "atos", "market_cap": 1560000000, "country": "france"}
 {"name": "westamerica bancorporation", "market_cap": 1560000000, "country": "usa"}
-{"name": "hi & hers health", "market_cap": 1560000000, "country": "usa"}
+{"name": "hi& hers health", "market_cap": 1560000000, "country": "usa"}
 {"name": "veritex holdings", "market_cap": 1560000000, "country": "usa"}
 {"name": "compass", "market_cap": 1560000000, "country": "usa"}
 {"name": "life healthcare group", "market_cap": 1560000000, "country": "south africa"}
@@ -4188,7 +4188,7 @@
 {"name": "textainer group", "market_cap": 1480000000, "country": "bermuda"}
 {"name": "arendals fossekompani", "market_cap": 1480000000, "country": "norway"}
 {"name": "archrock", "market_cap": 1480000000, "country": "usa"}
-{"name": "osi syste", "market_cap": 1480000000, "country": "usa"}
+{"name": "osi systems", "market_cap": 1480000000, "country": "usa"}
 {"name": "cytek biosciences", "market_cap": 1480000000, "country": "usa"}
 {"name": "rhi magnesita", "market_cap": 1480000000, "country": "austria"}
 {"name": "marcus & millichap", "market_cap": 1480000000, "country": "usa"}
@@ -4353,7 +4353,7 @@
 {"name": "cinemark theatres", "market_cap": 1300000000, "country": "usa"}
 {"name": "heartland express", "market_cap": 1300000000, "country": "usa"}
 {"name": "outset medical", "market_cap": 1290000000, "country": "usa"}
-{"name": "telephone and data syste", "market_cap": 1290000000, "country": "usa"}
+{"name": "telephone and data systems", "market_cap": 1290000000, "country": "usa"}
 {"name": "blucora", "market_cap": 1290000000, "country": "usa"}
 {"name": "enovix", "market_cap": 1290000000, "country": "usa"}
 {"name": "ecovyst", "market_cap": 1290000000, "country": "usa"}
@@ -4450,11 +4450,11 @@
 {"name": "pgt innovations", "market_cap": 1190000000, "country": "usa"}
 {"name": "cropenergies", "market_cap": 1190000000, "country": "germany"}
 {"name": "tanla", "market_cap": 1190000000, "country": "india"}
-{"name": "3d syste", "market_cap": 1190000000, "country": "usa"}
+{"name": "3d systems", "market_cap": 1190000000, "country": "usa"}
 {"name": "banco de brasilia", "market_cap": 1190000000, "country": "brazil"}
 {"name": "aclaris therapeutics", "market_cap": 1190000000, "country": "usa"}
 {"name": "lakeland bancorp", "market_cap": 1190000000, "country": "usa"}
-{"name": "formula syste", "market_cap": 1190000000, "country": "israel"}
+{"name": "formula systems", "market_cap": 1190000000, "country": "israel"}
 {"name": "malibu boats", "market_cap": 1190000000, "country": "usa"}
 {"name": "profrac", "market_cap": 1190000000, "country": "usa"}
 {"name": "amara raja batteries", "market_cap": 1190000000, "country": "india"}
@@ -4472,7 +4472,7 @@
 {"name": "naas technology", "market_cap": 1170000000, "country": "china"}
 {"name": "zydus wellness", "market_cap": 1170000000, "country": "india"}
 {"name": "eckert & ziegler", "market_cap": 1170000000, "country": "germany"}
-{"name": "seush", "market_cap": 1170000000, "country": "usa"}
+{"name": "semrush", "market_cap": 1170000000, "country": "usa"}
 {"name": "employers holdings", "market_cap": 1170000000, "country": "usa"}
 {"name": "southside bancshares", "market_cap": 1170000000, "country": "usa"}
 {"name": "hollysys automation technologie", "market_cap": 1170000000, "country": "china"}
@@ -4579,7 +4579,7 @@
 {"name": "nexa resources", "market_cap": 960000000, "country": "luxembourg"}
 {"name": "central puerto", "market_cap": 960000000, "country": "argentina"}
 {"name": "summit therapeutics", "market_cap": 960000000, "country": "uk"}
-{"name": "aest", "market_cap": 960000000, "country": "spain"}
+{"name": "amrest", "market_cap": 960000000, "country": "spain"}
 {"name": "scilex holding", "market_cap": 1070000000, "country": "usa"}
 {"name": "fnac darty", "market_cap": 1070000000, "country": "france"}
 {"name": "wolverine world wide", "market_cap": 1070000000, "country": "usa"}
@@ -4641,7 +4641,7 @@
 {"name": "sparkassen immobilien", "market_cap": 940000000, "country": "austria"}
 {"name": "brightspire capital", "market_cap": 930000000, "country": "usa"}
 {"name": "inter & co", "market_cap": 930000000, "country": "brazil"}
-{"name": "ayt pharma", "market_cap": 930000000, "country": "uk"}
+{"name": "amryt pharma", "market_cap": 930000000, "country": "uk"}
 {"name": "kiwi property", "market_cap": 930000000, "country": "new zealand"}
 {"name": "overstockcom", "market_cap": 930000000, "country": "usa"}
 {"name": "alamar foods company", "market_cap": 930000000, "country": "s. arabia"}
@@ -4733,7 +4733,7 @@
 {"name": "arko", "market_cap": 1020000000, "country": "usa"}
 {"name": "healthcare services group", "market_cap": 1020000000, "country": "usa"}
 {"name": "open lending", "market_cap": 1010000000, "country": "usa"}
-{"name": "c global", "market_cap": 1010000000, "country": "usa"}
+{"name": "global", "market_cap": 1010000000, "country": "usa"}
 {"name": "ncc", "market_cap": 1010000000, "country": "sweden"}
 {"name": "allogene therapeutics", "market_cap": 1010000000, "country": "usa"}
 {"name": "palfinger", "market_cap": 1010000000, "country": "austria"}
@@ -4741,7 +4741,7 @@
 {"name": "mesa laboratories", "market_cap": 1010000000, "country": "usa"}
 {"name": "avid bioservices", "market_cap": 1010000000, "country": "usa"}
 {"name": "li-cycle", "market_cap": 1010000000, "country": "canada"}
-{"name": "ichor syste", "market_cap": 880000000, "country": "usa"}
+{"name": "ichor systems", "market_cap": 880000000, "country": "usa"}
 {"name": "douglas dynamics", "market_cap": 880000000, "country": "usa"}
 {"name": "brightsphere investment group", "market_cap": 880000000, "country": "usa"}
 {"name": "winmark", "market_cap": 880000000, "country": "usa"}
@@ -4795,7 +4795,7 @@
 {"name": "bain capital", "market_cap": 850000000, "country": "usa"}
 {"name": "bangkok airways", "market_cap": 850000000, "country": "thailand"}
 {"name": "janux therapeutics", "market_cap": 850000000, "country": "usa"}
-{"name": "perdoceo education", "market_cap": 1000000000, "country": "usa"}
+{"name": "perdoeducation", "market_cap": 1000000000, "country": "usa"}
 {"name": "amerisafe", "market_cap": 1000000000, "country": "usa"}
 {"name": "carscom", "market_cap": 1000000000, "country": "usa"}
 {"name": "bellus health", "market_cap": 1000000000, "country": "canada"}
@@ -4880,7 +4880,7 @@
 {"name": "grindr", "market_cap": 970000000, "country": "usa"}
 {"name": "kura oncology", "market_cap": 970000000, "country": "usa"}
 {"name": "omega flex", "market_cap": 970000000, "country": "usa"}
-{"name": "sturm, ruger & co", "market_cap": 970000000, "country": "usa"}
+{"name": "sturm ruger & co", "market_cap": 970000000, "country": "usa"}
 {"name": "titan machinery", "market_cap": 970000000, "country": "usa"}
 {"name": "verano holdings", "market_cap": 970000000, "country": "usa"}
 {"name": "dril-quip", "market_cap": 970000000, "country": "usa"}
@@ -4931,7 +4931,7 @@
 {"name": "lyell immunopharma", "market_cap": 800000000, "country": "usa"}
 {"name": "summit hotel properties", "market_cap": 800000000, "country": "usa"}
 {"name": "heritage commerce", "market_cap": 800000000, "country": "usa"}
-{"name": "aehr test syste", "market_cap": 800000000, "country": "usa"}
+{"name": "aehr test systems", "market_cap": 800000000, "country": "usa"}
 {"name": "altimmune", "market_cap": 800000000, "country": "usa"}
 {"name": "prince pipes and fittings", "market_cap": 800000000, "country": "india"}
 {"name": "nextdecade corp", "market_cap": 790000000, "country": "usa"}
@@ -4994,7 +4994,7 @@
 {"name": "the vita coco company", "market_cap": 750000000, "country": "usa"}
 {"name": "advantage solutions", "market_cap": 750000000, "country": "usa"}
 {"name": "amc networks", "market_cap": 750000000, "country": "usa"}
-{"name": "al moammar information syste", "market_cap": 750000000, "country": "s. arabia"}
+{"name": "al moammar information systems", "market_cap": 750000000, "country": "s. arabia"}
 {"name": "aerie pharmaceuticals", "market_cap": 750000000, "country": "usa"}
 {"name": "marinemax", "market_cap": 750000000, "country": "usa"}
 {"name": "bigcommerce", "market_cap": 750000000, "country": "usa"}
@@ -5019,7 +5019,7 @@
 {"name": "wallbox", "market_cap": 740000000, "country": "spain"}
 {"name": "rain industries", "market_cap": 740000000, "country": "india"}
 {"name": "karooooo", "market_cap": 740000000, "country": "singapore"}
-{"name": "idreaky", "market_cap": 740000000, "country": "china"}
+{"name": "idreamsky", "market_cap": 740000000, "country": "china"}
 {"name": "sunlight reit", "market_cap": 740000000, "country": "hong kong"}
 {"name": "farmland partners", "market_cap": 740000000, "country": "usa"}
 {"name": "g-iii apparel group", "market_cap": 730000000, "country": "usa"}
@@ -5110,7 +5110,7 @@
 {"name": "iteos therapeutics", "market_cap": 670000000, "country": "usa"}
 {"name": "accolade", "market_cap": 670000000, "country": "usa"}
 {"name": "otc markets group", "market_cap": 670000000, "country": "usa"}
-{"name": "mahindra lifespaces", "market_cap": 670000000, "country": "india"}
+{"name": "mahinlifespaces", "market_cap": 670000000, "country": "india"}
 {"name": "mediaalpha", "market_cap": 670000000, "country": "usa"}
 {"name": "the hackett group", "market_cap": 670000000, "country": "usa"}
 {"name": "intercept pharmaceuticals", "market_cap": 670000000, "country": "usa"}
@@ -5132,12 +5132,12 @@
 {"name": "channeladvisor", "market_cap": 660000000, "country": "usa"}
 {"name": "neowiz games", "market_cap": 660000000, "country": "s. korea"}
 {"name": "qnb finansleasing", "market_cap": 660000000, "country": "turkey"}
-{"name": "cass information syste", "market_cap": 660000000, "country": "usa"}
+{"name": "cass information systems", "market_cap": 660000000, "country": "usa"}
 {"name": "berry corporation", "market_cap": 660000000, "country": "usa"}
 {"name": "dynex capital", "market_cap": 660000000, "country": "usa"}
 {"name": "metropolitan bank holding", "market_cap": 660000000, "country": "usa"}
 {"name": "health catalyst", "market_cap": 660000000, "country": "usa"}
-{"name": "vital far", "market_cap": 660000000, "country": "usa"}
+{"name": "vital farms", "market_cap": 660000000, "country": "usa"}
 {"name": "algoma steel", "market_cap": 660000000, "country": "canada"}
 {"name": "new found gold", "market_cap": 660000000, "country": "canada"}
 {"name": "doubleugames", "market_cap": 660000000, "country": "s. korea"}
@@ -5197,7 +5197,7 @@
 {"name": "shenzhen bingchuan network", "market_cap": 620000000, "country": "china"}
 {"name": "sterling & wilson solar", "market_cap": 620000000, "country": "india"}
 {"name": "chatham lodging trust", "market_cap": 620000000, "country": "usa"}
-{"name": "community health syste", "market_cap": 610000000, "country": "usa"}
+{"name": "community health systems", "market_cap": 610000000, "country": "usa"}
 {"name": "transcat", "market_cap": 610000000, "country": "usa"}
 {"name": "camden national bank", "market_cap": 610000000, "country": "usa"}
 {"name": "gujarat mineral development", "market_cap": 610000000, "country": "india"}
@@ -5268,7 +5268,7 @@
 {"name": "boss energy", "market_cap": 580000000, "country": "australia"}
 {"name": "syrma sgs technology", "market_cap": 580000000, "country": "india"}
 {"name": "chuy's", "market_cap": 580000000, "country": "usa"}
-{"name": "cardiovascular syste", "market_cap": 580000000, "country": "usa"}
+{"name": "cardiovascular systems", "market_cap": 580000000, "country": "usa"}
 {"name": "transport corporation of india", "market_cap": 580000000, "country": "india"}
 {"name": "arrow financial", "market_cap": 550000000, "country": "usa"}
 {"name": "cerus", "market_cap": 550000000, "country": "usa"}
@@ -5413,7 +5413,7 @@
 {"name": "design therapeutics", "market_cap": 500000000, "country": "usa"}
 {"name": "vaalco energy", "market_cap": 500000000, "country": "usa"}
 {"name": "one liberty properties", "market_cap": 500000000, "country": "usa"}
-{"name": "th international ti china", "market_cap": 500000000, "country": "china"}
+{"name": "th international tichina", "market_cap": 500000000, "country": "china"}
 {"name": "american software", "market_cap": 500000000, "country": "usa"}
 {"name": "entravision communications", "market_cap": 500000000, "country": "usa"}
 {"name": "orion office reit", "market_cap": 500000000, "country": "usa"}
@@ -5450,7 +5450,7 @@
 {"name": "akouos", "market_cap": 490000000, "country": "usa"}
 {"name": "domo", "market_cap": 490000000, "country": "usa"}
 {"name": "rada electronic industries", "market_cap": 490000000, "country": "israel"}
-{"name": "the r group", "market_cap": 490000000, "country": "usa"}
+{"name": "the rgroup", "market_cap": 490000000, "country": "usa"}
 {"name": "greenlam industries", "market_cap": 490000000, "country": "india"}
 {"name": "mailru group", "market_cap": 480000000, "country": "cyprus"}
 {"name": "bridgewater bancshares", "market_cap": 480000000, "country": "usa"}
@@ -5517,7 +5517,7 @@
 {"name": "axogen", "market_cap": 440000000, "country": "usa"}
 {"name": "arbutus biopharma", "market_cap": 440000000, "country": "usa"}
 {"name": "similarweb", "market_cap": 440000000, "country": "israel"}
-{"name": "mitek syste", "market_cap": 440000000, "country": "usa"}
+{"name": "mitek systems", "market_cap": 440000000, "country": "usa"}
 {"name": "webzen", "market_cap": 440000000, "country": "s. korea"}
 {"name": "restaurant brands new zealand", "market_cap": 440000000, "country": "new zealand"}
 {"name": "carriage services", "market_cap": 440000000, "country": "usa"}
@@ -5559,7 +5559,7 @@
 {"name": "reservoir media", "market_cap": 420000000, "country": "usa"}
 {"name": "national fertilizers", "market_cap": 420000000, "country": "india"}
 {"name": "jtekt india", "market_cap": 420000000, "country": "india"}
-{"name": "mahindra logistics", "market_cap": 420000000, "country": "india"}
+{"name": "mahinlogistics", "market_cap": 420000000, "country": "india"}
 {"name": "harrow health", "market_cap": 420000000, "country": "usa"}
 {"name": "dynamic materials corporation", "market_cap": 420000000, "country": "usa"}
 {"name": "vigil neuroscience", "market_cap": 420000000, "country": "usa"}
@@ -5572,7 +5572,7 @@
 {"name": "cyxtera technologies", "market_cap": 420000000, "country": "usa"}
 {"name": "ring energy", "market_cap": 420000000, "country": "usa"}
 {"name": "deep yellow", "market_cap": 410000000, "country": "australia"}
-{"name": "computer progra and syste", "market_cap": 410000000, "country": "usa"}
+{"name": "computer prograand systems", "market_cap": 410000000, "country": "usa"}
 {"name": "futurefuel", "market_cap": 410000000, "country": "usa"}
 {"name": "argonaut gold", "market_cap": 410000000, "country": "usa"}
 {"name": "gamania digital", "market_cap": 410000000, "country": "taiwan"}
@@ -5606,7 +5606,7 @@
 {"name": "transcontinental realty investors", "market_cap": 400000000, "country": "usa"}
 {"name": "daily journal", "market_cap": 400000000, "country": "usa"}
 {"name": "arrival", "market_cap": 400000000, "country": "uk"}
-{"name": "jindal poly fil", "market_cap": 400000000, "country": "india"}
+{"name": "jindal poly films", "market_cap": 400000000, "country": "india"}
 {"name": "lovesac", "market_cap": 400000000, "country": "usa"}
 {"name": "international general insurance", "market_cap": 400000000, "country": "jordan"}
 {"name": "rbb bancorp", "market_cap": 400000000, "country": "usa"}
@@ -5760,7 +5760,7 @@
 {"name": "forge global", "market_cap": 340000000, "country": "usa"}
 {"name": "marathon gold", "market_cap": 340000000, "country": "canada"}
 {"name": "vasta platform", "market_cap": 340000000, "country": "brazil"}
-{"name": "hbl power syste", "market_cap": 340000000, "country": "india"}
+{"name": "hbl power systems", "market_cap": 340000000, "country": "india"}
 {"name": "orient cement", "market_cap": 340000000, "country": "india"}
 {"name": "the original bark company", "market_cap": 340000000, "country": "usa"}
 {"name": "amplify energy", "market_cap": 340000000, "country": "usa"}
@@ -5788,7 +5788,7 @@
 {"name": "the pennant group", "market_cap": 320000000, "country": "usa"}
 {"name": "american realty investors", "market_cap": 320000000, "country": "usa"}
 {"name": "first bancorp", "market_cap": 320000000, "country": "usa"}
-{"name": "cosmo fil", "market_cap": 320000000, "country": "india"}
+{"name": "cosmo films", "market_cap": 320000000, "country": "india"}
 {"name": "remedy entertainment", "market_cap": 320000000, "country": "finland"}
 {"name": "utah medical products", "market_cap": 320000000, "country": "usa"}
 {"name": "cvrx", "market_cap": 320000000, "country": "usa"}
@@ -5826,7 +5826,7 @@
 {"name": "11 bit studios", "market_cap": 310000000, "country": "poland"}
 {"name": "marvelous", "market_cap": 310000000, "country": "japan"}
 {"name": "egain", "market_cap": 310000000, "country": "usa"}
-{"name": "casa syste", "market_cap": 310000000, "country": "usa"}
+{"name": "casa systems", "market_cap": 310000000, "country": "usa"}
 {"name": "diana shipping", "market_cap": 310000000, "country": "greece"}
 {"name": "siyaram silk mills", "market_cap": 310000000, "country": "india"}
 {"name": "neogames", "market_cap": 310000000, "country": "israel"}
@@ -5958,7 +5958,7 @@
 {"name": "absci", "market_cap": 260000000, "country": "usa"}
 {"name": "kimball international", "market_cap": 260000000, "country": "usa"}
 {"name": "the container store", "market_cap": 260000000, "country": "usa"}
-{"name": "tc limited", "market_cap": 260000000, "country": "india"}
+{"name": "mstc limited", "market_cap": 260000000, "country": "india"}
 {"name": "blade air mobility", "market_cap": 260000000, "country": "usa"}
 {"name": "hyderabad industries limited", "market_cap": 260000000, "country": "india"}
 {"name": "addiko bank", "market_cap": 260000000, "country": "austria"}
@@ -6018,9 +6018,9 @@
 {"name": "aenza", "market_cap": 250000000, "country": "peru"}
 {"name": "fathom digital manufacturing", "market_cap": 250000000, "country": "usa"}
 {"name": "jjill", "market_cap": 250000000, "country": "usa"}
-{"name": "oil-dri corporation of america", "market_cap": 250000000, "country": "usa"}
+{"name": "oil-corporation of america", "market_cap": 250000000, "country": "usa"}
 {"name": "force motors", "market_cap": 250000000, "country": "india"}
-{"name": "jain irrigation syste", "market_cap": 250000000, "country": "india"}
+{"name": "jain irrigation systems", "market_cap": 250000000, "country": "india"}
 {"name": "opthea", "market_cap": 250000000, "country": "australia"}
 {"name": "gulf oil lubricants", "market_cap": 250000000, "country": "india"}
 {"name": "lianbio", "market_cap": 250000000, "country": "usa"}
@@ -6042,7 +6042,7 @@
 {"name": "ponce financial group", "market_cap": 240000000, "country": "usa"}
 {"name": "urban one", "market_cap": 240000000, "country": "usa"}
 {"name": "bank7", "market_cap": 240000000, "country": "usa"}
-{"name": "skyx platfor", "market_cap": 240000000, "country": "usa"}
+{"name": "skyx platforms", "market_cap": 240000000, "country": "usa"}
 {"name": "immersion corporation", "market_cap": 240000000, "country": "usa"}
 {"name": "southern states bancshares", "market_cap": 240000000, "country": "usa"}
 {"name": "molecular partners", "market_cap": 240000000, "country": "switzerland"}
@@ -6085,7 +6085,7 @@
 {"name": "oric pharmaceuticals", "market_cap": 230000000, "country": "usa"}
 {"name": "limoneira", "market_cap": 230000000, "country": "usa"}
 {"name": "emx royalty", "market_cap": 230000000, "country": "canada"}
-{"name": "bitfar", "market_cap": 230000000, "country": "canada"}
+{"name": "bitfarms", "market_cap": 230000000, "country": "canada"}
 {"name": "bankwell financial group", "market_cap": 230000000, "country": "usa"}
 {"name": "absa bank", "market_cap": 230000000, "country": "south africa"}
 {"name": "22nd century group", "market_cap": 230000000, "country": "usa"}
@@ -6136,7 +6136,7 @@
 {"name": "middlefield banc", "market_cap": 210000000, "country": "usa"}
 {"name": "western new england bancorp", "market_cap": 210000000, "country": "usa"}
 {"name": "scpharmaceuticals", "market_cap": 210000000, "country": "usa"}
-{"name": "plaid,inc", "market_cap": 210000000, "country": "japan"}
+{"name": "plaidinc", "market_cap": 210000000, "country": "japan"}
 {"name": "kandi technologies group", "market_cap": 210000000, "country": "china"}
 {"name": "ubm development", "market_cap": 210000000, "country": "austria"}
 {"name": "akoustis technologies", "market_cap": 210000000, "country": "usa"}
@@ -6184,7 +6184,7 @@
 {"name": "sophia genetics", "market_cap": 200000000, "country": "switzerland"}
 {"name": "quipt home medical", "market_cap": 200000000, "country": "usa"}
 {"name": "optinose", "market_cap": 200000000, "country": "usa"}
-{"name": "china automotive syste", "market_cap": 200000000, "country": "china"}
+{"name": "china automotive systems", "market_cap": 200000000, "country": "china"}
 {"name": "infusystem", "market_cap": 200000000, "country": "usa"}
 {"name": "rottneros", "market_cap": 200000000, "country": "sweden"}
 {"name": "tethys oil", "market_cap": 190000000, "country": "sweden"}
@@ -6287,7 +6287,7 @@
 {"name": "alphapolis", "market_cap": 170000000, "country": "japan"}
 {"name": "xeris pharmaceuticals", "market_cap": 170000000, "country": "usa"}
 {"name": "intercure", "market_cap": 170000000, "country": "israel"}
-{"name": "westport fuel syste", "market_cap": 170000000, "country": "canada"}
+{"name": "westport fuel systems", "market_cap": 170000000, "country": "canada"}
 {"name": "sunlight financial", "market_cap": 170000000, "country": "usa"}
 {"name": "pear therapeutics", "market_cap": 170000000, "country": "usa"}
 {"name": "arteris", "market_cap": 170000000, "country": "usa"}
@@ -6301,7 +6301,7 @@
 {"name": "playside studios", "market_cap": 170000000, "country": "australia"}
 {"name": "oriental aromatics", "market_cap": 170000000, "country": "india"}
 {"name": "bassett furniture", "market_cap": 160000000, "country": "usa"}
-{"name": "view, inc", "market_cap": 160000000, "country": "usa"}
+{"name": "view inc", "market_cap": 160000000, "country": "usa"}
 {"name": "redwire", "market_cap": 160000000, "country": "usa"}
 {"name": "platinum group metals", "market_cap": 160000000, "country": "canada"}
 {"name": "g5 entertainment", "market_cap": 160000000, "country": "sweden"}
@@ -6377,7 +6377,7 @@
 {"name": "kulr technology", "market_cap": 150000000, "country": "usa"}
 {"name": "gracell biotechnologies", "market_cap": 150000000, "country": "china"}
 {"name": "mistras group", "market_cap": 150000000, "country": "usa"}
-{"name": "singular genomics syste", "market_cap": 150000000, "country": "usa"}
+{"name": "singular genomics systems", "market_cap": 150000000, "country": "usa"}
 {"name": "x-legend entertainment", "market_cap": 140000000, "country": "taiwan"}
 {"name": "skipper limited", "market_cap": 140000000, "country": "india"}
 {"name": "celularity", "market_cap": 140000000, "country": "usa"}
@@ -6419,7 +6419,7 @@
 {"name": "red robin", "market_cap": 140000000, "country": "usa"}
 {"name": "oconee federal financial", "market_cap": 140000000, "country": "usa"}
 {"name": "peninsula energy", "market_cap": 140000000, "country": "australia"}
-{"name": "village far international", "market_cap": 130000000, "country": "canada"}
+{"name": "village farinternational", "market_cap": 130000000, "country": "canada"}
 {"name": "hanover bancorp", "market_cap": 130000000, "country": "usa"}
 {"name": "cenntro electric group", "market_cap": 130000000, "country": "usa"}
 {"name": "lazydays holdings", "market_cap": 130000000, "country": "usa"}
@@ -6450,7 +6450,7 @@
 {"name": "o2micro", "market_cap": 130000000, "country": "cayman islands"}
 {"name": "supermax corporation berhad", "market_cap": 130000000, "country": "malaysia"}
 {"name": "plby group playboy", "market_cap": 120000000, "country": "usa"}
-{"name": "cocore", "market_cap": 120000000, "country": "usa"}
+{"name": "comscore", "market_cap": 120000000, "country": "usa"}
 {"name": "allot", "market_cap": 120000000, "country": "israel"}
 {"name": "sesen bio", "market_cap": 120000000, "country": "usa"}
 {"name": "terawulf", "market_cap": 120000000, "country": "usa"}
@@ -6532,7 +6532,7 @@
 {"name": "lulu's fashion lounge", "market_cap": 100000000, "country": "usa"}
 {"name": "phunware", "market_cap": 100000000, "country": "usa"}
 {"name": "sylogist", "market_cap": 100000000, "country": "canada"}
-{"name": "rekor syste", "market_cap": 100000000, "country": "usa"}
+{"name": "rekor systems", "market_cap": 100000000, "country": "usa"}
 {"name": "carrols restaurant group", "market_cap": 100000000, "country": "usa"}
 {"name": "american resources corp", "market_cap": 100000000, "country": "usa"}
 {"name": "nuvectis pharma", "market_cap": 100000000, "country": "usa"}
@@ -6612,7 +6612,7 @@
 {"name": "bloober team", "market_cap": 91680000, "country": "poland"}
 {"name": "bliss gvs pharma", "market_cap": 91460000, "country": "india"}
 {"name": "akumin", "market_cap": 90550000, "country": "canada"}
-{"name": "nn, inc", "market_cap": 89930000, "country": "usa"}
+{"name": "nn inc", "market_cap": 89930000, "country": "usa"}
 {"name": "apyx medical", "market_cap": 89600000, "country": "usa"}
 {"name": "delta apparel", "market_cap": 89260000, "country": "usa"}
 {"name": "airasia", "market_cap": 88920000, "country": "malaysia"}
@@ -6710,7 +6710,7 @@
 {"name": "great elm capital", "market_cap": 65300000, "country": "usa"}
 {"name": "spruce biosciences", "market_cap": 65019999, "country": "usa"}
 {"name": "indonesia energy", "market_cap": 65010000, "country": "indonesia"}
-{"name": "orion energy syste", "market_cap": 64599999, "country": "usa"}
+{"name": "orion energy systems", "market_cap": 64599999, "country": "usa"}
 {"name": "lightning emotors", "market_cap": 64230000, "country": "usa"}
 {"name": "mogo", "market_cap": 64140000, "country": "canada"}
 {"name": "jounce therapeutics", "market_cap": 63580000, "country": "usa"}
@@ -6749,7 +6749,7 @@
 {"name": "unitech group", "market_cap": 57340000, "country": "india"}
 {"name": "polishedcom", "market_cap": 57290000, "country": "usa"}
 {"name": "east side games", "market_cap": 57230000, "country": "canada"}
-{"name": "rapid micro biosyste", "market_cap": 56690000, "country": "usa"}
+{"name": "rapid micro biosystems", "market_cap": 56690000, "country": "usa"}
 {"name": "elevate credit", "market_cap": 56550000, "country": "usa"}
 {"name": "popreach", "market_cap": 56530000, "country": "canada"}
 {"name": "asp isotopes", "market_cap": 56340000, "country": "usa"}
@@ -6766,7 +6766,7 @@
 {"name": "rewalk robotics", "market_cap": 53640000, "country": "israel"}
 {"name": "mobile factory", "market_cap": 53640000, "country": "japan"}
 {"name": "aquestive therapeutics", "market_cap": 53610000, "country": "usa"}
-{"name": "balaji telefil", "market_cap": 53450000, "country": "india"}
+{"name": "balaji telefilms", "market_cap": 53450000, "country": "india"}
 {"name": "brainstorm cell therapeutics", "market_cap": 53350000, "country": "usa"}
 {"name": "tscan therapeutics", "market_cap": 52970000, "country": "usa"}
 {"name": "aeroclean technologies", "market_cap": 52680000, "country": "usa"}
@@ -6793,7 +6793,7 @@
 {"name": "natural health trends", "market_cap": 47400000, "country": "usa"}
 {"name": "ascent solar technologies", "market_cap": 47160000, "country": "usa"}
 {"name": "uphealth", "market_cap": 47120000, "country": "usa"}
-{"name": "cotock mining", "market_cap": 46900000, "country": "usa"}
+{"name": "comstock mining", "market_cap": 46900000, "country": "usa"}
 {"name": "tessco technologies", "market_cap": 46760000, "country": "usa"}
 {"name": "coly", "market_cap": 46600000, "country": "japan"}
 {"name": "enish", "market_cap": 46580000, "country": "japan"}
@@ -6856,7 +6856,7 @@
 {"name": "foresight autonomous holdings", "market_cap": 37460000, "country": "israel"}
 {"name": "houston american energy", "market_cap": 37420000, "country": "usa"}
 {"name": "shift technologies", "market_cap": 37050000, "country": "usa"}
-{"name": "ageagle aerial syste", "market_cap": 36980000, "country": "usa"}
+{"name": "ageagle aerial systems", "market_cap": 36980000, "country": "usa"}
 {"name": "zordix", "market_cap": 36950000, "country": "sweden"}
 {"name": "appirits", "market_cap": 36210000, "country": "japan"}
 {"name": "grand twins international cambodia", "market_cap": 35850000, "country": "cambodia"}
@@ -6886,7 +6886,7 @@
 {"name": "bit mining 500com", "market_cap": 32650000, "country": "china"}
 {"name": "swvl holdings", "market_cap": 32420000, "country": "uae"}
 {"name": "bionomics", "market_cap": 32170000, "country": "australia"}
-{"name": "document security syste", "market_cap": 31730000, "country": "usa"}
+{"name": "document security systems", "market_cap": 31730000, "country": "usa"}
 {"name": "acasti pharma", "market_cap": 31670000, "country": "canada"}
 {"name": "vaccinex", "market_cap": 31670000, "country": "usa"}
 {"name": "zk international group", "market_cap": 31300000, "country": "china"}
@@ -7033,7 +7033,7 @@
 {"name": "yield10 bioscience", "market_cap": 15270000, "country": "usa"}
 {"name": "digital ally", "market_cap": 15090000, "country": "usa"}
 {"name": "interserv international", "market_cap": 14950000, "country": "taiwan"}
-{"name": "t2 biosyste", "market_cap": 14930000, "country": "usa"}
+{"name": "t2 biosystems", "market_cap": 14930000, "country": "usa"}
 {"name": "iterum therapeutics", "market_cap": 14680000, "country": "ireland"}
 {"name": "ispecimen", "market_cap": 14620000, "country": "usa"}
 {"name": "gigamedia", "market_cap": 14590000, "country": "taiwan"}
@@ -7104,7 +7104,7 @@
 {"name": "actelis networks", "market_cap": 8390000, "country": "usa"}
 {"name": "gaming technologies gametech", "market_cap": 8369999, "country": "usa"}
 {"name": "staffing 360 solutions", "market_cap": 8279999, "country": "usa"}
-{"name": "ra medical syste", "market_cap": 8270000, "country": "usa"}
+{"name": "ra medical systems", "market_cap": 8270000, "country": "usa"}
 {"name": "qiiwi games", "market_cap": 8199999, "country": "sweden"}
 {"name": "saverone 2014", "market_cap": 8109999, "country": "israel"}
 {"name": "quoin pharmaceuticals", "market_cap": 8039999, "country": "usa"}
@@ -7126,7 +7126,7 @@
 {"name": "starry group", "market_cap": 6810000, "country": "usa"}
 {"name": "vivopower", "market_cap": 6760000, "country": "uk"}
 {"name": "bio-key international", "market_cap": 6730000, "country": "usa"}
-{"name": "tivic health syste", "market_cap": 6670000, "country": "usa"}
+{"name": "tivic health systems", "market_cap": 6670000, "country": "usa"}
 {"name": "akanda", "market_cap": 6650000, "country": "uk"}
 {"name": "nuzee", "market_cap": 6540000, "country": "usa"}
 {"name": "benitec biopharma", "market_cap": 6480000, "country": "usa"}
@@ -7187,8 +7187,8 @@
 {"name": "freeze tag", "market_cap": 1500000, "country": "usa"}
 {"name": "mobilicom", "market_cap": 1390000, "country": "australia"}
 {"name": "quotient", "market_cap": 1340000, "country": "switzerland"}
-{"name": "versus syste", "market_cap": 1200000, "country": "canada"}
-{"name": "quanergy syste", "market_cap": 1190000, "country": "usa"}
+{"name": "versus systems", "market_cap": 1200000, "country": "canada"}
+{"name": "quanergy systems", "market_cap": 1190000, "country": "usa"}
 {"name": "youngevity international", "market_cap": 1190000, "country": "usa"}
 {"name": "ifresh", "market_cap": 1010000, "country": "usa"}
 {"name": "playground ventures", "market_cap": 930000, "country": "canada"}

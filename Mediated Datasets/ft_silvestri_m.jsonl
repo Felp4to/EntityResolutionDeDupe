@@ -3,7 +3,7 @@
 {"country": "uk", "founded": "2012", "name": "oci", "sector": "financial services"}
 {"country": "uk", "founded": "2016", "name": "onlyfans", "sector": "technology"}
 {"country": "germany", "founded": "2017", "name": "enpal", "sector": "energy"}
-{"country": "germany", "founded": "2017", "name": " consulting", "sector": "waste management & recycling"}
+{"country": "germany", "founded": "2017", "name": "consulting", "sector": "waste management & recycling"}
 {"country": "uk", "founded": "2015", "name": "thriva", "sector": "health"}
 {"country": "france", "founded": "2015", "name": "exotec", "sector": "industrial goods"}
 {"country": "italy", "founded": "2015", "name": "winelivery", "sector": "ecommerce"}
@@ -143,9 +143,9 @@
 {"country": "italy", "founded": "2014", "name": "kiteworldshopcom", "sector": "ecommerce"}
 {"country": "germany", "founded": "2006", "name": "peter kenkel", "sector": "retail"}
 {"country": "denmark", "founded": "2014", "name": "templafy", "sector": "technology"}
-{"country": "italy", "founded": "2014", "name": "coervice", "sector": "support services"}
+{"country": "italy", "founded": "2014", "name": "comservice", "sector": "support services"}
 {"country": "italy", "founded": "2017", "name": "falcor presse", "sector": "industrial goods"}
-{"country": "the netherlands", "founded": "2017", "name": "rooaccoon", "sector": "technology"}
+{"country": "the netherlands", "founded": "2017", "name": "roomraccoon", "sector": "technology"}
 {"country": "spain", "founded": "2013", "name": "signaturit", "sector": "technology"}
 {"country": "uk", "founded": "2015", "name": "modulr", "sector": "fintech"}
 {"country": "germany", "founded": "2012", "name": "profishop", "sector": "ecommerce"}
@@ -237,7 +237,7 @@
 {"country": "poland", "founded": "2015", "name": "delante", "sector": "sales & marketing"}
 {"country": "germany", "founded": "2015", "name": "intumind", "sector": "health"}
 {"country": "germany", "founded": "2016", "name": "saljol", "sector": "health"}
-{"country": "germany", "founded": "2014", "name": "tkd solutions", "sector": "teleco "}
+{"country": "germany", "founded": "2014", "name": "tkd solutions", "sector": "telecoms"}
 {"country": "finland", "founded": "2016", "name": "kuori", "sector": "technology"}
 {"country": "sweden", "founded": "2010", "name": "ferroamp", "sector": "energy"}
 {"country": "uk", "founded": "2016", "name": "valor real estate partners", "sector": "financial services"}
@@ -258,7 +258,7 @@
 {"country": "italy", "founded": "2016", "name": "mia-platform", "sector": "technology"}
 {"country": "italy", "founded": "1976", "name": "tecnimed", "sector": "health"}
 {"country": "uk", "founded": "2015", "name": "longevity partners", "sector": "retail"}
-{"country": "italy", "founded": "2015", "name": "nexutp", "sector": "management consulting"}
+{"country": "italy", "founded": "2015", "name": "nexumstp", "sector": "management consulting"}
 {"country": "france", "founded": "2016", "name": "g-on", "sector": "support services"}
 {"country": "uk", "founded": "2016", "name": "picnic", "sector": "advertising"}
 {"country": "italy", "founded": "2012", "name": "egomnia", "sector": "technology"}
@@ -278,7 +278,7 @@
 {"country": "germany", "founded": "2015", "name": "autosalon uhingen", "sector": "automobiles"}
 {"country": "france", "founded": "2013", "name": "yumi beauty", "sector": "chemicals & pharmaceuticals"}
 {"country": "france", "founded": "2016", "name": "for me lab", "sector": "ecommerce"}
-{"country": "sweden", "founded": "2015", "name": "stockhol elbolag", "sector": "energy"}
+{"country": "sweden", "founded": "2015", "name": "stockholelbolag", "sector": "energy"}
 {"country": "germany", "founded": "1999", "name": "flohr", "sector": "waste management & recycling"}
 {"country": "italy", "founded": "2008", "name": "agricodem", "sector": "agricultural commodities"}
 {"country": "germany", "founded": "2005", "name": "dach schutzbekleidung", "sector": "industrial goods"}
@@ -317,7 +317,7 @@
 {"country": "germany", "founded": "2017", "name": "therapiezentrumcom nw", "sector": "health"}
 {"country": "uk", "founded": "2010", "name": "beauhurst", "sector": "technology"}
 {"country": "romania", "founded": "2017", "name": "cun cargo carriers", "sector": "transport"}
-{"country": "italy", "founded": "2016", "name": "mg project", "sector": "teleco "}
+{"country": "italy", "founded": "2016", "name": "mg project", "sector": "telecoms"}
 {"country": "germany", "founded": "2015", "name": "bonmea", "sector": "retail"}
 {"country": "italy", "founded": "2007", "name": "oceanis yachts", "sector": "travel & leisure"}
 {"country": "france", "founded": "2016", "name": "opus db", "sector": "construction"}
@@ -341,7 +341,7 @@
 {"country": "uk", "founded": "2012", "name": "aquis exchange", "sector": "financial services"}
 {"country": "uk", "founded": "2015", "name": "chattermill", "sector": "technology"}
 {"country": "germany", "founded": "2016", "name": "schonertel", "sector": "construction"}
-{"country": "italy", "founded": "2011", "name": "global work", "sector": "teleco "}
+{"country": "italy", "founded": "2011", "name": "global work", "sector": "telecoms"}
 {"country": "germany", "founded": "2012", "name": "allygatr", "sector": "support services"}
 {"country": "uk", "founded": "2013", "name": "cru wine", "sector": "food & beverage"}
 {"country": "italy", "founded": "2004", "name": "abc rent", "sector": "automobiles"}
@@ -358,14 +358,14 @@
 {"country": "france", "founded": "2015", "name": "tutosme", "sector": "education"}
 {"country": "italy", "founded": "2011", "name": "studio eko", "sector": "management consulting"}
 {"country": "uk", "founded": "2010", "name": "beings", "sector": "technology"}
-{"country": "poland", "founded": "2013", "name": "dgroupltdcom", "sector": "chemicals & pharmaceuticals"}
-{"country": "uk", "founded": "2014", "name": "ice telecommunications ltd", "sector": "teleco "}
+{"country": "poland", "founded": "2013", "name": "dmrgroupltdcom", "sector": "chemicals & pharmaceuticals"}
+{"country": "uk", "founded": "2014", "name": "ice telecommunications ltd", "sector": "telecoms"}
 {"country": "italy", "founded": "2012", "name": "gallas group", "sector": "support services"}
 {"country": "italy", "founded": "2010", "name": "etracom", "sector": "ecommerce"}
 {"country": "uk", "founded": "2015", "name": "xalient", "sector": "technology"}
 {"country": "italy", "founded": "2009", "name": "labevolution", "sector": "health"}
 {"country": "italy", "founded": "2015", "name": "kuadra", "sector": "interiors"}
-{"country": "spain", "founded": "2014", "name": "kyo electric", "sector": "teleco "}
+{"country": "spain", "founded": "2014", "name": "kyo electric", "sector": "telecoms"}
 {"country": "uk", "founded": "2012", "name": "sopost", "sector": "technology"}
 {"country": "italy", "founded": "2016", "name": "sfre", "sector": "construction"}
 {"country": "germany", "founded": "2012", "name": "sportstech", "sector": "retail"}
@@ -388,11 +388,11 @@
 {"country": "italy", "founded": "2014", "name": "westrafo", "sector": "energy"}
 {"country": "the netherlands", "founded": "2015", "name": "goboony", "sector": "travel & leisure"}
 {"country": "italy", "founded": "2016", "name": "multiservice ambrosiana", "sector": "support services"}
-{"country": "germany", "founded": "2016", "name": "b&c syste", "sector": "construction"}
+{"country": "germany", "founded": "2016", "name": "b&c systems", "sector": "construction"}
 {"country": "bulgaria", "founded": "2014", "name": "s&g solar", "sector": "energy"}
 {"country": "romania", "founded": "2007", "name": "bittnet", "sector": "management consulting"}
 {"country": "belgium", "founded": "2013", "name": "ibanfirst", "sector": "fintech"}
-{"country": "germany", "founded": "2013", "name": "uplink network", "sector": "teleco "}
+{"country": "germany", "founded": "2013", "name": "uplink network", "sector": "telecoms"}
 {"country": "france", "founded": "2015", "name": "base organic food", "sector": "agricultural commodities"}
 {"country": "uk", "founded": "2009", "name": "currentbody", "sector": "ecommerce"}
 {"country": "uk", "founded": "2016", "name": "apex aero", "sector": "aerospace & defence"}
@@ -403,7 +403,7 @@
 {"country": "germany", "founded": "2017", "name": "prusseit auto-outlet", "sector": "automobiles"}
 {"country": "norway", "founded": "2002", "name": "techouse", "sector": "energy"}
 {"country": "italy", "founded": "2016", "name": "svs", "sector": "construction"}
-{"country": "uk", "founded": "2017", "name": "telcoswitch group", "sector": "teleco "}
+{"country": "uk", "founded": "2017", "name": "telcoswitch group", "sector": "telecoms"}
 {"country": "germany", "founded": "2017", "name": "bothe-reimann tortechnik", "sector": "construction"}
 {"country": "italy", "founded": "2012", "name": "e-pol / personalizzalo", "sector": "ecommerce"}
 {"country": "spain", "founded": "2016", "name": "riluxa", "sector": "interiors"}
@@ -443,7 +443,7 @@
 {"country": "croatia", "founded": "2013", "name": "star digital", "sector": "advertising"}
 {"country": "uk", "founded": "2011", "name": "funding options", "sector": "fintech"}
 {"country": "italy", "founded": "2014", "name": "isimed", "sector": "health"}
-{"country": "switzerland", "founded": "2008", "name": "sonar, sonarqube, sonarcloud, sonarlint", "sector": "technology"}
+{"country": "switzerland", "founded": "2008", "name": "sonar sonarqube sonarcloud sonarlint", "sector": "technology"}
 {"country": "germany", "founded": "2016", "name": "scherer", "sector": "support services"}
 {"country": "italy", "founded": "2002", "name": "mycroclean italia", "sector": "support services"}
 {"country": "italy", "founded": "2015", "name": "piscor", "sector": "ecommerce"}
@@ -454,7 +454,7 @@
 {"country": "france", "founded": "2010", "name": "obiz", "sector": "media"}
 {"country": "italy", "founded": "2012", "name": "vmway", "sector": "technology"}
 {"country": "poland", "founded": "2009", "name": "legimi", "sector": "media"}
-{"country": "germany", "founded": "2011", "name": "g beauty", "sector": "retail"}
+{"country": "germany", "founded": "2011", "name": "beauty", "sector": "retail"}
 {"country": "germany", "founded": "2014", "name": "leogra trading", "sector": "retail"}
 {"country": "italy", "founded": "2012", "name": "benefind", "sector": "technology"}
 {"country": "italy", "founded": "2017", "name": "ab oil & gas service", "sector": "support services"}
@@ -464,7 +464,7 @@
 {"country": "italy", "founded": "2014", "name": "macingo technologies", "sector": "support services"}
 {"country": "germany", "founded": "2014", "name": "mycs", "sector": "retail"}
 {"country": "germany", "founded": "2008", "name": "audience serv", "sector": "advertising"}
-{"country": "italy", "founded": "2012", "name": "start", "sector": "teleco "}
+{"country": "italy", "founded": "2012", "name": "start", "sector": "telecoms"}
 {"country": "the netherlands", "founded": "2010", "name": "mvh media", "sector": "sales & marketing"}
 {"country": "france", "founded": "2010", "name": "pure gaming", "sector": "ecommerce"}
 {"country": "uk", "founded": "1998", "name": "parcel compare", "sector": "transport"}
@@ -499,7 +499,7 @@
 {"country": "greece", "founded": "2014", "name": "convert group", "sector": "technology"}
 {"country": "sweden", "founded": "2013", "name": "revolution race", "sector": "ecommerce"}
 {"country": "france", "founded": "2009", "name": "gong galaxy", "sector": "retail"}
-{"country": "italy", "founded": "2011", "name": "gdr costruzioni", "sector": "construction"}
+{"country": "italy", "founded": "2011", "name": "gcostruzioni", "sector": "construction"}
 {"country": "italy", "founded": "2015", "name": "emporio elettrico", "sector": "ecommerce"}
 {"country": "uk", "founded": "2012", "name": "exscientia ai", "sector": "technology"}
 {"country": "uk", "founded": "2005", "name": "featurespace", "sector": "fintech"}
@@ -508,7 +508,7 @@
 {"country": "germany", "founded": "2010", "name": "timberagents", "sector": "retail"}
 {"country": "france", "founded": "2012", "name": "fermeture econhome", "sector": "construction"}
 {"country": "sweden", "founded": "2014", "name": "nrse", "sector": "management consulting"}
-{"country": "germany", "founded": "2011", "name": "simwert", "sector": "teleco "}
+{"country": "germany", "founded": "2011", "name": "simwert", "sector": "telecoms"}
 {"country": "uk", "founded": "2015", "name": "flex legal", "sector": "law"}
 {"country": "norway", "founded": "2010", "name": "documaster", "sector": "technology"}
 {"country": "germany", "founded": "2014", "name": "immo-team allgau", "sector": "construction"}
@@ -555,9 +555,9 @@
 {"country": "uk", "founded": "2008", "name": "vizion network", "sector": "automobiles"}
 {"country": "uk", "founded": "2017", "name": "beyond law group", "sector": "law"}
 {"country": "germany", "founded": "2014", "name": "eda warehousing", "sector": "transport"}
-{"country": "germany", "founded": "2013", "name": "bpv", "sector": "teleco "}
+{"country": "germany", "founded": "2013", "name": "bpv", "sector": "telecoms"}
 {"country": "france", "founded": "2013", "name": "ultra premium direct", "sector": "agricultural commodities"}
-{"country": "spain", "founded": "2013", "name": "afr-ix telecom", "sector": "teleco "}
+{"country": "spain", "founded": "2013", "name": "afr-ix telecom", "sector": "telecoms"}
 {"country": "poland", "founded": "2010", "name": "blue energy", "sector": "cyber security"}
 {"country": "france", "founded": "2013", "name": "cjuste paris", "sector": "retail"}
 {"country": "france", "founded": "2007", "name": "sos-accessoire", "sector": "ecommerce"}
@@ -571,7 +571,7 @@
 {"country": "france", "founded": "2015", "name": "im global partner", "sector": "financial services"}
 {"country": "italy", "founded": "1983", "name": "confinvest", "sector": "precious metals"}
 {"country": "france", "founded": "2012", "name": "ethic technology", "sector": "technology"}
-{"country": "italy", "founded": "2001", "name": "bomax", "sector": "teleco "}
+{"country": "italy", "founded": "2001", "name": "bomax", "sector": "telecoms"}
 {"country": "germany", "founded": "2017", "name": "kk-trade", "sector": "retail"}
 {"country": "germany", "founded": "2015", "name": "marsapet", "sector": "retail"}
 {"country": "italy", "founded": "2015", "name": "gruppo tera", "sector": "ecommerce"}
@@ -604,7 +604,7 @@
 {"country": "france", "founded": "2004", "name": "couteaujaponaiscom", "sector": "retail"}
 {"country": "france", "founded": "2010", "name": "physidia", "sector": "health"}
 {"country": "germany", "founded": "2013", "name": "horando deutschland", "sector": "retail"}
-{"country": "poland", "founded": "2004", "name": "diablochairs, jan nowak", "sector": "ecommerce"}
+{"country": "poland", "founded": "2004", "name": "diablochairs jan nowak", "sector": "ecommerce"}
 {"country": "sweden", "founded": "2011", "name": "parkster", "sector": "technology"}
 {"country": "france", "founded": "2015", "name": "biotyfull", "sector": "ecommerce"}
 {"country": "spain", "founded": "2014", "name": "bioksan", "sector": "food & beverage"}
@@ -616,7 +616,7 @@
 {"country": "germany", "founded": "2010", "name": "aue genc warenhandels-ug", "sector": "retail"}
 {"country": "italy", "founded": "2010", "name": "mgvision", "sector": "advertising"}
 {"country": "italy", "founded": "2015", "name": "new general service", "sector": "support services"}
-{"country": "france", "founded": "2010", "name": "andre renovation", "sector": "construction"}
+{"country": "france", "founded": "2010", "name": "anrenovation", "sector": "construction"}
 {"country": "italy", "founded": "2017", "name": "mdg components unipersonale", "sector": "industrial goods"}
 {"country": "bulgaria", "founded": "2011", "name": "amco-bulgaria", "sector": "retail"}
 {"country": "uk", "founded": "2005", "name": "symprove", "sector": "personal & household goods"}
@@ -636,7 +636,7 @@
 {"country": "uk", "founded": "2012", "name": "midstream lighting", "sector": "technology"}
 {"country": "france", "founded": "2014", "name": "propulse it", "sector": "technology"}
 {"country": "spain", "founded": "2012", "name": "additius santa maria", "sector": "agricultural commodities"}
-{"country": "france", "founded": "2017", "name": "conexio telecom", "sector": "teleco "}
+{"country": "france", "founded": "2017", "name": "conexio telecom", "sector": "telecoms"}
 {"country": "germany", "founded": "2012", "name": "tripin", "sector": "retail"}
 {"country": "hungary", "founded": "1996", "name": "continental wood kft", "sector": "industrial goods"}
 {"country": "italy", "founded": "2008", "name": "geoteam", "sector": "energy"}
@@ -759,10 +759,10 @@
 {"country": "germany", "founded": "2010", "name": "smart battery solutions", "sector": "technology"}
 {"country": "germany", "founded": "2003", "name": "eu-bay commerce", "sector": "retail"}
 {"country": "germany", "founded": "2009", "name": "jens rabe academy", "sector": "education"}
-{"country": "uk", "founded": "2010", "name": "hyperoptic", "sector": "teleco "}
+{"country": "uk", "founded": "2010", "name": "hyperoptic", "sector": "telecoms"}
 {"country": "france", "founded": "2009", "name": "sepale", "sector": "energy"}
-{"country": "italy", "founded": "2005", "name": "3a informatica", "sector": "teleco "}
-{"country": "france", "founded": "2014", "name": "eproto", "sector": "ecommerce"}
+{"country": "italy", "founded": "2005", "name": "3a informatica", "sector": "telecoms"}
+{"country": "france", "founded": "2014", "name": "emsproto", "sector": "ecommerce"}
 {"country": "france", "founded": "2011", "name": "laboratoires dermosun", "sector": "chemicals & pharmaceuticals"}
 {"country": "italy", "founded": "2013", "name": "saico", "sector": "construction"}
 {"country": "italy", "founded": "1956", "name": "nutis", "sector": "food & beverage"}
@@ -806,8 +806,8 @@
 {"country": "italy", "founded": "2014", "name": "jointly il welfare condiviso", "sector": "support services"}
 {"country": "sweden", "founded": "2012", "name": "abtot mark & anlaggning ab", "sector": "construction"}
 {"country": "germany", "founded": "2012", "name": "dusapro immobilien", "sector": "property"}
-{"country": "france", "founded": "2012", "name": "soldats fil", "sector": "media"}
-{"country": "italy", "founded": "2016", "name": "eagleprojects", "sector": "teleco "}
+{"country": "france", "founded": "2012", "name": "soldats films", "sector": "media"}
+{"country": "italy", "founded": "2016", "name": "eagleprojects", "sector": "telecoms"}
 {"country": "italy", "founded": "2013", "name": "agile lab", "sector": "technology"}
 {"country": "norway", "founded": "2012", "name": "importprisno", "sector": "ecommerce"}
 {"country": "germany", "founded": "2011", "name": "truu", "sector": "industrial goods"}
@@ -818,11 +818,11 @@
 {"country": "france", "founded": "2009", "name": "sp architecte", "sector": "construction"}
 {"country": "spain", "founded": "2011", "name": "embargos a lo bestia", "sector": "retail"}
 {"country": "ireland", "founded": "2011", "name": "snigel", "sector": "technology"}
-{"country": "germany", "founded": "2006", "name": "i rettungsdienst", "sector": "health"}
+{"country": "germany", "founded": "2006", "name": "irettungsdienst", "sector": "health"}
 {"country": "italy", "founded": "2017", "name": "way2global sb", "sector": "support services"}
 {"country": "uk", "founded": "2014", "name": "media access solutions", "sector": "support services"}
 {"country": "spain", "founded": "2008", "name": "exadi", "sector": "sales and marketing"}
-{"country": "germany", "founded": "2014", "name": "fiber-service-gesellschaft", "sector": "teleco "}
+{"country": "germany", "founded": "2014", "name": "fiber-service-gesellschaft", "sector": "telecoms"}
 {"country": "poland", "founded": "2010", "name": "tenderhut group", "sector": "technology"}
 {"country": "spain", "founded": "2016", "name": "worldwide fishing company", "sector": "food & beverage"}
 {"country": "italy", "founded": "2013", "name": "doctor hail spa", "sector": "automobiles"}
@@ -909,10 +909,10 @@
 {"country": "italy", "founded": "2016", "name": "reveg fruit", "sector": "food & beverage"}
 {"country": "bulgaria", "founded": "2016", "name": "sciant", "sector": "technology"}
 {"country": "germany", "founded": "2012", "name": "boender & beutel", "sector": "industrial goods"}
-{"country": "france", "founded": "2003", "name": "ekinops", "sector": "teleco "}
+{"country": "france", "founded": "2003", "name": "ekinops", "sector": "telecoms"}
 {"country": "portugal", "founded": "1938", "name": "sano-tecnica", "sector": "health"}
 {"country": "germany", "founded": "2013", "name": "mobelando", "sector": "retail"}
-{"country": "italy", "founded": "2011", "name": "democom", "sector": "teleco "}
+{"country": "italy", "founded": "2011", "name": "democom", "sector": "telecoms"}
 {"country": "italy", "founded": "2009", "name": "erbagil", "sector": "pharmaceuticals"}
 {"country": "finland", "founded": "2014", "name": "axopar boats", "sector": "travel & leisure"}
 {"country": "italy", "founded": "2012", "name": "advanced composites solutions", "sector": "automobiles"}
@@ -951,7 +951,7 @@
 {"country": "france", "founded": "2009", "name": "cafe du cycliste", "sector": "ecommerce"}
 {"country": "germany", "founded": "2016", "name": "langer luftungs- und klimaanlagen", "sector": "construction"}
 {"country": "france", "founded": "2010", "name": "formind", "sector": "cyber security"}
-{"country": "france", "founded": "2010", "name": "oasis smart sim europe", "sector": "teleco "}
+{"country": "france", "founded": "2010", "name": "oasis smart sim europe", "sector": "telecoms"}
 {"country": "italy", "founded": "2013", "name": "aferetica", "sector": "health"}
 {"country": "italy", "founded": "2014", "name": "zero", "sector": "energy"}
 {"country": "france", "founded": "2011", "name": "skills", "sector": "support services"}

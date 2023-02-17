@@ -22,7 +22,7 @@
 {"ceo": "paul hudson", "country": "france", "name": "sanofi", "sector": "healthcare"}
 {"ceo": "ivan menezes", "country": "uk", "name": "diageo", "sector": "consumer defensive"}
 {"ceo": "jakob stausholm", "country": "uk", "name": "rio tinto group", "sector": "basic materials"}
-{"ceo": "dame emma walley", "country": "uk", "name": "glaxosmithkline", "sector": "healthcare"}
+{"ceo": "dame emma walmsley", "country": "uk", "name": "glaxosmithkline", "sector": "healthcare"}
 {"ceo": "michel doukeris", "country": "belgium", "name": "anheuser-busch inbev", "sector": "consumer defensive"}
 {"ceo": "alexey miller", "country": "russia", "name": "gazprom", "sector": "energy"}
 {"ceo": "jean-pascal tricoire", "country": "france", "name": "schneider electric", "sector": "power equipment"}
@@ -46,7 +46,7 @@
 {"ceo": "bernd montag", "country": "germany", "name": "siemens healthineers ag", "sector": "healthcare"}
 {"ceo": "francesco starace", "country": "italy", "name": "enel", "sector": "utilities"}
 {"ceo": "frank appel", "country": "germany", "name": "deutsche post ag", "sector": "industries"}
-{"ceo": "mats rahtrom", "country": "sweden", "name": "atlas copco ab", "sector": "industries"}
+{"ceo": "mats rahmstrom", "country": "sweden", "name": "atlas copco ab", "sector": "industries"}
 {"ceo": "johan forssell", "country": "sweden", "name": "investor ab publ", "sector": "financial services"}
 {"ceo": "bjorn rosengren", "country": "switzerland", "name": "abb", "sector": "industries"}
 {"ceo": "igor sechin", "country": "russia", "name": "rosneft oil company", "sector": "energy"}
@@ -68,7 +68,7 @@
 {"ceo": "jose antonio alvarez", "country": "spain", "name": "banco santander", "sector": "financial services"}
 {"ceo": "martin lundstedt", "country": "sweden", "name": "ab volvo", "sector": "industries"}
 {"ceo": "xavier huillard", "country": "france", "name": "vinci", "sector": "industries"}
-{"ceo": "alexandre ricard", "country": "france", "name": "pernod ricard", "sector": "consumer defensive"}
+{"ceo": "alexanricard", "country": "france", "name": "pernod ricard", "sector": "consumer defensive"}
 {"ceo": "duncan wanblad", "country": "uk", "name": "anglo american", "sector": "basic materials"}
 {"ceo": "reinhard ploss", "country": "germany", "name": "infineon technologies ag", "sector": "technology"}
 {"ceo": "vagit alekperov", "country": "russia", "name": "pjsc lukoil", "sector": "energy"}
@@ -122,7 +122,7 @@
 {"ceo": "joachim kreuzburg", "country": "germany", "name": "sartorius stedim biotech", "sector": "healthcare"}
 {"ceo": "benoit bazin", "country": "france", "name": "compagnie de saint-gobain", "sector": "ceramic products"}
 {"ceo": "kevin murphy", "country": "uk", "name": "ferguson", "sector": "industries"}
-{"ceo": "dr detlef trefzger", "country": "switzerland", "name": "kuehne  nagel international ag", "sector": "industries"}
+{"ceo": "detlef trefzger", "country": "switzerland", "name": "kuehne  nagel international ag", "sector": "industries"}
 {"ceo": "johan thijs", "country": "belgium", "name": "kbc group nv", "sector": "financial services"}
 {"ceo": "alison rose", "country": "uk", "name": "natwest group", "sector": "banking services"}
 {"ceo": "borje ekholm", "country": "sweden", "name": "ericsson", "sector": "technology"}
@@ -138,7 +138,7 @@
 {"ceo": "stefan widing", "country": "sweden", "name": "sandvik ab", "sector": "industries"}
 {"ceo": "frans muller", "country": "netherlands", "name": "ahold delhaize", "sector": "consumer defensive"}
 {"ceo": "leonhard birnbaum", "country": "germany", "name": "eon se", "sector": "utilities"}
-{"ceo": "kristian villuen", "country": "denmark", "name": "coloplast a/s", "sector": "healthcare"}
+{"ceo": "kristian villumsen", "country": "denmark", "name": "coloplast a/s", "sector": "healthcare"}
 {"ceo": "tobias martinez gimeno", "country": "spain", "name": "cellnex telecom", "sector": "communication services"}
 {"ceo": "nico delvaux", "country": "sweden", "name": "assa abloy ab publ", "sector": "industries"}
 {"ceo": "frans van houten", "country": "netherlands", "name": "philips", "sector": "healthcare"}
@@ -168,7 +168,7 @@
 {"ceo": "christian buhl", "country": "switzerland", "name": "geberit ag", "sector": "industries"}
 {"ceo": "nancy mckinstry", "country": "netherlands", "name": "wolters kluwer", "sector": "communication services"}
 {"ceo": "stephane richard", "country": "france", "name": "orange sa", "sector": "communication services"}
-{"ceo": "henrik andersen", "country": "denmark", "name": "vestas wind syste a/s", "sector": "industries"}
+{"ceo": "henrik andersen", "country": "denmark", "name": "vestas wind systea/s", "sector": "industries"}
 {"ceo": "thomas oetterli", "country": "switzerland", "name": "schindler holding ag", "sector": "industries"}
 {"ceo": "martin carlesund", "country": "sweden", "name": "evolution gaming group ab publ", "sector": "consumer cyclical"}
 {"ceo": "torbjorn magnusson", "country": "finland", "name": "sampo oyj", "sector": "financial services"}
@@ -181,7 +181,7 @@
 {"ceo": "michael o'leary", "country": "ireland", "name": "ryanair holdings", "sector": "industries"}
 {"ceo": "markus rauramo", "country": "finland", "name": "fortum oyj", "sector": "utilities"}
 {"ceo": "daniel julien", "country": "france", "name": "teleperformance se", "sector": "industries"}
-{"ceo": "magdalena martullo-blocher", "country": "switzerland", "name": "e-chemie holding ag", "sector": "basic materials"}
+{"ceo": "magdalena martullo-blocher", "country": "switzerland", "name": "ems-chemie holding ag", "sector": "basic materials"}
 {"ceo": "antoine frerot", "country": "france", "name": "veolia environnement", "sector": "industries"}
 {"ceo": "jose maria alvarez-pallete lopez", "country": "spain", "name": "telefonica sa", "sector": "communication services"}
 {"ceo": "", "country": "ireland", "name": "kingspan group", "sector": "industries"}
@@ -194,7 +194,7 @@
 {"ceo": "vicente reynal", "country": "ireland", "name": "ingersoll-rand ireland", "sector": "industries"}
 {"ceo": "johan hjertonsson", "country": "sweden", "name": "investment ab latour publ", "sector": "financial services"}
 {"ceo": "gonzalo gortazar rotaeche", "country": "spain", "name": "caixabank", "sector": "financial services"}
-{"ceo": "", "country": "uk", "name": "bae syste", "sector": "industries"}
+{"ceo": "", "country": "uk", "name": "bae systems", "sector": "industries"}
 {"ceo": "philip jansen", "country": "uk", "name": "bt group", "sector": "communication services"}
 {"ceo": "jan g j van de winkel", "country": "denmark", "name": "genmab a/s", "sector": "healthcare"}
 {"ceo": "", "country": "germany", "name": "hannover ruck se", "sector": "financial services"}
@@ -234,7 +234,7 @@
 {"ceo": "daniel benes", "country": "czech republic", "name": "cez a s", "sector": "utilities"}
 {"ceo": "bernhard spalt", "country": "austria", "name": "erste group bank ag", "sector": "financial services"}
 {"ceo": "patrick frost", "country": "switzerland", "name": "swiss life holding ag", "sector": "financial services"}
-{"ceo": "heinz-juergen bertram", "country": "germany", "name": "syise ag", "sector": "basic materials"}
+{"ceo": "heinz-juergen bertram", "country": "germany", "name": "symrise ag", "sector": "basic materials"}
 {"ceo": "benjamin loh", "country": "netherlands", "name": "asm international nv", "sector": "technology"}
 {"ceo": "arkady volozh", "country": "russia", "name": "yandex", "sector": "communication services"}
 {"ceo": "marco alvera", "country": "italy", "name": "snam", "sector": "utilities"}
@@ -250,7 +250,7 @@
 {"ceo": "vivek badrinath", "country": "germany", "name": "vantage towers ag", "sector": "industries"}
 {"ceo": "josu jon imaz", "country": "spain", "name": "repsol", "sector": "energy"}
 {"ceo": "ivan arriagada", "country": "uk", "name": "antofagasta", "sector": "basic materials"}
-{"ceo": "aleksandr shevelev", "country": "russia", "name": "pao severstal", "sector": "basic materials"}
+{"ceo": "aleksanshevelev", "country": "russia", "name": "pao severstal", "sector": "basic materials"}
 {"ceo": "bjorn gulden", "country": "germany", "name": "puma se", "sector": "consumer cyclical"}
 {"ceo": "markus weber", "country": "germany", "name": "carl zeiss meditec ag", "sector": "healthcare"}
 {"ceo": "arthur sadoun", "country": "france", "name": "publicis groupe", "sector": "communication services"}
@@ -265,11 +265,11 @@
 {"ceo": "valerie baudson", "country": "france", "name": "amundi", "sector": "financial services"}
 {"ceo": "jack truong", "country": "ireland", "name": "james hardie industries", "sector": "basic materials"}
 {"ceo": "tom erixon", "country": "sweden", "name": "alfa laval ab publ", "sector": "industries"}
-{"ceo": "hilde merete aasheim", "country": "norway", "name": "norsk hydro asa", "sector": "basic materials"}
+{"ceo": "hilde merete aasheim", "country": "norway", "name": "norsk hyasa", "sector": "basic materials"}
 {"ceo": "morten hubbe", "country": "denmark", "name": "tryg a/s", "sector": "financial services"}
 {"ceo": "gilles grapinet", "country": "france", "name": "worldline", "sector": "technology"}
 {"ceo": "tim hauwermeiren", "country": "netherlands", "name": "argenx se", "sector": "healthcare"}
-{"ceo": "dr jan michael osik", "country": "germany", "name": "knorr-bree", "sector": "consumer cyclical"}
+{"ceo": "jan michael mrosik", "country": "germany", "name": "knorr-bremse", "sector": "consumer cyclical"}
 {"ceo": "", "country": "france", "name": "carrefour sa", "sector": "consumer defensive"}
 {"ceo": "", "country": "france", "name": "bollore", "sector": "communication services"}
 {"ceo": "harold boel", "country": "belgium", "name": "sofina societe anonyme", "sector": "financial services"}
@@ -279,25 +279,25 @@
 {"ceo": "jerre stead", "country": "uk", "name": "clarivate plc", "sector": "technology"}
 {"ceo": "stefano antonio donnarumma", "country": "italy", "name": "terna spa ", "sector": "utilities"}
 {"ceo": "carlo bertazzo", "country": "italy", "name": "atlantia", "sector": "industries"}
-{"ceo": "andrew willia", "country": "uk", "name": "halma", "sector": "industries"}
+{"ceo": "andrew williams", "country": "uk", "name": "halma", "sector": "industries"}
 {"ceo": "andreas nauen", "country": "spain", "name": "siemens gamesa renewable energy", "sector": "industries"}
 {"ceo": "robert kunze-concewitz", "country": "italy", "name": "davide campari-milano", "sector": "consumer defensive"}
 {"ceo": "christian kullmann", "country": "germany", "name": "evonik industries ag", "sector": "basic materials"}
 {"ceo": "carsten rasch egeriis", "country": "denmark", "name": "danske bank a/s", "sector": "financial services"}
 {"ceo": "", "country": "russia", "name": "transneft", "sector": "energy"}
-{"ceo": "alexandre merieux", "country": "france", "name": "biomerieux", "sector": "healthcare"}
+{"ceo": "alexanmerieux", "country": "france", "name": "biomerieux", "sector": "healthcare"}
 {"ceo": "michael zahn", "country": "germany", "name": "deutsche wohnen se", "sector": "real estate"}
 {"ceo": "nicholas j anderson", "country": "uk", "name": "spirax-sarco engineering", "sector": "industries"}
 {"ceo": "miuccia prada", "country": "italy", "name": "prada", "sector": "consumer cyclical"}
 {"ceo": "annica bresky", "country": "finland", "name": "stora enso oyj", "sector": "basic materials"}
-{"ceo": "robert swaak", "country": "netherlands", "name": "abn ao bank", "sector": "financial services"}
+{"ceo": "robert swaak", "country": "netherlands", "name": "abn abank", "sector": "financial services"}
 {"ceo": "mike fries", "country": "uk", "name": "liberty global", "sector": "communication services"}
 {"ceo": "peter cowgill", "country": "uk", "name": "jd sports fashion", "sector": "consumer cyclical"}
 {"ceo": "evgenii nikitin", "country": "russia", "name": "united company rusal", "sector": "basic materials"}
 {"ceo": "sasndor csanyi", "country": "hungary", "name": "otp bank nyrt", "sector": "financial services"}
 {"ceo": "philipp rickenbacher", "country": "switzerland", "name": "julius bar gruppe ag", "sector": "financial services"}
 {"ceo": "", "country": "russia", "name": "pjsc tatneft", "sector": "energy"}
-{"ceo": "pedro manuel de castro soares dos santos", "country": "portugal", "name": "jeronimo martins sgps", "sector": "consumer defensive"}
+{"ceo": "pemanuel de castro soares dos santos", "country": "portugal", "name": "jeronimo martins sgps", "sector": "consumer defensive"}
 {"ceo": "anthony smurfit", "country": "ireland", "name": "smurfit kappa group", "sector": "consumer cyclical"}
 {"ceo": "iwona duda", "country": "poland", "name": "pko bank polski en", "sector": "financial services"}
 {"ceo": "warren east", "country": "uk", "name": "rolls-royce holdings", "sector": "industries"}
@@ -405,7 +405,7 @@
 {"ceo": "", "country": "sweden", "name": "tele2 ab publ", "sector": "communication services"}
 {"ceo": "", "country": "austria", "name": "raiffeisen bank international ag", "sector": "financial services"}
 {"ceo": "", "country": "uk", "name": "melrose industries", "sector": "industries"}
-{"ceo": "", "country": "norway", "name": "toa syste asa", "sector": "industries"}
+{"ceo": "", "country": "norway", "name": "tosysteasa", "sector": "industries"}
 {"ceo": "", "country": "uk", "name": "sensata technologies holding", "sector": "technology"}
 {"ceo": "", "country": "uk", "name": "united utilities group", "sector": "utilities"}
 {"ceo": "", "country": "uk", "name": "severn trent", "sector": "utilities"}
@@ -527,7 +527,7 @@
 {"ceo": "", "country": "norway", "name": "aker asa", "sector": "energy"}
 {"ceo": "", "country": "sweden", "name": "vitrolife ab publ", "sector": "healthcare"}
 {"ceo": "", "country": "switzerland", "name": "clariant ag", "sector": "basic materials"}
-{"ceo": "", "country": "russia", "name": "mobile telesyste", "sector": "communication services"}
+{"ceo": "", "country": "russia", "name": "mobile telesystems", "sector": "communication services"}
 {"ceo": "", "country": "uk", "name": "novocure", "sector": "healthcare"}
 {"ceo": "", "country": "austria", "name": "voestalpine ag", "sector": "basic materials"}
 {"ceo": "", "country": "uk", "name": "marks and spencer group", "sector": "consumer cyclical"}
@@ -651,7 +651,7 @@
 {"ceo": "", "country": "iceland", "name": "marel", "sector": "industries"}
 {"ceo": "", "country": "luxembourg", "name": "inpost sa", "sector": "industries"}
 {"ceo": "", "country": "belgium", "name": "cofinimmo sa", "sector": "real estate"}
-{"ceo": "", "country": "uk", "name": "dr martens plc", "sector": "footwear"}
+{"ceo": "", "country": "uk", "name": "martens plc", "sector": "footwear"}
 {"ceo": "", "country": "hungary", "name": "richter gedeon vegyeszeti gyar nyilvanosan mukodo", "sector": "healthcare"}
 {"ceo": "", "country": "spain", "name": "inmobiliaria colonial socimi", "sector": "real estate"}
 {"ceo": "", "country": "switzerland", "name": "vontobel holding ag", "sector": "financial services"}
@@ -690,13 +690,13 @@
 {"ceo": "", "country": "uk", "name": "sophos group", "sector": "technology"}
 {"ceo": "", "country": "italy", "name": "erg spa", "sector": "utilities"}
 {"ceo": "", "country": "france", "name": "tikehau capital", "sector": "financial services"}
-{"ceo": "", "country": "austria", "name": "a ag", "sector": "technology"}
+{"ceo": "", "country": "austria", "name": "aag", "sector": "technology"}
 {"ceo": "", "country": "belgium", "name": "aedifica sa", "sector": "real estate"}
 {"ceo": "", "country": "uk", "name": "hicl infrastructure", "sector": "investments"}
 {"ceo": "", "country": "germany", "name": "siltronic ag", "sector": "technology"}
 {"ceo": "", "country": "uk", "name": "arrival", "sector": "electric vehicles"}
 {"ceo": "", "country": "luxembourg", "name": "ses", "sector": "communication services"}
-{"ceo": "", "country": "france", "name": "interparfu sa", "sector": "consumer defensive"}
+{"ceo": "", "country": "france", "name": "interparfusa", "sector": "consumer defensive"}
 {"ceo": "", "country": "ireland", "name": "adient", "sector": "consumer cyclical"}
 {"ceo": "", "country": "finland", "name": "huhtamaki oyj", "sector": "consumer cyclical"}
 {"ceo": "", "country": "france", "name": "compagnie du cambodge", "sector": "industries"}
@@ -725,7 +725,7 @@
 {"ceo": "", "country": "france", "name": "nexans", "sector": "industries"}
 {"ceo": "", "country": "italy", "name": "acea spa", "sector": "utilities"}
 {"ceo": "", "country": "france", "name": "spie sa", "sector": "industries"}
-{"ceo": "", "country": "uk", "name": "diversey holdings, ltd", "sector": "fmcg"}
+{"ceo": "", "country": "uk", "name": "diversey holdings ltd", "sector": "fmcg"}
 {"ceo": "", "country": "uk", "name": "pennon group", "sector": "utilities"}
 {"ceo": "", "country": "sweden", "name": "addlife ab publ", "sector": "healthcare"}
 {"ceo": "", "country": "uk", "name": "computacenter", "sector": "technology"}
@@ -807,7 +807,7 @@
 {"ceo": "", "country": "austria", "name": "ca immobilien anlagen ag", "sector": "real estate"}
 {"ceo": "", "country": "poland", "name": "pge polska grupa energetyczna", "sector": "utilities"}
 {"ceo": "", "country": "germany", "name": "dmg mori aktiengesellschaft", "sector": "industries"}
-{"ceo": "", "country": "spain", "name": "zardoya otis, sa", "sector": "industries"}
+{"ceo": "", "country": "spain", "name": "zardoya otis sa", "sector": "industries"}
 {"ceo": "", "country": "denmark", "name": "jyske bank a/s", "sector": "financial services"}
 {"ceo": "", "country": "uk", "name": "dunelm group", "sector": "consumer cyclical"}
 {"ceo": "", "country": "germany", "name": "compugroup medical societas europaea", "sector": "healthcare"}
@@ -934,7 +934,7 @@
 {"ceo": "", "country": "sweden", "name": "troax group ab publ", "sector": "industries"}
 {"ceo": "", "country": "france", "name": "europcar mobility group", "sector": "industries"}
 {"ceo": "", "country": "austria", "name": "uniqa insurance group ag", "sector": "financial services"}
-{"ceo": "", "country": "france", "name": "raay generale de sante sa", "sector": "healthcare"}
+{"ceo": "", "country": "france", "name": "ramsay generale de sante sa", "sector": "healthcare"}
 {"ceo": "", "country": "italy", "name": "carel industries", "sector": "technology"}
 {"ceo": "", "country": "switzerland", "name": "st galler kantonalbank ag", "sector": "financial services"}
 {"ceo": "", "country": "uk", "name": "mercantile investment trust the", "sector": "asset management"}
@@ -967,17 +967,17 @@
 {"ceo": "", "country": "portugal", "name": "banco comercial portugues", "sector": "financial services"}
 {"ceo": "", "country": "uk", "name": "assura", "sector": "real estate"}
 {"ceo": "", "country": "uk", "name": "pagegroup", "sector": "industries"}
-{"ceo": "", "country": "luxembourg", "name": "saonite international", "sector": "consumer cyclical"}
+{"ceo": "", "country": "luxembourg", "name": "samsonite international", "sector": "consumer cyclical"}
 {"ceo": "", "country": "uk", "name": "finsbury growth & income trust", "sector": "asset management"}
-{"ceo": "", "country": "portugal", "name": "the navigator company, sa", "sector": "paper and pulp"}
+{"ceo": "", "country": "portugal", "name": "the navigator company sa", "sector": "paper and pulp"}
 {"ceo": "", "country": "belgium", "name": "nv bekaert sa", "sector": "industries"}
-{"ceo": "", "country": "russia", "name": "nizhnekakneftekhim", "sector": "basic materials"}
+{"ceo": "", "country": "russia", "name": "nizhnekamskneftekhim", "sector": "basic materials"}
 {"ceo": "", "country": "netherlands", "name": "cnova", "sector": "consumer cyclical"}
 {"ceo": "", "country": "sweden", "name": "atrium ljungberg ab publ", "sector": "real estate"}
 {"ceo": "", "country": "uk", "name": "cranswick", "sector": "consumer defensive"}
 {"ceo": "", "country": "norway", "name": "arendals fossekompani asa", "sector": "utilities"}
 {"ceo": "", "country": "malta", "name": "kindred group", "sector": "consumer cyclical"}
-{"ceo": "", "country": "sweden", "name": "h networks ab publ", "sector": "technology"}
+{"ceo": "", "country": "sweden", "name": "hnetworks ab publ", "sector": "technology"}
 {"ceo": "", "country": "uk", "name": "primary health properties", "sector": "real estate"}
 {"ceo": "", "country": "sweden", "name": "lagercrantz group ab publ", "sector": "technology"}
 {"ceo": "", "country": "uk", "name": "hg capital trust", "sector": "asset management"}
@@ -985,7 +985,7 @@
 {"ceo": "", "country": "germany", "name": "secunet security networks", "sector": "technology"}
 {"ceo": "", "country": "malta", "name": "unibet group plc", "sector": "consumer cyclical"}
 {"ceo": "", "country": "switzerland", "name": "dormakaba holding ag", "sector": "industries"}
-{"ceo": "", "country": "norway", "name": "wallenius wilhelen asa", "sector": "industries"}
+{"ceo": "", "country": "norway", "name": "wallenius wilhelmsen asa", "sector": "industries"}
 {"ceo": "", "country": "uk", "name": "savills", "sector": "real estate"}
 {"ceo": "", "country": "france", "name": "technip energies nv", "sector": "energy"}
 {"ceo": "", "country": "spain", "name": "compania de distribucion integral logista holdings", "sector": "industries"}

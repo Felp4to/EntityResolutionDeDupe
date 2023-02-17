@@ -19,12 +19,12 @@
 {"name":"mastercard","market_capitalization_usd":"353500000000","price":368,"country":"usa"}
 {"name":"eli lilly","market_capitalization_usd":"344850000000","price":363,"country":"usa"}
 {"name":"chevron","market_capitalization_usd":"341400000000","price":177,"country":"usa"}
-{"name":"meta platfor facebook","market_capitalization_usd":"340930000000","price":130,"country":"usa"}
+{"name":"meta platforfacebook","market_capitalization_usd":"340930000000","price":130,"country":"usa"}
 {"name":"kweichow moutai","market_capitalization_usd":"329340000000","price":262,"country":"china"}
 {"name":"nestle","market_capitalization_usd":"326280000000","price":119,"country":"switzerland"}
 {"name":"home depot","market_capitalization_usd":"323620000000","price":318,"country":"usa"}
 {"name":"novo nordisk","market_capitalization_usd":"311970000000","price":139,"country":"denmark"}
-{"name":"saung","market_capitalization_usd":"311550000000","price":46,"country":"s. korea"}
+{"name":"samsung","market_capitalization_usd":"311550000000","price":46,"country":"s. korea"}
 {"name":"abbvie","market_capitalization_usd":"294540000000","price":167,"country":"usa"}
 {"name":"merck","market_capitalization_usd":"291160000000","price":115,"country":"usa"}
 {"name":"pfizer","market_capitalization_usd":"285820000000","price":51,"country":"usa"}
@@ -231,7 +231,7 @@
 {"name":"bmw","market_capitalization_usd":"62000000000","price":94,"country":"germany"}
 {"name":"micron technology","market_capitalization_usd":"61940000000","price":57,"country":"usa"}
 {"name":"america movil","market_capitalization_usd":"61210000000","price":19,"country":"mexico"}
-{"name":"sherwin-willia","market_capitalization_usd":"61100000000","price":236,"country":"usa"}
+{"name":"sherwin-williams","market_capitalization_usd":"61100000000","price":236,"country":"usa"}
 {"name":"fast retailing","market_capitalization_usd":"60960000000","price":597,"country":"japan"}
 {"name":"abb","market_capitalization_usd":"60960000000","price":33,"country":"switzerland"}
 {"name":"truist financial","market_capitalization_usd":"60840000000","price":46,"country":"usa"}
@@ -257,7 +257,7 @@
 {"name":"kla","market_capitalization_usd":"56890000000","price":398,"country":"usa"}
 {"name":"atlas copco","market_capitalization_usd":"56740000000","price":11,"country":"sweden"}
 {"name":"investor ab","market_capitalization_usd":"56500000000","price":18,"country":"sweden"}
-{"name":"thoon reuters","market_capitalization_usd":"56320000000","price":117,"country":"canada"}
+{"name":"thomson reuters","market_capitalization_usd":"56320000000","price":117,"country":"canada"}
 {"name":"heineken","market_capitalization_usd":"56150000000","price":98,"country":"netherlands"}
 {"name":"mindray","market_capitalization_usd":"56050000000","price":46,"country":"china"}
 {"name":"airbnb","market_capitalization_usd":"56040000000","price":89,"country":"usa"}
@@ -294,7 +294,7 @@
 {"name":"bayer","market_capitalization_usd":"51980000000","price":53,"country":"germany"}
 {"name":"eni","market_capitalization_usd":"51960000000","price":30,"country":"italy"}
 {"name":"dominion energy","market_capitalization_usd":"51550000000","price":62,"country":"usa"}
-{"name":"keurig dr pepper","market_capitalization_usd":"51350000000","price":36,"country":"usa"}
+{"name":"keurig pepper","market_capitalization_usd":"51350000000","price":36,"country":"usa"}
 {"name":"basf","market_capitalization_usd":"51060000000","price":56,"country":"germany"}
 {"name":"general motors","market_capitalization_usd":"51010000000","price":36,"country":"usa"}
 {"name":"pernod ricard","market_capitalization_usd":"50810000000","price":196,"country":"france"}
@@ -346,7 +346,7 @@
 {"name":"baidu","market_capitalization_usd":"45970000000","price":133,"country":"china"}
 {"name":"alimentation couche-tard","market_capitalization_usd":"45950000000","price":46,"country":"canada"}
 {"name":"aflac","market_capitalization_usd":"45910000000","price":74,"country":"usa"}
-{"name":"saung biologics","market_capitalization_usd":"45650000000","price":634,"country":"s. korea"}
+{"name":"samsung biologics","market_capitalization_usd":"45650000000","price":634,"country":"s. korea"}
 {"name":"woodside energy","market_capitalization_usd":"45590000000","price":24,"country":"australia"}
 {"name":"budweiser apac","market_capitalization_usd":"45590000000","price":3,"country":"hong kong"}
 {"name":"dexcom","market_capitalization_usd":"45450000000","price":116,"country":"usa"}
@@ -368,14 +368,14 @@
 {"name":"bayan resources","market_capitalization_usd":"43950000000","price":1,"country":"indonesia"}
 {"name":"mercadolibre","market_capitalization_usd":"43930000000","price":873,"country":"argentina"}
 {"name":"bajaj finance","market_capitalization_usd":"43860000000","price":72,"country":"india"}
-{"name":"cadence design syste","market_capitalization_usd":"43790000000","price":160,"country":"usa"}
+{"name":"cadence design systems","market_capitalization_usd":"43790000000","price":160,"country":"usa"}
 {"name":"agilent technologies","market_capitalization_usd":"43720000000","price":148,"country":"usa"}
 {"name":"itochu shoji","market_capitalization_usd":"43640000000","price":30,"country":"japan"}
 {"name":"kuaishou technology","market_capitalization_usd":"43590000000","price":10,"country":"china"}
 {"name":"corteva","market_capitalization_usd":"43590000000","price":61,"country":"usa"}
 {"name":"exelon corporation","market_capitalization_usd":"43390000000","price":44,"country":"usa"}
 {"name":"mitsui bussan","market_capitalization_usd":"43200000000","price":28,"country":"japan"}
-{"name":"kotak mahindra bank","market_capitalization_usd":"42990000000","price":22,"country":"india"}
+{"name":"kotak mahinbank","market_capitalization_usd":"42990000000","price":22,"country":"india"}
 {"name":"wanhua chemical","market_capitalization_usd":"42750000000","price":14,"country":"china"}
 {"name":"ambev","market_capitalization_usd":"42650000000","price":3,"country":"brazil"}
 {"name":"suncor energy","market_capitalization_usd":"42600000000","price":31,"country":"canada"}
@@ -419,7 +419,7 @@
 {"name":"compass group","market_capitalization_usd":"39880000000","price":23,"country":"uk"}
 {"name":"sysco","market_capitalization_usd":"39880000000","price":79,"country":"usa"}
 {"name":"rsted","market_capitalization_usd":"39690000000","price":91,"country":"denmark"}
-{"name":"willia companies","market_capitalization_usd":"39660000000","price":33,"country":"usa"}
+{"name":"williacompanies","market_capitalization_usd":"39660000000","price":33,"country":"usa"}
 {"name":"parker-hannifin","market_capitalization_usd":"39610000000","price":309,"country":"usa"}
 {"name":"zijin mining","market_capitalization_usd":"39580000000","price":2,"country":"china"}
 {"name":"constellation brands","market_capitalization_usd":"39520000000","price":214,"country":"usa"}
@@ -443,7 +443,7 @@
 {"name":"fortinet","market_capitalization_usd":"38030000000","price":49,"country":"usa"}
 {"name":"muyuan foods","market_capitalization_usd":"37770000000","price":7,"country":"china"}
 {"name":"energy transfer partners","market_capitalization_usd":"37520000000","price":12,"country":"usa"}
-{"name":"ci","market_capitalization_usd":"37500000000","price":469,"country":"usa"}
+{"name":"msci","market_capitalization_usd":"37500000000","price":469,"country":"usa"}
 {"name":"allstate","market_capitalization_usd":"37490000000","price":141,"country":"usa"}
 {"name":"maersk","market_capitalization_usd":"37350000000","price":2135,"country":"denmark"}
 {"name":"bank of china hong kong","market_capitalization_usd":"37340000000","price":4,"country":"hong kong"}
@@ -513,7 +513,7 @@
 {"name":"welltower","market_capitalization_usd":"32970000000","price":70,"country":"usa"}
 {"name":"engie","market_capitalization_usd":"32770000000","price":14,"country":"france"}
 {"name":"kroger","market_capitalization_usd":"32740000000","price":46,"country":"usa"}
-{"name":"bae syste","market_capitalization_usd":"32720000000","price":11,"country":"uk"}
+{"name":"bae systems","market_capitalization_usd":"32720000000","price":11,"country":"uk"}
 {"name":"cement roadstone holding","market_capitalization_usd":"32480000000","price":44,"country":"ireland"}
 {"name":"holcim group","market_capitalization_usd":"32440000000","price":53,"country":"switzerland"}
 {"name":"mettler-toledo","market_capitalization_usd":"32310000000","price":1450,"country":"usa"}
@@ -553,7 +553,7 @@
 {"name":"maruti suzuki india","market_capitalization_usd":"30670000000","price":102,"country":"india"}
 {"name":"vici properties","market_capitalization_usd":"30620000000","price":32,"country":"usa"}
 {"name":"resmed","market_capitalization_usd":"30590000000","price":209,"country":"usa"}
-{"name":"saung sdi","market_capitalization_usd":"30580000000","price":217,"country":"s. korea"}
+{"name":"samsung sdi","market_capitalization_usd":"30580000000","price":217,"country":"s. korea"}
 {"name":"banco bradesco","market_capitalization_usd":"30480000000","price":3,"country":"brazil"}
 {"name":"the people's insurance company picc","market_capitalization_usd":"30390000000","price":1,"country":"china"}
 {"name":"deutsche borse","market_capitalization_usd":"30380000000","price":165,"country":"germany"}
@@ -618,7 +618,7 @@
 {"name":"gree electric appliances","market_capitalization_usd":"27910000000","price":5,"country":"china"}
 {"name":"rwe","market_capitalization_usd":"27860000000","price":41,"country":"germany"}
 {"name":"hp","market_capitalization_usd":"27850000000","price":28,"country":"usa"}
-{"name":"vestas wind syste","market_capitalization_usd":"27850000000","price":28,"country":"denmark"}
+{"name":"vestas wind systems","market_capitalization_usd":"27850000000","price":28,"country":"denmark"}
 {"name":"kuhne  nagel","market_capitalization_usd":"27810000000","price":233,"country":"switzerland"}
 {"name":"smc corp","market_capitalization_usd":"27750000000","price":425,"country":"japan"}
 {"name":"alnylam pharmaceuticals","market_capitalization_usd":"27680000000","price":225,"country":"usa"}
@@ -681,7 +681,7 @@
 {"name":"enbw energie","market_capitalization_usd":"25030000000","price":92,"country":"germany"}
 {"name":"sartorius","market_capitalization_usd":"24990000000","price":346,"country":"germany"}
 {"name":"skandinaviska enskilda banken","market_capitalization_usd":"24850000000","price":12,"country":"sweden"}
-{"name":"veeva syste","market_capitalization_usd":"24840000000","price":160,"country":"usa"}
+{"name":"veeva systems","market_capitalization_usd":"24840000000","price":160,"country":"usa"}
 {"name":"cdw corporation","market_capitalization_usd":"24800000000","price":183,"country":"usa"}
 {"name":"ulta beauty","market_capitalization_usd":"24730000000","price":486,"country":"usa"}
 {"name":"kellogg's","market_capitalization_usd":"24720000000","price":72,"country":"usa"}
@@ -775,7 +775,7 @@
 {"name":"societe generale","market_capitalization_usd":"21340000000","price":27,"country":"france"}
 {"name":"epiroc","market_capitalization_usd":"21260000000","price":19,"country":"sweden"}
 {"name":"jsw steel","market_capitalization_usd":"21260000000","price":9,"country":"india"}
-{"name":"udr apartments","market_capitalization_usd":"21120000000","price":39,"country":"usa"}
+{"name":"uapartments","market_capitalization_usd":"21120000000","price":39,"country":"usa"}
 {"name":"adani ports & sez","market_capitalization_usd":"21100000000","price":10,"country":"india"}
 {"name":"tesco","market_capitalization_usd":"21090000000","price":3,"country":"uk"}
 {"name":"huntington bancshares","market_capitalization_usd":"21060000000","price":15,"country":"usa"}
@@ -862,7 +862,7 @@
 {"name":"china railway group","market_capitalization_usd":"19090000000","price":1,"country":"china"}
 {"name":"marubeni","market_capitalization_usd":"19080000000","price":11,"country":"japan"}
 {"name":"banco do brasil","market_capitalization_usd":"19070000000","price":7,"country":"brazil"}
-{"name":"mahindra & mahindra","market_capitalization_usd":"19040000000","price":15,"country":"india"}
+{"name":"mahin& mahindra","market_capitalization_usd":"19040000000","price":15,"country":"india"}
 {"name":"kanzhun","market_capitalization_usd":"18960000000","price":24,"country":"china"}
 {"name":"pembina pipeline","market_capitalization_usd":"18950000000","price":34,"country":"canada"}
 {"name":"china tower","market_capitalization_usd":"18930000000","price":0,"country":"china"}
@@ -875,7 +875,7 @@
 {"name":"mid-america apartment communities","market_capitalization_usd":"18780000000","price":158,"country":"usa"}
 {"name":"straumann","market_capitalization_usd":"18780000000","price":118,"country":"switzerland"}
 {"name":"aker bp","market_capitalization_usd":"18720000000","price":30,"country":"norway"}
-{"name":"c energy","market_capitalization_usd":"18700000000","price":64,"country":"usa"}
+{"name":"cenergy","market_capitalization_usd":"18700000000","price":64,"country":"usa"}
 {"name":"heico","market_capitalization_usd":"18700000000","price":158,"country":"usa"}
 {"name":"cp all","market_capitalization_usd":"18690000000","price":2,"country":"thailand"}
 {"name":"doordash","market_capitalization_usd":"18630000000","price":48,"country":"usa"}
@@ -894,7 +894,7 @@
 {"name":"formosa plastics","market_capitalization_usd":"18240000000","price":3,"country":"taiwan"}
 {"name":"j b hunt","market_capitalization_usd":"18220000000","price":176,"country":"usa"}
 {"name":"hong kong and china gas","market_capitalization_usd":"18220000000","price":1,"country":"hong kong"}
-{"name":"epam syste","market_capitalization_usd":"18210000000","price":317,"country":"usa"}
+{"name":"epam systems","market_capitalization_usd":"18210000000","price":317,"country":"usa"}
 {"name":"amcor","market_capitalization_usd":"18160000000","price":12,"country":"switzerland"}
 {"name":"nibe industrier","market_capitalization_usd":"18150000000","price":9,"country":"sweden"}
 {"name":"saudi arabian fertilizer company","market_capitalization_usd":"18120000000","price":38,"country":"s. arabia"}
@@ -904,7 +904,7 @@
 {"name":"rollins","market_capitalization_usd":"17990000000","price":37,"country":"usa"}
 {"name":"darden restaurants","market_capitalization_usd":"17980000000","price":147,"country":"usa"}
 {"name":"sgs","market_capitalization_usd":"17970000000","price":2400,"country":"switzerland"}
-{"name":"m3, inc","market_capitalization_usd":"17960000000","price":26,"country":"japan"}
+{"name":"m3 inc","market_capitalization_usd":"17960000000","price":26,"country":"japan"}
 {"name":"icahn enterprises","market_capitalization_usd":"17870000000","price":53,"country":"usa"}
 {"name":"tata motors","market_capitalization_usd":"17860000000","price":23,"country":"india"}
 {"name":"clorox","market_capitalization_usd":"17820000000","price":144,"country":"usa"}
@@ -937,7 +937,7 @@
 {"name":"jm smucker company","market_capitalization_usd":"17330000000","price":163,"country":"usa"}
 {"name":"exor","market_capitalization_usd":"17290000000","price":75,"country":"netherlands"}
 {"name":"cincinnati financial","market_capitalization_usd":"17240000000","price":110,"country":"usa"}
-{"name":"monolithic power syste","market_capitalization_usd":"17240000000","price":367,"country":"usa"}
+{"name":"monolithic power systems","market_capitalization_usd":"17240000000","price":367,"country":"usa"}
 {"name":"align technology","market_capitalization_usd":"17240000000","price":221,"country":"usa"}
 {"name":"aeon","market_capitalization_usd":"17220000000","price":20,"country":"japan"}
 {"name":"expeditors","market_capitalization_usd":"17210000000","price":108,"country":"usa"}
@@ -971,7 +971,7 @@
 {"name":"nu holdings","market_capitalization_usd":"16680000000","price":4,"country":"brazil"}
 {"name":"brown & brown","market_capitalization_usd":"16660000000","price":59,"country":"usa"}
 {"name":"mitsubishi estate","market_capitalization_usd":"16640000000","price":12,"country":"japan"}
-{"name":"&ad insurance","market_capitalization_usd":"16620000000","price":31,"country":"japan"}
+{"name":"ms&ad insurance","market_capitalization_usd":"16620000000","price":31,"country":"japan"}
 {"name":"pkn orlen","market_capitalization_usd":"16610000000","price":14,"country":"poland"}
 {"name":"associated british foods","market_capitalization_usd":"16610000000","price":21,"country":"uk"}
 {"name":"mitsui fudosan","market_capitalization_usd":"16600000000","price":18,"country":"japan"}
@@ -987,11 +987,11 @@
 {"name":"hai di lao hot pot","market_capitalization_usd":"16440000000","price":3,"country":"china"}
 {"name":"kubota","market_capitalization_usd":"16410000000","price":14,"country":"japan"}
 {"name":"icon plc","market_capitalization_usd":"16360000000","price":200,"country":"ireland"}
-{"name":"e-chemie","market_capitalization_usd":"16340000000","price":699,"country":"switzerland"}
+{"name":"ems-chemie","market_capitalization_usd":"16340000000","price":699,"country":"switzerland"}
 {"name":"texas pacific land trust","market_capitalization_usd":"16300000000","price":2068,"country":"usa"}
 {"name":"jacobs engineering","market_capitalization_usd":"16270000000","price":129,"country":"usa"}
 {"name":"bank of jiangsu","market_capitalization_usd":"16250000000","price":1,"country":"china"}
-{"name":"hydro one","market_capitalization_usd":"16230000000","price":27,"country":"canada"}
+{"name":"hyone","market_capitalization_usd":"16230000000","price":27,"country":"canada"}
 {"name":"bank of nanjing","market_capitalization_usd":"16170000000","price":2,"country":"china"}
 {"name":"renesas electronics","market_capitalization_usd":"16170000000","price":9,"country":"japan"}
 {"name":"swedish match","market_capitalization_usd":"16160000000","price":11,"country":"sweden"}
@@ -1026,12 +1026,12 @@
 {"name":"fico","market_capitalization_usd":"15480000000","price":602,"country":"usa"}
 {"name":"tradeweb","market_capitalization_usd":"15410000000","price":67,"country":"usa"}
 {"name":"factset","market_capitalization_usd":"15400000000","price":404,"country":"usa"}
-{"name":"syise","market_capitalization_usd":"15400000000","price":110,"country":"germany"}
+{"name":"symrise","market_capitalization_usd":"15400000000","price":110,"country":"germany"}
 {"name":"sbi life insurance","market_capitalization_usd":"15380000000","price":15,"country":"india"}
 {"name":"geely","market_capitalization_usd":"15360000000","price":2,"country":"china"}
 {"name":"tencent music","market_capitalization_usd":"15360000000","price":9,"country":"china"}
 {"name":"pchem petronas chemicals group","market_capitalization_usd":"15360000000","price":2,"country":"malaysia"}
-{"name":"coca-cola fea","market_capitalization_usd":"15350000000","price":68,"country":"mexico"}
+{"name":"coca-cola femsa","market_capitalization_usd":"15350000000","price":68,"country":"mexico"}
 {"name":"huatai securities","market_capitalization_usd":"15330000000","price":17,"country":"china"}
 {"name":"nvr","market_capitalization_usd":"15330000000","price":4797,"country":"usa"}
 {"name":"skyworks solutions","market_capitalization_usd":"15280000000","price":95,"country":"usa"}
@@ -1097,7 +1097,7 @@
 {"name":"teradyne","market_capitalization_usd":"14210000000","price":91,"country":"usa"}
 {"name":"franklin resources","market_capitalization_usd":"14190000000","price":28,"country":"usa"}
 {"name":"astra international","market_capitalization_usd":"14130000000","price":0,"country":"indonesia"}
-{"name":"bangkok dusit medical services bd","market_capitalization_usd":"14130000000","price":1,"country":"thailand"}
+{"name":"bangkok dusit medical services bdms","market_capitalization_usd":"14130000000","price":1,"country":"thailand"}
 {"name":"zebra technologies","market_capitalization_usd":"14110000000","price":273,"country":"usa"}
 {"name":"shimano","market_capitalization_usd":"14080000000","price":155,"country":"japan"}
 {"name":"fortum","market_capitalization_usd":"14070000000","price":16,"country":"finland"}
@@ -1107,7 +1107,7 @@
 {"name":"gen digital","market_capitalization_usd":"14000000000","price":22,"country":"usa"}
 {"name":"jeronimo martins","market_capitalization_usd":"13980000000","price":22,"country":"portugal"}
 {"name":"netapp","market_capitalization_usd":"13970000000","price":64,"country":"usa"}
-{"name":"abn ao","market_capitalization_usd":"13970000000","price":15,"country":"netherlands"}
+{"name":"abn amro","market_capitalization_usd":"13970000000","price":15,"country":"netherlands"}
 {"name":"aristocrat","market_capitalization_usd":"13970000000","price":21,"country":"australia"}
 {"name":"erste group bank","market_capitalization_usd":"13960000000","price":34,"country":"austria"}
 {"name":"volvo car","market_capitalization_usd":"13950000000","price":5,"country":"sweden"}
@@ -1168,7 +1168,7 @@
 {"name":"jack henry & associates","market_capitalization_usd":"13000000000","price":178,"country":"usa"}
 {"name":"credit suisse","market_capitalization_usd":"12990000000","price":3,"country":"switzerland"}
 {"name":"aspentech","market_capitalization_usd":"12980000000","price":201,"country":"usa"}
-{"name":"chandra asri petrochemical","market_capitalization_usd":"12970000000","price":0,"country":"indonesia"}
+{"name":"chanasri petrochemical","market_capitalization_usd":"12970000000","price":0,"country":"indonesia"}
 {"name":"metro","market_capitalization_usd":"12960000000","price":55,"country":"canada"}
 {"name":"edenred","market_capitalization_usd":"12960000000","price":51,"country":"france"}
 {"name":"corebridge financial","market_capitalization_usd":"12950000000","price":20,"country":"usa"}
@@ -1418,10 +1418,10 @@
 {"name":"ivanhoe mines","market_capitalization_usd":"10230000000","price":8,"country":"canada"}
 {"name":"varun beverages","market_capitalization_usd":"10230000000","price":16,"country":"india"}
 {"name":"suncorp","market_capitalization_usd":"10230000000","price":8,"country":"australia"}
-{"name":"raay health care","market_capitalization_usd":"10220000000","price":45,"country":"australia"}
+{"name":"ramsay health care","market_capitalization_usd":"10220000000","price":45,"country":"australia"}
 {"name":"hf sinclair","market_capitalization_usd":"10210000000","price":51,"country":"usa"}
-{"name":"bentley syste","market_capitalization_usd":"10210000000","price":35,"country":"usa"}
-{"name":"saung life insurance","market_capitalization_usd":"10200000000","price":57,"country":"s. korea"}
+{"name":"bentley systems","market_capitalization_usd":"10210000000","price":35,"country":"usa"}
+{"name":"samsung life insurance","market_capitalization_usd":"10200000000","price":57,"country":"s. korea"}
 {"name":"hyatt hotels","market_capitalization_usd":"10190000000","price":95,"country":"usa"}
 {"name":"fresenius medical care","market_capitalization_usd":"10190000000","price":17,"country":"germany"}
 {"name":"suntory","market_capitalization_usd":"10190000000","price":33,"country":"japan"}
@@ -1474,7 +1474,7 @@
 {"name":"reinsurance group of america","market_capitalization_usd":"9720000000","price":146,"country":"usa"}
 {"name":"sonic healthcare","market_capitalization_usd":"9720000000","price":20,"country":"australia"}
 {"name":"hlbank hong leong bank","market_capitalization_usd":"9720000000","price":5,"country":"malaysia"}
-{"name":"knorr-bree","market_capitalization_usd":"9680000000","price":60,"country":"germany"}
+{"name":"knorr-bremse","market_capitalization_usd":"9680000000","price":60,"country":"germany"}
 {"name":"asahi kasei","market_capitalization_usd":"9670000000","price":7,"country":"japan"}
 {"name":"east west bancorp","market_capitalization_usd":"9630000000","price":68,"country":"usa"}
 {"name":"black knight","market_capitalization_usd":"9620000000","price":62,"country":"usa"}
@@ -1482,7 +1482,7 @@
 {"name":"zendesk","market_capitalization_usd":"9620000000","price":77,"country":"usa"}
 {"name":"spirax-sarco engineering","market_capitalization_usd":"9620000000","price":129,"country":"uk"}
 {"name":"cleveland-cliffs","market_capitalization_usd":"9610000000","price":19,"country":"usa"}
-{"name":"oon","market_capitalization_usd":"9600000000","price":48,"country":"japan"}
+{"name":"omron","market_capitalization_usd":"9600000000","price":48,"country":"japan"}
 {"name":"liberty global","market_capitalization_usd":"9590000000","price":21,"country":"uk"}
 {"name":"ares capital","market_capitalization_usd":"9570000000","price":19,"country":"usa"}
 {"name":"rheinmetall","market_capitalization_usd":"9560000000","price":221,"country":"germany"}
@@ -1556,7 +1556,7 @@
 {"name":"taiwan mobile","market_capitalization_usd":"8830000000","price":3,"country":"taiwan"}
 {"name":"ampol","market_capitalization_usd":"8830000000","price":18,"country":"australia"}
 {"name":"bangkok bank","market_capitalization_usd":"8810000000","price":5,"country":"thailand"}
-{"name":"dr reddy's","market_capitalization_usd":"8810000000","price":53,"country":"india"}
+{"name":"reddy's","market_capitalization_usd":"8810000000","price":53,"country":"india"}
 {"name":"kesko","market_capitalization_usd":"8790000000","price":22,"country":"finland"}
 {"name":"coca-cola hbc","market_capitalization_usd":"8790000000","price":24,"country":"switzerland"}
 {"name":"umicore","market_capitalization_usd":"8790000000","price":36,"country":"belgium"}
@@ -1607,7 +1607,7 @@
 {"name":"recordati","market_capitalization_usd":"8480000000","price":41,"country":"italy"}
 {"name":"owens corning","market_capitalization_usd":"8480000000","price":90,"country":"usa"}
 {"name":"qnb finansbank","market_capitalization_usd":"8480000000","price":3,"country":"turkey"}
-{"name":"saung electro-mechanics","market_capitalization_usd":"8470000000","price":54,"country":"s. korea"}
+{"name":"samsung electro-mechanics","market_capitalization_usd":"8470000000","price":54,"country":"s. korea"}
 {"name":"zillow","market_capitalization_usd":"8470000000","price":36,"country":"usa"}
 {"name":"antero resources","market_capitalization_usd":"8460000000","price":28,"country":"usa"}
 {"name":"nitto denko","market_capitalization_usd":"8460000000","price":57,"country":"japan"}
@@ -1644,7 +1644,7 @@
 {"name":"sei investments","market_capitalization_usd":"8240000000","price":61,"country":"usa"}
 {"name":"icici prulife","market_capitalization_usd":"8240000000","price":6,"country":"india"}
 {"name":"dentsu","market_capitalization_usd":"8240000000","price":31,"country":"japan"}
-{"name":"willia-sonoma","market_capitalization_usd":"8230000000","price":124,"country":"usa"}
+{"name":"williams-sonoma","market_capitalization_usd":"8230000000","price":124,"country":"usa"}
 {"name":"mediobanca","market_capitalization_usd":"8200000000","price":10,"country":"italy"}
 {"name":"alcoa","market_capitalization_usd":"8200000000","price":46,"country":"usa"}
 {"name":"jardine cycle & carriage","market_capitalization_usd":"8190000000","price":21,"country":"singapore"}
@@ -1733,7 +1733,7 @@
 {"name":"indofood cbp","market_capitalization_usd":"7600000000","price":1,"country":"indonesia"}
 {"name":"pershing square holdings","market_capitalization_usd":"7600000000","price":35,"country":"usa"}
 {"name":"sealed air","market_capitalization_usd":"7590000000","price":52,"country":"usa"}
-{"name":"elbit syste","market_capitalization_usd":"7580000000","price":171,"country":"israel"}
+{"name":"elbit systems","market_capitalization_usd":"7580000000","price":171,"country":"israel"}
 {"name":"yamaha motor","market_capitalization_usd":"7580000000","price":22,"country":"japan"}
 {"name":"arabian internet and communications services","market_capitalization_usd":"7570000000","price":64,"country":"s. arabia"}
 {"name":"icici lombard","market_capitalization_usd":"7560000000","price":15,"country":"india"}
@@ -1808,7 +1808,7 @@
 {"name":"fosun","market_capitalization_usd":"7130000000","price":1,"country":"china"}
 {"name":"shanghai commercial and savings bank","market_capitalization_usd":"7130000000","price":1,"country":"taiwan"}
 {"name":"aisin seiki","market_capitalization_usd":"7120000000","price":26,"country":"japan"}
-{"name":"inspire medical syste","market_capitalization_usd":"7120000000","price":247,"country":"usa"}
+{"name":"inspire medical systems","market_capitalization_usd":"7120000000","price":247,"country":"usa"}
 {"name":"sisecam","market_capitalization_usd":"7110000000","price":2,"country":"turkey"}
 {"name":"wan hai lines","market_capitalization_usd":"7110000000","price":3,"country":"taiwan"}
 {"name":"genscript biotech","market_capitalization_usd":"7100000000","price":3,"country":"china"}
@@ -1854,7 +1854,7 @@
 {"name":"mindtree","market_capitalization_usd":"6870000000","price":42,"country":"india"}
 {"name":"edison","market_capitalization_usd":"6870000000","price":1,"country":"italy"}
 {"name":"cathay pacific","market_capitalization_usd":"6870000000","price":1,"country":"hong kong"}
-{"name":"advanced drainage syste","market_capitalization_usd":"6860000000","price":83,"country":"usa"}
+{"name":"advanced drainage systems","market_capitalization_usd":"6860000000","price":83,"country":"usa"}
 {"name":"crocs","market_capitalization_usd":"6860000000","price":111,"country":"usa"}
 {"name":"bancolombia","market_capitalization_usd":"6840000000","price":28,"country":"colombia"}
 {"name":"karuna therapeutics","market_capitalization_usd":"6840000000","price":199,"country":"usa"}
@@ -1940,7 +1940,7 @@
 {"name":"cae","market_capitalization_usd":"6390000000","price":20,"country":"canada"}
 {"name":"stifel","market_capitalization_usd":"6380000000","price":60,"country":"usa"}
 {"name":"industrial bank of korea ibk","market_capitalization_usd":"6380000000","price":8,"country":"s. korea"}
-{"name":"generac power syste","market_capitalization_usd":"6380000000","price":101,"country":"usa"}
+{"name":"generac power systems","market_capitalization_usd":"6380000000","price":101,"country":"usa"}
 {"name":"spark new zealand","market_capitalization_usd":"6380000000","price":3,"country":"new zealand"}
 {"name":"turquoise hill resources","market_capitalization_usd":"6380000000","price":31,"country":"canada"}
 {"name":"37 interactive entertainment","market_capitalization_usd":"6370000000","price":3,"country":"china"}
@@ -2060,7 +2060,7 @@
 {"name":"nedbank","market_capitalization_usd":"5940000000","price":12,"country":"south africa"}
 {"name":"commercial metals company","market_capitalization_usd":"5930000000","price":51,"country":"usa"}
 {"name":"cosan","market_capitalization_usd":"5930000000","price":13,"country":"brazil"}
-{"name":"descartes syste","market_capitalization_usd":"5920000000","price":70,"country":"canada"}
+{"name":"descartes systems","market_capitalization_usd":"5920000000","price":70,"country":"canada"}
 {"name":"unimicron","market_capitalization_usd":"5920000000","price":4,"country":"taiwan"}
 {"name":"nippon prologis reit","market_capitalization_usd":"5910000000","price":2217,"country":"japan"}
 {"name":"saic","market_capitalization_usd":"5910000000","price":108,"country":"usa"}
@@ -2091,7 +2091,7 @@
 {"name":"stockland","market_capitalization_usd":"5820000000","price":2,"country":"australia"}
 {"name":"atacadao","market_capitalization_usd":"5810000000","price":3,"country":"brazil"}
 {"name":"toto","market_capitalization_usd":"5810000000","price":34,"country":"japan"}
-{"name":"saara","market_capitalization_usd":"5810000000","price":11,"country":"usa"}
+{"name":"samsara","market_capitalization_usd":"5810000000","price":11,"country":"usa"}
 {"name":"covivio","market_capitalization_usd":"5800000000","price":61,"country":"france"}
 {"name":"gitlab","market_capitalization_usd":"5790000000","price":39,"country":"usa"}
 {"name":"lithia motors","market_capitalization_usd":"5790000000","price":212,"country":"usa"}
@@ -2106,7 +2106,7 @@
 {"name":"range resources","market_capitalization_usd":"5760000000","price":24,"country":"usa"}
 {"name":"melco resorts & entertainment","market_capitalization_usd":"5750000000","price":13,"country":"hong kong"}
 {"name":"columbia sportswear","market_capitalization_usd":"5750000000","price":93,"country":"usa"}
-{"name":"allegro microsyste","market_capitalization_usd":"5750000000","price":30,"country":"usa"}
+{"name":"allegro microsystems","market_capitalization_usd":"5750000000","price":30,"country":"usa"}
 {"name":"ionis pharmaceuticals","market_capitalization_usd":"5750000000","price":41,"country":"usa"}
 {"name":"enlink midstream","market_capitalization_usd":"5740000000","price":12,"country":"usa"}
 {"name":"littelfuse","market_capitalization_usd":"5740000000","price":232,"country":"usa"}
@@ -2180,7 +2180,7 @@
 {"name":"stantec","market_capitalization_usd":"5500000000","price":49,"country":"canada"}
 {"name":"mitsubishi motors","market_capitalization_usd":"5500000000","price":4,"country":"japan"}
 {"name":"yancoal","market_capitalization_usd":"5500000000","price":4,"country":"australia"}
-{"name":"a safety","market_capitalization_usd":"5490000000","price":140,"country":"usa"}
+{"name":"safety","market_capitalization_usd":"5490000000","price":140,"country":"usa"}
 {"name":"psp swiss property","market_capitalization_usd":"5490000000","price":120,"country":"switzerland"}
 {"name":"acc","market_capitalization_usd":"5490000000","price":29,"country":"india"}
 {"name":"norwegian cruise line","market_capitalization_usd":"5490000000","price":13,"country":"usa"}
@@ -2308,7 +2308,7 @@
 {"name":"au small finance bank","market_capitalization_usd":"5050000000","price":8,"country":"india"}
 {"name":"exponent","market_capitalization_usd":"5050000000","price":100,"country":"usa"}
 {"name":"glp j-reit","market_capitalization_usd":"5050000000","price":1072,"country":"japan"}
-{"name":"toa","market_capitalization_usd":"5040000000","price":17,"country":"norway"}
+{"name":"tomra","market_capitalization_usd":"5040000000","price":17,"country":"norway"}
 {"name":"persimmon","market_capitalization_usd":"5040000000","price":16,"country":"uk"}
 {"name":"trex","market_capitalization_usd":"5030000000","price":46,"country":"usa"}
 {"name":"iqiyi","market_capitalization_usd":"5020000000","price":6,"country":"china"}
@@ -2484,7 +2484,7 @@
 {"name":"erg","market_capitalization_usd":"4470000000","price":30,"country":"italy"}
 {"name":"maximus","market_capitalization_usd":"4470000000","price":74,"country":"usa"}
 {"name":"cencosud","market_capitalization_usd":"4470000000","price":2,"country":"chile"}
-{"name":"g sports","market_capitalization_usd":"4460000000","price":184,"country":"usa"}
+{"name":"sports","market_capitalization_usd":"4460000000","price":184,"country":"usa"}
 {"name":"royal boskalis westminster","market_capitalization_usd":"4460000000","price":35,"country":"netherlands"}
 {"name":"enagas","market_capitalization_usd":"4460000000","price":17,"country":"spain"}
 {"name":"supermicro","market_capitalization_usd":"4460000000","price":84,"country":"usa"}
@@ -2517,7 +2517,7 @@
 {"name":"alkem laboratories","market_capitalization_usd":"4390000000","price":37,"country":"india"}
 {"name":"iac/interactivecorp","market_capitalization_usd":"4390000000","price":49,"country":"usa"}
 {"name":"wixcom","market_capitalization_usd":"4380000000","price":75,"country":"israel"}
-{"name":"c industrial direct","market_capitalization_usd":"4380000000","price":78,"country":"usa"}
+{"name":"industrial direct","market_capitalization_usd":"4380000000","price":78,"country":"usa"}
 {"name":"empresas cmpc","market_capitalization_usd":"4380000000","price":2,"country":"chile"}
 {"name":"signify","market_capitalization_usd":"4380000000","price":35,"country":"netherlands"}
 {"name":"bangkok expressway and metro bem","market_capitalization_usd":"4380000000","price":0,"country":"thailand"}
@@ -2616,7 +2616,7 @@
 {"name":"first international bank of israel","market_capitalization_usd":"4100000000","price":41,"country":"israel"}
 {"name":"wingstop restaurants","market_capitalization_usd":"4100000000","price":137,"country":"usa"}
 {"name":"first interstate bancsystem","market_capitalization_usd":"4100000000","price":39,"country":"usa"}
-{"name":"casella waste syste","market_capitalization_usd":"4090000000","price":79,"country":"usa"}
+{"name":"casella waste systems","market_capitalization_usd":"4090000000","price":79,"country":"usa"}
 {"name":"fomento de construcciones y contratas","market_capitalization_usd":"4090000000","price":9,"country":"spain"}
 {"name":"cytokinetics","market_capitalization_usd":"4080000000","price":43,"country":"usa"}
 {"name":"umb financial","market_capitalization_usd":"4080000000","price":85,"country":"usa"}
@@ -2627,7 +2627,7 @@
 {"name":"wayfair","market_capitalization_usd":"4060000000","price":38,"country":"usa"}
 {"name":"united internet","market_capitalization_usd":"4060000000","price":22,"country":"germany"}
 {"name":"galenica","market_capitalization_usd":"4060000000","price":82,"country":"switzerland"}
-{"name":"comfort syste","market_capitalization_usd":"4060000000","price":114,"country":"usa"}
+{"name":"comfort systems","market_capitalization_usd":"4060000000","price":114,"country":"usa"}
 {"name":"lechwerke","market_capitalization_usd":"4060000000","price":115,"country":"germany"}
 {"name":"lupin limited","market_capitalization_usd":"4060000000","price":9,"country":"india"}
 {"name":"castellum","market_capitalization_usd":"4050000000","price":12,"country":"sweden"}
@@ -2829,7 +2829,7 @@
 {"name":"bellring brands","market_capitalization_usd":"3570000000","price":27,"country":"usa"}
 {"name":"nippon shinyaku","market_capitalization_usd":"3570000000","price":53,"country":"japan"}
 {"name":"games workshop group","market_capitalization_usd":"3570000000","price":109,"country":"uk"}
-{"name":"persistent syste","market_capitalization_usd":"3560000000","price":47,"country":"india"}
+{"name":"persistent systems","market_capitalization_usd":"3560000000","price":47,"country":"india"}
 {"name":"apple hospitality reit","market_capitalization_usd":"3560000000","price":16,"country":"usa"}
 {"name":"amtrust financial services","market_capitalization_usd":"3550000000","price":18,"country":"usa"}
 {"name":"associated banc-corp","market_capitalization_usd":"3540000000","price":24,"country":"usa"}
@@ -2845,10 +2845,10 @@
 {"name":"hamilton lane","market_capitalization_usd":"3530000000","price":66,"country":"usa"}
 {"name":"grand canyon education","market_capitalization_usd":"3520000000","price":113,"country":"usa"}
 {"name":"faurecia","market_capitalization_usd":"3520000000","price":18,"country":"france"}
-{"name":"interparfu","market_capitalization_usd":"3520000000","price":111,"country":"usa"}
+{"name":"interparfums","market_capitalization_usd":"3520000000","price":111,"country":"usa"}
 {"name":"dechra pharmaceuticals","market_capitalization_usd":"3520000000","price":31,"country":"uk"}
 {"name":"weatherford international","market_capitalization_usd":"3520000000","price":50,"country":"usa"}
-{"name":"spirit aerosyste","market_capitalization_usd":"3510000000","price":33,"country":"usa"}
+{"name":"spirit aerosystems","market_capitalization_usd":"3510000000","price":33,"country":"usa"}
 {"name":"cvb financial","market_capitalization_usd":"3510000000","price":25,"country":"usa"}
 {"name":"ubisoft","market_capitalization_usd":"3510000000","price":27,"country":"france"}
 {"name":"magazine luiza","market_capitalization_usd":"3500000000","price":1,"country":"brazil"}
@@ -2931,14 +2931,14 @@
 {"name":"taisho pharmaceutical","market_capitalization_usd":"3300000000","price":40,"country":"japan"}
 {"name":"essential properties realty trust","market_capitalization_usd":"3300000000","price":23,"country":"usa"}
 {"name":"vontier","market_capitalization_usd":"3290000000","price":21,"country":"usa"}
-{"name":"saung heavy industries","market_capitalization_usd":"3290000000","price":162,"country":"s. korea"}
+{"name":"samsung heavy industries","market_capitalization_usd":"3290000000","price":162,"country":"s. korea"}
 {"name":"ameris bancorp","market_capitalization_usd":"3290000000","price":47,"country":"usa"}
 {"name":"metsa board","market_capitalization_usd":"3290000000","price":11,"country":"finland"}
 {"name":"prestige consumer healthcare","market_capitalization_usd":"3290000000","price":66,"country":"usa"}
 {"name":"intellia therapeutics","market_capitalization_usd":"3280000000","price":38,"country":"usa"}
 {"name":"global-e","market_capitalization_usd":"3270000000","price":21,"country":"israel"}
 {"name":"playtika","market_capitalization_usd":"3270000000","price":9,"country":"israel"}
-{"name":"artrong world industries","market_capitalization_usd":"3270000000","price":72,"country":"usa"}
+{"name":"armstrong world industries","market_capitalization_usd":"3270000000","price":72,"country":"usa"}
 {"name":"nordic semiconductor","market_capitalization_usd":"3270000000","price":17,"country":"norway"}
 {"name":"blackbaud","market_capitalization_usd":"3270000000","price":62,"country":"usa"}
 {"name":"ultragenyx","market_capitalization_usd":"3270000000","price":47,"country":"usa"}
@@ -3087,9 +3087,9 @@
 {"name":"asm pacific technology","market_capitalization_usd":"2970000000","price":7,"country":"hong kong"}
 {"name":"cd projekt","market_capitalization_usd":"2970000000","price":30,"country":"poland"}
 {"name":"cargotec","market_capitalization_usd":"2970000000","price":46,"country":"finland"}
-{"name":" cooper group","market_capitalization_usd":"2960000000","price":42,"country":"usa"}
+{"name":"cooper group","market_capitalization_usd":"2960000000","price":42,"country":"usa"}
 {"name":"tandem diabetes care","market_capitalization_usd":"2960000000","price":46,"country":"usa"}
-{"name":"cotock resources","market_capitalization_usd":"2960000000","price":13,"country":"usa"}
+{"name":"comstock resources","market_capitalization_usd":"2960000000","price":13,"country":"usa"}
 {"name":"atlantica","market_capitalization_usd":"2950000000","price":25,"country":"uk"}
 {"name":"kb home","market_capitalization_usd":"2950000000","price":35,"country":"usa"}
 {"name":"cushman & wakefield","market_capitalization_usd":"2950000000","price":13,"country":"usa"}
@@ -3110,7 +3110,7 @@
 {"name":"radian group","market_capitalization_usd":"2930000000","price":19,"country":"usa"}
 {"name":"intercorp financial services","market_capitalization_usd":"2930000000","price":25,"country":"peru"}
 {"name":"o-i glass","market_capitalization_usd":"2930000000","price":19,"country":"usa"}
-{"name":"g group","market_capitalization_usd":"2930000000","price":0,"country":"india"}
+{"name":"ggroup","market_capitalization_usd":"2930000000","price":0,"country":"india"}
 {"name":"j&j snack foods","market_capitalization_usd":"2930000000","price":153,"country":"usa"}
 {"name":"greggs","market_capitalization_usd":"2930000000","price":28,"country":"uk"}
 {"name":"squarespace","market_capitalization_usd":"2920000000","price":21,"country":"usa"}
@@ -3180,7 +3180,7 @@
 {"name":"american eagle outfitters","market_capitalization_usd":"2810000000","price":15,"country":"usa"}
 {"name":"ncino","market_capitalization_usd":"2800000000","price":25,"country":"usa"}
 {"name":"prospect capital","market_capitalization_usd":"2800000000","price":7,"country":"usa"}
-{"name":"pegasyste","market_capitalization_usd":"2800000000","price":34,"country":"usa"}
+{"name":"pegasystems","market_capitalization_usd":"2800000000","price":34,"country":"usa"}
 {"name":"blueprint medicines","market_capitalization_usd":"2800000000","price":47,"country":"usa"}
 {"name":"sigma lithium","market_capitalization_usd":"2800000000","price":27,"country":"canada"}
 {"name":"innovative industrial","market_capitalization_usd":"2800000000","price":100,"country":"usa"}
@@ -3203,7 +3203,7 @@
 {"name":"pacwest bancorp","market_capitalization_usd":"2770000000","price":24,"country":"usa"}
 {"name":"ingevity","market_capitalization_usd":"2770000000","price":74,"country":"usa"}
 {"name":"prothena","market_capitalization_usd":"2760000000","price":54,"country":"ireland"}
-{"name":"hannon artrong","market_capitalization_usd":"2760000000","price":31,"country":"usa"}
+{"name":"hannon armstrong","market_capitalization_usd":"2760000000","price":31,"country":"usa"}
 {"name":"zee entertainment","market_capitalization_usd":"2760000000","price":3,"country":"india"}
 {"name":"ct reit","market_capitalization_usd":"2760000000","price":12,"country":"canada"}
 {"name":"liberty energy","market_capitalization_usd":"2760000000","price":15,"country":"usa"}
@@ -3216,7 +3216,7 @@
 {"name":"vidrala","market_capitalization_usd":"2750000000","price":91,"country":"spain"}
 {"name":"skf india","market_capitalization_usd":"2750000000","price":56,"country":"india"}
 {"name":"patterson companies","market_capitalization_usd":"2740000000","price":28,"country":"usa"}
-{"name":"mercury syste","market_capitalization_usd":"2740000000","price":47,"country":"usa"}
+{"name":"mercury systems","market_capitalization_usd":"2740000000","price":47,"country":"usa"}
 {"name":"allreal holding","market_capitalization_usd":"2740000000","price":166,"country":"switzerland"}
 {"name":"rubis","market_capitalization_usd":"2740000000","price":27,"country":"france"}
 {"name":"oil india","market_capitalization_usd":"2740000000","price":3,"country":"india"}
@@ -3238,7 +3238,7 @@
 {"name":"makkah construction & development","market_capitalization_usd":"2720000000","price":17,"country":"s. arabia"}
 {"name":"viasat","market_capitalization_usd":"2710000000","price":36,"country":"usa"}
 {"name":"relaxo footwear","market_capitalization_usd":"2710000000","price":11,"country":"india"}
-{"name":"harmonic drive syste","market_capitalization_usd":"2700000000","price":29,"country":"japan"}
+{"name":"harmonic drive systems","market_capitalization_usd":"2700000000","price":29,"country":"japan"}
 {"name":"group 1 automotive","market_capitalization_usd":"2700000000","price":186,"country":"usa"}
 {"name":"lic housing finance","market_capitalization_usd":"2690000000","price":5,"country":"india"}
 {"name":"boise cascade","market_capitalization_usd":"2690000000","price":68,"country":"usa"}
@@ -3385,7 +3385,7 @@
 {"name":"wh smith","market_capitalization_usd":"2460000000","price":19,"country":"uk"}
 {"name":"sd biosensor","market_capitalization_usd":"2450000000","price":24,"country":"s. korea"}
 {"name":"zain saudi arabia","market_capitalization_usd":"2450000000","price":3,"country":"s. arabia"}
-{"name":"quantucape","market_capitalization_usd":"2450000000","price":6,"country":"usa"}
+{"name":"quantumscape","market_capitalization_usd":"2450000000","price":6,"country":"usa"}
 {"name":"privia health group","market_capitalization_usd":"2450000000","price":22,"country":"usa"}
 {"name":"lundin gold","market_capitalization_usd":"2450000000","price":10,"country":"canada"}
 {"name":"qinetiq","market_capitalization_usd":"2450000000","price":4,"country":"uk"}
@@ -3399,7 +3399,7 @@
 {"name":"steve madden","market_capitalization_usd":"2440000000","price":31,"country":"usa"}
 {"name":"laurus labs","market_capitalization_usd":"2430000000","price":5,"country":"india"}
 {"name":"darktrace","market_capitalization_usd":"2430000000","price":3,"country":"uk"}
-{"name":" price group","market_capitalization_usd":"2430000000","price":10,"country":"south africa"}
+{"name":"price group","market_capitalization_usd":"2430000000","price":10,"country":"south africa"}
 {"name":"mandarin oriental","market_capitalization_usd":"2420000000","price":2,"country":"hong kong"}
 {"name":"covivio hotels","market_capitalization_usd":"2420000000","price":16,"country":"france"}
 {"name":"independent bank group","market_capitalization_usd":"2420000000","price":59,"country":"usa"}
@@ -3437,7 +3437,7 @@
 {"name":"brady","market_capitalization_usd":"2380000000","price":48,"country":"usa"}
 {"name":"kpit technologies","market_capitalization_usd":"2380000000","price":9,"country":"india"}
 {"name":"elekta ab","market_capitalization_usd":"2370000000","price":6,"country":"sweden"}
-{"name":"verint syste","market_capitalization_usd":"2370000000","price":36,"country":"usa"}
+{"name":"verint systems","market_capitalization_usd":"2370000000","price":36,"country":"usa"}
 {"name":"sats","market_capitalization_usd":"2370000000","price":2,"country":"singapore"}
 {"name":"hayward","market_capitalization_usd":"2370000000","price":11,"country":"usa"}
 {"name":"harmony gold","market_capitalization_usd":"2360000000","price":4,"country":"south africa"}
@@ -3531,11 +3531,11 @@
 {"name":"inficon","market_capitalization_usd":"2230000000","price":914,"country":"switzerland"}
 {"name":"tricon residential","market_capitalization_usd":"2230000000","price":8,"country":"canada"}
 {"name":"kajaria ceramics","market_capitalization_usd":"2230000000","price":14,"country":"india"}
-{"name":"dr lal pathlabs","market_capitalization_usd":"2230000000","price":27,"country":"india"}
+{"name":"lal pathlabs","market_capitalization_usd":"2230000000","price":27,"country":"india"}
 {"name":"swissquote","market_capitalization_usd":"2230000000","price":149,"country":"switzerland"}
 {"name":"nuvasive","market_capitalization_usd":"2230000000","price":43,"country":"usa"}
 {"name":"boral","market_capitalization_usd":"2220000000","price":2,"country":"australia"}
-{"name":"a ag","market_capitalization_usd":"2220000000","price":8,"country":"austria"}
+{"name":"aag","market_capitalization_usd":"2220000000","price":8,"country":"austria"}
 {"name":"oc oerlikon","market_capitalization_usd":"2220000000","price":7,"country":"switzerland"}
 {"name":"sonos","market_capitalization_usd":"2220000000","price":18,"country":"usa"}
 {"name":"corcept therapeutics","market_capitalization_usd":"2220000000","price":21,"country":"usa"}
@@ -3573,7 +3573,7 @@
 {"name":"kadant","market_capitalization_usd":"2150000000","price":185,"country":"usa"}
 {"name":"itau corpbanca","market_capitalization_usd":"2140000000","price":3,"country":"chile"}
 {"name":"ihs towers","market_capitalization_usd":"2140000000","price":6,"country":"uk"}
-{"name":"g","market_capitalization_usd":"2140000000","price":52,"country":"usa"}
+{"name":"gms","market_capitalization_usd":"2140000000","price":52,"country":"usa"}
 {"name":"shimao property","market_capitalization_usd":"2140000000","price":1,"country":"hong kong"}
 {"name":"torm","market_capitalization_usd":"2140000000","price":26,"country":"uk"}
 {"name":"efes beverage group","market_capitalization_usd":"2140000000","price":4,"country":"turkey"}
@@ -3665,7 +3665,7 @@
 {"name":"spirent","market_capitalization_usd":"2010000000","price":3,"country":"uk"}
 {"name":"close brothers group","market_capitalization_usd":"2010000000","price":13,"country":"uk"}
 {"name":"star bulk carriers","market_capitalization_usd":"2010000000","price":20,"country":"greece"}
-{"name":"indra sistemas","market_capitalization_usd":"2010000000","price":11,"country":"spain"}
+{"name":"insistemas","market_capitalization_usd":"2010000000","price":11,"country":"spain"}
 {"name":"canfor","market_capitalization_usd":"2000000000","price":16,"country":"canada"}
 {"name":"flagstar bank","market_capitalization_usd":"2000000000","price":38,"country":"usa"}
 {"name":"rocket lab","market_capitalization_usd":"2000000000","price":4,"country":"usa"}
@@ -3982,7 +3982,7 @@
 {"name":"csi","market_capitalization_usd":"1590000000","price":58,"country":"usa"}
 {"name":"jenoptik","market_capitalization_usd":"1590000000","price":28,"country":"germany"}
 {"name":"billtrust btrs","market_capitalization_usd":"1590000000","price":9,"country":"usa"}
-{"name":"comcope","market_capitalization_usd":"1580000000","price":8,"country":"usa"}
+{"name":"commscope","market_capitalization_usd":"1580000000","price":8,"country":"usa"}
 {"name":"aar","market_capitalization_usd":"1580000000","price":46,"country":"usa"}
 {"name":"udemy","market_capitalization_usd":"1580000000","price":11,"country":"usa"}
 {"name":"richelieu hardware","market_capitalization_usd":"1580000000","price":28,"country":"canada"}
@@ -3992,7 +3992,7 @@
 {"name":"toda corp","market_capitalization_usd":"1580000000","price":5,"country":"japan"}
 {"name":"loma negra","market_capitalization_usd":"1580000000","price":7,"country":"argentina"}
 {"name":"chambal fertilisers","market_capitalization_usd":"1570000000","price":4,"country":"india"}
-{"name":"mahindra cie","market_capitalization_usd":"1570000000","price":4,"country":"india"}
+{"name":"mahincie","market_capitalization_usd":"1570000000","price":4,"country":"india"}
 {"name":"kiocl","market_capitalization_usd":"1570000000","price":3,"country":"india"}
 {"name":"apollo commercial real estate","market_capitalization_usd":"1570000000","price":11,"country":"usa"}
 {"name":"elgi equipments","market_capitalization_usd":"1570000000","price":5,"country":"india"}
@@ -4024,7 +4024,7 @@
 {"name":"montauk renewables","market_capitalization_usd":"1540000000","price":11,"country":"usa"}
 {"name":"kingsoft cloud","market_capitalization_usd":"1540000000","price":5,"country":"china"}
 {"name":"nokian tyres","market_capitalization_usd":"1540000000","price":11,"country":"finland"}
-{"name":"ballard power syste","market_capitalization_usd":"1530000000","price":5,"country":"canada"}
+{"name":"ballard power systems","market_capitalization_usd":"1530000000","price":5,"country":"canada"}
 {"name":"rocket pharmaceuticals","market_capitalization_usd":"1530000000","price":19,"country":"usa"}
 {"name":"borregaard","market_capitalization_usd":"1530000000","price":15,"country":"norway"}
 {"name":"hillman solutions","market_capitalization_usd":"1530000000","price":8,"country":"usa"}
@@ -4053,7 +4053,7 @@
 {"name":"model n","market_capitalization_usd":"1500000000","price":40,"country":"usa"}
 {"name":"kar auction services","market_capitalization_usd":"1500000000","price":14,"country":"usa"}
 {"name":"first national of nebraska","market_capitalization_usd":"1500000000","price":13305,"country":"usa"}
-{"name":"enghouse syste","market_capitalization_usd":"1500000000","price":27,"country":"canada"}
+{"name":"enghouse systems","market_capitalization_usd":"1500000000","price":27,"country":"canada"}
 {"name":"oatly","market_capitalization_usd":"1500000000","price":3,"country":"sweden"}
 {"name":"sihanoukville autonomous port","market_capitalization_usd":"1500000000","price":3,"country":"cambodia"}
 {"name":"kymera therapeutics","market_capitalization_usd":"1490000000","price":27,"country":"usa"}
@@ -4193,7 +4193,7 @@
 {"name":"at&s austria technologie & systemtechnik","market_capitalization_usd":"1360000000","price":35,"country":"austria"}
 {"name":"par pacific holdings","market_capitalization_usd":"1360000000","price":23,"country":"usa"}
 {"name":"paramount group","market_capitalization_usd":"1360000000","price":6,"country":"usa"}
-{"name":"osi syste","market_capitalization_usd":"1360000000","price":81,"country":"usa"}
+{"name":"osi systems","market_capitalization_usd":"1360000000","price":81,"country":"usa"}
 {"name":"gag immobilien","market_capitalization_usd":"1360000000","price":84,"country":"germany"}
 {"name":"uponor","market_capitalization_usd":"1360000000","price":19,"country":"finland"}
 {"name":"rent-a-center","market_capitalization_usd":"1350000000","price":24,"country":"usa"}
@@ -4215,7 +4215,7 @@
 {"name":"summerset holdings","market_capitalization_usd":"1340000000","price":6,"country":"new zealand"}
 {"name":"diagnosticos da america","market_capitalization_usd":"1340000000","price":2,"country":"brazil"}
 {"name":"bank fur tirol und vorarlberg","market_capitalization_usd":"1340000000","price":39,"country":"austria"}
-{"name":"telephone and data syste","market_capitalization_usd":"1340000000","price":12,"country":"usa"}
+{"name":"telephone and data systems","market_capitalization_usd":"1340000000","price":12,"country":"usa"}
 {"name":"eih limited","market_capitalization_usd":"1340000000","price":2,"country":"india"}
 {"name":"finolex industries","market_capitalization_usd":"1340000000","price":2,"country":"india"}
 {"name":"amplitude","market_capitalization_usd":"1340000000","price":12,"country":"usa"}
@@ -4283,7 +4283,7 @@
 {"name":"precinct properties","market_capitalization_usd":"1270000000","price":1,"country":"new zealand"}
 {"name":"federal agricultural mortgage","market_capitalization_usd":"1270000000","price":121,"country":"usa"}
 {"name":"p10","market_capitalization_usd":"1270000000","price":11,"country":"usa"}
-{"name":"hi & hers health","market_capitalization_usd":"1270000000","price":6,"country":"usa"}
+{"name":"hi& hers health","market_capitalization_usd":"1270000000","price":6,"country":"usa"}
 {"name":"mativ holdings","market_capitalization_usd":"1270000000","price":23,"country":"usa"}
 {"name":"veidekke","market_capitalization_usd":"1270000000","price":10,"country":"norway"}
 {"name":"safety insurance","market_capitalization_usd":"1270000000","price":86,"country":"usa"}
@@ -4398,7 +4398,7 @@
 {"name":"volaris","market_capitalization_usd":"1150000000","price":9,"country":"mexico"}
 {"name":"the andersons","market_capitalization_usd":"1150000000","price":35,"country":"usa"}
 {"name":"kforce","market_capitalization_usd":"1150000000","price":56,"country":"usa"}
-{"name":"seush","market_capitalization_usd":"1150000000","price":8,"country":"usa"}
+{"name":"semrush","market_capitalization_usd":"1150000000","price":8,"country":"usa"}
 {"name":"zydus wellness","market_capitalization_usd":"1150000000","price":18,"country":"india"}
 {"name":"fuelcell energy","market_capitalization_usd":"1140000000","price":3,"country":"usa"}
 {"name":"costamare","market_capitalization_usd":"1140000000","price":9,"country":"monaco"}
@@ -4406,7 +4406,7 @@
 {"name":"piedmont office realty trust","market_capitalization_usd":"1140000000","price":9,"country":"usa"}
 {"name":"citycon","market_capitalization_usd":"1140000000","price":7,"country":"finland"}
 {"name":"ivanhoe electric","market_capitalization_usd":"1140000000","price":12,"country":"canada"}
-{"name":"formula syste","market_capitalization_usd":"1140000000","price":75,"country":"israel"}
+{"name":"formula systems","market_capitalization_usd":"1140000000","price":75,"country":"israel"}
 {"name":"acleda bank","market_capitalization_usd":"1140000000","price":3,"country":"cambodia"}
 {"name":"tanla","market_capitalization_usd":"1140000000","price":8,"country":"india"}
 {"name":"wabash national","market_capitalization_usd":"1130000000","price":24,"country":"usa"}
@@ -4475,7 +4475,7 @@
 {"name":"golden entertainment","market_capitalization_usd":"1080000000","price":38,"country":"usa"}
 {"name":"cowen","market_capitalization_usd":"1080000000","price":39,"country":"usa"}
 {"name":"photronics","market_capitalization_usd":"1080000000","price":18,"country":"usa"}
-{"name":"3d syste","market_capitalization_usd":"1070000000","price":8,"country":"usa"}
+{"name":"3d systems","market_capitalization_usd":"1070000000","price":8,"country":"usa"}
 {"name":"tejas networks","market_capitalization_usd":"1070000000","price":7,"country":"india"}
 {"name":"dah sing banking group","market_capitalization_usd":"1070000000","price":1,"country":"hong kong"}
 {"name":"fiverr","market_capitalization_usd":"1070000000","price":29,"country":"israel"}
@@ -4598,9 +4598,9 @@
 {"name":"naas technology","market_capitalization_usd":"970000000","price":5,"country":"china"}
 {"name":"rites","market_capitalization_usd":"970000000","price":4,"country":"india"}
 {"name":"core laboratories","market_capitalization_usd":"970000000","price":21,"country":"netherlands"}
-{"name":"aest","market_capitalization_usd":"970000000","price":4,"country":"spain"}
+{"name":"amrest","market_capitalization_usd":"970000000","price":4,"country":"spain"}
 {"name":"opko health","market_capitalization_usd":"970000000","price":1,"country":"usa"}
-{"name":"perdoceo education","market_capitalization_usd":"970000000","price":14,"country":"usa"}
+{"name":"perdoeducation","market_capitalization_usd":"970000000","price":14,"country":"usa"}
 {"name":"postnl","market_capitalization_usd":"970000000","price":2,"country":"netherlands"}
 {"name":"select energy services","market_capitalization_usd":"970000000","price":9,"country":"usa"}
 {"name":"immunogen","market_capitalization_usd":"970000000","price":4,"country":"usa"}
@@ -4621,7 +4621,7 @@
 {"name":"collegium pharmaceutical","market_capitalization_usd":"960000000","price":29,"country":"usa"}
 {"name":"proassurance","market_capitalization_usd":"960000000","price":18,"country":"usa"}
 {"name":"cymbria","market_capitalization_usd":"960000000","price":42,"country":"canada"}
-{"name":"c global","market_capitalization_usd":"960000000","price":11,"country":"usa"}
+{"name":"global","market_capitalization_usd":"960000000","price":11,"country":"usa"}
 {"name":"kalpataru power transmission","market_capitalization_usd":"960000000","price":6,"country":"india"}
 {"name":"lemonade","market_capitalization_usd":"950000000","price":14,"country":"usa"}
 {"name":"youdao","market_capitalization_usd":"950000000","price":8,"country":"china"}
@@ -4661,7 +4661,7 @@
 {"name":"steel partners","market_capitalization_usd":"930000000","price":43,"country":"usa"}
 {"name":"piedmont lithium","market_capitalization_usd":"930000000","price":52,"country":"australia"}
 {"name":"gogoro","market_capitalization_usd":"930000000","price":4,"country":"taiwan"}
-{"name":"sturm, ruger & co","market_capitalization_usd":"920000000","price":53,"country":"usa"}
+{"name":"sturm ruger & co","market_capitalization_usd":"920000000","price":53,"country":"usa"}
 {"name":"palfinger","market_capitalization_usd":"920000000","price":27,"country":"austria"}
 {"name":"omega flex","market_capitalization_usd":"920000000","price":92,"country":"usa"}
 {"name":"marshalls plc","market_capitalization_usd":"920000000","price":4,"country":"uk"}
@@ -4752,7 +4752,7 @@
 {"name":"rpt realty","market_capitalization_usd":"850000000","price":10,"country":"usa"}
 {"name":"membership collective","market_capitalization_usd":"850000000","price":4,"country":"uk"}
 {"name":"american woodmark","market_capitalization_usd":"850000000","price":52,"country":"usa"}
-{"name":"ichor syste","market_capitalization_usd":"850000000","price":30,"country":"usa"}
+{"name":"ichor systems","market_capitalization_usd":"850000000","price":30,"country":"usa"}
 {"name":"overstockcom","market_capitalization_usd":"850000000","price":19,"country":"usa"}
 {"name":"bbva argentina","market_capitalization_usd":"850000000","price":4,"country":"argentina"}
 {"name":"chase corporation","market_capitalization_usd":"850000000","price":90,"country":"usa"}
@@ -4924,7 +4924,7 @@
 {"name":"beml","market_capitalization_usd":"740000000","price":18,"country":"india"}
 {"name":"tokmanni","market_capitalization_usd":"740000000","price":13,"country":"finland"}
 {"name":"w&t offshore","market_capitalization_usd":"740000000","price":5,"country":"usa"}
-{"name":"al moammar information syste","market_capitalization_usd":"740000000","price":25,"country":"s. arabia"}
+{"name":"al moammar information systems","market_capitalization_usd":"740000000","price":25,"country":"s. arabia"}
 {"name":"riskified","market_capitalization_usd":"740000000","price":4,"country":"israel"}
 {"name":"exscientia","market_capitalization_usd":"740000000","price":6,"country":"uk"}
 {"name":"tcg bdc","market_capitalization_usd":"740000000","price":15,"country":"usa"}
@@ -4956,7 +4956,7 @@
 {"name":"slam corp","market_capitalization_usd":"720000000","price":10,"country":"usa"}
 {"name":"the first bancshares","market_capitalization_usd":"720000000","price":30,"country":"usa"}
 {"name":"olvi plc","market_capitalization_usd":"720000000","price":35,"country":"finland"}
-{"name":"idreaky","market_capitalization_usd":"720000000","price":1,"country":"china"}
+{"name":"idreamsky","market_capitalization_usd":"720000000","price":1,"country":"china"}
 {"name":"quess","market_capitalization_usd":"720000000","price":5,"country":"india"}
 {"name":"edelweiss financial services","market_capitalization_usd":"720000000","price":1,"country":"india"}
 {"name":"united fire group","market_capitalization_usd":"720000000","price":29,"country":"usa"}
@@ -5023,7 +5023,7 @@
 {"name":"travelcenters of america","market_capitalization_usd":"680000000","price":46,"country":"usa"}
 {"name":"alector","market_capitalization_usd":"680000000","price":8,"country":"usa"}
 {"name":"delta corp","market_capitalization_usd":"680000000","price":3,"country":"india"}
-{"name":"mahindra lifespaces","market_capitalization_usd":"680000000","price":4,"country":"india"}
+{"name":"mahinlifespaces","market_capitalization_usd":"680000000","price":4,"country":"india"}
 {"name":"jin air","market_capitalization_usd":"670000000","price":13,"country":"s. korea"}
 {"name":"cimpress","market_capitalization_usd":"670000000","price":26,"country":"ireland"}
 {"name":"otc markets group","market_capitalization_usd":"670000000","price":57,"country":"usa"}
@@ -5066,7 +5066,7 @@
 {"name":"g8 education","market_capitalization_usd":"650000000","price":1,"country":"australia"}
 {"name":"chico's","market_capitalization_usd":"650000000","price":5,"country":"usa"}
 {"name":"nhn corp","market_capitalization_usd":"650000000","price":20,"country":"s. korea"}
-{"name":"cass information syste","market_capitalization_usd":"650000000","price":48,"country":"usa"}
+{"name":"cass information systems","market_capitalization_usd":"650000000","price":48,"country":"usa"}
 {"name":"barrett business services","market_capitalization_usd":"650000000","price":94,"country":"usa"}
 {"name":"vertical aerospace","market_capitalization_usd":"650000000","price":3,"country":"uk"}
 {"name":"cmge technology group","market_capitalization_usd":"650000000","price":0,"country":"china"}
@@ -5088,7 +5088,7 @@
 {"name":"indus realty trust","market_capitalization_usd":"640000000","price":63,"country":"usa"}
 {"name":"kaman","market_capitalization_usd":"640000000","price":23,"country":"usa"}
 {"name":"sight sciences","market_capitalization_usd":"640000000","price":13,"country":"usa"}
-{"name":"community health syste","market_capitalization_usd":"640000000","price":5,"country":"usa"}
+{"name":"community health systems","market_capitalization_usd":"640000000","price":5,"country":"usa"}
 {"name":"nano dimension","market_capitalization_usd":"640000000","price":2,"country":"usa"}
 {"name":"york water","market_capitalization_usd":"630000000","price":45,"country":"usa"}
 {"name":"valhi","market_capitalization_usd":"630000000","price":23,"country":"usa"}
@@ -5102,7 +5102,7 @@
 {"name":"vacasa","market_capitalization_usd":"620000000","price":1,"country":"usa"}
 {"name":"finnair","market_capitalization_usd":"620000000","price":0,"country":"finland"}
 {"name":"delegat","market_capitalization_usd":"620000000","price":6,"country":"new zealand"}
-{"name":"aehr test syste","market_capitalization_usd":"620000000","price":23,"country":"usa"}
+{"name":"aehr test systems","market_capitalization_usd":"620000000","price":23,"country":"usa"}
 {"name":"mullen automotive","market_capitalization_usd":"620000000","price":0,"country":"usa"}
 {"name":"clearwater paper","market_capitalization_usd":"620000000","price":37,"country":"usa"}
 {"name":"gorilla technology","market_capitalization_usd":"620000000","price":9,"country":"taiwan"}
@@ -5112,7 +5112,7 @@
 {"name":"erasca","market_capitalization_usd":"610000000","price":4,"country":"usa"}
 {"name":"sunteck realty","market_capitalization_usd":"610000000","price":4,"country":"india"}
 {"name":"editas medicine","market_capitalization_usd":"610000000","price":9,"country":"usa"}
-{"name":"vital far","market_capitalization_usd":"610000000","price":15,"country":"usa"}
+{"name":"vital farms","market_capitalization_usd":"610000000","price":15,"country":"usa"}
 {"name":"iguatemi","market_capitalization_usd":"610000000","price":0,"country":"brazil"}
 {"name":"shenzhen bingchuan network","market_capitalization_usd":"610000000","price":4,"country":"china"}
 {"name":"vimeo","market_capitalization_usd":"610000000","price":4,"country":"usa"}
@@ -5148,7 +5148,7 @@
 {"name":"zynex","market_capitalization_usd":"600000000","price":16,"country":"usa"}
 {"name":"zensar","market_capitalization_usd":"600000000","price":3,"country":"india"}
 {"name":"caredx","market_capitalization_usd":"600000000","price":11,"country":"usa"}
-{"name":"cardiovascular syste","market_capitalization_usd":"600000000","price":14,"country":"usa"}
+{"name":"cardiovascular systems","market_capitalization_usd":"600000000","price":14,"country":"usa"}
 {"name":"intercept pharmaceuticals","market_capitalization_usd":"590000000","price":14,"country":"usa"}
 {"name":"re/max holdings","market_capitalization_usd":"590000000","price":19,"country":"usa"}
 {"name":"repare therapeutics","market_capitalization_usd":"590000000","price":14,"country":"canada"}
@@ -5316,7 +5316,7 @@
 {"name":"2u","market_capitalization_usd":"500000000","price":6,"country":"usa"}
 {"name":"midwestone financial group","market_capitalization_usd":"500000000","price":32,"country":"usa"}
 {"name":"wave life sciences","market_capitalization_usd":"500000000","price":6,"country":"singapore"}
-{"name":"th international ti china","market_capitalization_usd":"500000000","price":3,"country":"china"}
+{"name":"th international tichina","market_capitalization_usd":"500000000","price":3,"country":"china"}
 {"name":"ranpak","market_capitalization_usd":"500000000","price":6,"country":"usa"}
 {"name":"sundial growers","market_capitalization_usd":"500000000","price":2,"country":"canada"}
 {"name":"porr","market_capitalization_usd":"500000000","price":13,"country":"austria"}
@@ -5379,7 +5379,7 @@
 {"name":"quanterix","market_capitalization_usd":"470000000","price":13,"country":"usa"}
 {"name":"microvast","market_capitalization_usd":"470000000","price":2,"country":"usa"}
 {"name":"seneca foods","market_capitalization_usd":"470000000","price":61,"country":"usa"}
-{"name":"the r group","market_capitalization_usd":"470000000","price":29,"country":"usa"}
+{"name":"the rgroup","market_capitalization_usd":"470000000","price":29,"country":"usa"}
 {"name":"greenpanel industries","market_capitalization_usd":"470000000","price":4,"country":"india"}
 {"name":"taseko mines","market_capitalization_usd":"470000000","price":2,"country":"canada"}
 {"name":"allovir","market_capitalization_usd":"470000000","price":5,"country":"usa"}
@@ -5422,7 +5422,7 @@
 {"name":"igg inc","market_capitalization_usd":"450000000","price":0,"country":"singapore"}
 {"name":"ifb industries","market_capitalization_usd":"450000000","price":11,"country":"india"}
 {"name":"reliance infrastructure","market_capitalization_usd":"450000000","price":2,"country":"india"}
-{"name":"mitek syste","market_capitalization_usd":"450000000","price":10,"country":"usa"}
+{"name":"mitek systems","market_capitalization_usd":"450000000","price":10,"country":"usa"}
 {"name":"desktop metal","market_capitalization_usd":"450000000","price":1,"country":"usa"}
 {"name":"fission uranium","market_capitalization_usd":"450000000","price":1,"country":"canada"}
 {"name":"eagle point credit company","market_capitalization_usd":"450000000","price":10,"country":"usa"}
@@ -5432,7 +5432,7 @@
 {"name":"tsakos energy navigation","market_capitalization_usd":"440000000","price":16,"country":"greece"}
 {"name":"archosaur games","market_capitalization_usd":"440000000","price":1,"country":"china"}
 {"name":"orpea","market_capitalization_usd":"440000000","price":7,"country":"france"}
-{"name":"ayt pharma","market_capitalization_usd":"440000000","price":7,"country":"uk"}
+{"name":"amryt pharma","market_capitalization_usd":"440000000","price":7,"country":"uk"}
 {"name":"the children's place","market_capitalization_usd":"440000000","price":37,"country":"usa"}
 {"name":"butterfly network","market_capitalization_usd":"440000000","price":2,"country":"usa"}
 {"name":"entrada therapeutics","market_capitalization_usd":"440000000","price":14,"country":"usa"}
@@ -5475,7 +5475,7 @@
 {"name":"southern missouri bancorp","market_capitalization_usd":"430000000","price":47,"country":"usa"}
 {"name":"wemade","market_capitalization_usd":"420000000","price":26,"country":"s. korea"}
 {"name":"newpark resources","market_capitalization_usd":"420000000","price":5,"country":"usa"}
-{"name":"mahindra logistics","market_capitalization_usd":"420000000","price":6,"country":"india"}
+{"name":"mahinlogistics","market_capitalization_usd":"420000000","price":6,"country":"india"}
 {"name":"paisalo digital","market_capitalization_usd":"420000000","price":1,"country":"india"}
 {"name":"harrow health","market_capitalization_usd":"420000000","price":14,"country":"usa"}
 {"name":"avadel pharmaceuticals","market_capitalization_usd":"420000000","price":7,"country":"ireland"}
@@ -5514,7 +5514,7 @@
 {"name":"ramaco resources","market_capitalization_usd":"400000000","price":9,"country":"usa"}
 {"name":"priority technology holdings","market_capitalization_usd":"400000000","price":5,"country":"usa"}
 {"name":"shotspotter","market_capitalization_usd":"400000000","price":33,"country":"usa"}
-{"name":"jindal poly fil","market_capitalization_usd":"400000000","price":9,"country":"india"}
+{"name":"jindal poly films","market_capitalization_usd":"400000000","price":9,"country":"india"}
 {"name":"dzs inc","market_capitalization_usd":"400000000","price":13,"country":"usa"}
 {"name":"lexicon pharmaceuticals","market_capitalization_usd":"400000000","price":2,"country":"usa"}
 {"name":"niu","market_capitalization_usd":"400000000","price":5,"country":"china"}
@@ -5534,7 +5534,7 @@
 {"name":"phnom penh autonomous port","market_capitalization_usd":"390000000","price":3,"country":"cambodia"}
 {"name":"karyopharm therapeutics","market_capitalization_usd":"390000000","price":4,"country":"usa"}
 {"name":"rbb bancorp","market_capitalization_usd":"390000000","price":21,"country":"usa"}
-{"name":"computer progra and syste","market_capitalization_usd":"390000000","price":27,"country":"usa"}
+{"name":"computer prograand systems","market_capitalization_usd":"390000000","price":27,"country":"usa"}
 {"name":"eagle pharmaceuticals","market_capitalization_usd":"390000000","price":30,"country":"usa"}
 {"name":"capstar financial","market_capitalization_usd":"390000000","price":18,"country":"usa"}
 {"name":"caremax","market_capitalization_usd":"390000000","price":4,"country":"usa"}
@@ -5681,7 +5681,7 @@
 {"name":"nilkamal","market_capitalization_usd":"340000000","price":23,"country":"india"}
 {"name":"argonaut gold","market_capitalization_usd":"340000000","price":0,"country":"usa"}
 {"name":"astronics corporation","market_capitalization_usd":"340000000","price":11,"country":"usa"}
-{"name":"hbl power syste","market_capitalization_usd":"340000000","price":1,"country":"india"}
+{"name":"hbl power systems","market_capitalization_usd":"340000000","price":1,"country":"india"}
 {"name":"gaslog partners","market_capitalization_usd":"340000000","price":6,"country":"greece"}
 {"name":"fubotv","market_capitalization_usd":"340000000","price":2,"country":"usa"}
 {"name":"aviat networks","market_capitalization_usd":"340000000","price":30,"country":"usa"}
@@ -5720,7 +5720,7 @@
 {"name":"first bancorp","market_capitalization_usd":"320000000","price":30,"country":"usa"}
 {"name":"vasta platform","market_capitalization_usd":"320000000","price":4,"country":"brazil"}
 {"name":"diana shipping","market_capitalization_usd":"320000000","price":4,"country":"greece"}
-{"name":"cosmo fil","market_capitalization_usd":"320000000","price":12,"country":"india"}
+{"name":"cosmo films","market_capitalization_usd":"320000000","price":12,"country":"india"}
 {"name":"gabriel india","market_capitalization_usd":"320000000","price":2,"country":"india"}
 {"name":"skywater technology","market_capitalization_usd":"320000000","price":8,"country":"usa"}
 {"name":"american battery technology company","market_capitalization_usd":"320000000","price":1,"country":"usa"}
@@ -5761,7 +5761,7 @@
 {"name":"grindrod shipping","market_capitalization_usd":"300000000","price":16,"country":"singapore"}
 {"name":"bioatla","market_capitalization_usd":"300000000","price":8,"country":"usa"}
 {"name":"dbv technologies","market_capitalization_usd":"300000000","price":2,"country":"france"}
-{"name":"casa syste","market_capitalization_usd":"300000000","price":3,"country":"usa"}
+{"name":"casa systems","market_capitalization_usd":"300000000","price":3,"country":"usa"}
 {"name":"qiwi","market_capitalization_usd":"300000000","price":5,"country":"cyprus"}
 {"name":"forge global","market_capitalization_usd":"300000000","price":2,"country":"usa"}
 {"name":"bcb bancorp","market_capitalization_usd":"300000000","price":18,"country":"usa"}
@@ -5891,7 +5891,7 @@
 {"name":"stellus capital","market_capitalization_usd":"250000000","price":13,"country":"usa"}
 {"name":"lesaka technologies","market_capitalization_usd":"250000000","price":4,"country":"south africa"}
 {"name":"gigacloud technology","market_capitalization_usd":"250000000","price":6,"country":"china"}
-{"name":"skyx platfor","market_capitalization_usd":"250000000","price":3,"country":"usa"}
+{"name":"skyx platforms","market_capitalization_usd":"250000000","price":3,"country":"usa"}
 {"name":"organigram holdings","market_capitalization_usd":"250000000","price":1,"country":"canada"}
 {"name":"first guaranty bancshares","market_capitalization_usd":"250000000","price":24,"country":"usa"}
 {"name":"tactile medical","market_capitalization_usd":"250000000","price":13,"country":"usa"}
@@ -5923,7 +5923,7 @@
 {"name":"gati","market_capitalization_usd":"250000000","price":2,"country":"india"}
 {"name":"uranium royalty","market_capitalization_usd":"250000000","price":2,"country":"canada"}
 {"name":"kaltura","market_capitalization_usd":"250000000","price":2,"country":"usa"}
-{"name":"tc limited","market_capitalization_usd":"250000000","price":4,"country":"india"}
+{"name":"mstc limited","market_capitalization_usd":"250000000","price":4,"country":"india"}
 {"name":"alpine income property trust","market_capitalization_usd":"250000000","price":19,"country":"usa"}
 {"name":"zengame technology","market_capitalization_usd":"240000000","price":0,"country":"china"}
 {"name":"va tech wabag","market_capitalization_usd":"240000000","price":4,"country":"india"}
@@ -5933,7 +5933,7 @@
 {"name":"transglobe energy","market_capitalization_usd":"240000000","price":4,"country":"canada"}
 {"name":"solo brands","market_capitalization_usd":"240000000","price":4,"country":"usa"}
 {"name":"parke bancorp","market_capitalization_usd":"240000000","price":21,"country":"usa"}
-{"name":"oil-dri corporation of america","market_capitalization_usd":"240000000","price":35,"country":"usa"}
+{"name":"oil-corporation of america","market_capitalization_usd":"240000000","price":35,"country":"usa"}
 {"name":"cantabil retail india","market_capitalization_usd":"240000000","price":15,"country":"india"}
 {"name":"orrstown financial services","market_capitalization_usd":"240000000","price":23,"country":"usa"}
 {"name":"fabasoft","market_capitalization_usd":"240000000","price":22,"country":"austria"}
@@ -5983,7 +5983,7 @@
 {"name":"rent the runway","market_capitalization_usd":"230000000","price":4,"country":"usa"}
 {"name":"molecular partners","market_capitalization_usd":"230000000","price":6,"country":"switzerland"}
 {"name":"brightcove","market_capitalization_usd":"230000000","price":6,"country":"usa"}
-{"name":"jain irrigation syste","market_capitalization_usd":"230000000","price":0,"country":"india"}
+{"name":"jain irrigation systems","market_capitalization_usd":"230000000","price":0,"country":"india"}
 {"name":"908 devices","market_capitalization_usd":"230000000","price":7,"country":"usa"}
 {"name":"airsculpt technologies","market_capitalization_usd":"230000000","price":4,"country":"usa"}
 {"name":"zimvie","market_capitalization_usd":"230000000","price":9,"country":"usa"}
@@ -6108,7 +6108,7 @@
 {"name":"cepton","market_capitalization_usd":"190000000","price":1,"country":"usa"}
 {"name":"hill international","market_capitalization_usd":"190000000","price":3,"country":"usa"}
 {"name":"cooper standard","market_capitalization_usd":"190000000","price":11,"country":"usa"}
-{"name":"plaid,inc","market_capitalization_usd":"190000000","price":5,"country":"japan"}
+{"name":"plaidinc","market_capitalization_usd":"190000000","price":5,"country":"japan"}
 {"name":"southern petrochemical industries corp","market_capitalization_usd":"190000000","price":1,"country":"india"}
 {"name":"faraday future","market_capitalization_usd":"190000000","price":0,"country":"usa"}
 {"name":"penns woods bancorp","market_capitalization_usd":"190000000","price":27,"country":"usa"}
@@ -6137,7 +6137,7 @@
 {"name":"bank of innovation","market_capitalization_usd":"180000000","price":47,"country":"japan"}
 {"name":"velodyne lidar","market_capitalization_usd":"180000000","price":1,"country":"usa"}
 {"name":"nelco","market_capitalization_usd":"180000000","price":8,"country":"india"}
-{"name":"view, inc","market_capitalization_usd":"180000000","price":1,"country":"usa"}
+{"name":"view inc","market_capitalization_usd":"180000000","price":1,"country":"usa"}
 {"name":"veritone","market_capitalization_usd":"180000000","price":5,"country":"usa"}
 {"name":"gtl infrastructure","market_capitalization_usd":"180000000","price":0,"country":"india"}
 {"name":"mps limited","market_capitalization_usd":"180000000","price":11,"country":"india"}
@@ -6188,7 +6188,7 @@
 {"name":"alaunos therapeutics","market_capitalization_usd":"170000000","price":1,"country":"usa"}
 {"name":"silvercrest asset management group","market_capitalization_usd":"170000000","price":18,"country":"usa"}
 {"name":"incannex healthcare","market_capitalization_usd":"170000000","price":3,"country":"australia"}
-{"name":"china automotive syste","market_capitalization_usd":"170000000","price":6,"country":"china"}
+{"name":"china automotive systems","market_capitalization_usd":"170000000","price":6,"country":"china"}
 {"name":"william penn bancorp","market_capitalization_usd":"170000000","price":12,"country":"usa"}
 {"name":"acacia research","market_capitalization_usd":"170000000","price":4,"country":"usa"}
 {"name":"cadiz","market_capitalization_usd":"170000000","price":3,"country":"usa"}
@@ -6274,7 +6274,7 @@
 {"name":"precision biosciences","market_capitalization_usd":"150000000","price":1,"country":"usa"}
 {"name":"cleanspark","market_capitalization_usd":"150000000","price":2,"country":"usa"}
 {"name":"prophase labs","market_capitalization_usd":"150000000","price":9,"country":"usa"}
-{"name":"westport fuel syste","market_capitalization_usd":"150000000","price":1,"country":"canada"}
+{"name":"westport fuel systems","market_capitalization_usd":"150000000","price":1,"country":"canada"}
 {"name":"sunlight financial","market_capitalization_usd":"150000000","price":1,"country":"usa"}
 {"name":"x-legend entertainment","market_capitalization_usd":"150000000","price":1,"country":"taiwan"}
 {"name":"mistras group","market_capitalization_usd":"140000000","price":5,"country":"usa"}
@@ -6296,7 +6296,7 @@
 {"name":"hanover bancorp","market_capitalization_usd":"140000000","price":20,"country":"usa"}
 {"name":"parag milk foods","market_capitalization_usd":"140000000","price":1,"country":"india"}
 {"name":"vroom","market_capitalization_usd":"140000000","price":1,"country":"usa"}
-{"name":"singular genomics syste","market_capitalization_usd":"140000000","price":2,"country":"usa"}
+{"name":"singular genomics systems","market_capitalization_usd":"140000000","price":2,"country":"usa"}
 {"name":"benessere capital acquisition","market_capitalization_usd":"140000000","price":10,"country":"usa"}
 {"name":"serverworks","market_capitalization_usd":"140000000","price":18,"country":"japan"}
 {"name":"xeris pharmaceuticals","market_capitalization_usd":"140000000","price":1,"country":"usa"}
@@ -6348,7 +6348,7 @@
 {"name":"o2micro","market_capitalization_usd":"130000000","price":4,"country":"cayman islands"}
 {"name":"martin midstream partners","market_capitalization_usd":"130000000","price":3,"country":"usa"}
 {"name":"ag mortgage investment trust","market_capitalization_usd":"120000000","price":6,"country":"usa"}
-{"name":"village far international","market_capitalization_usd":"120000000","price":1,"country":"canada"}
+{"name":"village farinternational","market_capitalization_usd":"120000000","price":1,"country":"canada"}
 {"name":"americas gold and silver corp","market_capitalization_usd":"120000000","price":1,"country":"canada"}
 {"name":"tabula rasa healthcare","market_capitalization_usd":"120000000","price":5,"country":"usa"}
 {"name":"cellectis","market_capitalization_usd":"120000000","price":3,"country":"france"}
@@ -6401,7 +6401,7 @@
 {"name":"naked wines","market_capitalization_usd":"110000000","price":2,"country":"uk"}
 {"name":"peninsula energy","market_capitalization_usd":"110000000","price":0,"country":"australia"}
 {"name":"praxis precision medicines","market_capitalization_usd":"110000000","price":3,"country":"usa"}
-{"name":"bitfar","market_capitalization_usd":"110000000","price":1,"country":"canada"}
+{"name":"bitfarms","market_capitalization_usd":"110000000","price":1,"country":"canada"}
 {"name":"matinas biopharma","market_capitalization_usd":"110000000","price":1,"country":"usa"}
 {"name":"akebia therapeutics","market_capitalization_usd":"110000000","price":1,"country":"usa"}
 {"name":"rumbleon","market_capitalization_usd":"110000000","price":7,"country":"usa"}
@@ -6436,7 +6436,7 @@
 {"name":"citizens inc","market_capitalization_usd":"100000000","price":2,"country":"usa"}
 {"name":"cel-sci","market_capitalization_usd":"100000000","price":2,"country":"usa"}
 {"name":"orient paper mills","market_capitalization_usd":"100000000","price":1,"country":"india"}
-{"name":"cocore","market_capitalization_usd":"100000000","price":1,"country":"usa"}
+{"name":"comscore","market_capitalization_usd":"100000000","price":1,"country":"usa"}
 {"name":"starbreeze","market_capitalization_usd":"100000000","price":0,"country":"sweden"}
 {"name":"kore","market_capitalization_usd":"100000000","price":1,"country":"usa"}
 {"name":"india nippon electricals","market_capitalization_usd":"100000000","price":5,"country":"india"}
@@ -6559,7 +6559,7 @@
 {"name":"carrols restaurant group","market_capitalization_usd":"81500000","price":2,"country":"usa"}
 {"name":"ebixcash india","market_capitalization_usd":"81500000","price":7,"country":"india"}
 {"name":"lmp automotive holdings","market_capitalization_usd":"80720000","price":7,"country":"usa"}
-{"name":"rekor syste","market_capitalization_usd":"80430000","price":1,"country":"usa"}
+{"name":"rekor systems","market_capitalization_usd":"80430000","price":1,"country":"usa"}
 {"name":"akatsuki corp","market_capitalization_usd":"79730000","price":2,"country":"japan"}
 {"name":"jianzhi education technology group","market_capitalization_usd":"79320000","price":1,"country":"china"}
 {"name":"mesa air","market_capitalization_usd":"79300000","price":2,"country":"usa"}
@@ -6590,7 +6590,7 @@
 {"name":"sotherly hotels","market_capitalization_usd":"73190000","price":2,"country":"usa"}
 {"name":"ss lazio","market_capitalization_usd":"72740000","price":1,"country":"italy"}
 {"name":"atyr pharma","market_capitalization_usd":"72520000","price":3,"country":"usa"}
-{"name":"nn, inc","market_capitalization_usd":"72380000","price":2,"country":"usa"}
+{"name":"nn inc","market_capitalization_usd":"72380000","price":2,"country":"usa"}
 {"name":"embark technology","market_capitalization_usd":"72130000","price":3,"country":"usa"}
 {"name":"io biotech","market_capitalization_usd":"72030000","price":3,"country":"denmark"}
 {"name":"syros pharmaceuticals","market_capitalization_usd":"72000000","price":4,"country":"usa"}
@@ -6659,7 +6659,7 @@
 {"name":"augmedix","market_capitalization_usd":"60640000","price":2,"country":"usa"}
 {"name":"lantern pharma","market_capitalization_usd":"60450000","price":6,"country":"usa"}
 {"name":"bit digital","market_capitalization_usd":"60370000","price":1,"country":"usa"}
-{"name":"orion energy syste","market_capitalization_usd":"60290000","price":2,"country":"usa"}
+{"name":"orion energy systems","market_capitalization_usd":"60290000","price":2,"country":"usa"}
 {"name":"polishedcom","market_capitalization_usd":"59970000","price":1,"country":"usa"}
 {"name":"wayi international digital entertainment","market_capitalization_usd":"59920000","price":3,"country":"taiwan"}
 {"name":"the marygold companies","market_capitalization_usd":"59540000","price":2,"country":"usa"}
@@ -6680,7 +6680,7 @@
 {"name":"sellas life sciences","market_capitalization_usd":"55580000","price":3,"country":"usa"}
 {"name":"petropavlovsk","market_capitalization_usd":"55500000","price":1,"country":"uk"}
 {"name":"magic empire global giraffe capital","market_capitalization_usd":"55400000","price":3,"country":"hong kong"}
-{"name":"balaji telefil","market_capitalization_usd":"55310000","price":1,"country":"india"}
+{"name":"balaji telefilms","market_capitalization_usd":"55310000","price":1,"country":"india"}
 {"name":"freightcar america","market_capitalization_usd":"55240000","price":3,"country":"usa"}
 {"name":"geospace technologies","market_capitalization_usd":"54940000","price":4,"country":"usa"}
 {"name":"pavmed","market_capitalization_usd":"54810000","price":1,"country":"usa"}
@@ -6691,7 +6691,7 @@
 {"name":"biolargo","market_capitalization_usd":"53980000","price":0,"country":"usa"}
 {"name":"scynexis","market_capitalization_usd":"53880000","price":2,"country":"usa"}
 {"name":"abeona therapeutics","market_capitalization_usd":"53240000","price":3,"country":"usa"}
-{"name":"rapid micro biosyste","market_capitalization_usd":"52910000","price":1,"country":"usa"}
+{"name":"rapid micro biosystems","market_capitalization_usd":"52910000","price":1,"country":"usa"}
 {"name":"mobile factory","market_capitalization_usd":"52390000","price":7,"country":"japan"}
 {"name":"virtra","market_capitalization_usd":"52090000","price":5,"country":"usa"}
 {"name":"therapeuticsmd","market_capitalization_usd":"52060000","price":6,"country":"usa"}
@@ -6791,13 +6791,13 @@
 {"name":"grand twins international cambodia","market_capitalization_usd":"35830000","price":1,"country":"cambodia"}
 {"name":"fragbite group","market_capitalization_usd":"35380000","price":0,"country":"sweden"}
 {"name":"capstone green energy","market_capitalization_usd":"35380000","price":2,"country":"usa"}
-{"name":"cotock mining","market_capitalization_usd":"35360000","price":0,"country":"usa"}
+{"name":"comstock mining","market_capitalization_usd":"35360000","price":0,"country":"usa"}
 {"name":"izea worldwide","market_capitalization_usd":"34910000","price":1,"country":"usa"}
 {"name":"realnetworks","market_capitalization_usd":"34820000","price":1,"country":"usa"}
 {"name":"emcore corporation","market_capitalization_usd":"34590000","price":1,"country":"usa"}
 {"name":"corphousing group","market_capitalization_usd":"34480000","price":1,"country":"usa"}
 {"name":"palatin technologies","market_capitalization_usd":"34270000","price":3,"country":"usa"}
-{"name":"ageagle aerial syste","market_capitalization_usd":"34200000","price":0,"country":"usa"}
+{"name":"ageagle aerial systems","market_capitalization_usd":"34200000","price":0,"country":"usa"}
 {"name":"lightpath technologies","market_capitalization_usd":"34120000","price":1,"country":"usa"}
 {"name":"heartbeam","market_capitalization_usd":"33850000","price":4,"country":"usa"}
 {"name":"audacy","market_capitalization_usd":"33760000","price":0,"country":"usa"}
@@ -6868,7 +6868,7 @@
 {"name":"society pass","market_capitalization_usd":"24700000","price":1,"country":"singapore"}
 {"name":"wonderplanet","market_capitalization_usd":"24640000","price":10,"country":"japan"}
 {"name":"axel mark","market_capitalization_usd":"24590000","price":2,"country":"japan"}
-{"name":"document security syste","market_capitalization_usd":"24390000","price":0,"country":"usa"}
+{"name":"document security systems","market_capitalization_usd":"24390000","price":0,"country":"usa"}
 {"name":"edia","market_capitalization_usd":"24310000","price":4,"country":"japan"}
 {"name":"fc porto","market_capitalization_usd":"24160000","price":1,"country":"portugal"}
 {"name":"aprea therapeutics","market_capitalization_usd":"24150000","price":0,"country":"usa"}
@@ -6972,7 +6972,7 @@
 {"name":"precipio","market_capitalization_usd":"14140000","price":1,"country":"usa"}
 {"name":"celsion corporation","market_capitalization_usd":"13910000","price":2,"country":"usa"}
 {"name":"tempest therapeutics","market_capitalization_usd":"13880000","price":1,"country":"usa"}
-{"name":"ra medical syste","market_capitalization_usd":"13850000","price":6,"country":"usa"}
+{"name":"ra medical systems","market_capitalization_usd":"13850000","price":6,"country":"usa"}
 {"name":"inspira technologies","market_capitalization_usd":"13840000","price":1,"country":"israel"}
 {"name":"forgame","market_capitalization_usd":"13390000","price":0,"country":"china"}
 {"name":"bioaffinity technologies","market_capitalization_usd":"13390000","price":2,"country":"usa"}
@@ -6987,7 +6987,7 @@
 {"name":"digital ally","market_capitalization_usd":"12880000","price":0,"country":"usa"}
 {"name":"olb group","market_capitalization_usd":"12860000","price":1,"country":"usa"}
 {"name":"ispecimen","market_capitalization_usd":"12660000","price":1,"country":"usa"}
-{"name":"t2 biosyste","market_capitalization_usd":"12660000","price":2,"country":"usa"}
+{"name":"t2 biosystems","market_capitalization_usd":"12660000","price":2,"country":"usa"}
 {"name":"organovo","market_capitalization_usd":"12630000","price":1,"country":"usa"}
 {"name":"trust stamp","market_capitalization_usd":"12600000","price":1,"country":"usa"}
 {"name":"orosur mining","market_capitalization_usd":"12490000","price":0,"country":"canada"}
@@ -7063,7 +7063,7 @@
 {"name":"viveve medical","market_capitalization_usd":"7070000","price":1,"country":"usa"}
 {"name":"quoin pharmaceuticals","market_capitalization_usd":"7020000","price":1,"country":"usa"}
 {"name":"field trip health","market_capitalization_usd":"6950000","price":0,"country":"canada"}
-{"name":"tivic health syste","market_capitalization_usd":"6940000","price":1,"country":"usa"}
+{"name":"tivic health systems","market_capitalization_usd":"6940000","price":1,"country":"usa"}
 {"name":"vivopower","market_capitalization_usd":"6770000","price":0,"country":"uk"}
 {"name":"blackboxstocks","market_capitalization_usd":"6590000","price":1,"country":"usa"}
 {"name":"gameone","market_capitalization_usd":"6540000","price":0,"country":"hong kong"}
@@ -7132,10 +7132,10 @@
 {"name":"mobilicom","market_capitalization_usd":"1430000","price":1,"country":"australia"}
 {"name":"quotient","market_capitalization_usd":"1340000","price":0,"country":"switzerland"}
 {"name":"freeze tag","market_capitalization_usd":"1200000","price":0,"country":"usa"}
-{"name":"quanergy syste","market_capitalization_usd":"1190000","price":0,"country":"usa"}
+{"name":"quanergy systems","market_capitalization_usd":"1190000","price":0,"country":"usa"}
 {"name":"kuuhubb","market_capitalization_usd":"1180000","price":0,"country":"canada"}
 {"name":"youngevity international","market_capitalization_usd":"1130000","price":0,"country":"usa"}
-{"name":"versus syste","market_capitalization_usd":"1070000","price":1,"country":"canada"}
+{"name":"versus systems","market_capitalization_usd":"1070000","price":1,"country":"canada"}
 {"name":"ifresh","market_capitalization_usd":"1010000","price":0,"country":"usa"}
 {"name":"playground ventures","market_capitalization_usd":"920000","price":0,"country":"canada"}
 {"name":"trulite","market_capitalization_usd":"210000","price":0,"country":"usa"}
@@ -7148,7 +7148,7 @@
 {"name":"magnit","market_capitalization_usd":"","price":60,"country":"russia"}
 {"name":"novolipetsk steel","market_capitalization_usd":"","price":2,"country":"russia"}
 {"name":"phosagro","market_capitalization_usd":"","price":90,"country":"russia"}
-{"name":"mobile telesyste","market_capitalization_usd":"","price":3,"country":"russia"}
+{"name":"mobile telesystems","market_capitalization_usd":"","price":3,"country":"russia"}
 {"name":"novatek","market_capitalization_usd":"","price":15,"country":"russia"}
 {"name":"tatneft","market_capitalization_usd":"","price":5,"country":"russia"}
 {"name":"sberbank","market_capitalization_usd":"","price":2,"country":"russia"}

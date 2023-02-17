@@ -11,7 +11,7 @@
 {"industry":"it, internet, software & services","founded":"1998","revenue":257,"name":"alphabet","location":"mountain view, california"}
 {"industry":"it, internet, software & services","founded":"1975","revenue":184,"name":"microsoft","location":"redmond, washington"}
 {"industry":"banking","founded":"1929","revenue":152,"name":"bank of china","location":"beijing, china"}
-{"industry":"conglomerate","founded":"1938","revenue":244,"name":"saung group","location":"seoul, south korea"}
+{"industry":"conglomerate","founded":"1938","revenue":244,"name":"samsung group","location":"seoul, south korea"}
 {"industry":"oil & gas operations","founded":"1999","revenue":280,"name":"exxonmobil","location":"irving, texas"}
 {"industry":"construction, oil & gas operations, mining and chemicals","founded":"1907","revenue":261,"name":"shell","location":"london, united kingdom"}
 {"industry":"insurance","founded":"1988","revenue":181,"name":"ping an insurance group","location":"shenzhen, china"}
@@ -31,7 +31,7 @@
 {"industry":"telecommunications services","founded":"1997","revenue":131,"name":"china mobile","location":"hong kong, hong kong"}
 {"industry":"media & advertising","founded":"1963","revenue":116,"name":"comcast","location":"philadelphia, pennsylvania"}
 {"industry":"retailing","founded":"1999","revenue":129,"name":"alibaba group","location":"hangzhou, china"}
-{"industry":"it, internet, software & services","founded":"2004","revenue":117,"name":"meta platfor","location":"menlo park, california"}
+{"industry":"it, internet, software & services","founded":"2004","revenue":117,"name":"meta platforms","location":"menlo park, california"}
 {"industry":"insurance","founded":"1890","revenue":138,"name":"allianz","location":"munich, germany"}
 {"industry":"diversified financials","founded":"1924","revenue":60,"name":"morgan stanley","location":"new york, new york"}
 {"industry":"diversified financials","founded":"1869","revenue":62,"name":"goldman sachs group","location":"new york, new york"}
@@ -73,7 +73,7 @@
 {"industry":"insurance","founded":"1868","revenue":71,"name":"metlife","location":"new york, new york"}
 {"industry":"construction, oil & gas operations, mining and chemicals","founded":"1885","revenue":65,"name":"bhp group","location":"melbourne, australia"}
 {"industry":"banking and financial services","founded":"1850","revenue":46,"name":"american express","location":"new york, new york"}
-{"industry":"consumer durables","founded":"2021","revenue":176,"name":"stellantis","location":"a terdam, netherlands"}
+{"industry":"consumer durables","founded":"2021","revenue":176,"name":"stellantis","location":"amsterdam, netherlands"}
 {"industry":"insurance","founded":"1872","revenue":69,"name":"zurich insurance group","location":"zurich, switzerland"}
 {"industry":"oil & gas operations","founded":"1993","revenue":111,"name":"rosneft","location":"moscow, russia"}
 {"industry":"construction, oil & gas operations, mining and chemicals","founded":"1873","revenue":63,"name":"rio tinto","location":"london, united kingdom"}
@@ -86,7 +86,7 @@
 {"industry":"banking","founded":"1832","revenue":30,"name":"bank of nova scotia","location":"toronto, canada"}
 {"industry":"insurance","founded":"1919","revenue":52,"name":"american international group","location":"new york, new york"}
 {"industry":"materials","founded":"1974","revenue":203,"name":"glencore international","location":"baar, switzerland"}
-{"industry":"it, internet, software & services","founded":"1984","revenue":51,"name":"cisco syste","location":"san jose, california"}
+{"industry":"it, internet, software & services","founded":"1984","revenue":51,"name":"cisco systems","location":"san jose, california"}
 {"industry":"food, soft beverages, alcohol & tobacco","founded":"2008","revenue":54,"name":"anheuser-busch inbev","location":"leuven, belgium"}
 {"industry":"media & advertising","founded":"1923","revenue":73,"name":"walt disney","location":"burbank, california"}
 {"industry":"insurance","founded":"1985","revenue":41,"name":"chubb","location":"zurich, switzerland"}
@@ -177,7 +177,7 @@
 {"industry":"utilities","founded":"2000","revenue":91,"name":"eon","location":"essen, germany"}
 {"industry":"materials","founded":"1917","revenue":41,"name":"anglo american","location":"london, united kingdom"}
 {"industry":"banking","founded":"1943","revenue":28,"name":"banco bradesco","location":"osasco, brazil"}
-{"industry":"diversified financials","founded":"1991","revenue":21,"name":"ing group","location":"a terdam, netherlands"}
+{"industry":"diversified financials","founded":"1991","revenue":21,"name":"ing group","location":"amsterdam, netherlands"}
 {"industry":"professional services","founded":"1955","revenue":56,"name":"accenture","location":"dulin, ireland"}
 {"industry":"conglomerates","founded":"1906","revenue":34,"name":"honeywell international","location":"charlotte, north carolina"}
 {"industry":"banking","founded":"2003","revenue":26,"name":"mizuho financial","location":"tokyo, japan"}
@@ -266,7 +266,7 @@
 {"industry":"drugs & biotechnology","founded":"1984","revenue":126,"name":"centene","location":"st. louis, missouri"}
 {"industry":"business services & supplies","founded":"1977","revenue":18,"name":"hdfc","location":"mumbai, india"}
 {"industry":"materials","founded":"1897","revenue":24,"name":"freeport-mcmoran","location":"phoenix, arizona"}
-{"industry":"drugs & biotechnology","founded":"1668","revenue":23,"name":"merck kgaa, dartadt, germany and its affiliates","location":"dar tadt, germany"}
+{"industry":"drugs & biotechnology","founded":"1668","revenue":23,"name":"merck kgaa darmstadt germany and its affiliates","location":"darmstadt, germany"}
 {"industry":"banking","founded":"1980","revenue":14,"name":"caixabank","location":"valencia, spain"}
 {"industry":"conglomerates","founded":"1883","revenue":28,"name":"abb","location":"zurich, switzerland"}
 {"industry":"consumer durables","founded":"1927","revenue":43,"name":"volvo group","location":"goteborg, sweden"}
@@ -338,7 +338,7 @@
 {"industry":"diversified financials","founded":"1894","revenue":13,"name":"ameriprise financial","location":"minneapolis, minnesota"}
 {"industry":"health care equipment & services","founded":"1897","revenue":19,"name":"becton dickinson","location":"franklin lakes, new jersey"}
 {"industry":"consumer durables","founded":"1918","revenue":66,"name":"panasonic","location":"osaka, japan"}
-{"industry":"insurance","founded":"2008","revenue":41,"name":"&ad insurance","location":"tokyo, japan"}
+{"industry":"insurance","founded":"2008","revenue":41,"name":"ms&ad insurance","location":"tokyo, japan"}
 {"industry":"business services & supplies","founded":"1964","revenue":22,"name":"orix","location":"tokyo, japan"}
 {"industry":"diversified financials","founded":"1995","revenue":11,"name":"citic securities","location":"shenzhen, china"}
 {"industry":"banking","founded":"1968","revenue":8,"name":"first abu dhabi bank","location":"abu dhabi, united arab emirates"}
@@ -404,8 +404,8 @@
 {"industry":"capital goods","founded":"1921","revenue":40,"name":"mitsubishi electric","location":"tokyo, japan"}
 {"industry":"consumer durables","founded":"1933","revenue":79,"name":"nissan motor","location":"yokohama, japan"}
 {"industry":"materials","founded":"1907","revenue":31,"name":"tata steel","location":"mumbai, india"}
-{"industry":"food, drink & tobacco","founded":"1864","revenue":25,"name":"heineken","location":"a terdam, netherlands"}
-{"industry":"aerospace & defense","founded":"1999","revenue":26,"name":"bae syste","location":"farnborough, united kingdom"}
+{"industry":"food, drink & tobacco","founded":"1864","revenue":25,"name":"heineken","location":"amsterdam, netherlands"}
+{"industry":"aerospace & defense","founded":"1999","revenue":26,"name":"bae systems","location":"farnborough, united kingdom"}
 {"industry":"telecommunications services","founded":"2004","revenue":14,"name":"etisalat","location":"abu dhabi, united arab emirates"}
 {"industry":"telecommunications services, cable supplier","founded":"1980","revenue":28,"name":"bt group","location":"london, united kingdom"}
 {"industry":"banking","founded":"1966","revenue":14,"name":"ctbc financial","location":"taipei, taiwan"}
@@ -419,8 +419,8 @@
 {"industry":"business services & supplies","founded":"1937","revenue":32,"name":"canon","location":"tokyo, japan"}
 {"industry":"construction","founded":"1954","revenue":28,"name":"lennar","location":"miami, florida"}
 {"industry":"banking","founded":"1996","revenue":12,"name":"bank of nanjing","location":"nanjing, china"}
-{"industry":"health care equipment & services","founded":"1891","revenue":20,"name":"philips","location":"a terdam, netherlands"}
-{"industry":"food, drink & tobacco","founded":"2018","revenue":12,"name":"keurig dr pepper","location":"plano, texas"}
+{"industry":"health care equipment & services","founded":"1891","revenue":20,"name":"philips","location":"amsterdam, netherlands"}
+{"industry":"food, drink & tobacco","founded":"2018","revenue":12,"name":"keurig pepper","location":"plano, texas"}
 {"industry":"utilities","founded":"2002","revenue":8,"name":"china yangtze power","location":"beijing, china"}
 {"industry":"banking","founded":"2003","revenue":7,"name":"dnb bank","location":"oslo, norway"}
 {"industry":"capital goods","founded":"1890","revenue":18,"name":"emerson electric","location":"st. louis, missouri"}
@@ -483,7 +483,7 @@
 {"industry":"utilities","founded":"2005","revenue":12,"name":"taqa","location":"abu dhabi, united arab emirates"}
 {"industry":"food, soft beverages, alcohol & tobacco","founded":"1975","revenue":11,"name":"pernod ricard","location":"paris, france"}
 {"industry":"banking","founded":"1824","revenue":9,"name":"bank mandiri","location":"jakarta, indonesia"}
-{"industry":"food, drink & tobacco","founded":"1890","revenue":27,"name":"fea","location":"monterrey , mexico"}
+{"industry":"food, drink & tobacco","founded":"1890","revenue":27,"name":"femsa","location":"monterrey , mexico"}
 {"industry":"automotive  automotive and suppliers ","founded":"1972","revenue":23,"name":"paccar","location":"bellevue, washington"}
 {"industry":"utilities","founded":"1823","revenue":13,"name":"consolidated edison","location":"new york, new york"}
 {"industry":"construction","founded":"1941","revenue":18,"name":"mitsui fudosan","location":"tokyo, japan"}
@@ -495,7 +495,7 @@
 {"industry":"diversified financials","founded":"1802","revenue":9,"name":"london stock exchange","location":"london, united kingdom"}
 {"industry":"construction","founded":"1998","revenue":6,"name":"vonovia","location":"bochum, germany"}
 {"industry":"insurance","founded":"2000","revenue":45,"name":"aviva","location":"london, united kingdom"}
-{"industry":"construction, oil & gas operations, mining and chemicals","founded":"1866","revenue":19,"name":"sherwin-willia","location":"cleveland, ohio"}
+{"industry":"construction, oil & gas operations, mining and chemicals","founded":"1866","revenue":19,"name":"sherwin-williams","location":"cleveland, ohio"}
 {"industry":"consumer durables","founded":"1934","revenue":22,"name":"fujifilm holdings","location":"tokyo, japan"}
 {"industry":"it software & services","founded":"1983","revenue":11,"name":"intuit","location":"mountain view, california"}
 {"industry":"semiconductors, electronics, electrical engineering, technology hardware & equipment","founded":"1980","revenue":16,"name":"lam research","location":"fremont, california"}
@@ -515,7 +515,7 @@
 {"industry":"insurance","founded":"1809","revenue":14,"name":"intact financial","location":"toronto, canada"}
 {"industry":"oil & gas operations","founded":"1972","revenue":11,"name":"orsted","location":"fredericia, denmark"}
 {"industry":"engineering, manufacturing","founded":"1919","revenue":24,"name":"cummins","location":"columbus, ohio"}
-{"industry":"oil & gas operations","founded":"1908","revenue":10,"name":"willia","location":"tulsa, oklahoma"}
+{"industry":"oil & gas operations","founded":"1908","revenue":10,"name":"williams","location":"tulsa, oklahoma"}
 {"industry":"it software & services","founded":"1967","revenue":21,"name":"capgemini","location":"paris, france"}
 {"industry":"real estate","founded":"1993","revenue":4,"name":"prologis","location":"denver, colorado"}
 {"industry":"aerospace & defense","founded":"1949","revenue":19,"name":"thales","location":"paris, france"}
@@ -525,13 +525,13 @@
 {"industry":"telecommunications services","founded":"1988","revenue":50,"name":"orange","location":"paris, france"}
 {"industry":"transportation","founded":"1890","revenue":35,"name":"kuehne & nagel international","location":"schindellegi, switzerland"}
 {"industry":"food, drink & tobacco","founded":"1818","revenue":59,"name":"bunge","location":"st. louis, missouri"}
-{"industry":"insurance","founded":"1957","revenue":25,"name":"saung life insurance","location":"seoul, south korea"}
+{"industry":"insurance","founded":"1957","revenue":25,"name":"samsung life insurance","location":"seoul, south korea"}
 {"industry":"it software & services","founded":"1998","revenue":12,"name":"vmware","location":"palo alto, california"}
 {"industry":"food markets","founded":"1939","revenue":71,"name":"albertsons","location":"boise, idaho"}
 {"industry":"capital goods","founded":"2007","revenue":34,"name":"crrc","location":"beijing, china"}
 {"industry":"construction","founded":"1906","revenue":27,"name":"cbre group","location":"dallas, texas"}
 {"industry":"conglomerate","founded":"1875","revenue":30,"name":"toshiba","location":"tokyo, japan"}
-{"industry":"trading companies","founded":"1963","revenue":30,"name":"saung c&t","location":"seoul, south korea"}
+{"industry":"trading companies","founded":"1963","revenue":30,"name":"samsung c&t","location":"seoul, south korea"}
 {"industry":"it software & services","founded":"1981","revenue":16,"name":"infosys","location":"bangalore, india"}
 {"industry":"banking and financial services","founded":"1848","revenue":26,"name":"prudential","location":"hong kong, london, united kingdom"}
 {"industry":"materials","founded":"1997","revenue":16,"name":"yankuang energy group","location":"zoucheng, china"}
@@ -621,7 +621,7 @@
 {"industry":"oil & gas operations","founded":"1963","revenue":38,"name":"koc holding","location":"istanbul, turkey"}
 {"industry":"capital goods","founded":"1973","revenue":17,"name":"nidec","location":"kyoto, japan"}
 {"industry":"it software & services","founded":"2010","revenue":27,"name":"meituan","location":"beijing, china"}
-{"industry":"diversified financials","founded":"1985","revenue":7,"name":"kotak mahindra bank","location":"mumbai, india"}
+{"industry":"diversified financials","founded":"1985","revenue":7,"name":"kotak mahinbank","location":"mumbai, india"}
 {"industry":"materials","founded":"1906","revenue":10,"name":"teck resources","location":"vancouver, canada"}
 {"industry":"transportation and logistics","founded":"1967","revenue":15,"name":"southwest airlines","location":"dallas, texas"}
 {"industry":"diversified financials","founded":"1990","revenue":5,"name":"deutsche boerse","location":"eschborn, germany"}
@@ -676,7 +676,7 @@
 {"industry":"retailing","founded":"1993","revenue":31,"name":"carmax","location":"richmond, virginia"}
 {"industry":"banking","founded":"2001","revenue":12,"name":"china development financial","location":"taipei, taiwan"}
 {"industry":"banking","founded":"1983","revenue":3,"name":"riyad bank","location":"riyadh, saudi arabia"}
-{"industry":"media & advertising","founded":"2008","revenue":6,"name":"thoon reuters","location":"eagan, minnesota"}
+{"industry":"media & advertising","founded":"2008","revenue":6,"name":"thomson reuters","location":"eagan, minnesota"}
 {"industry":"oil & gas operations","founded":"1993","revenue":14,"name":"transneft","location":"moscow, russia"}
 {"industry":"trading companies","founded":"1887","revenue":22,"name":"ferguson","location":"wokingham, united kingdom"}
 {"industry":"drugs & biotechnology","founded":"1982","revenue":13,"name":"iqvia","location":"durham, north carolina"}
@@ -762,10 +762,10 @@
 {"industry":"consumer durables","founded":"1969","revenue":17,"name":"dongfeng motor group","location":"wuhan, china"}
 {"industry":"insurance","founded":"1996","revenue":25,"name":"china reinsurance group","location":"beijing, china"}
 {"industry":"construction","founded":"1976","revenue":3,"name":"henderson land","location":"hong kong, hong kong"}
-{"industry":"technology hardware & equipment","founded":"1970","revenue":11,"name":"saung sdi","location":"yongin, south korea"}
+{"industry":"technology hardware & equipment","founded":"1970","revenue":11,"name":"samsung sdi","location":"yongin, south korea"}
 {"industry":"utilities","founded":"1987","revenue":7,"name":"fortis canada","location":"st. john's, canada"}
 {"industry":"telecommunications services","founded":"1984","revenue":14,"name":"sk telecom","location":"seoul, south korea"}
-{"industry":"diversified financials","founded":"1977","revenue":8,"name":"hal trust","location":"wille tad, netherlands"}
+{"industry":"diversified financials","founded":"1977","revenue":8,"name":"hal trust","location":"willemstad, netherlands"}
 {"industry":"diversified financials","founded":"1979","revenue":2,"name":"banco btg pactual","location":"rio de janeiro, brazil"}
 {"industry":"construction, oil & gas operations, mining and chemicals","founded":"1987","revenue":20,"name":"baker hughes company","location":"houston, texas"}
 {"industry":"insurance","founded":"2016","revenue":8,"name":"gallagher","location":"rolling meadows, illinois"}
@@ -793,7 +793,7 @@
 {"industry":"consumer durables","founded":"1911","revenue":22,"name":"whirlpool","location":"benton harbor, michigan"}
 {"industry":"capital goods","founded":"1866","revenue":32,"name":"siemens energy","location":"munich, germany"}
 {"industry":"materials","founded":"2015","revenue":19,"name":"westrock","location":"atlanta, georgia"}
-{"industry":"insurance","founded":"1952","revenue":18,"name":"saung fire & marine","location":"seoul, south korea"}
+{"industry":"insurance","founded":"1952","revenue":18,"name":"samsung fire & marine","location":"seoul, south korea"}
 {"industry":"materials","founded":"1901","revenue":20,"name":"us steel","location":"pittsburgh, pennsylvania"}
 {"industry":"materials","founded":"1978","revenue":11,"name":"upm-kymmene","location":"helsinki, finland"}
 {"industry":"chemicals","founded":"1965","revenue":13,"name":"formosa chemicals","location":"changhua, taiwan"}
@@ -824,7 +824,7 @@
 {"industry":"diversified financials","founded":"2002","revenue":2,"name":"mega financial holding","location":"taipei, taiwan"}
 {"industry":"retailing","founded":"2008","revenue":27,"name":"zhongsheng group holdings","location":"dalian, china"}
 {"industry":"insurance","founded":"2002","revenue":15,"name":"shin kong financial","location":"taipei, taiwan"}
-{"industry":"utilities","founded":"1987","revenue":7,"name":"c energy","location":"jackson, michigan"}
+{"industry":"utilities","founded":"1987","revenue":7,"name":"cenergy","location":"jackson, michigan"}
 {"industry":"conglomerates","founded":"1957","revenue":8,"name":"quinenco","location":"las condes, chile"}
 {"industry":"chemicals","founded":"2007","revenue":18,"name":"evonik industries","location":"essen, germany"}
 {"industry":"it software & services","founded":"2004","revenue":2,"name":"east money information","location":"shanghai, china"}
@@ -924,7 +924,7 @@
 {"industry":"clothing, shoes, sports equipment","founded":"1899","revenue":11,"name":"vf","location":"denver, colorado"}
 {"industry":"health care equipment & services","founded":"1995","revenue":5,"name":"intuitive surgical","location":"sunnyvale, california"}
 {"industry":"oil & gas operations","founded":"1941","revenue":3,"name":"snam","location":"milan, italy"}
-{"industry":"capital goods","founded":"1945","revenue":18,"name":"vestas wind syste","location":"aarhus, denmark"}
+{"industry":"capital goods","founded":"1945","revenue":18,"name":"vestas wind systems","location":"aarhus, denmark"}
 {"industry":"consumer durables","founded":"1953","revenue":25,"name":"subaru","location":"tokyo, japan"}
 {"industry":"construction","founded":"1998","revenue":14,"name":"jiangsu zhongnan construction group","location":"shanghai, china"}
 {"industry":"food, drink & tobacco","founded":"1847","revenue":10,"name":"carlsberg","location":"copenhagen, denmark"}
@@ -1050,15 +1050,15 @@
 {"industry":"banking","founded":"1996","revenue":4,"name":"bank of chengdu","location":"chengdu, china"}
 {"industry":"diversified financials","founded":"","revenue":331,"name":"3i group","location":"london, united kingdom"}
 {"industry":"banking","founded":"2006","revenue":1,"name":"alinma bank","location":"riyadh, saudi arabia"}
-{"industry":"food & drink","founded":"2018","revenue":8,"name":"jde peet's","location":"a terdam, netherlands"}
+{"industry":"food & drink","founded":"2018","revenue":8,"name":"jde peet's","location":"amsterdam, netherlands"}
 {"industry":"oil & gas operations","founded":"2015","revenue":21,"name":"cosmo energy holdings","location":"tokyo, japan"}
 {"industry":"construction","founded":"1996","revenue":10,"name":"risesun real estate development","location":"langfang, china"}
 {"industry":"food, drink & tobacco","founded":"1967","revenue":17,"name":"uni-president","location":"tainan, taiwan"}
-{"industry":"consumer durables","founded":"1945","revenue":11,"name":"mahindra & mahindra","location":"mumbai, india"}
+{"industry":"consumer durables","founded":"1945","revenue":11,"name":"mahin& mahindra","location":"mumbai, india"}
 {"industry":"telecommunications services","founded":"1855","revenue":13,"name":"telenor","location":"fornebu, norway"}
 {"industry":"drugs & biotechnology","founded":"1928","revenue":6,"name":"ucb","location":"brussels, belgium"}
 {"industry":"business services & supplies","founded":"1930","revenue":10,"name":"interpublic group","location":"new york, new york"}
-{"industry":"chemicals","founded":"1969","revenue":11,"name":"akzo nobel","location":"a terdam, netherlands"}
+{"industry":"chemicals","founded":"1969","revenue":11,"name":"akzo nobel","location":"amsterdam, netherlands"}
 {"industry":"chemicals","founded":"1918","revenue":8,"name":"celanese","location":"irving, texas"}
 {"industry":"diversified financials","founded":"1978","revenue":2,"name":"avalonbay communities","location":"arlington, virginia"}
 {"industry":"business services & supplies","founded":"1960","revenue":29,"name":"randstad nv","location":"diemen, netherlands"}
@@ -1275,7 +1275,7 @@
 {"industry":"food, drink & tobacco","founded":"1989","revenue":35,"name":"olam group","location":"singapore, singapore"}
 {"industry":"drugs & biotechnology","founded":"2000","revenue":3,"name":"wuxi apptec","location":"shanghai, china"}
 {"industry":"banking","founded":"1893","revenue":2,"name":"popular","location":"san juan, united states"}
-{"industry":"utilities","founded":"2015","revenue":5,"name":"hydro one","location":"toronto, canada"}
+{"industry":"utilities","founded":"2015","revenue":5,"name":"hyone","location":"toronto, canada"}
 {"industry":"transportation","founded":"2006","revenue":13,"name":"sg holdings","location":"kyoto, japan"}
 {"industry":"trading companies","founded":"2003","revenue":18,"name":"sojitz","location":"tokyo, japan"}
 {"industry":"technology hardware & equipment","founded":"2001","revenue":12,"name":"goertek","location":"weifang, china"}
@@ -1292,7 +1292,7 @@
 {"industry":"materials","founded":"2008","revenue":15,"name":"hbis","location":"shijiazhuang, china"}
 {"industry":"banking","founded":"2017","revenue":5,"name":"banco bpm","location":"milan, italy"}
 {"industry":"construction","founded":"","revenue":10,"name":"china fortune land development","location":"beijing, china"}
-{"industry":"it software & services","founded":"2006","revenue":7,"name":"adyen","location":"a terdam, netherlands"}
+{"industry":"it software & services","founded":"2006","revenue":7,"name":"adyen","location":"amsterdam, netherlands"}
 {"industry":"transportation and logistics","founded":"2004","revenue":16,"name":"air france-klm","location":"paris, france"}
 {"industry":"construction, oil & gas operations, mining and chemicals","founded":"1947","revenue":14,"name":"jacobs engineering","location":"dallas, texas"}
 {"industry":"utilities","founded":"2001","revenue":11,"name":"china resources power","location":"hong kong, hong kong"}
@@ -1329,7 +1329,7 @@
 {"industry":"diversified financials","founded":"1969","revenue":7,"name":"eurazeo","location":"paris, france"}
 {"industry":"oil & gas operations","founded":"1885","revenue":17,"name":"tokyo gas","location":"tokyo, japan"}
 {"industry":"banking","founded":"1998","revenue":7,"name":"guangzhou rural commercial bank","location":"guangzhou, china"}
-{"industry":"construction","founded":"","revenue":1,"name":"heitaden ab pref shs","location":"malmo, sweden"}
+{"industry":"construction","founded":"","revenue":1,"name":"heimstaden ab pref shs","location":"malmo, sweden"}
 {"industry":"technology hardware & equipment","founded":"2014","revenue":5,"name":"keysight technologies","location":"santa rosa, california"}
 {"industry":"diversified financials","founded":"1804","revenue":4,"name":"schroders","location":"london, united kingdom"}
 {"industry":"diversified financials","founded":"","revenue":47,"name":"stonex group","location":"new york, new york"}
@@ -1378,7 +1378,7 @@
 {"industry":"retailing","founded":"1950","revenue":7,"name":"grupo elektra","location":"mexico city, mexico"}
 {"industry":"utilities","founded":"1989","revenue":6,"name":"sdic power holdings","location":"beijing, china"}
 {"industry":"diversified financials","founded":"1999","revenue":8,"name":"wuestenrot & wuerttembergische","location":"stuttgart, germany"}
-{"industry":"business services & supplies","founded":"1998","revenue":2,"name":"ci","location":"new york, new york"}
+{"industry":"business services & supplies","founded":"1998","revenue":2,"name":"msci","location":"new york, new york"}
 {"industry":"banking","founded":"1867","revenue":4,"name":"bper banca","location":"modena, italy"}
 {"industry":"construction","founded":"1936","revenue":17,"name":"obayashi","location":"tokyo, japan"}
 {"industry":"banking","founded":"2011","revenue":4,"name":"bnk financial group","location":"busan, south korea"}
@@ -1388,7 +1388,7 @@
 {"industry":"trading companies","founded":"2006","revenue":17,"name":"brenntag","location":"essen, germany"}
 {"industry":"food, drink & tobacco","founded":"1993","revenue":10,"name":"wens foodstuff group","location":"yunfu, china"}
 {"industry":"insurance","founded":"","revenue":9,"name":"first american financial","location":"santa ana, california"}
-{"industry":"diversified financials","founded":"2014","revenue":1,"name":"euronext","location":"a terdam, netherlands"}
+{"industry":"diversified financials","founded":"2014","revenue":1,"name":"euronext","location":"amsterdam, netherlands"}
 {"industry":"banking","founded":"2006","revenue":1,"name":"masraf al rayan","location":"doha, qatar"}
 {"industry":"it software & services","founded":"1999","revenue":7,"name":"mercadolibre","location":"montevideo, uruguay"}
 {"industry":"materials","founded":"1959","revenue":7,"name":"packaging corp of america","location":"lake forest, illinois"}
@@ -1400,7 +1400,7 @@
 {"industry":"diversified financials","founded":"2013","revenue":3,"name":"navient","location":"wilmington, delaware"}
 {"industry":"media","founded":"1973","revenue":7,"name":"rtl group","location":"luxembourg, luxembourg"}
 {"industry":"food markets","founded":"1940","revenue":13,"name":"kesko","location":"helsinki, finland"}
-{"industry":"diversified financials","founded":"1982","revenue":2,"name":"saung securities","location":"seoul, south korea"}
+{"industry":"diversified financials","founded":"1982","revenue":2,"name":"samsung securities","location":"seoul, south korea"}
 {"industry":"construction","founded":"1997","revenue":13,"name":"quanta services","location":"houston, texas"}
 {"industry":"construction","founded":"1993","revenue":10,"name":"beijing capital development","location":"beijing, china"}
 {"industry":"business services & supplies","founded":"2008","revenue":5,"name":"far east horizon","location":"hong kong, hong kong"}
@@ -1426,7 +1426,7 @@
 {"industry":"diversified financials","founded":"1704","revenue":8,"name":"wendel","location":"paris, france"}
 {"industry":"oil & gas operations","founded":"1897","revenue":13,"name":"osaka gas","location":"osaka, japan"}
 {"industry":"consumer durables","founded":"1980","revenue":14,"name":"thor industries","location":"elkhart, indiana"}
-{"industry":"retail and wholesale","founded":"1956","revenue":8,"name":"willia-sonoma","location":"san francisco, california"}
+{"industry":"retail and wholesale","founded":"1956","revenue":8,"name":"williams-sonoma","location":"san francisco, california"}
 {"industry":"transportation","founded":"","revenue":71,"name":"xiamen xiangyu","location":"xiamen, china"}
 {"industry":"automotive","founded":"2009","revenue":55,"name":"rivian","location":"irvine, california"}
 {"industry":"transportation and logistics","founded":"2006","revenue":12,"name":"kion group","location":"frankfurt am main, germany"}

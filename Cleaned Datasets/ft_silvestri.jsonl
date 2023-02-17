@@ -3,7 +3,7 @@
 {"country":"uk","employees_2017":"4","employees_2020":"32","founding_year":"2012","name":"oci","revenue_2017":"4,325,512","revenue_2020":"568,322,073","sector":"financial services"}
 {"country":"uk","employees_2017":"4","employees_2020":"800","founding_year":"2016","name":"onlyfans","revenue_2017":"2,652,185","revenue_2020":"316,732,986","sector":"technology"}
 {"country":"germany","employees_2017":"9","employees_2020":"365","founding_year":"2017","name":"enpal","revenue_2017":"486,165","revenue_2020":"56,109,613","sector":"energy"}
-{"country":"germany","employees_2017":"2","employees_2020":"9","founding_year":"2017","name":" consulting","revenue_2017":"150,908","revenue_2020":"13,165,586","sector":"waste management & recycling"}
+{"country":"germany","employees_2017":"2","employees_2020":"9","founding_year":"2017","name":"consulting","revenue_2017":"150,908","revenue_2020":"13,165,586","sector":"waste management & recycling"}
 {"country":"uk","employees_2017":"12","employees_2020":"57","founding_year":"2015","name":"thriva","revenue_2017":"251,668","revenue_2020":"18,732,563","sector":"health"}
 {"country":"france","employees_2017":"15","employees_2020":"200","founding_year":"2015","name":"exotec","revenue_2017":"706,700","revenue_2020":"47,597,000","sector":"industrial goods"}
 {"country":"italy","employees_2017":"1","employees_2020":"10","founding_year":"2015","name":"winelivery","revenue_2017":"111,500","revenue_2020":"7,337,290","sector":"ecommerce"}
@@ -143,9 +143,9 @@
 {"country":"italy","employees_2017":"2","employees_2020":"5","founding_year":"2014","name":"kiteworldshopcom","revenue_2017":"160,539","revenue_2020":"1,671,984","sector":"ecommerce"}
 {"country":"germany","employees_2017":"10","employees_2020":"19","founding_year":"2006","name":"peter kenkel","revenue_2017":"2,131,000","revenue_2020":"22,137,000","sector":"retail"}
 {"country":"denmark","employees_2017":"32","employees_2020":"292","founding_year":"2014","name":"templafy","revenue_2017":"1,521,010","revenue_2020":"15,486,451","sector":"technology"}
-{"country":"italy","employees_2017":"17","employees_2020":"99","founding_year":"2014","name":"coervice","revenue_2017":"194,780","revenue_2020":"2,016,300","sector":"support services"}
+{"country":"italy","employees_2017":"17","employees_2020":"99","founding_year":"2014","name":"comservice","revenue_2017":"194,780","revenue_2020":"2,016,300","sector":"support services"}
 {"country":"italy","employees_2017":"1","employees_2020":"5","founding_year":"2017","name":"falcor presse","revenue_2017":"291,720","revenue_2020":"2,996,770","sector":"industrial goods"}
-{"country":"the netherlands","employees_2017":"8","employees_2020":"40","founding_year":"2017","name":"rooaccoon","revenue_2017":"167,000","revenue_2020":"1,715,334","sector":"technology"}
+{"country":"the netherlands","employees_2017":"8","employees_2020":"40","founding_year":"2017","name":"roomraccoon","revenue_2017":"167,000","revenue_2020":"1,715,334","sector":"technology"}
 {"country":"spain","employees_2017":"37","employees_2020":"95","founding_year":"2013","name":"signaturit","revenue_2017":"552,355","revenue_2020":"5,639,953","sector":"technology"}
 {"country":"uk","employees_2017":"31","employees_2020":"191","founding_year":"2015","name":"modulr","revenue_2017":"1,269,382","revenue_2020":"12,789,098","sector":"fintech"}
 {"country":"germany","employees_2017":"17","employees_2020":"63","founding_year":"2012","name":"profishop","revenue_2017":"4,340,517","revenue_2020":"43,812,068","sector":"ecommerce"}
@@ -237,7 +237,7 @@
 {"country":"poland","employees_2017":"21","employees_2020":"48","founding_year":"2015","name":"delante","revenue_2017":"316,525","revenue_2020":"2,160,094","sector":"sales & marketing"}
 {"country":"germany","employees_2017":"8","employees_2020":"15","founding_year":"2015","name":"intumind","revenue_2017":"884,885","revenue_2020":"6,560,962","sector":"health"}
 {"country":"germany","employees_2017":"10","employees_2020":"15","founding_year":"2016","name":"saljol","revenue_2017":"559,778","revenue_2020":"4,146,403","sector":"health"}
-{"country":"germany","employees_2017":"9","employees_2020":"20","founding_year":"2014","name":"tkd solutions","revenue_2017":"2,146,950","revenue_2020":"15,874,245","sector":"teleco "}
+{"country":"germany","employees_2017":"9","employees_2020":"20","founding_year":"2014","name":"tkd solutions","revenue_2017":"2,146,950","revenue_2020":"15,874,245","sector":"telecoms"}
 {"country":"finland","employees_2017":"5","employees_2020":"15","founding_year":"2016","name":"kuori","revenue_2017":"340,000","revenue_2020":"2,501,902","sector":"technology"}
 {"country":"sweden","employees_2017":"21","employees_2020":"42","founding_year":"2010","name":"ferroamp","revenue_2017":"1,062,649","revenue_2020":"7,645,003","sector":"energy"}
 {"country":"uk","employees_2017":"6","employees_2020":"23","founding_year":"2016","name":"valor real estate partners","revenue_2017":"621,636","revenue_2020":"4,534,588","sector":"financial services"}
@@ -258,7 +258,7 @@
 {"country":"italy","employees_2017":"15","employees_2020":"74","founding_year":"2016","name":"mia-platform","revenue_2017":"923,730","revenue_2020":"6,515,510","sector":"technology"}
 {"country":"italy","employees_2017":"20","employees_2020":"32","founding_year":"1976","name":"tecnimed","revenue_2017":"1,354,980","revenue_2020":"9,551,790","sector":"health"}
 {"country":"uk","employees_2017":"5","employees_2020":"22","founding_year":"2015","name":"longevity partners","revenue_2017":"335,460","revenue_2020":"2,336,243","sector":"retail"}
-{"country":"italy","employees_2017":"56","employees_2020":"345","founding_year":"2015","name":"nexutp","revenue_2017":"3,659,630","revenue_2020":"25,667,400","sector":"management consulting"}
+{"country":"italy","employees_2017":"56","employees_2020":"345","founding_year":"2015","name":"nexumstp","revenue_2017":"3,659,630","revenue_2020":"25,667,400","sector":"management consulting"}
 {"country":"france","employees_2017":"3","employees_2020":"16","founding_year":"2016","name":"g-on","revenue_2017":"259,342","revenue_2020":"1,810,459","sector":"support services"}
 {"country":"uk","employees_2017":"3","employees_2020":"10","founding_year":"2016","name":"picnic","revenue_2017":"219,999","revenue_2020":"1,508,869","sector":"advertising"}
 {"country":"italy","employees_2017":"2","employees_2020":"36","founding_year":"2012","name":"egomnia","revenue_2017":"276,750","revenue_2020":"1,901,140","sector":"technology"}
@@ -278,7 +278,7 @@
 {"country":"germany","employees_2017":"2","employees_2020":"11","founding_year":"2015","name":"autosalon uhingen","revenue_2017":"1,587,500","revenue_2020":"10,540,000","sector":"automobiles"}
 {"country":"france","employees_2017":"1","employees_2020":"5","founding_year":"2013","name":"yumi beauty","revenue_2017":"404,819","revenue_2020":"2,678,257","sector":"chemicals & pharmaceuticals"}
 {"country":"france","employees_2017":"2","employees_2020":"7","founding_year":"2016","name":"for me lab","revenue_2017":"251,795","revenue_2020":"1,652,073","sector":"ecommerce"}
-{"country":"sweden","employees_2017":"7","employees_2020":"25","founding_year":"2015","name":"stockhol elbolag","revenue_2017":"5,033,032","revenue_2020":"32,265,912","sector":"energy"}
+{"country":"sweden","employees_2017":"7","employees_2020":"25","founding_year":"2015","name":"stockholelbolag","revenue_2017":"5,033,032","revenue_2020":"32,265,912","sector":"energy"}
 {"country":"germany","employees_2017":"21","employees_2020":"84","founding_year":"1999","name":"flohr","revenue_2017":"3,241,629","revenue_2020":"21,249,638","sector":"waste management & recycling"}
 {"country":"italy","employees_2017":"1","employees_2020":"4","founding_year":"2008","name":"agricodem","revenue_2017":"436,610","revenue_2020":"2,856,530","sector":"agricultural commodities"}
 {"country":"germany","employees_2017":"14","employees_2020":"80","founding_year":"2005","name":"dach schutzbekleidung","revenue_2017":"6,936,038","revenue_2020":"45,227,730","sector":"industrial goods"}
@@ -317,7 +317,7 @@
 {"country":"germany","employees_2017":"23","employees_2020":"87","founding_year":"2017","name":"therapiezentrumcom nw","revenue_2017":"492,860","revenue_2020":"2,916,337","sector":"health"}
 {"country":"uk","employees_2017":"39","employees_2020":"82","founding_year":"2010","name":"beauhurst","revenue_2017":"916,511","revenue_2020":"5,355,215","sector":"technology"}
 {"country":"romania","employees_2017":"43","employees_2020":"49","founding_year":"2017","name":"cun cargo carriers","revenue_2017":"1,207,613","revenue_2020":"7,103,702","sector":"transport"}
-{"country":"italy","employees_2017":"23","employees_2020":"34","founding_year":"2016","name":"mg project","revenue_2017":"1,396,400","revenue_2020":"8,208,450","sector":"teleco "}
+{"country":"italy","employees_2017":"23","employees_2020":"34","founding_year":"2016","name":"mg project","revenue_2017":"1,396,400","revenue_2020":"8,208,450","sector":"telecoms"}
 {"country":"germany","employees_2017":"3","employees_2020":"6","founding_year":"2015","name":"bonmea","revenue_2017":"2,484,783","revenue_2020":"14,597,418","sector":"retail"}
 {"country":"italy","employees_2017":"2","employees_2020":"6","founding_year":"2007","name":"oceanis yachts","revenue_2017":"521,250","revenue_2020":"3,059,130","sector":"travel & leisure"}
 {"country":"france","employees_2017":"2","employees_2020":"8","founding_year":"2016","name":"opus db","revenue_2017":"2,076,139","revenue_2020":"12,171,118","sector":"construction"}
@@ -341,7 +341,7 @@
 {"country":"uk","employees_2017":"31","employees_2020":"46","founding_year":"2012","name":"aquis exchange","revenue_2017":"2,267,165","revenue_2020":"12,824,155","sector":"financial services"}
 {"country":"uk","employees_2017":"8","employees_2020":"50","founding_year":"2015","name":"chattermill","revenue_2017":"408,336","revenue_2020":"2,306,045","sector":"technology"}
 {"country":"germany","employees_2017":"10","employees_2020":"45","founding_year":"2016","name":"schonertel","revenue_2017":"2,884,392","revenue_2020":"16,388,546","sector":"construction"}
-{"country":"italy","employees_2017":"8","employees_2020":"57","founding_year":"2011","name":"global work","revenue_2017":"558,820","revenue_2020":"3,174,000","sector":"teleco "}
+{"country":"italy","employees_2017":"8","employees_2020":"57","founding_year":"2011","name":"global work","revenue_2017":"558,820","revenue_2020":"3,174,000","sector":"telecoms"}
 {"country":"germany","employees_2017":"1","employees_2020":"9","founding_year":"2012","name":"allygatr","revenue_2017":"338,300","revenue_2020":"1,914,500","sector":"support services"}
 {"country":"uk","employees_2017":"3","employees_2020":"14","founding_year":"2013","name":"cru wine","revenue_2017":"1,644,134","revenue_2020":"9,235,946","sector":"food & beverage"}
 {"country":"italy","employees_2017":"5","employees_2020":"8","founding_year":"2004","name":"abc rent","revenue_2017":"3,878,370","revenue_2020":"21,818,000","sector":"automobiles"}
@@ -358,14 +358,14 @@
 {"country":"france","employees_2017":"4","employees_2020":"42","founding_year":"2015","name":"tutosme","revenue_2017":"910,963","revenue_2020":"4,989,872","sector":"education"}
 {"country":"italy","employees_2017":"4","employees_2020":"10","founding_year":"2011","name":"studio eko","revenue_2017":"318,370","revenue_2020":"1,740,660","sector":"management consulting"}
 {"country":"uk","employees_2017":"2","employees_2020":"7","founding_year":"2010","name":"beings","revenue_2017":"348,129","revenue_2020":"1,881,768","sector":"technology"}
-{"country":"poland","employees_2017":"3","employees_2020":"6","founding_year":"2013","name":"dgroupltdcom","revenue_2017":"1,418,769","revenue_2020":"7,050,124","sector":"chemicals & pharmaceuticals"}
-{"country":"uk","employees_2017":"35","employees_2020":"119","founding_year":"2014","name":"ice telecommunications ltd","revenue_2017":"2,982,238","revenue_2020":"16,067,551","sector":"teleco "}
+{"country":"poland","employees_2017":"3","employees_2020":"6","founding_year":"2013","name":"dmrgroupltdcom","revenue_2017":"1,418,769","revenue_2020":"7,050,124","sector":"chemicals & pharmaceuticals"}
+{"country":"uk","employees_2017":"35","employees_2020":"119","founding_year":"2014","name":"ice telecommunications ltd","revenue_2017":"2,982,238","revenue_2020":"16,067,551","sector":"telecoms"}
 {"country":"italy","employees_2017":"18","employees_2020":"95","founding_year":"2012","name":"gallas group","revenue_2017":"856,790","revenue_2020":"4,640,710","sector":"support services"}
 {"country":"italy","employees_2017":"4","employees_2020":"10","founding_year":"2010","name":"etracom","revenue_2017":"4,253,600","revenue_2020":"22,952,660","sector":"ecommerce"}
 {"country":"uk","employees_2017":"38","employees_2020":"88","founding_year":"2015","name":"xalient","revenue_2017":"4,893,654","revenue_2020":"26,199,717","sector":"technology"}
 {"country":"italy","employees_2017":"5","employees_2020":"","founding_year":"2009","name":"labevolution","revenue_2017":"1,349,250","revenue_2020":"7,264,130","sector":"health"}
 {"country":"italy","employees_2017":"9","employees_2020":"20","founding_year":"2015","name":"kuadra","revenue_2017":"635,400","revenue_2020":"3,400,580","sector":"interiors"}
-{"country":"spain","employees_2017":"3","employees_2020":"8","founding_year":"2014","name":"kyo electric","revenue_2017":"1,013,181","revenue_2020":"5,402,302","sector":"teleco "}
+{"country":"spain","employees_2017":"3","employees_2020":"8","founding_year":"2014","name":"kyo electric","revenue_2017":"1,013,181","revenue_2020":"5,402,302","sector":"telecoms"}
 {"country":"uk","employees_2017":"13","employees_2020":"32","founding_year":"2012","name":"sopost","revenue_2017":"1,481,398","revenue_2020":"7,825,138","sector":"technology"}
 {"country":"italy","employees_2017":"7","employees_2020":"44","founding_year":"2016","name":"sfre","revenue_2017":"564,910","revenue_2020":"3,004,290","sector":"construction"}
 {"country":"germany","employees_2017":"60","employees_2020":"262","founding_year":"2012","name":"sportstech","revenue_2017":"20,436,426","revenue_2020":"108,500,233","sector":"retail"}
@@ -388,11 +388,11 @@
 {"country":"italy","employees_2017":"19","employees_2020":"58","founding_year":"2014","name":"westrafo","revenue_2017":"4,356,500","revenue_2020":"22,072,700","sector":"energy"}
 {"country":"the netherlands","employees_2017":"10","employees_2020":"21","founding_year":"2015","name":"goboony","revenue_2017":"340,309","revenue_2020":"1,718,442","sector":"travel & leisure"}
 {"country":"italy","employees_2017":"60","employees_2020":"180","founding_year":"2016","name":"multiservice ambrosiana","revenue_2017":"846,360","revenue_2020":"4,266,770","sector":"support services"}
-{"country":"germany","employees_2017":"16","employees_2020":"65","founding_year":"2016","name":"b&c syste","revenue_2017":"1,061,327","revenue_2020":"5,339,538","sector":"construction"}
+{"country":"germany","employees_2017":"16","employees_2020":"65","founding_year":"2016","name":"b&c systems","revenue_2017":"1,061,327","revenue_2020":"5,339,538","sector":"construction"}
 {"country":"bulgaria","employees_2017":"31","employees_2020":"10","founding_year":"2014","name":"s&g solar","revenue_2017":"792,093","revenue_2020":"3,980,920","sector":"energy"}
 {"country":"romania","employees_2017":"40","employees_2020":"120","founding_year":"2007","name":"bittnet","revenue_2017":"4,641,712","revenue_2020":"22,436,395","sector":"management consulting"}
 {"country":"belgium","employees_2017":"47","employees_2020":"204","founding_year":"2013","name":"ibanfirst","revenue_2017":"2,408,187","revenue_2020":"12,062,697","sector":"fintech"}
-{"country":"germany","employees_2017":"20","employees_2020":"46","founding_year":"2013","name":"uplink network","revenue_2017":"5,629,906","revenue_2020":"28,140,196","sector":"teleco "}
+{"country":"germany","employees_2017":"20","employees_2020":"46","founding_year":"2013","name":"uplink network","revenue_2017":"5,629,906","revenue_2020":"28,140,196","sector":"telecoms"}
 {"country":"france","employees_2017":"6","employees_2020":"25","founding_year":"2015","name":"base organic food","revenue_2017":"2,163,006","revenue_2020":"10,802,997","sector":"agricultural commodities"}
 {"country":"uk","employees_2017":"20","employees_2020":"74","founding_year":"2009","name":"currentbody","revenue_2017":"7,671,961","revenue_2020":"38,002,441","sector":"ecommerce"}
 {"country":"uk","employees_2017":"1","employees_2020":"6","founding_year":"2016","name":"apex aero","revenue_2017":"770,031","revenue_2020":"3,812,785","sector":"aerospace & defence"}
@@ -403,7 +403,7 @@
 {"country":"germany","employees_2017":"3","employees_2020":"17","founding_year":"2017","name":"prusseit auto-outlet","revenue_2017":"520,998","revenue_2020":"2,576,602","sector":"automobiles"}
 {"country":"norway","employees_2017":"30","employees_2020":"72","founding_year":"2002","name":"techouse","revenue_2017":"6,863,940","revenue_2020":"31,852,584","sector":"energy"}
 {"country":"italy","employees_2017":"3","employees_2020":"8","founding_year":"2016","name":"svs","revenue_2017":"1,965,560","revenue_2020":"9,694,310","sector":"construction"}
-{"country":"uk","employees_2017":"18","employees_2020":"86","founding_year":"2017","name":"telcoswitch group","revenue_2017":"1,543,824","revenue_2020":"7,519,236","sector":"teleco "}
+{"country":"uk","employees_2017":"18","employees_2020":"86","founding_year":"2017","name":"telcoswitch group","revenue_2017":"1,543,824","revenue_2020":"7,519,236","sector":"telecoms"}
 {"country":"germany","employees_2017":"3","employees_2020":"8","founding_year":"2017","name":"bothe-reimann tortechnik","revenue_2017":"464,354","revenue_2020":"2,277,791","sector":"construction"}
 {"country":"italy","employees_2017":"8","employees_2020":"12","founding_year":"2012","name":"e-pol / personalizzalo","revenue_2017":"3,284,400","revenue_2020":"16,089,160","sector":"ecommerce"}
 {"country":"spain","employees_2017":"3","employees_2020":"18","founding_year":"2016","name":"riluxa","revenue_2017":"700,007","revenue_2020":"3,428,464","sector":"interiors"}
@@ -443,7 +443,7 @@
 {"country":"croatia","employees_2017":"10","employees_2020":"8","founding_year":"2013","name":"star digital","revenue_2017":"699,907","revenue_2020":"3,211,868","sector":"advertising"}
 {"country":"uk","employees_2017":"29","employees_2020":"62","founding_year":"2011","name":"funding options","revenue_2017":"1,297,717","revenue_2020":"5,922,043","sector":"fintech"}
 {"country":"italy","employees_2017":"8","employees_2020":"14","founding_year":"2014","name":"isimed","revenue_2017":"1,050,660","revenue_2020":"4,828,920","sector":"health"}
-{"country":"switzerland","employees_2017":"50","employees_2020":"195","founding_year":"2008","name":"sonar, sonarqube, sonarcloud, sonarlint","revenue_2017":"16,861,349","revenue_2020":"83,632,640","sector":"technology"}
+{"country":"switzerland","employees_2017":"50","employees_2020":"195","founding_year":"2008","name":"sonar sonarqube sonarcloud sonarlint","revenue_2017":"16,861,349","revenue_2020":"83,632,640","sector":"technology"}
 {"country":"germany","employees_2017":"4","employees_2020":"30","founding_year":"2016","name":"scherer","revenue_2017":"934,994","revenue_2020":"4,285,766","sector":"support services"}
 {"country":"italy","employees_2017":"14","employees_2020":"24","founding_year":"2002","name":"mycroclean italia","revenue_2017":"736,000","revenue_2020":"3,366,730","sector":"support services"}
 {"country":"italy","employees_2017":"8","employees_2020":"16","founding_year":"2015","name":"piscor","revenue_2017":"1,061,360","revenue_2020":"4,842,410","sector":"ecommerce"}
@@ -454,7 +454,7 @@
 {"country":"france","employees_2017":"27","employees_2020":"38","founding_year":"2010","name":"obiz","revenue_2017":"3,389,300","revenue_2020":"15,377,000","sector":"media"}
 {"country":"italy","employees_2017":"33","employees_2020":"70","founding_year":"2012","name":"vmway","revenue_2017":"3,525,720","revenue_2020":"15,901,220","sector":"technology"}
 {"country":"poland","employees_2017":"8","employees_2020":"12","founding_year":"2009","name":"legimi","revenue_2017":"1,698,358","revenue_2020":"7,007,093","sector":"media"}
-{"country":"germany","employees_2017":"5","employees_2020":"11","founding_year":"2011","name":"g beauty","revenue_2017":"645,633","revenue_2020":"2,910,737","sector":"retail"}
+{"country":"germany","employees_2017":"5","employees_2020":"11","founding_year":"2011","name":"beauty","revenue_2017":"645,633","revenue_2020":"2,910,737","sector":"retail"}
 {"country":"germany","employees_2017":"4","employees_2020":"11","founding_year":"2014","name":"leogra trading","revenue_2017":"1,128,243","revenue_2020":"5,078,464","sector":"retail"}
 {"country":"italy","employees_2017":"10","employees_2020":"32","founding_year":"2012","name":"benefind","revenue_2017":"505,520","revenue_2020":"2,262,490","sector":"technology"}
 {"country":"italy","employees_2017":"5","employees_2020":"13","founding_year":"2017","name":"ab oil & gas service","revenue_2017":"516,640","revenue_2020":"2,310,000","sector":"support services"}
@@ -464,7 +464,7 @@
 {"country":"italy","employees_2017":"9","employees_2020":"17","founding_year":"2014","name":"macingo technologies","revenue_2017":"361,790","revenue_2020":"1,601,000","sector":"support services"}
 {"country":"germany","employees_2017":"120","employees_2020":"210","founding_year":"2014","name":"mycs","revenue_2017":"8,935,361","revenue_2020":"39,355,846","sector":"retail"}
 {"country":"germany","employees_2017":"23","employees_2020":"92","founding_year":"2008","name":"audience serv","revenue_2017":"1,389,534","revenue_2020":"6,107,018","sector":"advertising"}
-{"country":"italy","employees_2017":"4","employees_2020":"8","founding_year":"2012","name":"start","revenue_2017":"857,590","revenue_2020":"3,769,100","sector":"teleco "}
+{"country":"italy","employees_2017":"4","employees_2020":"8","founding_year":"2012","name":"start","revenue_2017":"857,590","revenue_2020":"3,769,100","sector":"telecoms"}
 {"country":"the netherlands","employees_2017":"8","employees_2020":"29","founding_year":"2010","name":"mvh media","revenue_2017":"544,943","revenue_2020":"2,391,654","sector":"sales & marketing"}
 {"country":"france","employees_2017":"1","employees_2020":"2","founding_year":"2010","name":"pure gaming","revenue_2017":"1,593,667","revenue_2020":"6,984,956","sector":"ecommerce"}
 {"country":"uk","employees_2017":"4","employees_2020":"8","founding_year":"1998","name":"parcel compare","revenue_2017":"2,091,995","revenue_2020":"9,085,936","sector":"transport"}
@@ -499,7 +499,7 @@
 {"country":"greece","employees_2017":"17","employees_2020":"55","founding_year":"2014","name":"convert group","revenue_2017":"666,118","revenue_2020":"2,789,489","sector":"technology"}
 {"country":"sweden","employees_2017":"17","employees_2020":"65","founding_year":"2013","name":"revolution race","revenue_2017":"21,841,341","revenue_2020":"89,332,521","sector":"ecommerce"}
 {"country":"france","employees_2017":"11","employees_2020":"40","founding_year":"2009","name":"gong galaxy","revenue_2017":"2,708,258","revenue_2020":"11,320,706","sector":"retail"}
-{"country":"italy","employees_2017":"8","employees_2020":"8","founding_year":"2011","name":"gdr costruzioni","revenue_2017":"376,440","revenue_2020":"1,573,480","sector":"construction"}
+{"country":"italy","employees_2017":"8","employees_2020":"8","founding_year":"2011","name":"gcostruzioni","revenue_2017":"376,440","revenue_2020":"1,573,480","sector":"construction"}
 {"country":"italy","employees_2017":"1","employees_2020":"4","founding_year":"2015","name":"emporio elettrico","revenue_2017":"473,640","revenue_2020":"1,979,050","sector":"ecommerce"}
 {"country":"uk","employees_2017":"15","employees_2020":"87","founding_year":"2012","name":"exscientia ai","revenue_2017":"2,606,296","revenue_2020":"10,807,048","sector":"technology"}
 {"country":"uk","employees_2017":"128","employees_2020":"324","founding_year":"2005","name":"featurespace","revenue_2017":"5,688,822","revenue_2020":"23,501,473","sector":"fintech"}
@@ -508,7 +508,7 @@
 {"country":"germany","employees_2017":"3","employees_2020":"4","founding_year":"2010","name":"timberagents","revenue_2017":"1,280,989","revenue_2020":"5,302,985","sector":"retail"}
 {"country":"france","employees_2017":"2","employees_2020":"30","founding_year":"2012","name":"fermeture econhome","revenue_2017":"451,196","revenue_2020":"1,862,632","sector":"construction"}
 {"country":"sweden","employees_2017":"20","employees_2020":"70","founding_year":"2014","name":"nrse","revenue_2017":"815,449","revenue_2020":"3,268,813","sector":"management consulting"}
-{"country":"germany","employees_2017":"16","employees_2020":"21","founding_year":"2011","name":"simwert","revenue_2017":"6,450,759","revenue_2020":"26,386,701","sector":"teleco "}
+{"country":"germany","employees_2017":"16","employees_2020":"21","founding_year":"2011","name":"simwert","revenue_2017":"6,450,759","revenue_2020":"26,386,701","sector":"telecoms"}
 {"country":"uk","employees_2017":"2","employees_2020":"24","founding_year":"2015","name":"flex legal","revenue_2017":"1,064,498","revenue_2020":"4,319,146","sector":"law"}
 {"country":"norway","employees_2017":"15","employees_2020":"41","founding_year":"2010","name":"documaster","revenue_2017":"868,552","revenue_2020":"3,328,791","sector":"technology"}
 {"country":"germany","employees_2017":"1","employees_2020":"4","founding_year":"2014","name":"immo-team allgau","revenue_2017":"5,381,108","revenue_2020":"21,974,565","sector":"construction"}
@@ -555,9 +555,9 @@
 {"country":"uk","employees_2017":"156","employees_2020":"194","founding_year":"2008","name":"vizion network","revenue_2017":"30,862,156","revenue_2020":"117,817,156","sector":"automobiles"}
 {"country":"uk","employees_2017":"27","employees_2020":"66","founding_year":"2017","name":"beyond law group","revenue_2017":"2,159,010","revenue_2020":"8,233,616","sector":"law"}
 {"country":"germany","employees_2017":"13","employees_2020":"14","founding_year":"2014","name":"eda warehousing","revenue_2017":"1,190,000","revenue_2020":"4,570,000","sector":"transport"}
-{"country":"germany","employees_2017":"45","employees_2020":"90","founding_year":"2013","name":"bpv","revenue_2017":"5,923,571","revenue_2020":"22,704,275","sector":"teleco "}
+{"country":"germany","employees_2017":"45","employees_2020":"90","founding_year":"2013","name":"bpv","revenue_2017":"5,923,571","revenue_2020":"22,704,275","sector":"telecoms"}
 {"country":"france","employees_2017":"29","employees_2020":"81","founding_year":"2013","name":"ultra premium direct","revenue_2017":"5,422,583","revenue_2020":"20,779,890","sector":"agricultural commodities"}
-{"country":"spain","employees_2017":"12","employees_2020":"24","founding_year":"2013","name":"afr-ix telecom","revenue_2017":"2,593,649","revenue_2020":"9,933,867","sector":"teleco "}
+{"country":"spain","employees_2017":"12","employees_2020":"24","founding_year":"2013","name":"afr-ix telecom","revenue_2017":"2,593,649","revenue_2020":"9,933,867","sector":"telecoms"}
 {"country":"poland","employees_2017":"28","employees_2020":"44","founding_year":"2010","name":"blue energy","revenue_2017":"1,293,181","revenue_2020":"4,527,970","sector":"cyber security"}
 {"country":"france","employees_2017":"5","employees_2020":"15","founding_year":"2013","name":"cjuste paris","revenue_2017":"628,388","revenue_2020":"2,404,398","sector":"retail"}
 {"country":"france","employees_2017":"13","employees_2020":"44","founding_year":"2007","name":"sos-accessoire","revenue_2017":"3,848,262","revenue_2020":"14,690,408","sector":"ecommerce"}
@@ -571,7 +571,7 @@
 {"country":"france","employees_2017":"10","employees_2020":"50","founding_year":"2015","name":"im global partner","revenue_2017":"8,392,541","revenue_2020":"31,463,692","sector":"financial services"}
 {"country":"italy","employees_2017":"2","employees_2020":"6","founding_year":"1983","name":"confinvest","revenue_2017":"10,982,110","revenue_2020":"41,130,000","sector":"precious metals"}
 {"country":"france","employees_2017":"2","employees_2020":"3","founding_year":"2012","name":"ethic technology","revenue_2017":"2,229,273","revenue_2020":"8,340,824","sector":"technology"}
-{"country":"italy","employees_2017":"6","employees_2020":"7","founding_year":"2001","name":"bomax","revenue_2017":"19,088,830","revenue_2020":"71,290,680","sector":"teleco "}
+{"country":"italy","employees_2017":"6","employees_2020":"7","founding_year":"2001","name":"bomax","revenue_2017":"19,088,830","revenue_2020":"71,290,680","sector":"telecoms"}
 {"country":"germany","employees_2017":"4","employees_2020":"15","founding_year":"2017","name":"kk-trade","revenue_2017":"1,174,770","revenue_2020":"4,383,254","sector":"retail"}
 {"country":"germany","employees_2017":"4","employees_2020":"26","founding_year":"2015","name":"marsapet","revenue_2017":"1,061,642","revenue_2020":"3,960,200","sector":"retail"}
 {"country":"italy","employees_2017":"8","employees_2020":"16","founding_year":"2015","name":"gruppo tera","revenue_2017":"5,428,300","revenue_2020":"20,222,750","sector":"ecommerce"}
@@ -604,7 +604,7 @@
 {"country":"france","employees_2017":"5","employees_2020":"17","founding_year":"2004","name":"couteaujaponaiscom","revenue_2017":"1,272,558","revenue_2020":"4,579,102","sector":"retail"}
 {"country":"france","employees_2017":"20","employees_2020":"58","founding_year":"2010","name":"physidia","revenue_2017":"4,656,191","revenue_2020":"16,746,545","sector":"health"}
 {"country":"germany","employees_2017":"2","employees_2020":"3","founding_year":"2013","name":"horando deutschland","revenue_2017":"2,257,390","revenue_2020":"8,111,269","sector":"retail"}
-{"country":"poland","employees_2017":"22","employees_2020":"79","founding_year":"2004","name":"diablochairs, jan nowak","revenue_2017":"6,549,376","revenue_2020":"21,520,495","sector":"ecommerce"}
+{"country":"poland","employees_2017":"22","employees_2020":"79","founding_year":"2004","name":"diablochairs jan nowak","revenue_2017":"6,549,376","revenue_2020":"21,520,495","sector":"ecommerce"}
 {"country":"sweden","employees_2017":"16","employees_2020":"28","founding_year":"2011","name":"parkster","revenue_2017":"15,711,602","revenue_2020":"55,139,984","sector":"technology"}
 {"country":"france","employees_2017":"5","employees_2020":"13","founding_year":"2015","name":"biotyfull","revenue_2017":"5,642,145","revenue_2020":"20,248,436","sector":"ecommerce"}
 {"country":"spain","employees_2017":"14","employees_2020":"51","founding_year":"2014","name":"bioksan","revenue_2017":"1,650,756","revenue_2020":"5,914,732","sector":"food & beverage"}
@@ -616,7 +616,7 @@
 {"country":"germany","employees_2017":"8","employees_2020":"12","founding_year":"2010","name":"aue genc warenhandels-ug","revenue_2017":"5,573,000","revenue_2020":"19,890,000","sector":"retail"}
 {"country":"italy","employees_2017":"10","employees_2020":"18","founding_year":"2010","name":"mgvision","revenue_2017":"1,127,170","revenue_2020":"4,010,560","sector":"advertising"}
 {"country":"italy","employees_2017":"13","employees_2020":"26","founding_year":"2015","name":"new general service","revenue_2017":"433,540","revenue_2020":"1,539,360","sector":"support services"}
-{"country":"france","employees_2017":"15","employees_2020":"41","founding_year":"2010","name":"andre renovation","revenue_2017":"3,266,703","revenue_2020":"11,594,389","sector":"construction"}
+{"country":"france","employees_2017":"15","employees_2020":"41","founding_year":"2010","name":"anrenovation","revenue_2017":"3,266,703","revenue_2020":"11,594,389","sector":"construction"}
 {"country":"italy","employees_2017":"10","employees_2020":"14","founding_year":"2017","name":"mdg components unipersonale","revenue_2017":"644,440","revenue_2020":"2,283,970","sector":"industrial goods"}
 {"country":"bulgaria","employees_2017":"5","employees_2020":"22","founding_year":"2011","name":"amco-bulgaria","revenue_2017":"1,778,274","revenue_2020":"6,298,606","sector":"retail"}
 {"country":"uk","employees_2017":"16","employees_2020":"39","founding_year":"2005","name":"symprove","revenue_2017":"3,498,275","revenue_2020":"12,298,843","sector":"personal & household goods"}
@@ -636,7 +636,7 @@
 {"country":"uk","employees_2017":"4","employees_2020":"12","founding_year":"2012","name":"midstream lighting","revenue_2017":"2,363,526","revenue_2020":"8,204,844","sector":"technology"}
 {"country":"france","employees_2017":"2","employees_2020":"2","founding_year":"2014","name":"propulse it","revenue_2017":"1,809,858","revenue_2020":"6,326,861","sector":"technology"}
 {"country":"spain","employees_2017":"25","employees_2020":"30","founding_year":"2012","name":"additius santa maria","revenue_2017":"9,100,083","revenue_2020":"31,757,362","sector":"agricultural commodities"}
-{"country":"france","employees_2017":"3","employees_2020":"15","founding_year":"2017","name":"conexio telecom","revenue_2017":"547,084","revenue_2020":"1,908,640","sector":"teleco "}
+{"country":"france","employees_2017":"3","employees_2020":"15","founding_year":"2017","name":"conexio telecom","revenue_2017":"547,084","revenue_2020":"1,908,640","sector":"telecoms"}
 {"country":"germany","employees_2017":"5","employees_2020":"9","founding_year":"2012","name":"tripin","revenue_2017":"1,568,506","revenue_2020":"5,465,080","sector":"retail"}
 {"country":"hungary","employees_2017":"4","employees_2020":"9","founding_year":"1996","name":"continental wood kft","revenue_2017":"910,973","revenue_2020":"2,724,073","sector":"industrial goods"}
 {"country":"italy","employees_2017":"71","employees_2020":"120","founding_year":"2008","name":"geoteam","revenue_2017":"2,195,780","revenue_2020":"7,623,730","sector":"energy"}
@@ -759,10 +759,10 @@
 {"country":"germany","employees_2017":"28","employees_2020":"69","founding_year":"2010","name":"smart battery solutions","revenue_2017":"3,264,000","revenue_2020":"10,203,000","sector":"technology"}
 {"country":"germany","employees_2017":"10","employees_2020":"20","founding_year":"2003","name":"eu-bay commerce","revenue_2017":"2,601,485","revenue_2020":"8,122,686","sector":"retail"}
 {"country":"germany","employees_2017":"6","employees_2020":"20","founding_year":"2009","name":"jens rabe academy","revenue_2017":"1,171,373","revenue_2020":"3,655,345","sector":"education"}
-{"country":"uk","employees_2017":"407","employees_2020":"1251","founding_year":"2010","name":"hyperoptic","revenue_2017":"18,649,681","revenue_2020":"57,766,084","sector":"teleco "}
+{"country":"uk","employees_2017":"407","employees_2020":"1251","founding_year":"2010","name":"hyperoptic","revenue_2017":"18,649,681","revenue_2020":"57,766,084","sector":"telecoms"}
 {"country":"france","employees_2017":"2","employees_2020":"21","founding_year":"2009","name":"sepale","revenue_2017":"2,531,055","revenue_2020":"7,879,983","sector":"energy"}
-{"country":"italy","employees_2017":"19","employees_2020":"33","founding_year":"2005","name":"3a informatica","revenue_2017":"633,990","revenue_2020":"1,970,000","sector":"teleco "}
-{"country":"france","employees_2017":"10","employees_2020":"22","founding_year":"2014","name":"eproto","revenue_2017":"1,009,846","revenue_2020":"3,136,947","sector":"ecommerce"}
+{"country":"italy","employees_2017":"19","employees_2020":"33","founding_year":"2005","name":"3a informatica","revenue_2017":"633,990","revenue_2020":"1,970,000","sector":"telecoms"}
+{"country":"france","employees_2017":"10","employees_2020":"22","founding_year":"2014","name":"emsproto","revenue_2017":"1,009,846","revenue_2020":"3,136,947","sector":"ecommerce"}
 {"country":"france","employees_2017":"9","employees_2020":"13","founding_year":"2011","name":"laboratoires dermosun","revenue_2017":"1,815,835","revenue_2020":"5,626,849","sector":"chemicals & pharmaceuticals"}
 {"country":"italy","employees_2017":"13","employees_2020":"23","founding_year":"2013","name":"saico","revenue_2017":"2,177,950","revenue_2020":"6,737,600","sector":"construction"}
 {"country":"italy","employees_2017":"9","employees_2020":"19","founding_year":"1956","name":"nutis","revenue_2017":"2,124,990","revenue_2020":"6,566,530","sector":"food & beverage"}
@@ -806,8 +806,8 @@
 {"country":"italy","employees_2017":"18","employees_2020":"34","founding_year":"2014","name":"jointly il welfare condiviso","revenue_2017":"808,700","revenue_2020":"2,400,550","sector":"support services"}
 {"country":"sweden","employees_2017":"10","employees_2020":"23","founding_year":"2012","name":"abtot mark & anlaggning ab","revenue_2017":"3,450,305","revenue_2020":"9,983,094","sector":"construction"}
 {"country":"germany","employees_2017":"10","employees_2020":"36","founding_year":"2012","name":"dusapro immobilien","revenue_2017":"11,484,801","revenue_2020":"33,903,865","sector":"property"}
-{"country":"france","employees_2017":"4","employees_2020":"8","founding_year":"2012","name":"soldats fil","revenue_2017":"787,160","revenue_2020":"2,320,653","sector":"media"}
-{"country":"italy","employees_2017":"120","employees_2020":"287","founding_year":"2016","name":"eagleprojects","revenue_2017":"5,137,900","revenue_2020":"15,140,480","sector":"teleco "}
+{"country":"france","employees_2017":"4","employees_2020":"8","founding_year":"2012","name":"soldats films","revenue_2017":"787,160","revenue_2020":"2,320,653","sector":"media"}
+{"country":"italy","employees_2017":"120","employees_2020":"287","founding_year":"2016","name":"eagleprojects","revenue_2017":"5,137,900","revenue_2020":"15,140,480","sector":"telecoms"}
 {"country":"italy","employees_2017":"15","employees_2020":"43","founding_year":"2013","name":"agile lab","revenue_2017":"1,897,650","revenue_2020":"5,590,450","sector":"technology"}
 {"country":"norway","employees_2017":"4","employees_2020":"8","founding_year":"2012","name":"importprisno","revenue_2017":"1,126,971","revenue_2020":"3,113,197","sector":"ecommerce"}
 {"country":"germany","employees_2017":"18","employees_2020":"72","founding_year":"2011","name":"truu","revenue_2017":"4,245,861","revenue_2020":"12,472,561","sector":"industrial goods"}
@@ -818,11 +818,11 @@
 {"country":"france","employees_2017":"14","employees_2020":"18","founding_year":"2009","name":"sp architecte","revenue_2017":"964,998","revenue_2020":"2,825,876","sector":"construction"}
 {"country":"spain","employees_2017":"54","employees_2020":"178","founding_year":"2011","name":"embargos a lo bestia","revenue_2017":"7,709,375","revenue_2020":"22,559,217","sector":"retail"}
 {"country":"ireland","employees_2017":"2","employees_2020":"3","founding_year":"2011","name":"snigel","revenue_2017":"7,000,063","revenue_2020":"20,479,764","sector":"technology"}
-{"country":"germany","employees_2017":"5","employees_2020":"120","founding_year":"2006","name":"i rettungsdienst","revenue_2017":"650,000","revenue_2020":"1,900,000","sector":"health"}
+{"country":"germany","employees_2017":"5","employees_2020":"120","founding_year":"2006","name":"irettungsdienst","revenue_2017":"650,000","revenue_2020":"1,900,000","sector":"health"}
 {"country":"italy","employees_2017":"1","employees_2020":"16","founding_year":"2017","name":"way2global sb","revenue_2017":"828,820","revenue_2020":"2,411,600","sector":"support services"}
 {"country":"uk","employees_2017":"3","employees_2020":"33","founding_year":"2014","name":"media access solutions","revenue_2017":"1,181,642","revenue_2020":"3,407,930","sector":"support services"}
 {"country":"spain","employees_2017":"21","employees_2020":"44","founding_year":"2008","name":"exadi","revenue_2017":"14,649,568","revenue_2020":"42,525,086","sector":"sales and marketing"}
-{"country":"germany","employees_2017":"10","employees_2020":"29","founding_year":"2014","name":"fiber-service-gesellschaft","revenue_2017":"1,395,607","revenue_2020":"4,049,655","sector":"teleco "}
+{"country":"germany","employees_2017":"10","employees_2020":"29","founding_year":"2014","name":"fiber-service-gesellschaft","revenue_2017":"1,395,607","revenue_2020":"4,049,655","sector":"telecoms"}
 {"country":"poland","employees_2017":"140","employees_2020":"280","founding_year":"2010","name":"tenderhut group","revenue_2017":"3,868,483","revenue_2020":"10,264,611","sector":"technology"}
 {"country":"spain","employees_2017":"12","employees_2020":"30","founding_year":"2016","name":"worldwide fishing company","revenue_2017":"48,449,141","revenue_2020":"140,442,673","sector":"food & beverage"}
 {"country":"italy","employees_2017":"26","employees_2020":"43","founding_year":"2013","name":"doctor hail spa","revenue_2017":"6,246,592","revenue_2020":"18,101,114","sector":"automobiles"}
@@ -909,10 +909,10 @@
 {"country":"italy","employees_2017":"2","employees_2020":"4","founding_year":"2016","name":"reveg fruit","revenue_2017":"870,070","revenue_2020":"2,356,570","sector":"food & beverage"}
 {"country":"bulgaria","employees_2017":"39","employees_2020":"79","founding_year":"2016","name":"sciant","revenue_2017":"1,178,653","revenue_2020":"3,192,139","sector":"technology"}
 {"country":"germany","employees_2017":"50","employees_2020":"130","founding_year":"2012","name":"boender & beutel","revenue_2017":"5,376,347","revenue_2020":"14,550,131","sector":"industrial goods"}
-{"country":"france","employees_2017":"419","employees_2020":"456","founding_year":"2003","name":"ekinops","revenue_2017":"34,291,000","revenue_2020":"92,800,000","sector":"teleco "}
+{"country":"france","employees_2017":"419","employees_2020":"456","founding_year":"2003","name":"ekinops","revenue_2017":"34,291,000","revenue_2020":"92,800,000","sector":"telecoms"}
 {"country":"portugal","employees_2017":"12","employees_2020":"13","founding_year":"1938","name":"sano-tecnica","revenue_2017":"1,838,120","revenue_2020":"4,972,658","sector":"health"}
 {"country":"germany","employees_2017":"16","employees_2020":"24","founding_year":"2013","name":"mobelando","revenue_2017":"6,170,577","revenue_2020":"16,692,390","sector":"retail"}
-{"country":"italy","employees_2017":"12","employees_2020":"37","founding_year":"2011","name":"democom","revenue_2017":"1,238,210","revenue_2020":"3,347,950","sector":"teleco "}
+{"country":"italy","employees_2017":"12","employees_2020":"37","founding_year":"2011","name":"democom","revenue_2017":"1,238,210","revenue_2020":"3,347,950","sector":"telecoms"}
 {"country":"italy","employees_2017":"3","employees_2020":"11","founding_year":"2009","name":"erbagil","revenue_2017":"1,490,280","revenue_2020":"4,021,010","sector":"pharmaceuticals"}
 {"country":"finland","employees_2017":"9","employees_2020":"32","founding_year":"2014","name":"axopar boats","revenue_2017":"29,247,774","revenue_2020":"78,765,693","sector":"travel & leisure"}
 {"country":"italy","employees_2017":"11","employees_2020":"54","founding_year":"2012","name":"advanced composites solutions","revenue_2017":"2,006,100","revenue_2020":"5,393,690","sector":"automobiles"}
@@ -951,7 +951,7 @@
 {"country":"france","employees_2017":"14","employees_2020":"20","founding_year":"2009","name":"cafe du cycliste","revenue_2017":"2,826,571","revenue_2020":"7,445,865","sector":"ecommerce"}
 {"country":"germany","employees_2017":"5","employees_2020":"8","founding_year":"2016","name":"langer luftungs- und klimaanlagen","revenue_2017":"1,749,794","revenue_2020":"4,609,256","sector":"construction"}
 {"country":"france","employees_2017":"60","employees_2020":"130","founding_year":"2010","name":"formind","revenue_2017":"6,398,583","revenue_2020":"16,845,354","sector":"cyber security"}
-{"country":"france","employees_2017":"4","employees_2020":"20","founding_year":"2010","name":"oasis smart sim europe","revenue_2017":"1,167,000","revenue_2020":"3,065,165","sector":"teleco "}
+{"country":"france","employees_2017":"4","employees_2020":"20","founding_year":"2010","name":"oasis smart sim europe","revenue_2017":"1,167,000","revenue_2020":"3,065,165","sector":"telecoms"}
 {"country":"italy","employees_2017":"9","employees_2020":"13","founding_year":"2013","name":"aferetica","revenue_2017":"2,429,230","revenue_2020":"6,376,910","sector":"health"}
 {"country":"italy","employees_2017":"15","employees_2020":"37","founding_year":"2014","name":"zero","revenue_2017":"16,000,000","revenue_2020":"42,000,000","sector":"energy"}
 {"country":"france","employees_2017":"20","employees_2020":"70","founding_year":"2011","name":"skills","revenue_2017":"4,443,710","revenue_2020":"11,650,138","sector":"support services"}

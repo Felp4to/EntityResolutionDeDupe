@@ -23,7 +23,7 @@
 {"name":"natwest group plc","master_cap":32720000000,"country":"united kingdom","industry":"banks","sector":"financials"}
 {"name":"barclays plc","master_cap":32189999999,"country":"united kingdom","industry":"banks","sector":"financials"}
 {"name":"ferguson plc","master_cap":30520000000,"country":"united kingdom","industry":"industrial distribution","sector":"industrials"}
-{"name":"bae syste plc","master_cap":30510000000,"country":"united kingdom","industry":"aerospace & defense","sector":"industrials"}
+{"name":"bae systeplc","master_cap":30510000000,"country":"united kingdom","industry":"aerospace & defense","sector":"industrials"}
 {"name":"willis towers watson plc","master_cap":"(jan. 1, 2022)","country":"united kingdom","industry":"insurance brokers","sector":"financials"}
 {"name":"ashtead group plc","master_cap":28280000000,"country":"united kingdom","industry":"rental & leasing services","sector":"industrials"}
 {"name":"tesco plc","master_cap":28110000000,"country":"united kingdom","industry":"grocery stores","sector":"consumer staples"}
@@ -162,7 +162,7 @@
 {"name":"easyjet plc","master_cap":3330000000,"country":"united kingdom","industry":"airlines","sector":"industrials"}
 {"name":"virgin money uk plc","master_cap":3310000000,"country":"united kingdom","industry":"banks","sector":"financials"}
 {"name":"londonmetric property plc","master_cap":3310000000,"country":"united kingdom","industry":"reitdiversified","sector":"real estate"}
-{"name":"dr martens plc","master_cap":3170000000,"country":"united kingdom","industry":"footwear & accessories","sector":"consumer discretionary"}
+{"name":"martens plc","master_cap":3170000000,"country":"united kingdom","industry":"footwear & accessories","sector":"consumer discretionary"}
 {"name":"quilter plc","master_cap":3160000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"games workshop group plc","master_cap":3140000000,"country":"united kingdom","industry":"leisure","sector":"consumer discretionary"}
 {"name":"shaftesbury plc","master_cap":3100000000,"country":"united kingdom","industry":"reitretail","sector":"real estate"}
@@ -179,7 +179,7 @@
 {"name":"primary health properties plc","master_cap":2610000000,"country":"united kingdom","industry":"reithealthcare facilities","sector":"real estate"}
 {"name":"witan investment trust plc","master_cap":2600000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"caledonia investments plc","master_cap":2590000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
-{"name":"pershing square holdings, ltd","master_cap":"(sept. 1, 2018)","country":"united kingdom","industry":"asset management","sector":"financials"}
+{"name":"pershing square holdings ltd","master_cap":"(sept. 1, 2018)","country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"deliveroo plc","master_cap":2550000000,"country":"united kingdom","industry":"internet retail","sector":"consumer discretionary"}
 {"name":"cranswick plc","master_cap":2520000000,"country":"united kingdom","industry":"packaged foods","sector":"consumer staples"}
 {"name":"great portland estates plc","master_cap":"(jan. 1, 2022)","country":"united kingdom","industry":"reitoffice","sector":"real estate"}
@@ -315,8 +315,8 @@
 {"name":"biffa plc","master_cap":1290000000,"country":"united kingdom","industry":"waste management","sector":"industrials"}
 {"name":"gcp student living plc","master_cap":"(dec. 1, 2021)","country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"gcp infrastructure investments","master_cap":1290000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
-{"name":"ti fluid syste plc","master_cap":1280000000,"country":"united kingdom","industry":"auto parts","sector":"consumer discretionary"}
-{"name":"merian chrysalis investment co, ltd","master_cap":1280000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
+{"name":"ti fluid systeplc","master_cap":1280000000,"country":"united kingdom","industry":"auto parts","sector":"consumer discretionary"}
+{"name":"merian chrysalis investment co ltd","master_cap":1280000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"spire healthcare group plc","master_cap":1270000000,"country":"united kingdom","industry":"medical care facilities","sector":"healthcare"}
 {"name":"essentra plc","master_cap":1260000000,"country":"united kingdom","industry":"specialty chemicals","sector":"basic materials"}
 {"name":"law debenture corporation plc","master_cap":1260000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
@@ -334,14 +334,14 @@
 {"name":"sumo group plc","master_cap":"(jan. 1, 2022)","country":"united kingdom","industry":"electronic gaming & multimedia","sector":"communication services"}
 {"name":"myovant sciences ltd","master_cap":1180000000,"country":"united kingdom","industry":"biotechnology","sector":"healthcare"}
 {"name":"morgan advanced materials plc","master_cap":1180000000,"country":"united kingdom","industry":"specialty industrial machinery","sector":"industrials"}
-{"name":"smart metering syste plc","master_cap":1170000000,"country":"united kingdom","industry":"electrical equipment & parts","sector":"industrials"}
+{"name":"smart metering systeplc","master_cap":1170000000,"country":"united kingdom","industry":"electrical equipment & parts","sector":"industrials"}
 {"name":"edinburgh worldwide investment trust plc","master_cap":1160000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"emis group plc","master_cap":1160000000,"country":"united kingdom","industry":"health information services","sector":"healthcare"}
 {"name":"vinacapital vietnam opportunity fund limited","master_cap":1140000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"kape technologies plc","master_cap":1140000000,"country":"united kingdom","industry":"softwareinfrastructure","sector":"technology"}
 {"name":"jpmorgan euro small co trust plc","master_cap":"(dec. 1, 2021)","country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"alpha fx group plc","master_cap":1130000000,"country":"united kingdom","industry":"capital markets","sector":"financials"}
-{"name":"cheing group plc","master_cap":1130000000,"country":"united kingdom","industry":"aerospace & defense","sector":"industrials"}
+{"name":"chemring group plc","master_cap":1130000000,"country":"united kingdom","industry":"aerospace & defense","sector":"industrials"}
 {"name":"cls holdings plc","master_cap":1110000000,"country":"united kingdom","industry":"real estate services","sector":"real estate"}
 {"name":"volution group plc","master_cap":1090000000,"country":"united kingdom","industry":"building products & equipment","sector":"industrials"}
 {"name":"scottish american investment company plc","master_cap":1090000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
@@ -356,7 +356,7 @@
 {"name":"4imprint group plc","master_cap":1040000000,"country":"united kingdom","industry":"advertising agencies","sector":"communication services"}
 {"name":"sdcl energy efficiency income trust plc","master_cap":1040000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"caretech holdings plc","master_cap":1040000000,"country":"united kingdom","industry":"medical care facilities","sector":"healthcare"}
-{"name":"global ship lease, inc","master_cap":1030000000,"country":"united kingdom","industry":"marine shipping","sector":"industrials"}
+{"name":"global ship lease inc","master_cap":1030000000,"country":"united kingdom","industry":"marine shipping","sector":"industrials"}
 {"name":"capital gearing trust plc","master_cap":1030000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"liontrust asset management plc","master_cap":1020000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"bicycle therapeutics plc","master_cap":1020000000,"country":"united kingdom","industry":"biotechnology","sector":"healthcare"}
@@ -390,7 +390,7 @@
 {"name":"treatt plc","master_cap":903400000,"country":"united kingdom","industry":"specialty chemicals","sector":"basic materials"}
 {"name":"mccarthy & stone plc","master_cap":"(march 13, 2021)","country":"united kingdom","industry":"medical care facilities","sector":"healthcare"}
 {"name":"equiniti group plc","master_cap":"(dec. 1, 2021)","country":"united kingdom","industry":"softwareinfrastructure","sector":"technology"}
-{"name":"young & co's brewery, plc","master_cap":891400000,"country":"united kingdom","industry":"restaurants","sector":"consumer discretionary"}
+{"name":"young & co's brewery plc","master_cap":891400000,"country":"united kingdom","industry":"restaurants","sector":"consumer discretionary"}
 {"name":"alternative credit investments plc","master_cap":"(march 13, 2021)","country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"watkin jones plc","master_cap":882200000,"country":"united kingdom","industry":"residential construction","sector":"consumer discretionary"}
 {"name":"ergomed plc","master_cap":870200000,"country":"united kingdom","industry":"biotechnology","sector":"healthcare"}
@@ -407,7 +407,7 @@
 {"name":"pacific horizon investment trust","master_cap":823500000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"nextenergy solar ord","master_cap":817800000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"genius sports ltd","master_cap":812900000,"country":"united kingdom","industry":"internet content & information","sector":"communication services"}
-{"name":"mas real estate, inc","master_cap":"(nov. 1, 2021)","country":"united kingdom","industry":"real estatediversified","sector":"real estate"}
+{"name":"mas real estate inc","master_cap":"(nov. 1, 2021)","country":"united kingdom","industry":"real estatediversified","sector":"real estate"}
 {"name":"the vitec group plc","master_cap":803400000,"country":"united kingdom","industry":"consumer electronics","sector":"technology"}
 {"name":"ag barr plc","master_cap":799200000,"country":"united kingdom","industry":"beveragesnon-alcoholic","sector":"consumer staples"}
 {"name":"advanced medical solutions group plc","master_cap":793700000,"country":"united kingdom","industry":"medical instruments & supplies","sector":"healthcare"}
@@ -537,8 +537,8 @@
 {"name":"polar capital global healthcare trust","master_cap":477700000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"petrofac limited","master_cap":472400000,"country":"united kingdom","industry":"oil & gas equipment & services","sector":"energy"}
 {"name":"henderson european focus trust plc","master_cap":471200000,"country":"united kingdom","industry":"asset management","sector":"financials"}
-{"name":"bloobury publishing plc","master_cap":470900000,"country":"united kingdom","industry":"publishing","sector":"communication services"}
-{"name":"fuller, smith & turner plc","master_cap":470100000,"country":"united kingdom","industry":"restaurants","sector":"consumer discretionary"}
+{"name":"bloomsbury publishing plc","master_cap":470900000,"country":"united kingdom","industry":"publishing","sector":"communication services"}
+{"name":"fuller smith & turner plc","master_cap":470100000,"country":"united kingdom","industry":"restaurants","sector":"consumer discretionary"}
 {"name":"real estate credit investments limited","master_cap":470100000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"pendragon plc","master_cap":468400000,"country":"united kingdom","industry":"auto & truck dealerships","sector":"consumer discretionary"}
 {"name":"lowland investment company plc","master_cap":464900000,"country":"united kingdom","industry":"asset management","sector":"financials"}
@@ -592,7 +592,7 @@
 {"name":"london security plc","master_cap":"(march 13, 2021)","country":"united kingdom","industry":"security & protection services","sector":"industrials"}
 {"name":"funding circle holdings plc","master_cap":373900000,"country":"united kingdom","industry":"credit services","sector":"financials"}
 {"name":"tracsis plc","master_cap":373800000,"country":"united kingdom","industry":"softwareapplication","sector":"technology"}
-{"name":"ayt pharma plc","master_cap":"(jan. 1, 2022)","country":"united kingdom","industry":"drug manufacturersspecialty & generic","sector":"healthcare"}
+{"name":"amryt pharma plc","master_cap":"(jan. 1, 2022)","country":"united kingdom","industry":"drug manufacturersspecialty & generic","sector":"healthcare"}
 {"name":"baillie gifford uk growth","master_cap":372500000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"broadstone acquisition corp","master_cap":"(dec. 1, 2021)","country":"united kingdom","industry":"shell companies","sector":"financials"}
 {"name":"speedy hire plc","master_cap":368900000,"country":"united kingdom","industry":"specialty business services","sector":"industrials"}
@@ -610,7 +610,7 @@
 {"name":"photo-me international plc","master_cap":355900000,"country":"united kingdom","industry":"leisure","sector":"consumer discretionary"}
 {"name":"xps pensions group plc","master_cap":352900000,"country":"united kingdom","industry":"personal services","sector":"consumer discretionary"}
 {"name":"telit communications plc","master_cap":"(march 13, 2021)","country":"united kingdom","industry":"communication equipment","sector":"technology"}
-{"name":"aberdeen emerging markets equity income fund, inc","master_cap":350000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
+{"name":"aberdeen emerging markets equity income fund inc","master_cap":350000000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"tatton asset management plc","master_cap":347200000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"iqe plc","master_cap":346800000,"country":"united kingdom","industry":"semiconductor equipment & materials","sector":"technology"}
 {"name":"international biotechnology trust","master_cap":346300000,"country":"united kingdom","industry":"asset management","sector":"financials"}
@@ -649,7 +649,7 @@
 {"name":"verona pharma plc","master_cap":307500000,"country":"united kingdom","industry":"biotechnology","sector":"healthcare"}
 {"name":"autolus therapeutics plc","master_cap":307300000,"country":"united kingdom","industry":"biotechnology","sector":"healthcare"}
 {"name":"secure trust bank plc","master_cap":306400000,"country":"united kingdom","industry":"banks","sector":"financials"}
-{"name":"proton motor power syste plc","master_cap":305400000,"country":"united kingdom","industry":"electrical equipment & parts","sector":"industrials"}
+{"name":"proton motor power systeplc","master_cap":305400000,"country":"united kingdom","industry":"electrical equipment & parts","sector":"industrials"}
 {"name":"vertu motors plc","master_cap":304300000,"country":"united kingdom","industry":"auto & truck dealerships","sector":"consumer discretionary"}
 {"name":"securities trust of scotland plc","master_cap":304100000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"aa plc","master_cap":"(march 13, 2021)","country":"united kingdom","industry":"personal services","sector":"consumer discretionary"}
@@ -756,7 +756,7 @@
 {"name":"churchill china plc","master_cap":203800000,"country":"united kingdom","industry":"furnishings, fixtures & appliances","sector":"consumer discretionary"}
 {"name":"jupiter us smaller companies plc","master_cap":"(march 13, 2021)","country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"arix bioscience plc","master_cap":203600000,"country":"united kingdom","industry":"biotechnology","sector":"healthcare"}
-{"name":"zotefoa plc","master_cap":202000000,"country":"united kingdom","industry":"specialty chemicals","sector":"basic materials"}
+{"name":"zotefoaplc","master_cap":202000000,"country":"united kingdom","industry":"specialty chemicals","sector":"basic materials"}
 {"name":"metro bank plc","master_cap":200700000,"country":"united kingdom","industry":"banks","sector":"financials"}
 {"name":"nucleus financial group plc","master_cap":"(march 13, 2021)","country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"fonix mobile plc","master_cap":200600000,"country":"united kingdom","industry":"information technology services","sector":"technology"}
@@ -797,14 +797,14 @@
 {"name":"mind gym plc","master_cap":174300000,"country":"united kingdom","industry":"specialty business services","sector":"industrials"}
 {"name":"aquis exchange plc","master_cap":173900000,"country":"united kingdom","industry":"financial data & stock exchanges","sector":"financials"}
 {"name":"tmt investments plc","master_cap":170900000,"country":"united kingdom","industry":"asset management","sector":"financials"}
-{"name":"superdry plc","master_cap":170600000,"country":"united kingdom","industry":"apparel manufacturing","sector":"consumer discretionary"}
+{"name":"superplc","master_cap":170600000,"country":"united kingdom","industry":"apparel manufacturing","sector":"consumer discretionary"}
 {"name":"castings plc","master_cap":169000000,"country":"united kingdom","industry":"specialty industrial machinery","sector":"industrials"}
 {"name":"calnex solutions plc","master_cap":169000000,"country":"united kingdom","industry":"communication equipment","sector":"technology"}
 {"name":"aberdeen income credit strategies fund","master_cap":168300000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"sureserve group plc","master_cap":167400000,"country":"united kingdom","industry":"engineering & construction","sector":"industrials"}
 {"name":"record plc","master_cap":166800000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"trident royalties plc","master_cap":166800000,"country":"united kingdom","industry":"other industrial metals & mining","sector":"basic materials"}
-{"name":"alterola biotech, inc","master_cap":165900000,"country":"united kingdom","industry":"drug manufacturersspecialty & generic","sector":"healthcare"}
+{"name":"alterola biotech inc","master_cap":165900000,"country":"united kingdom","industry":"drug manufacturersspecialty & generic","sector":"healthcare"}
 {"name":"anpario plc","master_cap":165700000,"country":"united kingdom","industry":"packaged foods","sector":"consumer staples"}
 {"name":"gresham technologies plc","master_cap":165400000,"country":"united kingdom","industry":"softwareapplication","sector":"technology"}
 {"name":"shepherd neame ltd","master_cap":164300000,"country":"united kingdom","industry":"beveragesbrewers","sector":"consumer staples"}
@@ -853,7 +853,7 @@
 {"name":"ep global opportunities trust","master_cap":139100000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"northern venture trust plc","master_cap":138900000,"country":"united kingdom","industry":"asset management","sector":"financials"}
 {"name":"kropz plc","master_cap":138800000,"country":"united kingdom","industry":"agricultural inputs","sector":"basic materials"}
-{"name":"surface transfor plc","master_cap":137700000,"country":"united kingdom","industry":"auto parts","sector":"consumer discretionary"}
+{"name":"surface transforplc","master_cap":137700000,"country":"united kingdom","industry":"auto parts","sector":"consumer discretionary"}
 {"name":"warrego energy limited","master_cap":137600000,"country":"united kingdom","industry":"oil & gas e&p","sector":"energy"}
 {"name":"walker greenbank plc","master_cap":137000000,"country":"united kingdom","industry":"furnishings, fixtures & appliances","sector":"consumer discretionary"}
 {"name":"manolete partners plc","master_cap":136700000,"country":"united kingdom","industry":"consulting services","sector":"industrials"}
@@ -882,7 +882,7 @@
 {"name":"quixant plc","master_cap":123000000,"country":"united kingdom","industry":"computer hardware","sector":"technology"}
 {"name":"belvoir group plc","master_cap":122900000,"country":"united kingdom","industry":"real estate services","sector":"real estate"}
 {"name":"albion development vct plc","master_cap":122700000,"country":"united kingdom","industry":"asset management","sector":"financials"}
-{"name":"doric niod air three ltd","master_cap":121800000,"country":"united kingdom","industry":"rental & leasing services","sector":"industrials"}
+{"name":"doric nimrod air three ltd","master_cap":121800000,"country":"united kingdom","industry":"rental & leasing services","sector":"industrials"}
 {"name":"achilles therapeutics plc","master_cap":121700000,"country":"united kingdom","industry":"biotechnology","sector":"healthcare"}
 {"name":"nexus infrastructure plc","master_cap":121700000,"country":"united kingdom","industry":"engineering & construction","sector":"industrials"}
 {"name":"beeks trading corporation ltd","master_cap":121100000,"country":"united kingdom","industry":"softwareinfrastructure","sector":"technology"}
@@ -910,9 +910,9 @@
 {"name":"smiths news plc","master_cap":110700000,"country":"united kingdom","industry":"publishing","sector":"communication services"}
 {"name":"gear4music holdings plc","master_cap":109900000,"country":"united kingdom","industry":"internet retail","sector":"consumer discretionary"}
 {"name":"icg-longbow senior secured uk property debt investments","master_cap":109600000,"country":"united kingdom","industry":"asset management","sector":"financials"}
-{"name":"gaming real plc","master_cap":109300000,"country":"united kingdom","industry":"gambling","sector":"consumer discretionary"}
+{"name":"gaming realplc","master_cap":109300000,"country":"united kingdom","industry":"gambling","sector":"consumer discretionary"}
 {"name":"netcall plc","master_cap":108700000,"country":"united kingdom","industry":"softwareapplication","sector":"technology"}
-{"name":"invinity energy syste plc","master_cap":108500000,"country":"united kingdom","industry":"utilitiesdiversified","sector":"utilities"}
+{"name":"invinity energy systeplc","master_cap":108500000,"country":"united kingdom","industry":"utilitiesdiversified","sector":"utilities"}
 {"name":"portmeirion group plc","master_cap":108200000,"country":"united kingdom","industry":"furnishings, fixtures & appliances","sector":"consumer discretionary"}
 {"name":"distribution finance capital holdings plc","master_cap":108200000,"country":"united kingdom","industry":"credit services","sector":"financials"}
 {"name":"velocys plc","master_cap":107600000,"country":"united kingdom","industry":"oil & gas equipment & services","sector":"energy"}

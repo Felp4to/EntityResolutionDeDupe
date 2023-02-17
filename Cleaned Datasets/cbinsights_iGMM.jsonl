@@ -53,7 +53,7 @@
 {"company":"thrasio","valuation":10,"datejoined":"7/15/2020","country":"united states","city":"walpole","industry":"e-commerce & direct-to-consumer","selectinvestors":"upper90, riverpark ventures, advent international"}
 {"company":"digital currency group","valuation":10,"datejoined":"11/1/2021","country":"united states","city":"new york","industry":"fintech","selectinvestors":"ribbit capital, capitalg, softbank group"}
 {"company":"kucoin","valuation":10,"datejoined":"5/10/2022","country":"seychelles","city":"victoria","industry":"fintech","selectinvestors":"idg capital, matrix partners china, jump crypto"}
-{"company":"outsyste","valuation":9,"datejoined":"6/5/2018","country":"united states","city":"boston","industry":"internet software & services","selectinvestors":"kkr, es ventures, north bridge growth equity"}
+{"company":"outsystems","valuation":9,"datejoined":"6/5/2018","country":"united states","city":"boston","industry":"internet software & services","selectinvestors":"kkr, es ventures, north bridge growth equity"}
 {"company":"servicetitan","valuation":9,"datejoined":"11/14/2018","country":"united states","city":"glendale","industry":"internet software & services","selectinvestors":"bessemer venture partners, iconiq capital, battery ventures"}
 {"company":"heytea","valuation":9,"datejoined":"7/1/2019","country":"china","city":"shenzhen","industry":"other","selectinvestors":"sequoia capital china, tencent investment, ba capital"}
 {"company":"n26","valuation":9,"datejoined":"1/10/2019","country":"germany","city":"berlin","industry":"fintech","selectinvestors":"redalpine venture partners, earlybird venture capital, valar ventures"}
@@ -62,7 +62,7 @@
 {"company":"northvolt","valuation":9,"datejoined":"6/12/2019","country":"sweden","city":"stockholm","industry":"other","selectinvestors":"vattenfall, volkswagen group, goldman sachs"}
 {"company":"tanium","valuation":9,"datejoined":"3/31/2015","country":"united states","city":"kirkland","industry":"cybersecurity","selectinvestors":"andreessen horowitz, nor-cal invest, tpg growth"}
 {"company":"niantic","valuation":9,"datejoined":"11/24/2017","country":"united states","city":"san francisco","industry":"mobile & telecommunications","selectinvestors":"nintendo, google, pokemon company international, spark capital"}
-{"company":"oyo roo","valuation":9,"datejoined":"9/25/2018","country":"india","city":"gurugram","industry":"travel","selectinvestors":"softbank group, sequoia capital india,lightspeed india partners"}
+{"company":"oyo rooms","valuation":9,"datejoined":"9/25/2018","country":"india","city":"gurugram","industry":"travel","selectinvestors":"softbank group, sequoia capital india,lightspeed india partners"}
 {"company":"rapyd","valuation":8,"datejoined":"12/3/2019","country":"united kingdom","city":"london","industry":"fintech","selectinvestors":"target global, general catalyst, durable capital partners"}
 {"company":"kavak","valuation":8,"datejoined":"10/1/2020","country":"mexico","city":"lerma de villada","industry":"e-commerce & direct-to-consumer","selectinvestors":"dst global, softbank group, mountain nazca"}
 {"company":"snyk","valuation":8,"datejoined":"1/21/2020","country":"united states","city":"boston","industry":"cybersecurity","selectinvestors":"boldstart ventures, google ventures, accel"}
@@ -101,7 +101,7 @@
 {"company":"ziroom","valuation":6,"datejoined":"1/17/2018","country":"china","city":"beijing","industry":"e-commerce & direct-to-consumer","selectinvestors":"sequoia capital china, warburg pincus, general catalyst"}
 {"company":"svolt","valuation":6,"datejoined":"6/8/2020","country":"china","city":"changzhou","industry":"auto & transportation","selectinvestors":"idg capital, bank of china group investment,, sdic cmc investment management"}
 {"company":"national stock exchange of india","valuation":6,"datejoined":"7/1/2020","country":"india","city":"mumbai","industry":"fintech","selectinvestors":"ta associates, softbank group, gs growth"}
-{"company":"mollie","valuation":6,"datejoined":"9/8/2020","country":"netherlands","city":"a terdam","industry":"fintech","selectinvestors":"technology crossover ventures"}
+{"company":"mollie","valuation":6,"datejoined":"9/8/2020","country":"netherlands","city":"amsterdam","industry":"fintech","selectinvestors":"technology crossover ventures"}
 {"company":"ola cabs","valuation":7,"datejoined":"10/27/2014","country":"india","city":"bengaluru","industry":"auto & transportation","selectinvestors":"accel partners, softbank group, sequoia capital"}
 {"company":"doctolib","valuation":6,"datejoined":"3/19/2019","country":"france","city":"paris","industry":"health","selectinvestors":"bpi france, kerala ventures, accel"}
 {"company":"datarobot","valuation":6,"datejoined":"7/29/2019","country":"united states","city":"boston","industry":"artificial intelligence","selectinvestors":"new enterprise associates, accomplice, ia ventures"}
@@ -109,7 +109,7 @@
 {"company":"hinge health","valuation":6,"datejoined":"1/6/2021","country":"united states","city":"san francisco","industry":"health","selectinvestors":"atomico, insight partners, coatue management"}
 {"company":"black unicorn factory","valuation":6,"datejoined":"5/20/2021","country":"united states","city":"los angeles","industry":"other","selectinvestors":"barter ventures"}
 {"company":"benchling","valuation":6,"datejoined":"4/14/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"thrive capital, benchmark, menloventures"}
-{"company":"royole corporation","valuation":6,"datejoined":"8/18/2015","country":"china","city":"shenzhen","industry":"hardware","selectinvestors":"war un holding, idg capital partners"}
+{"company":"royole corporation","valuation":6,"datejoined":"8/18/2015","country":"china","city":"shenzhen","industry":"hardware","selectinvestors":"warmsun holding, idg capital partners"}
 {"company":"bettercom","valuation":6,"datejoined":"11/10/2020","country":"united states","city":"new york","industry":"fintech","selectinvestors":"pine brook, american express ventures, kleiner perkins caufield & byers"}
 {"company":"wiz","valuation":6,"datejoined":"3/17/2021","country":"israel","city":"tel aviv","industry":"cybersecurity","selectinvestors":"insight partners, sequoia capital, index ventures"}
 {"company":"icapital network","valuation":6,"datejoined":"7/27/2021","country":"united states","city":"new york","industry":"fintech","selectinvestors":"blackrock, blackstone, ubs"}
@@ -134,12 +134,12 @@
 {"company":"c6 bank","valuation":5,"datejoined":"12/2/2020","country":"brazil","city":"sao paulo","industry":"fintech","selectinvestors":"credit suisse"}
 {"company":"hello transtech","valuation":5,"datejoined":"6/1/2018","country":"china","city":"shanghai","industry":"auto & transportation","selectinvestors":"ant financial services group, ggv capital"}
 {"company":"airwallex","valuation":5,"datejoined":"3/25/2019","country":"australia","city":"melbourne","industry":"fintech","selectinvestors":"dst global, sequoia capital china, tencent holdings"}
-{"company":"mambu","valuation":5,"datejoined":"1/6/2021","country":"netherlands","city":"a terdam","industry":"fintech","selectinvestors":"runa capital, acton capital partners, point nine capital"}
+{"company":"mambu","valuation":5,"datejoined":"1/6/2021","country":"netherlands","city":"amsterdam","industry":"fintech","selectinvestors":"runa capital, acton capital partners, point nine capital"}
 {"company":"toss","valuation":6,"datejoined":"12/9/2018","country":"south korea","city":"seoul","industry":"fintech","selectinvestors":"bessemer venture partners, qualcomm ventures, kleiner perkins caufield & byers"}
 {"company":"horizon robotics","valuation":5,"datejoined":"2/27/2019","country":"china","city":"beijing","industry":"artificial intelligence","selectinvestors":"hillhouse capital management, linear venture, morningside venture capital"}
 {"company":"wm motor","valuation":5,"datejoined":"3/8/2019","country":"china","city":"shanghai","industry":"auto & transportation","selectinvestors":"baidu capital, linear venture, tencent"}
 {"company":"howden group holdings","valuation":5,"datejoined":"9/29/2020","country":"united kingdom","city":"london","industry":"other","selectinvestors":"general atlantic, 3i group, huagai capital"}
-{"company":"sambanova syste","valuation":5,"datejoined":"4/13/2021","country":"united states","city":"palo alto","industry":"data management & analytics","selectinvestors":"walden international, google ventures, intel capital"}
+{"company":"sambanova systems","valuation":5,"datejoined":"4/13/2021","country":"united states","city":"palo alto","industry":"data management & analytics","selectinvestors":"walden international, google ventures, intel capital"}
 {"company":"zepz","valuation":5,"datejoined":"8/23/2021","country":"united kingdom","city":"london","industry":"fintech","selectinvestors":"accel, technology crossover ventures, leapfrog investments"}
 {"company":"oaknorth bank","valuation":5,"datejoined":"10/12/2017","country":"united kingdom","city":"london","industry":"fintech","selectinvestors":"clermont group, coltrane asset management, toscafund asset management"}
 {"company":"moon active","valuation":5,"datejoined":"1/26/2020","country":"israel","city":"tel aviv","industry":"mobile & telecommunications","selectinvestors":"insight partners, andalusian capital partners"}
@@ -206,7 +206,7 @@
 {"company":"melio","valuation":4,"datejoined":"1/25/2021","country":"united states","city":"new york","industry":"fintech","selectinvestors":"accel, aleph, american express ventures"}
 {"company":"vuori","valuation":4,"datejoined":"10/13/2021","country":"united states","city":"carlsbad","industry":"e-commerce & direct-to-consumer","selectinvestors":"softbank group, norwest venture partners"}
 {"company":"clickup","valuation":4,"datejoined":"12/15/2020","country":"united states","city":"san diego","industry":"internet software & services","selectinvestors":"georgian partners, craft ventures"}
-{"company":"cerebras syste","valuation":4,"datejoined":"11/14/2018","country":"united states","city":"los altos","industry":"hardware","selectinvestors":"benchmark, foundation capital, sequoia capital"}
+{"company":"cerebras systems","valuation":4,"datejoined":"11/14/2018","country":"united states","city":"los altos","industry":"hardware","selectinvestors":"benchmark, foundation capital, sequoia capital"}
 {"company":"farmers business network","valuation":4,"datejoined":"8/3/2020","country":"united states","city":"san carlos","industry":"other","selectinvestors":"blackrock, kleiner perkins caulfield & byers, google ventures"}
 {"company":"branch","valuation":4,"datejoined":"9/10/2018","country":"united states","city":"redwood city","industry":"mobile & telecommunications","selectinvestors":"new enterprise associates, pear, cowboy ventures"}
 {"company":"aurora solar","valuation":4,"datejoined":"5/24/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"fifth wall ventures, energize ventures,  iconiq capital"}
@@ -217,14 +217,14 @@
 {"company":"medlinker","valuation":3,"datejoined":"7/31/2018","country":"china","city":"chengdu","industry":"health","selectinvestors":"china health industry investment fund, china renaissance, and sequoia capital china"}
 {"company":"intarcia therapeutics","valuation":3,"datejoined":"4/1/2014","country":"united states","city":"boston","industry":"health","selectinvestors":"new enterprise associates, new leaf venture partners, charter venture capital"}
 {"company":"stockx","valuation":3,"datejoined":"6/26/2019","country":"united states","city":"detroit","industry":"e-commerce & direct-to-consumer","selectinvestors":"google ventures, battery ventures, dst global"}
-{"company":"messagebird","valuation":3,"datejoined":"10/8/2020","country":"netherlands","city":"a terdam","industry":"mobile & telecommunications","selectinvestors":"y combinator, atomico, accel"}
+{"company":"messagebird","valuation":3,"datejoined":"10/8/2020","country":"netherlands","city":"amsterdam","industry":"mobile & telecommunications","selectinvestors":"y combinator, atomico, accel"}
 {"company":"convoy","valuation":3,"datejoined":"9/21/2018","country":"united states","city":"seattle","industry":"supply chain, logistics, & delivery","selectinvestors":"greylock partners, capitalg, y combinator"}
 {"company":"articulate","valuation":3,"datejoined":"7/1/2021","country":"united states","city":"new york","industry":"edtech","selectinvestors":"blackstone, iconiq growth, general atlantic"}
 {"company":"dutchie","valuation":3,"datejoined":"3/16/2021","country":"united states","city":"bend","industry":"e-commerce & direct-to-consumer","selectinvestors":"casa verde capital, gron ventures, thrity five ventures"}
 {"company":"cohesity","valuation":3,"datejoined":"6/11/2018","country":"united states","city":"san jose","industry":"data management & analytics","selectinvestors":"softbank group, sequoia capital, wing venture capital"}
 {"company":"vast data","valuation":3,"datejoined":"4/16/2020","country":"united states","city":"new york","industry":"data management & analytics","selectinvestors":"norwest venture partners, goldman sachs, dell technologies capital"}
 {"company":"goat","valuation":3,"datejoined":"9/23/2020","country":"united states","city":"culver city","industry":"e-commerce & direct-to-consumer","selectinvestors":"upfront ventures, webb investment network, d1 capital partners"}
-{"company":"noom","valuation":3,"datejoined":"5/24/2021","country":"united states","city":"new york","industry":"health","selectinvestors":"qualcomm ventures, sa ung ventures, silver lake"}
+{"company":"noom","valuation":3,"datejoined":"5/24/2021","country":"united states","city":"new york","industry":"health","selectinvestors":"qualcomm ventures, samsung ventures, silver lake"}
 {"company":"redwood materials","valuation":3,"datejoined":"7/28/2021","country":"united states","city":"carson city","industry":"other","selectinvestors":"breakthrough energy ventures, capricorn investment group, valor equity partners"}
 {"company":"papaya global","valuation":3,"datejoined":"3/4/2021","country":"united states","city":"new york","industry":"internet software & services","selectinvestors":"bessemer venture partners, insight partners, new era ventures"}
 {"company":"abogen","valuation":3,"datejoined":"11/29/2021","country":"china","city":"suzhou","industry":"health","selectinvestors":"hillhouse capital management, softbank group, qiming venture partners"}
@@ -275,14 +275,14 @@
 {"company":"blockstream","valuation":3,"datejoined":"8/24/2021","country":"canada","city":"vancouver","industry":"fintech","selectinvestors":"ame cloud ventures, future perfect ventures, blockchain capital"}
 {"company":"innovaccer","valuation":3,"datejoined":"2/19/2021","country":"united states","city":"san francisco","industry":"health","selectinvestors":"m12, westbridge capital, lightspeed venture partners"}
 {"company":"ironclad","valuation":3,"datejoined":"1/18/2022","country":"united states","city":"sacramento","industry":"internet software & services","selectinvestors":"accel, sequoia capital, y combinator"}
-{"company":"ski","valuation":3,"datejoined":"4/9/2021","country":"united states","city":"los angeles","industry":"e-commerce & direct-to-consumer","selectinvestors":"thrive capital, alliance consumer growth, imaginary ventures"}
+{"company":"skims","valuation":3,"datejoined":"4/9/2021","country":"united states","city":"los angeles","industry":"e-commerce & direct-to-consumer","selectinvestors":"thrive capital, alliance consumer growth, imaginary ventures"}
 {"company":"eikon therapeutics","valuation":3,"datejoined":"1/6/2022","country":"united states","city":"hayward","industry":"health","selectinvestors":"the column group, foresite capital, foresite capital"}
 {"company":"retool","valuation":3,"datejoined":"12/22/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"sequoia capital"}
 {"company":"verkada","valuation":3,"datejoined":"1/29/2020","country":"united states","city":"san mateo","industry":"cybersecurity","selectinvestors":"next47, first round capital, sequoia capital"}
 {"company":"psiquantum","valuation":3,"datejoined":"7/27/2021","country":"united states","city":"palo alto","industry":"hardware","selectinvestors":"playground global, m12, blackrock"}
 {"company":"udaan","valuation":3,"datejoined":"9/4/2018","country":"india","city":"bengaluru","industry":"supply chain, logistics, & delivery","selectinvestors":"dst global, lightspeed venture partners, microsoft scaleup"}
 {"company":"highradius","valuation":3,"datejoined":"1/7/2020","country":"united states","city":"houston","industry":"fintech","selectinvestors":"susquehanna growth equity, citi ventures, iconiq capital"}
-{"company":"nuvehop","valuation":3,"datejoined":"8/17/2021","country":"brazil","city":"sao paulo","industry":"e-commerce & direct-to-consumer","selectinvestors":"kaszek ventures, qualcomm ventures, accel"}
+{"company":"nuvemshop","valuation":3,"datejoined":"8/17/2021","country":"brazil","city":"sao paulo","industry":"e-commerce & direct-to-consumer","selectinvestors":"kaszek ventures, qualcomm ventures, accel"}
 {"company":"yixia","valuation":3,"datejoined":"11/24/2015","country":"china","city":"beijing","industry":"mobile & telecommunications","selectinvestors":"sequoia capital china, sina weibo, kleiner perkins caufield & byers, redpoint ventures"}
 {"company":"traveloka","valuation":3,"datejoined":"1/1/2017","country":"indonesia","city":"jakarta","industry":"travel","selectinvestors":"global founders capital, east ventures, expedia inc."}
 {"company":"souche holdings","valuation":3,"datejoined":"11/1/2017","country":"china","city":"hangzhou","industry":"e-commerce & direct-to-consumer","selectinvestors":"morningside ventures, warburg pincus, creditease fintech investment fund"}
@@ -296,7 +296,7 @@
 {"company":"calendly","valuation":3,"datejoined":"1/26/2021","country":"united states","city":"atlanta","industry":"internet software & services","selectinvestors":"iconiq capital, openview venture partners"}
 {"company":"blockfi","valuation":3,"datejoined":"3/11/2021","country":"united states","city":"jersey city","industry":"fintech","selectinvestors":"consensys ventures, valar ventures, puc"}
 {"company":"activecampaign","valuation":3,"datejoined":"4/21/2021","country":"united states","city":"chicago","industry":"internet software & services","selectinvestors":"silversmith capital partners, susquehanna growth equity, tiger global management"}
-{"company":"c surgical","valuation":3,"datejoined":"9/17/2019","country":"united kingdom","city":"cambridge","industry":"health","selectinvestors":"cambridge innovation capital, lgt capital partners, escala capital"}
+{"company":"csurgical","valuation":3,"datejoined":"9/17/2019","country":"united kingdom","city":"cambridge","industry":"health","selectinvestors":"cambridge innovation capital, lgt capital partners, escala capital"}
 {"company":"lucid software","valuation":3,"datejoined":"6/29/2021","country":"united states","city":"south jordan","industry":"internet software & services","selectinvestors":"spectrum equity, iconiq capital, grayhawk capital"}
 {"company":"age of learning","valuation":3,"datejoined":"5/3/2016","country":"united states","city":"glendale","industry":"edtech","selectinvestors":"iconiq capital"}
 {"company":"carbon health","valuation":3,"datejoined":"7/21/2021","country":"united states","city":"san francisco","industry":"health","selectinvestors":"brookfield asset management, blackstone, data collective"}
@@ -339,7 +339,7 @@
 {"company":"tridge","valuation":2,"datejoined":"8/24/2022","country":"south korea","city":"seoul","industry":"internet software & services","selectinvestors":"forest partners, softbank ventures asia"}
 {"company":"o9 solutions","valuation":2,"datejoined":"4/28/2020","country":"united states","city":"dallas","industry":"artificial intelligence","selectinvestors":"kkr"}
 {"company":"thought machine","valuation":2,"datejoined":"11/29/2021","country":"united kingdom","city":"london","industry":"fintech","selectinvestors":"british patient capital, seb venture capital, iq capital"}
-{"company":"backbase","valuation":2,"datejoined":"6/9/2022","country":"netherlands","city":"a terdam","industry":"fintech","selectinvestors":"motive partners"}
+{"company":"backbase","valuation":2,"datejoined":"6/9/2022","country":"netherlands","city":"amsterdam","industry":"fintech","selectinvestors":"motive partners"}
 {"company":"manomano","valuation":2,"datejoined":"7/5/2021","country":"france","city":"paris","industry":"e-commerce & direct-to-consumer","selectinvestors":"general atlantic, piton capital, partech partners"}
 {"company":"sourcegraph","valuation":2,"datejoined":"7/13/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"redpoint ventures, goldcrest capital, insight partners"}
 {"company":"pendo","valuation":2,"datejoined":"10/17/2019","country":"united states","city":"raleigh","industry":"internet software & services","selectinvestors":"contour venture partners, battery ventures, core capital partners"}
@@ -349,7 +349,7 @@
 {"company":"xinchao media","valuation":2,"datejoined":"4/9/2018","country":"china","city":"chengdu","industry":"internet software & services","selectinvestors":"jd.com, baidu, vision plus capital"}
 {"company":"jumpcloud","valuation":2,"datejoined":"9/13/2021","country":"united states","city":"louisville","industry":"data management & analytics","selectinvestors":"foundry group, general atlantic, blackrock"}
 {"company":"unico","valuation":2,"datejoined":"8/3/2021","country":"brazil","city":"sao paulo","industry":"artificial intelligence","selectinvestors":"big bets, general atlantic, softbank latin america ventures"}
-{"company":"oura","valuation":2,"datejoined":"4/5/2022","country":"finland","city":"oulu","industry":"health","selectinvestors":"forerunner ventures, lifeline ventures,  d capital"}
+{"company":"oura","valuation":2,"datejoined":"4/5/2022","country":"finland","city":"oulu","industry":"health","selectinvestors":"forerunner ventures, lifeline ventures, msd capital"}
 {"company":"eat just","valuation":2,"datejoined":"11/30/2017","country":"united states","city":"san francisco","industry":"consumer & retail","selectinvestors":"khosla ventures, horizons ventures, founders fund"}
 {"company":"cribl","valuation":2,"datejoined":"8/25/2021","country":"united states","city":"san francisco","industry":"data management & analytics","selectinvestors":"institutional venture partners, crv, sequoia capital"}
 {"company":"jetti resources","valuation":2,"datejoined":"10/24/2022","country":"united states","city":"boulder","industry":"other","selectinvestors":"bmw i ventures, bhp ventures"}
@@ -366,7 +366,7 @@
 {"company":"uniphore","valuation":2,"datejoined":"2/16/2022","country":"united states","city":"palo alto","industry":"artificial intelligence","selectinvestors":"chiratae ventures, march capital partners, national grid partners"}
 {"company":"somatus","valuation":2,"datejoined":"2/23/2022","country":"united states","city":"mclean","industry":"health","selectinvestors":"the blue venture fund, flare capital partners, longitude capital"}
 {"company":"immutable","valuation":2,"datejoined":"3/7/2022","country":"australia","city":"sydney","industry":"fintech","selectinvestors":"fabric ventures, airtree ventures, temasek"}
-{"company":"a24 fil","valuation":2,"datejoined":"3/9/2022","country":"united states","city":"new york","industry":"other","selectinvestors":"stripes group, neuberger berman"}
+{"company":"a24 films","valuation":2,"datejoined":"3/9/2022","country":"united states","city":"new york","industry":"other","selectinvestors":"stripes group, neuberger berman"}
 {"company":"sifive","valuation":2,"datejoined":"3/16/2022","country":"united states","city":"san mateo","industry":"hardware","selectinvestors":"sutter hill ventures, osage university partners, spark capital"}
 {"company":"games24x7","valuation":2,"datejoined":"3/30/2022","country":"india","city":"mumbai","industry":"internet software & services","selectinvestors":"tiger global management, the raine group, malabar investments"}
 {"company":"fetch rewards","valuation":2,"datejoined":"3/31/2021","country":"united states","city":"madison","industry":"e-commerce & direct-to-consumer","selectinvestors":"greycroft, loeb.nyc, dst global"}
@@ -386,7 +386,7 @@
 {"company":"exabeam","valuation":2,"datejoined":"6/1/2021","country":"united states","city":"foster city","industry":"cybersecurity","selectinvestors":"norwest venture partners, aspect ventures, lightspeed venture partners"}
 {"company":"bitsight technologies","valuation":2,"datejoined":"9/13/2021","country":"united states","city":"boston","industry":"cybersecurity","selectinvestors":"menlo ventures, ggv capital, flybridge capital partners"}
 {"company":"trumid","valuation":2,"datejoined":"7/15/2020","country":"united states","city":"new york","industry":"fintech","selectinvestors":"t. rowe price, dragoneer investment group, blackrock"}
-{"company":"abl space syste","valuation":2,"datejoined":"3/25/2021","country":"united states","city":"el segundo","industry":"other","selectinvestors":"t. rowe price, lockheed martin ventures, fidelity investment"}
+{"company":"abl space systems","valuation":2,"datejoined":"3/25/2021","country":"united states","city":"el segundo","industry":"other","selectinvestors":"t. rowe price, lockheed martin ventures, fidelity investment"}
 {"company":"honeybook","valuation":2,"datejoined":"5/4/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"norwest venture partners, hillsven capital, aleph"}
 {"company":"beta technologies","valuation":2,"datejoined":"4/19/2022","country":"united states","city":"south burlington","industry":"other","selectinvestors":"the rise fund, fidelity investments. redbird capital partners"}
 {"company":"project44","valuation":2,"datejoined":"6/1/2021","country":"united states","city":"chicago","industry":"supply chain, logistics, & delivery","selectinvestors":"emergence capital partners, 8vc, chicago ventures"}
@@ -413,7 +413,7 @@
 {"company":"gympass","valuation":2,"datejoined":"6/12/2019","country":"united states","city":"new york","industry":"internet software & services","selectinvestors":"general atlantic, softbank group, atomico"}
 {"company":"dialpad","valuation":2,"datejoined":"10/6/2020","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"andreessen horowitz, google ventures, section 32"}
 {"company":"g7 networks","valuation":2,"datejoined":"2/15/2022","country":"china","city":"beijing","industry":"supply chain, logistics, & delivery","selectinvestors":"eastern bell capital 32, sdic cmc investment management, trustbridge partners"}
-{"company":"blooeach","valuation":2,"datejoined":"2/23/2022","country":"united states","city":"mountain view","industry":"artificial intelligence","selectinvestors":"bain capital ventures, sixth street growth, lightspeed venture partners"}
+{"company":"bloomreach","valuation":2,"datejoined":"2/23/2022","country":"united states","city":"mountain view","industry":"artificial intelligence","selectinvestors":"bain capital ventures, sixth street growth, lightspeed venture partners"}
 {"company":"motif foodworks","valuation":2,"datejoined":"6/16/2021","country":"united states","city":"boston","industry":"consumer & retail ","selectinvestors":"general atlantic, breakthrough energy ventures, viking global investors"}
 {"company":"huaqin telecom technology","valuation":2,"datejoined":"10/8/2019","country":"china","city":"shanghai","industry":"mobile & telecommunications","selectinvestors":"zhangjiang haocheng venture capital, walden international, intel capital"}
 {"company":"accelerant","valuation":2,"datejoined":"1/12/2022","country":"united kingdom","city":"colchester","industry":"other","selectinvestors":"deer park road, altamont capital partners, eldridge"}
@@ -450,7 +450,7 @@
 {"company":"mafengwo","valuation":2,"datejoined":"5/23/2019","country":"china","city":"beijing","industry":"travel","selectinvestors":"qiming venture partners, capital today, general atlantic"}
 {"company":"druva","valuation":2,"datejoined":"6/20/2019","country":"united states","city":"sunnyvale","industry":"data management & analytics","selectinvestors":"nexus venture partners, tenaya capital, sequoia capital"}
 {"company":"kujiale","valuation":2,"datejoined":"10/25/2019","country":"china","city":"hangzhou","industry":"internet software & services","selectinvestors":"ggv capital, idg capital, linear venture"}
-{"company":"appsflyer","valuation":2,"datejoined":"1/21/2020","country":"united states","city":"san francisco","industry":"mobile & telecommunications","selectinvestors":"magma venture partners, pitango venture capital, qu a capital"}
+{"company":"appsflyer","valuation":2,"datejoined":"1/21/2020","country":"united states","city":"san francisco","industry":"mobile & telecommunications","selectinvestors":"magma venture partners, pitango venture capital, qumra capital"}
 {"company":"keep","valuation":2,"datejoined":"5/19/2020","country":"china","city":"beijing","industry":"internet software & services","selectinvestors":"bertelsmann asia investments, ggv capital, morningside venture capital"}
 {"company":"redis labs","valuation":2,"datejoined":"8/25/2020","country":"united states","city":"mountain view","industry":"data management & analytics","selectinvestors":"viola ventures, dell technologies capital, bain capital ventures"}
 {"company":"xingyun group","valuation":2,"datejoined":"9/24/2020","country":"china","city":"shenzhen","industry":"e-commerce & direct-to-consumer","selectinvestors":"matrix partners china, eastern bell capital, hongtai capital holdings"}
@@ -468,7 +468,7 @@
 {"company":"beisen","valuation":2,"datejoined":"5/11/2021","country":"china","city":"beijing","industry":"internet software & services","selectinvestors":"matrix partners china, sequoia capital china, genesis capital"}
 {"company":"pipe","valuation":2,"datejoined":"5/19/2021","country":"united states","city":"miami","industry":"fintech","selectinvestors":"next47, mac venture capital, finvc"}
 {"company":"iterable","valuation":2,"datejoined":"6/15/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"crv, blue cloud ventures, index ventures"}
-{"company":"bunq","valuation":2,"datejoined":"6/18/2021","country":"netherlands","city":"a terdam","industry":"fintech","selectinvestors":"undisclosed"}
+{"company":"bunq","valuation":2,"datejoined":"6/18/2021","country":"netherlands","city":"amsterdam","industry":"fintech","selectinvestors":"undisclosed"}
 {"company":"clip","valuation":2,"datejoined":"6/10/2021","country":"mexico","city":"mexico city","industry":"fintech","selectinvestors":"alta ventures mexico, general atlantic, softbank group"}
 {"company":"loggi","valuation":2,"datejoined":"6/5/2019","country":"brazil","city":"sao paulo","industry":"supply chain, logistics, & delivery","selectinvestors":"qualcomm ventures, softbank group. monashees+"}
 {"company":"mural","valuation":2,"datejoined":"7/20/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"insight partners, tiger global management, gradient ventures"}
@@ -495,7 +495,7 @@
 {"company":"netlify","valuation":2,"datejoined":"11/17/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"andreessen horowitz, kleiner perkins caufield & byers, eqt ventures"}
 {"company":"sword health","valuation":2,"datejoined":"11/22/2021","country":"united states","city":"new york","industry":"health","selectinvestors":"khosla ventures, green innovations, founders fund"}
 {"company":"ltk","valuation":2,"datejoined":"11/22/2021","country":"united states","city":"dallas","industry":"internet software & services","selectinvestors":"softbank group, maverick capital"}
-{"company":"trax","valuation":2,"datejoined":"7/22/2019","country":"singapore","city":"","industry":"artificial intelligence","selectinvestors":"hopu investment management, boyu capital, dc tho on ventures"}
+{"company":"trax","valuation":2,"datejoined":"7/22/2019","country":"singapore","city":"","industry":"artificial intelligence","selectinvestors":"hopu investment management, boyu capital, dc thomson ventures"}
 {"company":"exotec","valuation":2,"datejoined":"1/17/2022","country":"france","city":"croix","industry":"hardware","selectinvestors":"breega capital, iris capital, 360 capital partners"}
 {"company":"dremio","valuation":2,"datejoined":"1/6/2021","country":"united states","city":"santa clara","industry":"data management & analytics","selectinvestors":"lightspeed venture partners, redpoint ventures, norwest venture partners"}
 {"company":"akulaku","valuation":2,"datejoined":"2/15/2022","country":"indonesia","city":"jakarta","industry":"e-commerce & direct-to-consumer","selectinvestors":"dcm ventures, idg capital, siam commercial bank"}
@@ -548,7 +548,7 @@
 {"company":"pax8","valuation":1,"datejoined":"4/11/2022","country":"united states","city":"greenwood village","industry":"internet software & services","selectinvestors":"liberty global ventures, sageview capital, blue cloud ventures"}
 {"company":"multiverse","valuation":1,"datejoined":"6/8/2022","country":"united kingdom","city":"london","industry":"edtech","selectinvestors":"lightspeed venture partners, google ventures, general catalyst"}
 {"company":"front","valuation":1,"datejoined":"6/28/2022","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"sequoia capital, uncork capital, salesforce ventures"}
-{"company":"redesign health","valuation":1,"datejoined":"9/13/2022","country":"united states","city":"new york","industry":"health","selectinvestors":"general catalyst, sa ung next, cvs health partners"}
+{"company":"redesign health","valuation":1,"datejoined":"9/13/2022","country":"united states","city":"new york","industry":"health","selectinvestors":"general catalyst, samsung next, cvs health partners"}
 {"company":"tessera therapeutics","valuation":1,"datejoined":"4/19/2022","country":"united states","city":"cambridge","industry":"health","selectinvestors":"altitude life science ventures, softbank group, alaska permanent fund"}
 {"company":"uniswap","valuation":1,"datejoined":"10/13/2022","country":"united states","city":"new york","industry":"fintech","selectinvestors":"a16z crypto, variant fund, paradigm"}
 {"company":"finaccel","valuation":1,"datejoined":"8/15/2022","country":"singapore","city":"","industry":"fintech","selectinvestors":"jungle ventures, square peg capital, openspace ventures"}
@@ -654,7 +654,7 @@
 {"company":"olist","valuation":1,"datejoined":"12/15/2021","country":"brazil","city":"curitiba","industry":"e-commerce & direct-to-consumer","selectinvestors":"redpoint e.ventures, valor capital group, softbank latin america fund"}
 {"company":"paradox","valuation":1,"datejoined":"12/27/2021","country":"united states","city":"scottsdale","industry":"internet software & services","selectinvestors":"brighton park capital, blue cloud ventures, workday ventures"}
 {"company":"airbyte","valuation":1,"datejoined":"12/17/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"accel, benchmark, sv angel"}
-{"company":"storedot","valuation":1,"datejoined":"1/4/2022","country":"israel","city":"herzliya","industry":"other","selectinvestors":"sa ung ventures, singulariteam, bp ventures"}
+{"company":"storedot","valuation":1,"datejoined":"1/4/2022","country":"israel","city":"herzliya","industry":"other","selectinvestors":"samsung ventures, singulariteam, bp ventures"}
 {"company":"il makiage","valuation":1,"datejoined":"1/10/2022","country":"united states","city":"new york","industry":"e-commerce & direct-to-consumer","selectinvestors":"l catterton, franklin templeton, first light capital group"}
 {"company":"spendesk","valuation":1,"datejoined":"1/18/2022","country":"france","city":"paris","industry":"fintech","selectinvestors":"index ventures, eight roads ventures, general atlantic"}
 {"company":"veriff","valuation":1,"datejoined":"1/26/2022","country":"estonia","city":"tallinn","industry":"artificial intelligence","selectinvestors":"accel, institutional venture partners, tiger global management"}
@@ -669,7 +669,7 @@
 {"company":"mashgin","valuation":1,"datejoined":"5/9/2022","country":"united states","city":"palo alto","industry":"artificial intelligence","selectinvestors":"new enterprise associates, matrix partmers, susa ventures"}
 {"company":"dock","valuation":1,"datejoined":"5/12/2022","country":"brazil","city":"sao paulo","industry":"fintech","selectinvestors":"viking global investors, riverwood capital, lightrock"}
 {"company":"prometheus","valuation":1,"datejoined":"9/23/2021","country":"united states","city":"santa cruz","industry":"other","selectinvestors":"bmw i ventures, metaplanet, maersk growth"}
-{"company":"5ire","valuation":1,"datejoined":"7/15/2022","country":"united kingdom","city":"london","industry":"internet software & services","selectinvestors":"global emerging markets, sram &  am group, marshland capital"}
+{"company":"5ire","valuation":1,"datejoined":"7/15/2022","country":"united kingdom","city":"london","industry":"internet software & services","selectinvestors":"global emerging markets, sram & mram group, marshland capital"}
 {"company":"yipin shengxian","valuation":1,"datejoined":"3/11/2019","country":"china","city":"hefei","industry":"e-commerce & direct-to-consumer","selectinvestors":"eastern bell capital, capital today, longzhu capital"}
 {"company":"bordrin motors","valuation":1,"datejoined":"6/3/2019","country":"china","city":"shanghai","industry":"auto & transportation","selectinvestors":"china grand prosperity investment, csc group"}
 {"company":"arcadia","valuation":1,"datejoined":"5/10/2022","country":"united states","city":"dc","industry":"other","selectinvestors":"boxgroup, energy impact partners, camber creek"}
@@ -677,7 +677,7 @@
 {"company":"coocaa","valuation":1,"datejoined":"3/16/2018","country":"china","city":"shenzhen","industry":"hardware","selectinvestors":"baidu, tencent holdings"}
 {"company":"juma peisong","valuation":1,"datejoined":"11/26/2018","country":"china","city":"chengdu","industry":"supply chain, logistics, & delivery","selectinvestors":"ding xiang capital, new hope fund, sino-ocean capital"}
 {"company":"ouyeel","valuation":1,"datejoined":"6/27/2019","country":"china","city":"shanghai","industry":"internet software & services","selectinvestors":"taigang venture capital"}
-{"company":"gyhark","valuation":1,"datejoined":"8/14/2020","country":"united kingdom","city":"solihull","industry":"e-commerce & direct-to-consumer","selectinvestors":"general atlantic"}
+{"company":"gymshark","valuation":1,"datejoined":"8/14/2020","country":"united kingdom","city":"solihull","industry":"e-commerce & direct-to-consumer","selectinvestors":"general atlantic"}
 {"company":"m1","valuation":1,"datejoined":"7/14/2021","country":"united states","city":"chicago","industry":"fintech","selectinvestors":"left lane capital, clocktower technology ventures, jump capital"}
 {"company":"aleo","valuation":1,"datejoined":"2/7/2022","country":"united states","city":"san francisco","industry":"cybersecurity","selectinvestors":"slow ventures, andreessen horowitz, softbank group"}
 {"company":"einride","valuation":1,"datejoined":"12/31/2021","country":"sweden","city":"stockholm","industry":"auto & transportation","selectinvestors":"temasek, build capital partners,  northzone ventures"}
@@ -727,7 +727,7 @@
 {"company":"yaoshibang","valuation":1,"datejoined":"6/15/2021","country":"china","city":"guangzhou","industry":"health","selectinvestors":"green pine capital partners, ivy capital, dcm ventures"}
 {"company":"epirus","valuation":1,"datejoined":"2/14/2022","country":"united states","city":"hawthorne","industry":"other","selectinvestors":"8vc, bedrock capital, broom ventures"}
 {"company":"signifyd","valuation":1,"datejoined":"4/15/2021","country":"united states","city":"san jose","industry":"fintech","selectinvestors":"menlo ventures, resolute ventures, ia ventures"}
-{"company":"jaguar microsyste","valuation":1,"datejoined":"6/23/2022","country":"china","city":"shenzhen","industry":"hardware","selectinvestors":"tencent holdings, glory ventures, shenzhen capital group"}
+{"company":"jaguar microsystems","valuation":1,"datejoined":"6/23/2022","country":"china","city":"shenzhen","industry":"hardware","selectinvestors":"tencent holdings, glory ventures, shenzhen capital group"}
 {"company":"motorway","valuation":1,"datejoined":"11/29/2021","country":"united kingdom","city":"london","industry":"e-commerce & direct-to-consumer","selectinvestors":"marchmont ventures, bmw i ventures, index ventures"}
 {"company":"ridi","valuation":1,"datejoined":"1/24/2022","country":"south korea","city":"seoul","industry":"e-commerce & direct-to-consumer","selectinvestors":"atinum investment, company k partners, gic"}
 {"company":"flipboard","valuation":1,"datejoined":"7/22/2015","country":"united states","city":"palo alto","industry":"internet software & services","selectinvestors":"kleiner perkins caufield & byers, comcast ventures, insight partners"}
@@ -946,14 +946,14 @@
 {"company":"itutorgroup","valuation":1,"datejoined":"11/18/2015","country":"china","city":"shanghai","industry":"edtech","selectinvestors":"qiming venture partners, temasek holdings, silverlink capital"}
 {"company":"mindmaze","valuation":1,"datejoined":"1/28/2016","country":"switzerland","city":"lausanne","industry":"health","selectinvestors":"hinduja group"}
 {"company":"icarbonx","valuation":1,"datejoined":"4/12/2016","country":"china","city":"shenzhen","industry":"artificial intelligence","selectinvestors":"tencent, vcanbio"}
-{"company":"s assist","valuation":1,"datejoined":"6/7/2016","country":"united states","city":"chicago","industry":"internet software & services","selectinvestors":"goldman sachs, insights venture partners, pritzker group venture capital"}
-{"company":"kendra scott","valuation":1,"datejoined":"12/21/2016","country":"united states","city":"austin","industry":"consumer & retail","selectinvestors":"berkshire partners, norwest venture partners"}
+{"company":"sassist","valuation":1,"datejoined":"6/7/2016","country":"united states","city":"chicago","industry":"internet software & services","selectinvestors":"goldman sachs, insights venture partners, pritzker group venture capital"}
+{"company":"kenscott","valuation":1,"datejoined":"12/21/2016","country":"united states","city":"austin","industry":"consumer & retail","selectinvestors":"berkshire partners, norwest venture partners"}
 {"company":"mobvoi","valuation":1,"datejoined":"4/6/2017","country":"china","city":"beijing","industry":"consumer & retail","selectinvestors":"sequoia capital china, sig asia investments, zhenfund"}
 {"company":"zhuan zhuan","valuation":1,"datejoined":"4/18/2017","country":"china","city":"beijing","industry":"e-commerce & direct-to-consumer","selectinvestors":"58.com, tencent holdings"}
 {"company":"modernizing medicine","valuation":1,"datejoined":"5/10/2017","country":"united states","city":"boca raton","industry":"health","selectinvestors":"warburg pincus, summit partners, sands capital"}
 {"company":"zhaogang","valuation":1,"datejoined":"6/29/2017","country":"china","city":"shanghai","industry":"e-commerce & direct-to-consumer","selectinvestors":"k2 ventures, matrix partners china, idg capital"}
 {"company":"dianrong","valuation":1,"datejoined":"8/2/2017","country":"china","city":"shanghai","industry":"e-commerce & direct-to-consumer","selectinvestors":"standard chartered, finsight ventures, affirma capital"}
-{"company":"cell c","valuation":1,"datejoined":"8/7/2017","country":"south africa","city":"midrand","industry":"mobile & telecommunications","selectinvestors":"blue label teleco , net1 ueps technologies"}
+{"company":"cell c","valuation":1,"datejoined":"8/7/2017","country":"south africa","city":"midrand","industry":"mobile & telecommunications","selectinvestors":"blue label telecoms, net1 ueps technologies"}
 {"company":"yh global","valuation":1,"datejoined":"9/21/2017","country":"china","city":"shenzhen","industry":"supply chain, logistics, & delivery","selectinvestors":"co-energy finance, grandland"}
 {"company":"revolution precrafted","valuation":1,"datejoined":"10/23/2017","country":"philippines","city":"manila","industry":"other","selectinvestors":"k2 global, 500 startups"}
 {"company":"welab","valuation":1,"datejoined":"11/8/2017","country":"hong kong","city":"","industry":"fintech","selectinvestors":"sequoia capital china, ing, alibaba entrepreneurs fund"}
@@ -974,7 +974,7 @@
 {"company":"hosjoy","valuation":1,"datejoined":"10/18/2018","country":"china","city":"nanjing","industry":"e-commerce & direct-to-consumer","selectinvestors":"u.s.-china green fund, founder h fund, richland equities"}
 {"company":"omio","valuation":1,"datejoined":"10/23/2018","country":"germany","city":"berlin","industry":"travel","selectinvestors":"lakestar, battery ventures, new enterprise associates"}
 {"company":"terminus technology","valuation":1,"datejoined":"10/25/2018","country":"china","city":"beijing","industry":"hardware","selectinvestors":"china everbright limited, idg capital, iflytek"}
-{"company":"bitfury","valuation":1,"datejoined":"11/6/2018","country":"netherlands","city":"a terdam","industry":"hardware","selectinvestors":"georgian co-investment fund, itech capital, galaxy digital"}
+{"company":"bitfury","valuation":1,"datejoined":"11/6/2018","country":"netherlands","city":"amsterdam","industry":"hardware","selectinvestors":"georgian co-investment fund, itech capital, galaxy digital"}
 {"company":"reef technology","valuation":1,"datejoined":"12/10/2018","country":"united states","city":"miami","industry":"supply chain, logistics, & delivery","selectinvestors":"target global, ubs asset management, mubadala capital"}
 {"company":"globality","valuation":1,"datejoined":"1/22/2019","country":"united states","city":"menlo park","industry":"artificial intelligence","selectinvestors":"softbank group"}
 {"company":"ynsect","valuation":1,"datejoined":"2/21/2019","country":"france","city":"evry","industry":"other","selectinvestors":"astanor ventures, upfront ventures, idinvest partners"}
@@ -991,7 +991,7 @@
 {"company":"ebanx","valuation":1,"datejoined":"10/16/2019","country":"brazil","city":"curitiba","industry":"fintech","selectinvestors":"ftv capital, endeavor"}
 {"company":"kk group","valuation":3,"datejoined":"10/23/2019","country":"china","city":"dongguan","industry":"e-commerce & direct-to-consumer","selectinvestors":"matrix partners china, bright venture capita, shenzhen capital group"}
 {"company":"alto pharmacy","valuation":1,"datejoined":"1/30/2020","country":"united states","city":"san francisco","industry":"health","selectinvestors":"jackson square ventures, greenoaks capital management, softbank group"}
-{"company":"hotmart","valuation":1,"datejoined":"3/17/2020","country":"netherlands","city":"a terdam","industry":"e-commerce & direct-to-consumer","selectinvestors":"technology crossover ventures, alkeon capital management, general atlantic"}
+{"company":"hotmart","valuation":1,"datejoined":"3/17/2020","country":"netherlands","city":"amsterdam","industry":"e-commerce & direct-to-consumer","selectinvestors":"technology crossover ventures, alkeon capital management, general atlantic"}
 {"company":"emerging markets property group","valuation":1,"datejoined":"4/28/2020","country":"united arab emirates","city":"dubai","industry":"other","selectinvestors":"olx group, kck group, exor seeds"}
 {"company":"quizlet","valuation":1,"datejoined":"5/13/2020","country":"united states","city":"san francisco","industry":"edtech","selectinvestors":"union square ventures, altos ventures, costanoa ventures"}
 {"company":"orca bio","valuation":1,"datejoined":"6/17/2020","country":"united states","city":"menlo park","industry":"health","selectinvestors":"lightspeed venture partners, data collective, 8vc"}
@@ -1032,7 +1032,7 @@
 {"company":"moloco","valuation":1,"datejoined":"4/29/2021","country":"united states","city":"redwood city","industry":"artificial intelligence","selectinvestors":"smilegate investment, dsc investments, ktb ventures"}
 {"company":"inari","valuation":1,"datejoined":"5/12/2021","country":"united states","city":"cambridge","industry":"other","selectinvestors":"flagship pioneering, alexandria venture investments, investment corporation of dubai"}
 {"company":"mux","valuation":1,"datejoined":"4/30/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"accel, cobalt capital, andreessen horowitz"}
-{"company":"xforceplus","valuation":1,"datejoined":"6/1/2021","country":"china","city":"shanghai","industry":"internet software & services","selectinvestors":"eastern bell capital, danhua capital,  a capital"}
+{"company":"xforceplus","valuation":1,"datejoined":"6/1/2021","country":"china","city":"shanghai","industry":"internet software & services","selectinvestors":"eastern bell capital, danhua capital, msa capital"}
 {"company":"firefly aerospace","valuation":1,"datejoined":"5/4/2021","country":"united states","city":"cedar park","industry":"other","selectinvestors":"xbto ventures, raven one ventures, sk ventures"}
 {"company":"augustinus bader","valuation":1,"datejoined":"11/9/2022","country":"london","city":"united kingdom","industry":"consumer & retail","selectinvestors":"general atlantic"}
 {"company":"shift technology","valuation":1,"datejoined":"5/6/2021","country":"france","city":"paris","industry":"artificial intelligence","selectinvestors":"griffin gaming partners, andreessen horowitz, battery ventures"}
@@ -1057,12 +1057,12 @@
 {"company":"aircall","valuation":1,"datejoined":"6/23/2021","country":"united states","city":"new york","industry":"internet software & services","selectinvestors":"balderton capital, next world capital, draper esprit"}
 {"company":"worldcoin","valuation":1,"datejoined":"6/29/2021","country":"united states","city":"san francisco","industry":"fintech","selectinvestors":"day one ventures, coinbase ventures, andreessen horowitz"}
 {"company":"smartasset","valuation":1,"datejoined":"6/24/2021","country":"united states","city":"new york","industry":"fintech","selectinvestors":"javelin venture partners, ttv capital, peterson ventures"}
-{"company":"morning consult","valuation":1,"datejoined":"6/8/2021","country":"united states","city":"washington dc","industry":"internet software & services","selectinvestors":"advance venture partners, susquehanna growth equity, lupa syste "}
-{"company":"visier","valuation":1,"datejoined":"6/29/2021","country":"canada","city":"vancouver","industry":"internet software & services","selectinvestors":"foundation capital,  summit partners, ada  street partners"}
+{"company":"morning consult","valuation":1,"datejoined":"6/8/2021","country":"united states","city":"washington dc","industry":"internet software & services","selectinvestors":"advance venture partners, susquehanna growth equity, lupa systems"}
+{"company":"visier","valuation":1,"datejoined":"6/29/2021","country":"canada","city":"vancouver","industry":"internet software & services","selectinvestors":"foundation capital,  summit partners, adams street partners"}
 {"company":"shipbob","valuation":1,"datejoined":"6/29/2021","country":"united states","city":"chicago","industry":"supply chain, logistics, & delivery","selectinvestors":"hyde park venture partners, fundersclub. bain capital ventures"}
 {"company":"mobilecoin","valuation":1,"datejoined":"7/7/2021","country":"united states","city":"san francisco","industry":"fintech","selectinvestors":"general catalyst, future ventures, au21"}
 {"company":"amperity","valuation":1,"datejoined":"7/13/2021","country":"united states","city":"seattle","industry":"artificial intelligence","selectinvestors":"madrona venture group, tiger global management, madera technology partners"}
-{"company":"pantheon syste","valuation":1,"datejoined":"7/13/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"foundry group, scale venture partners, softbank group"}
+{"company":"pantheon systems","valuation":1,"datejoined":"7/13/2021","country":"united states","city":"san francisco","industry":"internet software & services","selectinvestors":"foundry group, scale venture partners, softbank group"}
 {"company":"xiaobing","valuation":1,"datejoined":"7/12/2021","country":"china","city":"beijing","industry":"fintech","selectinvestors":"netease capital, northern light venture capital, microsoft"}
 {"company":"dmed biopharmaceutical","valuation":1,"datejoined":"7/12/2021","country":"china","city":"shanghai","industry":"health","selectinvestors":"qiming venture partners, vivo capital, sequoia capital china"}
 {"company":"carson group","valuation":1,"datejoined":"7/14/2021","country":"united states","city":"lincoln","industry":"fintech","selectinvestors":"bain capital"}
@@ -1181,7 +1181,7 @@
 {"company":"oyster","valuation":1,"datejoined":"4/20/2022","country":"united states","city":"wilmington","industry":"fintech","selectinvestors":"emergence capital, slack fund, paypal ventures"}
 {"company":"nexhealth","valuation":1,"datejoined":"4/21/2022","country":"united states","city":"san francisco","industry":"health","selectinvestors":"iseed ventures, point nine capital, buckley ventures"}
 {"company":"instabox","valuation":1,"datejoined":"4/21/2022","country":"sweden","city":"stockholm","industry":"supply chain, logistics, & delivery","selectinvestors":"creades, eqt ventures, verdane capital"}
-{"company":"upside foods","valuation":1,"datejoined":"4/21/2022","country":"united states","city":"berkeley","industry":"other","selectinvestors":"battery ventures, ada  street partners, coatue management"}
+{"company":"upside foods","valuation":1,"datejoined":"4/21/2022","country":"united states","city":"berkeley","industry":"other","selectinvestors":"battery ventures, adams street partners, coatue management"}
 {"company":"factorial","valuation":1,"datejoined":"10/11/2022","country":"spain","city":"barcelona","industry":"internet software & services","selectinvestors":"k fund, creandum, crv"}
 {"company":"divergent 3d","valuation":1,"datejoined":"4/25/2022","country":"united states","city":"torrance","industry":"auto & transportation","selectinvestors":"hedosophia, horizons ventures, alumni ventures group"}
 {"company":"taxfix","valuation":1,"datejoined":"4/28/2022","country":"germany","city":"berlin","industry":"fintech","selectinvestors":"valar ventures, index ventures, creandum"}
@@ -1197,7 +1197,7 @@
 {"company":"vayyar","valuation":1,"datejoined":"6/6/2022","country":"israel","city":"yehud","industry":"hardware","selectinvestors":"battery ventures, bessemer venture partners, morevc"}
 {"company":"leadsquared","valuation":1,"datejoined":"6/21/2022","country":"india","city":"bengaluru","industry":"internet software & services","selectinvestors":"gaja capital partners, stakeboat capital, westbridge capital"}
 {"company":"fourkites","valuation":1,"datejoined":"6/21/2022","country":"united states","city":"chicago","industry":"supply chain, logistics, & delivery","selectinvestors":"hyde park venture partners, bain capital ventures, hyde park angels"}
-{"company":"vulcanfor","valuation":1,"datejoined":"7/5/2022","country":"united states","city":"burlington","industry":"supply chain, logistics, & delivery","selectinvestors":"eclipse ventures, d1 capital partners, industry ventures"}
+{"company":"vulcanforms","valuation":1,"datejoined":"7/5/2022","country":"united states","city":"burlington","industry":"supply chain, logistics, & delivery","selectinvestors":"eclipse ventures, d1 capital partners, industry ventures"}
 {"company":"singlestore","valuation":1,"datejoined":"7/12/2022","country":"united states","city":"san francisco","industry":"data management & analytics","selectinvestors":"google ventures, accel, data collective"}
 {"company":"unstoppable domains","valuation":1,"datejoined":"7/27/2022","country":"united states","city":"las vegas","industry":"internet software & services","selectinvestors":"boost vc, draper associates, gaingels"}
 
