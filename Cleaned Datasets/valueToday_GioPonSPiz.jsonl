@@ -126,7 +126,7 @@
 {"name":"ibm","world_rank":"123","market_value":120850000000,"market_cap":125790000000,"ceo":"","country":"usa"}
 {"name":"rio tinto group","world_rank":"124","market_value":116980000000,"market_cap":121550000000,"ceo":"","country":"uk"}
 {"name":"deere & company","world_rank":"125","market_value":116400000000,"market_cap":118130000000,"ceo":"john c may","country":"usa"}
-{"name":"intuitive surgical","world_rank":"126","market_value":115850000000,"market_cap":125360000000,"ceo":"craig h barratt ","country":"usa"}
+{"name":"intuitive surgical","world_rank":"126","market_value":115850000000,"market_cap":125360000000,"ceo":"craig h barratt","country":"usa"}
 {"name":"hdfc bank","world_rank":"127","market_value":114330000000,"market_cap":121600000000,"ceo":"","country":"india"}
 {"name":"prologis","world_rank":"128","market_value":113660000000,"market_cap":99902000000,"ceo":"hamid moghadam","country":"usa"}
 {"name":"servicenow","world_rank":"129","market_value":112710000000,"market_cap":127500000000,"ceo":"fred luddy","country":"usa"}
@@ -343,7 +343,7 @@
 {"name":"ing group","world_rank":"325","market_value":56183000000,"market_cap":53954000000,"ceo":"","country":"netherlands"}
 {"name":"hitachi","world_rank":"326","market_value":56145000000,"market_cap":54345000000,"ceo":"toshiaki higashihara","country":"japan"}
 {"name":"hapag-lloyd","world_rank":"327","market_value":55995000000,"market_cap":40048000000,"ceo":"","country":"germany"}
-{"name":"canadian imperial bank of commerce","world_rank":"328","market_value":55942000000,"market_cap":51764000000,"ceo":"katharine stevenson ","country":"canada"}
+{"name":"canadian imperial bank of commerce","world_rank":"328","market_value":55942000000,"market_cap":51764000000,"ceo":"katharine stevenson","country":"canada"}
 {"name":"johnson controls international","world_rank":"329","market_value":55832000000,"market_cap":53395000000,"ceo":"george r oliver","country":"usa"}
 {"name":"yihai kerry arawana holdings co ltd","world_rank":"330","market_value":55655000000,"market_cap":55886000000,"ceo":"","country":"china"}
 {"name":"canadian natural resources","world_rank":"331","market_value":55652000000,"market_cap":39058000000,"ceo":"n murray edwards","country":"canada"}
@@ -627,7 +627,7 @@
 {"name":"avalonbay communities","world_rank":"598","market_value":34777000000,"market_cap":32002000000,"ceo":"timothy j naughton","country":"usa"}
 {"name":"banco bradesco","world_rank":"599","market_value":34592000000,"market_cap":43500000000,"ceo":"luiz carlos trabuco cappi","country":"brazil"}
 {"name":"resmed","world_rank":"600","market_value":34570000000,"market_cap":42325000000,"ceo":"","country":"usa"}
-{"name":"coloplast a/s","world_rank":"601","market_value":34558000000,"market_cap":37354000000,"ceo":"lars rasmussen ","country":"denmark"}
+{"name":"coloplast a/s","world_rank":"601","market_value":34558000000,"market_cap":37354000000,"ceo":"lars rasmussen","country":"denmark"}
 {"name":"grupo mexico","world_rank":"602","market_value":34469000000,"market_cap":36414000000,"ceo":"german larrea mota-velasco","country":"mexico"}
 {"name":"techtronic industries company","world_rank":"603","market_value":34454000000,"market_cap":40531000000,"ceo":"horst julius pudwill","country":"hong kong"}
 {"name":"cloudflare","world_rank":"604","market_value":34427000000,"market_cap":38635000000,"ceo":"matthew prince","country":"usa"}
@@ -896,14 +896,14 @@
 {"name":"carlsberg a/s","world_rank":"859","market_value":24428000000,"market_cap":26512000000,"ceo":"henrik poulsen","country":"denmark"}
 {"name":"ke holdings inc","world_rank":"860","market_value":24424000000,"market_cap":21220000000,"ceo":"yong dong peng","country":"china"}
 {"name":"shimano","world_rank":"861","market_value":24398000000,"market_cap":27409000000,"ceo":"yozo shimano","country":"japan"}
-{"name":"credit suisse group","world_rank":"862","market_value":24376000000,"market_cap":25536000000,"ceo":"axel lehmann ","country":"switzerland"}
+{"name":"credit suisse group","world_rank":"862","market_value":24376000000,"market_cap":25536000000,"ceo":"axel lehmann","country":"switzerland"}
 {"name":"mirvac group","world_rank":"863","market_value":24373000000,"market_cap":27396000000,"ceo":"","country":"australia"}
 {"name":"franco-nevada corporation","world_rank":"864","market_value":24341000000,"market_cap":27873000000,"ceo":"david harquail","country":"canada"}
 {"name":"gf securities","world_rank":"865","market_value":24315000000,"market_cap":21322000000,"ceo":"chuan hui lin","country":"china"}
 {"name":"formosa plastics corporation","world_rank":"866","market_value":24311000000,"market_cap":22917000000,"ceo":"chien nan lin","country":"taiwan"}
 {"name":"delivery hero se","world_rank":"867","market_value":24268000000,"market_cap":37073000000,"ceo":"","country":"germany"}
 {"name":"roku","world_rank":"868","market_value":24240000000,"market_cap":47028000000,"ceo":"ravi ahuja","country":"usa"}
-{"name":"sgs sa","world_rank":"869","market_value":24206000000,"market_cap":23545000000,"ceo":"calvin grieder ","country":"switzerland"}
+{"name":"sgs sa","world_rank":"869","market_value":24206000000,"market_cap":23545000000,"ceo":"calvin grieder","country":"switzerland"}
 {"name":"investment ab latour publ","world_rank":"870","market_value":24169000000,"market_cap":23175000000,"ceo":"","country":"sweden"}
 {"name":"ingersoll-rand ireland","world_rank":"871","market_value":24170000000,"market_cap":21487000000,"ceo":"herb henkel","country":"ireland"}
 {"name":"capital group","world_rank":"871","market_value":871,"market_cap":"","ceo":"timothy d armour","country":"usa"}
@@ -1342,7 +1342,7 @@
 {"name":"clarivate plc","world_rank":"1,291","market_value":15685000000,"market_cap":16323000000,"ceo":"jerre stead","country":"uk"}
 {"name":"lendlease group","world_rank":"1,292","market_value":15667000000,"market_cap":18508000000,"ceo":"","country":"australia"}
 {"name":"shanghai putailai new energy technology","world_rank":"1,293","market_value":15666000000,"market_cap":15224000000,"ceo":"","country":"china"}
-{"name":"terna spa ","world_rank":"1,294","market_value":15647000000,"market_cap":16140999999,"ceo":"stefano antonio donnarumma","country":"italy"}
+{"name":"terna spa","world_rank":"1,294","market_value":15647000000,"market_cap":16140999999,"ceo":"stefano antonio donnarumma","country":"italy"}
 {"name":"atlantia","world_rank":"1,296","market_value":15611000000,"market_cap":15464000000,"ceo":"fabio cerchiai","country":"italy"}
 {"name":"halma","world_rank":"1,297","market_value":15584000000,"market_cap":15684000000,"ceo":"","country":"uk"}
 {"name":"huali industrial group company limited","world_rank":"1,298","market_value":15562000000,"market_cap":14977000000,"ceo":"","country":"china"}
@@ -1419,7 +1419,7 @@
 {"name":"otp bank nyrt","world_rank":"1,369","market_value":14752000000,"market_cap":16710000000,"ceo":"sasndor csanyi","country":"hungary"}
 {"name":"banque saudi fransi","world_rank":"1,370","market_value":14747000000,"market_cap":13085000000,"ceo":"rayan mohammed fayez","country":"saudi arabia"}
 {"name":"hindalco industries","world_rank":"1,371","market_value":14740000000,"market_cap":14406000000,"ceo":"","country":"india"}
-{"name":"julius bar gruppe ag","world_rank":"1,372","market_value":14734000000,"market_cap":14716000000,"ceo":"romeo lacher ","country":"switzerland"}
+{"name":"julius bar gruppe ag","world_rank":"1,372","market_value":14734000000,"market_cap":14716000000,"ceo":"romeo lacher","country":"switzerland"}
 {"name":"bilibili","world_rank":"1,373","market_value":14719000000,"market_cap":30721000000,"ceo":"","country":"china"}
 {"name":"lyft","world_rank":"1,374","market_value":14685000000,"market_cap":15962000000,"ceo":"logan green","country":"usa"}
 {"name":"pjsc tatneft","world_rank":"1,375","market_value":14690000000,"market_cap":15218000000,"ceo":"","country":"russia"}
@@ -1539,7 +1539,7 @@
 {"name":"asahi kasei corporation","world_rank":"1,482","market_value":13467000000,"market_cap":14451000000,"ceo":"hideki kobori","country":"japan"}
 {"name":"love's travel stops & country stores","world_rank":"1,482","market_value":"","market_cap":"","ceo":"tom and judy love","country":"usa"}
 {"name":"trex company","world_rank":"1,483","market_value":13462000000,"market_cap":12660000000,"ceo":"james e cline","country":"usa"}
-{"name":"l e lundbergforetagen ab publ","world_rank":"1,484","market_value":13450000000,"market_cap":16642000000,"ceo":"mats guldbrand ","country":"sweden"}
+{"name":"l e lundbergforetagen ab publ","world_rank":"1,484","market_value":13450000000,"market_cap":16642000000,"ceo":"mats guldbrand","country":"sweden"}
 {"name":"cspc pharmaceutical group","world_rank":"1,485","market_value":13432000000,"market_cap":15628000000,"ceo":"","country":"china"}
 {"name":"israel chemicals","world_rank":"1,486","market_value":13412000000,"market_cap":9156000000,"ceo":"raviv zoller","country":"israel"}
 {"name":"etrade financial corporation","world_rank":"1,487","market_value":1,"market_cap":1,"ceo":"","country":"usa"}
@@ -4167,7 +4167,7 @@
 {"name":"kuayue express","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"china"}
 {"name":"mininglamp","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"china"}
 {"name":"netskope","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"usa"}
-{"name":"nuro ","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"usa"}
+{"name":"nuro","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"usa"}
 {"name":"oaknorth","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"uk"}
 {"name":"oscar health","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"usa"}
 {"name":"ovo","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"indonesia"}
@@ -4175,7 +4175,7 @@
 {"name":"renew power","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"india"}
 {"name":"singulato","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"china"}
 {"name":"souche","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"china"}
-{"name":"ucar ","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"china"}
+{"name":"ucar","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"china"}
 {"name":"ucommune","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"china"}
 {"name":"yiguo","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"china"}
 {"name":"zerodha","world_rank":"3,958","market_value":3,"market_cap":3,"ceo":"","country":"india"}
@@ -4433,7 +4433,7 @@
 {"name":"meritz fire & marine insurance","world_rank":"4,202","market_value":3651000000,"market_cap":2922000000,"ceo":"","country":"south korea"}
 {"name":"oneness biotech","world_rank":"4,203","market_value":3653000000,"market_cap":2640000000,"ceo":"","country":"taiwan"}
 {"name":"hunan dakang international food & agriculture","world_rank":"4,204","market_value":3646000000,"market_cap":2256000000,"ceo":"","country":"china"}
-{"name":"knowbe4 ","world_rank":"4,205","market_value":3639000000,"market_cap":4170000000,"ceo":"","country":"usa"}
+{"name":"knowbe4","world_rank":"4,205","market_value":3639000000,"market_cap":4170000000,"ceo":"","country":"usa"}
 {"name":"bovis homes group","world_rank":"4,206","market_value":3637000000,"market_cap":3725000000,"ceo":"","country":"uk"}
 {"name":"jk cement","world_rank":"4,207","market_value":3637000000,"market_cap":3642000000,"ceo":"","country":"india"}
 {"name":"american states water company","world_rank":"4,208","market_value":3635000000,"market_cap":3405000000,"ceo":"","country":"usa"}
@@ -6968,7 +6968,7 @@
 {"name":"sinomach automobile","world_rank":"6,616","market_value":1849000000,"market_cap":1128000000,"ceo":"","country":"china"}
 {"name":"phreesia","world_rank":"6,617","market_value":1835000000,"market_cap":3615000000,"ceo":"","country":"usa"}
 {"name":"computer age management services","world_rank":"6,618","market_value":1839000000,"market_cap":2707000000,"ceo":"","country":"india"}
-{"name":"faraday future ","world_rank":"6,619","market_value":6,"market_cap":6,"ceo":"","country":"usa"}
+{"name":"faraday future","world_rank":"6,619","market_value":6,"market_cap":6,"ceo":"","country":"usa"}
 {"name":"gp club","world_rank":"6,619","market_value":6,"market_cap":6,"ceo":"","country":"south korea"}
 {"name":"moon active","world_rank":"6,619","market_value":6,"market_cap":6,"ceo":"","country":"israel"}
 {"name":"poshmark","world_rank":"6,619","market_value":6,"market_cap":6,"ceo":"","country":"usa"}
@@ -7369,7 +7369,7 @@
 {"name":"blivex energy technology","world_rank":"6,988","market_value":1677000000,"market_cap":1920000000,"ceo":"","country":"china"}
 {"name":"bapcor","world_rank":"6,989","market_value":1682000000,"market_cap":1849000000,"ceo":"","country":"australia"}
 {"name":"vgi public company","world_rank":"6,990","market_value":1675000000,"market_cap":1709000000,"ceo":"","country":"thailand"}
-{"name":"bbgi global infrastructure sa ","world_rank":"6,991","market_value":1678000000,"market_cap":1707000000,"ceo":"","country":"luxembourg"}
+{"name":"bbgi global infrastructure sa","world_rank":"6,991","market_value":1678000000,"market_cap":1707000000,"ceo":"","country":"luxembourg"}
 {"name":"brookfield asset management reinsurance partners ltd","world_rank":"6,992","market_value":1677000000,"market_cap":1695000000,"ceo":"","country":"bermuda"}
 {"name":"elan microelectronics corporation","world_rank":"6,993","market_value":1684000000,"market_cap":1672000000,"ceo":"","country":"taiwan"}
 {"name":"advanced technology & materials","world_rank":"6,994","market_value":1680000000,"market_cap":1630000000,"ceo":"","country":"china"}
@@ -8115,7 +8115,7 @@
 {"name":"akulaku","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"allbirds","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"alto pharmacy","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
-{"name":"amplitude analytics ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
+{"name":"amplitude analytics","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"anduril","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"ankon","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"aprogen","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"south korea"}
@@ -8129,7 +8129,7 @@
 {"name":"boqii","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"bordrin","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"boss zhipin","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
-{"name":"branch ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
+{"name":"branch","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"c2fo","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"cabify","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"spain"}
 {"name":"calmcom","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
@@ -8172,12 +8172,12 @@
 {"name":"grammarly","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"grove collaborative","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"guild education","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
-{"name":"gympass ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"brazil"}
+{"name":"gympass","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"brazil"}
 {"name":"haodf","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"highradius","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"hike","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"india"}
 {"name":"hippo","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
-{"name":"hmd ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"finland"}
+{"name":"hmd","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"finland"}
 {"name":"hosjoy","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"hozon","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"huasheng","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
@@ -8195,7 +8195,7 @@
 {"name":"juanpi","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"juma","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"keeptruckin","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
-{"name":"kenscott ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
+{"name":"kenscott","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"kk group","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"knotel","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"knowbox","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
@@ -8206,15 +8206,15 @@
 {"name":"lightricks","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"israel"}
 {"name":"linkdoc","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"linmon","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
-{"name":"liquid global ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"japan"}
-{"name":"loji ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
-{"name":"lookout ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
+{"name":"liquid global","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"japan"}
+{"name":"loji","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
+{"name":"lookout","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"luojilab","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"maimai","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"marklogic","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"medbanks","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"mediamath","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
-{"name":"meero ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"france"}
+{"name":"meero","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"france"}
 {"name":"mindmaze","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"switzerland"}
 {"name":"mobvoi","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"momenta","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
@@ -8229,7 +8229,7 @@
 {"name":"orcam technologies","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"israel"}
 {"name":"outreach","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"ovo energy","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"uk"}
-{"name":"parkjockey ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
+{"name":"parkjockey","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"pat mcgrath labs","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"pendo","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"perfect diary","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
@@ -8250,20 +8250,20 @@
 {"name":"skio","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"smartmi","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"sonder","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
-{"name":"stockx ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
+{"name":"stockx","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"sumo logic","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"sumup","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"uk"}
 {"name":"symphony communication services","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"taimei technology","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"talkdesk","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"talkingdata","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
-{"name":"the honest company ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
-{"name":"tmon ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"south korea"}
+{"name":"the honest company","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
+{"name":"tmon","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"south korea"}
 {"name":"tradeshift","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"tresata","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"tricentis","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"austria"}
-{"name":"udacity ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
-{"name":"unisound ","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
+{"name":"udacity","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
+{"name":"unisound","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"v linker","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"china"}
 {"name":"vacasa","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
 {"name":"vast data","world_rank":"7,693","market_value":7,"market_cap":7,"ceo":"","country":"usa"}
@@ -10084,7 +10084,7 @@
 {"name":"kamaz publicly traded company","world_rank":"9,426","market_value":1002000000,"market_cap":1099000000,"ceo":"","country":"russia"}
 {"name":"tokai holdings corporation","world_rank":"9,427","market_value":999000000,"market_cap":1095000000,"ceo":"","country":"japan"}
 {"name":"cewe stiftung & co kgaa","world_rank":"9,428","market_value":999000000,"market_cap":1089000000,"ceo":"","country":"germany"}
-{"name":"young & co's brewery ","world_rank":"9,429","market_value":999000000,"market_cap":1081000000,"ceo":"","country":"uk"}
+{"name":"young & co's brewery","world_rank":"9,429","market_value":999000000,"market_cap":1081000000,"ceo":"","country":"uk"}
 {"name":"kenda rubber industrial","world_rank":"9,430","market_value":1002000000,"market_cap":1080000000,"ceo":"","country":"taiwan"}
 {"name":"synergie se","world_rank":"9,431","market_value":996000000,"market_cap":1048000000,"ceo":"","country":"france"}
 {"name":"dah sing financial holdings","world_rank":"9,432","market_value":1004000000,"market_cap":1038999999,"ceo":"","country":"hong kong"}

@@ -234,7 +234,7 @@
 {"name":"constellation brands inc","market_cap":45210000000,"stock":"stz","sector":"consumer staples","industry":"beverageswineries & distilleries","country":"united states"}
 {"name":"datadog inc","market_cap":45130000000,"stock":"ddog","sector":"technology","industry":"softwareapplication","country":"united states"}
 {"name":"mitsui & co ltd","market_cap":45090000000,"stock":"8031","sector":"energy","industry":"oil & gas e&p","country":"japan"}
-{"name":"saudi arabian mining company ","market_cap":45000000000,"stock":"1211","sector":"basic materials","industry":"other industrial metals & mining","country":"saudi arabia"}
+{"name":"saudi arabian mining company","market_cap":45000000000,"stock":"1211","sector":"basic materials","industry":"other industrial metals & mining","country":"saudi arabia"}
 {"name":"pjsc lukoil","market_cap":44960000000,"stock":"lkoh","sector":"energy","industry":"oil & gas integrated","country":"russia"}
 {"name":"intesa sanpaolo spa","market_cap":44950000000,"stock":"isp","sector":"financials","industry":"banks","country":"italy"}
 {"name":"te connectivity ltd","market_cap":44780000000,"stock":"tel","sector":"technology","industry":"electronic components","country":"switzerland"}
@@ -499,7 +499,7 @@
 {"name":"woolworths group limited","market_cap":35330000000,"stock":"wow","sector":"consumer staples","industry":"grocery stores","country":"australia"}
 {"name":"mplx lp","market_cap":35270000000,"stock":"mplx","sector":"energy","industry":"oil & gas midstream","country":"united states"}
 {"name":"telstra corporation limited","market_cap":35240000000,"stock":"tls","sector":"communication services","industry":"telecom services","country":"australia"}
-{"name":"hexagon ab ","market_cap":35210000000,"stock":"hxg","sector":"technology","industry":"scientific & technical instruments","country":"sweden"}
+{"name":"hexagon ab","market_cap":35210000000,"stock":"hxg","sector":"technology","industry":"scientific & technical instruments","country":"sweden"}
 {"name":"assicurazioni generali","market_cap":35200000000,"stock":"g","sector":"financials","industry":"insurancediversified","country":"italy"}
 {"name":"avalonbay communities inc","market_cap":35190000000,"stock":"avb","sector":"real estate","industry":"reitresidential","country":"united states"}
 {"name":"imperial oil limited","market_cap":35130000000,"stock":"imo","sector":"energy","industry":"oil & gas integrated","country":"canada"}
@@ -552,7 +552,7 @@
 {"name":"wec energy group inc","market_cap":32540000000,"stock":"wec","sector":"utilities","industry":"utilitiesregulated electric","country":"united states"}
 {"name":"amerisourcebergen corporation","market_cap":32509999999,"stock":"abc","sector":"healthcare","industry":"medical distribution","country":"united states"}
 {"name":"china overseas land & investment ltd","market_cap":32490000000,"stock":"0688","sector":"real estate","industry":"real estatedevelopment","country":"hong kong"}
-{"name":"wuxi biologics ","market_cap":32409999999,"stock":"2269","sector":"healthcare","industry":"biotechnology","country":"china"}
+{"name":"wuxi biologics","market_cap":32409999999,"stock":"2269","sector":"healthcare","industry":"biotechnology","country":"china"}
 {"name":"citic ltd","market_cap":32330000000,"stock":"0267","sector":"industrials","industry":"conglomerates","country":"hong kong"}
 {"name":"cellnex telecom sa","market_cap":32320000000,"stock":"clnx","sector":"communication services","industry":"telecom services","country":"spain"}
 {"name":"haier smart home co ltd","market_cap":32310000000,"stock":"600690","sector":"consumer discretionary","industry":"furnishings, fixtures & appliances","country":"china"}
@@ -584,7 +584,7 @@
 {"name":"zhangzhou pientzehuang pharmaceutical ltd","market_cap":31170000000,"stock":"600436","sector":"healthcare","industry":"drug manufacturersgeneral","country":"china"}
 {"name":"ametek inc","market_cap":31150000000,"stock":"ame","sector":"industrials","industry":"specialty industrial machinery","country":"united states"}
 {"name":"eon se","market_cap":31120000000,"stock":"eoaa","sector":"utilities","industry":"utilitiesdiversified","country":"germany"}
-{"name":"china pacific insurance ","market_cap":31040000000,"stock":"601601","sector":"financials","industry":"insurancelife","country":"china"}
+{"name":"china pacific insurance","market_cap":31040000000,"stock":"601601","sector":"financials","industry":"insurancelife","country":"china"}
 {"name":"zscaler inc","market_cap":31030000000,"stock":"zs","sector":"technology","industry":"softwareinfrastructure","country":"united states"}
 {"name":"anhui conch cement company ltd","market_cap":31020000000,"stock":"600585","sector":"basic materials","industry":"building materials","country":"china"}
 {"name":"franco-nevada corporation","market_cap":31000000000,"stock":"fnv","sector":"basic materials","industry":"gold","country":"canada"}
@@ -607,7 +607,7 @@
 {"name":"west pharmaceutical services inc","market_cap":30230000000,"stock":"wst","sector":"healthcare","industry":"medical instruments & supplies","country":"united states"}
 {"name":"compagnie de saint-gobain sa","market_cap":30160000000,"stock":"sgo","sector":"industrials","industry":"building products & equipment","country":"france"}
 {"name":"alexandria real estate equities inc","market_cap":30100000000,"stock":"are","sector":"real estate","industry":"reitoffice","country":"united states"}
-{"name":"assa abloy ab ","market_cap":30050000000,"stock":"alz","sector":"industrials","industry":"security & protection services","country":"sweden"}
+{"name":"assa abloy ab","market_cap":30050000000,"stock":"alz","sector":"industrials","industry":"security & protection services","country":"sweden"}
 {"name":"cummins inc","market_cap":29940000000,"stock":"cmi","sector":"industrials","industry":"specialty industrial machinery","country":"united states"}
 {"name":"vestas wind systea-s","market_cap":29930000000,"stock":"vws","sector":"industrials","industry":"specialty industrial machinery","country":"denmark"}
 {"name":"riyad bank","market_cap":29860000000,"stock":"1010","sector":"financials","industry":"banks","country":"saudi arabia"}
@@ -736,7 +736,7 @@
 {"name":"china minsheng banking corp ltd","market_cap":24650000000,"stock":"600016","sector":"financials","industry":"banks","country":"china"}
 {"name":"live nation entertainment inc","market_cap":24610000000,"stock":"lyv","sector":"communication services","industry":"entertainment","country":"united states"}
 {"name":"woodside petroleum ltd","market_cap":24600000000,"stock":"wpl","sector":"energy","industry":"oil & gas e&p","country":"australia"}
-{"name":"evergreen marine corp ","market_cap":24490000000,"stock":"2603","sector":"industrials","industry":"marine shipping","country":"taiwan"}
+{"name":"evergreen marine corp","market_cap":24490000000,"stock":"2603","sector":"industrials","industry":"marine shipping","country":"taiwan"}
 {"name":"aena sme sa","market_cap":24450000000,"stock":"aena","sector":"industrials","industry":"airports & air services","country":"spain"}
 {"name":"xpeng inc","market_cap":24440000000,"stock":"xpev","sector":"consumer discretionary","industry":"auto manufacturers","country":"china"}
 {"name":"northern trust corporation","market_cap":24420000000,"stock":"ntrs","sector":"financials","industry":"asset management","country":"united states"}
@@ -746,7 +746,7 @@
 {"name":"fujifilm holdings corp","market_cap":24120000000,"stock":"4901","sector":"industrials","industry":"business equipment & supplies","country":"japan"}
 {"name":"bt group plc","market_cap":24090000000,"stock":"bt.a","sector":"communication services","industry":"telecom services","country":"united kingdom"}
 {"name":"vulcan materials company","market_cap":24080000000,"stock":"vmc","sector":"basic materials","industry":"building materials","country":"united states"}
-{"name":"epiroc ab ","market_cap":24080000000,"stock":"3ad2","sector":"industrials","industry":"farm & heavy construction machinery","country":"sweden"}
+{"name":"epiroc ab","market_cap":24080000000,"stock":"3ad2","sector":"industrials","industry":"farm & heavy construction machinery","country":"sweden"}
 {"name":"delta electronics inc","market_cap":24050000000,"stock":"2308","sector":"technology","industry":"electronic components","country":"taiwan"}
 {"name":"public joint stock company polyus","market_cap":"","stock":"plzl","sector":"basic materials","industry":"gold","country":"russia"}
 {"name":"schindler holding ag","market_cap":24020000000,"stock":"schn","sector":"industrials","industry":"specialty industrial machinery","country":"switzerland"}
@@ -802,7 +802,7 @@
 {"name":"eurofins scientific se","market_cap":"","stock":"erf","sector":"","industry":"","country":""}
 {"name":"panasonic corp","market_cap":22730000000,"stock":"6752","sector":"technology","industry":"consumer electronics","country":"japan"}
 {"name":"ucb sa","market_cap":22710000000,"stock":"ucb","sector":"healthcare","industry":"biotechnology","country":"belgium"}
-{"name":"shanghai international port ","market_cap":22650000000,"stock":"600018","sector":"industrials","industry":"marine shipping","country":"china"}
+{"name":"shanghai international port","market_cap":22650000000,"stock":"600018","sector":"industrials","industry":"marine shipping","country":"china"}
 {"name":"hewlett packard enterprise company","market_cap":22650000000,"stock":"hpe","sector":"technology","industry":"communication equipment","country":"united states"}
 {"name":"kellogg company","market_cap":22630000000,"stock":"k","sector":"consumer staples","industry":"packaged foods","country":"united states"}
 {"name":"picc property and casualty company ltd","market_cap":22620000000,"stock":"2328","sector":"financials","industry":"insuranceproperty & casualty","country":"china"}
@@ -832,7 +832,7 @@
 {"name":"toyota industries corp","market_cap":21990000000,"stock":"6201","sector":"consumer discretionary","industry":"auto manufacturers","country":"japan"}
 {"name":"cincinnati financial corporation","market_cap":21990000000,"stock":"cinf","sector":"financials","industry":"insuranceproperty & casualty","country":"united states"}
 {"name":"cf industries holdings inc","market_cap":21950000000,"stock":"cf","sector":"basic materials","industry":"agricultural inputs","country":"united states"}
-{"name":"nibe industrier ab ","market_cap":21930000000,"stock":"njb","sector":"industrials","industry":"building products & equipment","country":"sweden"}
+{"name":"nibe industrier ab","market_cap":21930000000,"stock":"njb","sector":"industrials","industry":"building products & equipment","country":"sweden"}
 {"name":"cnh industrial nv","market_cap":21930000000,"stock":"cnhi","sector":"industrials","industry":"farm & heavy construction machinery","country":"united kingdom"}
 {"name":"huntington bancshares incorporated","market_cap":21930000000,"stock":"hban","sector":"financials","industry":"banks","country":"united states"}
 {"name":"duke realty corporation","market_cap":21930000000,"stock":"dre","sector":"real estate","industry":"reitindustrial","country":"united states"}
@@ -861,7 +861,7 @@
 {"name":"wheaton precious metals corp","market_cap":21260000000,"stock":"wpm","sector":"basic materials","industry":"gold","country":"canada"}
 {"name":"zoominfo technologies inc","market_cap":21230000000,"stock":"zi","sector":"technology","industry":"softwareapplication","country":"united states"}
 {"name":"viacomcbs inc","market_cap":"","stock":"viaca","sector":"communication services","industry":"entertainment","country":"united states"}
-{"name":"china northern rare earth ","market_cap":21210000000,"stock":"600111","sector":"basic materials","industry":"other industrial metals & mining","country":"china"}
+{"name":"china northern rare earth","market_cap":21210000000,"stock":"600111","sector":"basic materials","industry":"other industrial metals & mining","country":"china"}
 {"name":"seagate technology plc","market_cap":21210000000,"stock":"stx","sector":"technology","industry":"computer hardware","country":"ireland"}
 {"name":"china mengniu dairy co ltd","market_cap":21170000000,"stock":"2319","sector":"consumer staples","industry":"packaged foods","country":"hong kong"}
 {"name":"ingersoll rand inc","market_cap":21130000000,"stock":"ir","sector":"industrials","industry":"specialty industrial machinery","country":"united states"}
@@ -928,7 +928,7 @@
 {"name":"cgi inc","market_cap":19670000000,"stock":"gib.a","sector":"technology","industry":"information technology services","country":"canada"}
 {"name":"henderson land development co ltd","market_cap":19670000000,"stock":"0012","sector":"real estate","industry":"real estate services","country":"hong kong"}
 {"name":"billcom holdings inc","market_cap":19650000000,"stock":"bill","sector":"technology","industry":"softwareapplication","country":"united states"}
-{"name":"shanghai fosun pharmaceutical ","market_cap":19630000000,"stock":"600196","sector":"healthcare","industry":"drug manufacturersspecialty & generic","country":"china"}
+{"name":"shanghai fosun pharmaceutical","market_cap":19630000000,"stock":"600196","sector":"healthcare","industry":"drug manufacturersspecialty & generic","country":"china"}
 {"name":"akamai technologies inc","market_cap":19590000000,"stock":"akam","sector":"technology","industry":"softwareinfrastructure","country":"united states"}
 {"name":"china tower corp ltd","market_cap":19550000000,"stock":"0788","sector":"communication services","industry":"telecom services","country":"china"}
 {"name":"huatai securities co ltd","market_cap":19550000000,"stock":"601688","sector":"financials","industry":"capital markets","country":"china"}

@@ -126,7 +126,7 @@
 {"name": "ibm", "market_cap": 125790000000, "ceo": "", "country": "usa"}
 {"name": "rio tinto group", "market_cap": 121550000000, "ceo": "", "country": "uk"}
 {"name": "deere & company", "market_cap": 118130000000, "ceo": "john c may", "country": "usa"}
-{"name": "intuitive surgical", "market_cap": 125360000000, "ceo": "craig h barratt ", "country": "usa"}
+{"name": "intuitive surgical", "market_cap": 125360000000, "ceo": "craig h barratt", "country": "usa"}
 {"name": "hdfc bank", "market_cap": 121600000000, "ceo": "", "country": "india"}
 {"name": "prologis", "market_cap": 99902000000, "ceo": "hamid moghadam", "country": "usa"}
 {"name": "servicenow", "market_cap": 127500000000, "ceo": "fred luddy", "country": "usa"}
@@ -343,7 +343,7 @@
 {"name": "ing group", "market_cap": 53954000000, "ceo": "", "country": "netherlands"}
 {"name": "hitachi", "market_cap": 54345000000, "ceo": "toshiaki higashihara", "country": "japan"}
 {"name": "hapag-lloyd", "market_cap": 40048000000, "ceo": "", "country": "germany"}
-{"name": "canadian imperial bank of commerce", "market_cap": 51764000000, "ceo": "katharine stevenson ", "country": "canada"}
+{"name": "canadian imperial bank of commerce", "market_cap": 51764000000, "ceo": "katharine stevenson", "country": "canada"}
 {"name": "johnson controls international", "market_cap": 53395000000, "ceo": "george r oliver", "country": "usa"}
 {"name": "yihai kerry arawana holdings co ltd", "market_cap": 55886000000, "ceo": "", "country": "china"}
 {"name": "canadian natural resources", "market_cap": 39058000000, "ceo": "n murray edwards", "country": "canada"}
@@ -627,7 +627,7 @@
 {"name": "avalonbay communities", "market_cap": 32002000000, "ceo": "timothy j naughton", "country": "usa"}
 {"name": "banco bradesco", "market_cap": 43500000000, "ceo": "luiz carlos trabuco cappi", "country": "brazil"}
 {"name": "resmed", "market_cap": 42325000000, "ceo": "", "country": "usa"}
-{"name": "coloplast a/s", "market_cap": 37354000000, "ceo": "lars rasmussen ", "country": "denmark"}
+{"name": "coloplast a/s", "market_cap": 37354000000, "ceo": "lars rasmussen", "country": "denmark"}
 {"name": "grupo mexico", "market_cap": 36414000000, "ceo": "german larrea mota-velasco", "country": "mexico"}
 {"name": "techtronic industries company", "market_cap": 40531000000, "ceo": "horst julius pudwill", "country": "hong kong"}
 {"name": "cloudflare", "market_cap": 38635000000, "ceo": "matthew prince", "country": "usa"}
@@ -896,14 +896,14 @@
 {"name": "carlsberg a/s", "market_cap": 26512000000, "ceo": "henrik poulsen", "country": "denmark"}
 {"name": "ke holdings inc", "market_cap": 21220000000, "ceo": "yong dong peng", "country": "china"}
 {"name": "shimano", "market_cap": 27409000000, "ceo": "yozo shimano", "country": "japan"}
-{"name": "credit suisse group", "market_cap": 25536000000, "ceo": "axel lehmann ", "country": "switzerland"}
+{"name": "credit suisse group", "market_cap": 25536000000, "ceo": "axel lehmann", "country": "switzerland"}
 {"name": "mirvac group", "market_cap": 27396000000, "ceo": "", "country": "australia"}
 {"name": "franco-nevada corporation", "market_cap": 27873000000, "ceo": "david harquail", "country": "canada"}
 {"name": "gf securities", "market_cap": 21322000000, "ceo": "chuan hui lin", "country": "china"}
 {"name": "formosa plastics corporation", "market_cap": 22917000000, "ceo": "chien nan lin", "country": "taiwan"}
 {"name": "delivery hero se", "market_cap": 37073000000, "ceo": "", "country": "germany"}
 {"name": "roku", "market_cap": 47028000000, "ceo": "ravi ahuja", "country": "usa"}
-{"name": "sgs sa", "market_cap": 23545000000, "ceo": "calvin grieder ", "country": "switzerland"}
+{"name": "sgs sa", "market_cap": 23545000000, "ceo": "calvin grieder", "country": "switzerland"}
 {"name": "investment ab latour publ", "market_cap": 23175000000, "ceo": "", "country": "sweden"}
 {"name": "ingersoll-rand ireland", "market_cap": 21487000000, "ceo": "herb henkel", "country": "ireland"}
 {"name": "capital group", "market_cap": "", "ceo": "timothy d armour", "country": "usa"}
@@ -1342,7 +1342,7 @@
 {"name": "clarivate plc", "market_cap": 16323000000, "ceo": "jerre stead", "country": "uk"}
 {"name": "lendlease group", "market_cap": 18508000000, "ceo": "", "country": "australia"}
 {"name": "shanghai putailai new energy technology", "market_cap": 15224000000, "ceo": "", "country": "china"}
-{"name": "terna spa ", "market_cap": 16140999999, "ceo": "stefano antonio donnarumma", "country": "italy"}
+{"name": "terna spa", "market_cap": 16140999999, "ceo": "stefano antonio donnarumma", "country": "italy"}
 {"name": "atlantia", "market_cap": 15464000000, "ceo": "fabio cerchiai", "country": "italy"}
 {"name": "halma", "market_cap": 15684000000, "ceo": "", "country": "uk"}
 {"name": "huali industrial group company limited", "market_cap": 14977000000, "ceo": "", "country": "china"}
@@ -1419,7 +1419,7 @@
 {"name": "otp bank nyrt", "market_cap": 16710000000, "ceo": "sasndor csanyi", "country": "hungary"}
 {"name": "banque saudi fransi", "market_cap": 13085000000, "ceo": "rayan mohammed fayez", "country": "saudi arabia"}
 {"name": "hindalco industries", "market_cap": 14406000000, "ceo": "", "country": "india"}
-{"name": "julius bar gruppe ag", "market_cap": 14716000000, "ceo": "romeo lacher ", "country": "switzerland"}
+{"name": "julius bar gruppe ag", "market_cap": 14716000000, "ceo": "romeo lacher", "country": "switzerland"}
 {"name": "bilibili", "market_cap": 30721000000, "ceo": "", "country": "china"}
 {"name": "lyft", "market_cap": 15962000000, "ceo": "logan green", "country": "usa"}
 {"name": "pjsc tatneft", "market_cap": 15218000000, "ceo": "", "country": "russia"}
@@ -1539,7 +1539,7 @@
 {"name": "asahi kasei corporation", "market_cap": 14451000000, "ceo": "hideki kobori", "country": "japan"}
 {"name": "love's travel stops & country stores", "market_cap": "", "ceo": "tom and judy love", "country": "usa"}
 {"name": "trex company", "market_cap": 12660000000, "ceo": "james e cline", "country": "usa"}
-{"name": "l e lundbergforetagen ab publ", "market_cap": 16642000000, "ceo": "mats guldbrand ", "country": "sweden"}
+{"name": "l e lundbergforetagen ab publ", "market_cap": 16642000000, "ceo": "mats guldbrand", "country": "sweden"}
 {"name": "cspc pharmaceutical group", "market_cap": 15628000000, "ceo": "", "country": "china"}
 {"name": "israel chemicals", "market_cap": 9156000000, "ceo": "raviv zoller", "country": "israel"}
 {"name": "etrade financial corporation", "market_cap": 1, "ceo": "", "country": "usa"}
@@ -4167,7 +4167,7 @@
 {"name": "kuayue express", "market_cap": 3, "ceo": "", "country": "china"}
 {"name": "mininglamp", "market_cap": 3, "ceo": "", "country": "china"}
 {"name": "netskope", "market_cap": 3, "ceo": "", "country": "usa"}
-{"name": "nuro ", "market_cap": 3, "ceo": "", "country": "usa"}
+{"name": "nuro", "market_cap": 3, "ceo": "", "country": "usa"}
 {"name": "oaknorth", "market_cap": 3, "ceo": "", "country": "uk"}
 {"name": "oscar health", "market_cap": 3, "ceo": "", "country": "usa"}
 {"name": "ovo", "market_cap": 3, "ceo": "", "country": "indonesia"}
@@ -4175,7 +4175,7 @@
 {"name": "renew power", "market_cap": 3, "ceo": "", "country": "india"}
 {"name": "singulato", "market_cap": 3, "ceo": "", "country": "china"}
 {"name": "souche", "market_cap": 3, "ceo": "", "country": "china"}
-{"name": "ucar ", "market_cap": 3, "ceo": "", "country": "china"}
+{"name": "ucar", "market_cap": 3, "ceo": "", "country": "china"}
 {"name": "ucommune", "market_cap": 3, "ceo": "", "country": "china"}
 {"name": "yiguo", "market_cap": 3, "ceo": "", "country": "china"}
 {"name": "zerodha", "market_cap": 3, "ceo": "", "country": "india"}
@@ -4433,7 +4433,7 @@
 {"name": "meritz fire & marine insurance", "market_cap": 2922000000, "ceo": "", "country": "south korea"}
 {"name": "oneness biotech", "market_cap": 2640000000, "ceo": "", "country": "taiwan"}
 {"name": "hunan dakang international food & agriculture", "market_cap": 2256000000, "ceo": "", "country": "china"}
-{"name": "knowbe4 ", "market_cap": 4170000000, "ceo": "", "country": "usa"}
+{"name": "knowbe4", "market_cap": 4170000000, "ceo": "", "country": "usa"}
 {"name": "bovis homes group", "market_cap": 3725000000, "ceo": "", "country": "uk"}
 {"name": "jk cement", "market_cap": 3642000000, "ceo": "", "country": "india"}
 {"name": "american states water company", "market_cap": 3405000000, "ceo": "", "country": "usa"}
@@ -6968,7 +6968,7 @@
 {"name": "sinomach automobile", "market_cap": 1128000000, "ceo": "", "country": "china"}
 {"name": "phreesia", "market_cap": 3615000000, "ceo": "", "country": "usa"}
 {"name": "computer age management services", "market_cap": 2707000000, "ceo": "", "country": "india"}
-{"name": "faraday future ", "market_cap": 6, "ceo": "", "country": "usa"}
+{"name": "faraday future", "market_cap": 6, "ceo": "", "country": "usa"}
 {"name": "gp club", "market_cap": 6, "ceo": "", "country": "south korea"}
 {"name": "moon active", "market_cap": 6, "ceo": "", "country": "israel"}
 {"name": "poshmark", "market_cap": 6, "ceo": "", "country": "usa"}
@@ -7369,7 +7369,7 @@
 {"name": "blivex energy technology", "market_cap": 1920000000, "ceo": "", "country": "china"}
 {"name": "bapcor", "market_cap": 1849000000, "ceo": "", "country": "australia"}
 {"name": "vgi public company", "market_cap": 1709000000, "ceo": "", "country": "thailand"}
-{"name": "bbgi global infrastructure sa ", "market_cap": 1707000000, "ceo": "", "country": "luxembourg"}
+{"name": "bbgi global infrastructure sa", "market_cap": 1707000000, "ceo": "", "country": "luxembourg"}
 {"name": "brookfield asset management reinsurance partners ltd", "market_cap": 1695000000, "ceo": "", "country": "bermuda"}
 {"name": "elan microelectronics corporation", "market_cap": 1672000000, "ceo": "", "country": "taiwan"}
 {"name": "advanced technology & materials", "market_cap": 1630000000, "ceo": "", "country": "china"}
@@ -8115,7 +8115,7 @@
 {"name": "akulaku", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "allbirds", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "alto pharmacy", "market_cap": 7, "ceo": "", "country": "usa"}
-{"name": "amplitude analytics ", "market_cap": 7, "ceo": "", "country": "usa"}
+{"name": "amplitude analytics", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "anduril", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "ankon", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "aprogen", "market_cap": 7, "ceo": "", "country": "south korea"}
@@ -8129,7 +8129,7 @@
 {"name": "boqii", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "bordrin", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "boss zhipin", "market_cap": 7, "ceo": "", "country": "china"}
-{"name": "branch ", "market_cap": 7, "ceo": "", "country": "usa"}
+{"name": "branch", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "c2fo", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "cabify", "market_cap": 7, "ceo": "", "country": "spain"}
 {"name": "calmcom", "market_cap": 7, "ceo": "", "country": "usa"}
@@ -8172,12 +8172,12 @@
 {"name": "grammarly", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "grove collaborative", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "guild education", "market_cap": 7, "ceo": "", "country": "usa"}
-{"name": "gympass ", "market_cap": 7, "ceo": "", "country": "brazil"}
+{"name": "gympass", "market_cap": 7, "ceo": "", "country": "brazil"}
 {"name": "haodf", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "highradius", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "hike", "market_cap": 7, "ceo": "", "country": "india"}
 {"name": "hippo", "market_cap": 7, "ceo": "", "country": "usa"}
-{"name": "hmd ", "market_cap": 7, "ceo": "", "country": "finland"}
+{"name": "hmd", "market_cap": 7, "ceo": "", "country": "finland"}
 {"name": "hosjoy", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "hozon", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "huasheng", "market_cap": 7, "ceo": "", "country": "china"}
@@ -8195,7 +8195,7 @@
 {"name": "juanpi", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "juma", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "keeptruckin", "market_cap": 7, "ceo": "", "country": "usa"}
-{"name": "kenscott ", "market_cap": 7, "ceo": "", "country": "usa"}
+{"name": "kenscott", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "kk group", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "knotel", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "knowbox", "market_cap": 7, "ceo": "", "country": "china"}
@@ -8206,15 +8206,15 @@
 {"name": "lightricks", "market_cap": 7, "ceo": "", "country": "israel"}
 {"name": "linkdoc", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "linmon", "market_cap": 7, "ceo": "", "country": "china"}
-{"name": "liquid global ", "market_cap": 7, "ceo": "", "country": "japan"}
-{"name": "loji ", "market_cap": 7, "ceo": "", "country": "china"}
-{"name": "lookout ", "market_cap": 7, "ceo": "", "country": "usa"}
+{"name": "liquid global", "market_cap": 7, "ceo": "", "country": "japan"}
+{"name": "loji", "market_cap": 7, "ceo": "", "country": "china"}
+{"name": "lookout", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "luojilab", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "maimai", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "marklogic", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "medbanks", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "mediamath", "market_cap": 7, "ceo": "", "country": "usa"}
-{"name": "meero ", "market_cap": 7, "ceo": "", "country": "france"}
+{"name": "meero", "market_cap": 7, "ceo": "", "country": "france"}
 {"name": "mindmaze", "market_cap": 7, "ceo": "", "country": "switzerland"}
 {"name": "mobvoi", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "momenta", "market_cap": 7, "ceo": "", "country": "china"}
@@ -8229,7 +8229,7 @@
 {"name": "orcam technologies", "market_cap": 7, "ceo": "", "country": "israel"}
 {"name": "outreach", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "ovo energy", "market_cap": 7, "ceo": "", "country": "uk"}
-{"name": "parkjockey ", "market_cap": 7, "ceo": "", "country": "usa"}
+{"name": "parkjockey", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "pat mcgrath labs", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "pendo", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "perfect diary", "market_cap": 7, "ceo": "", "country": "china"}
@@ -8250,20 +8250,20 @@
 {"name": "skio", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "smartmi", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "sonder", "market_cap": 7, "ceo": "", "country": "usa"}
-{"name": "stockx ", "market_cap": 7, "ceo": "", "country": "usa"}
+{"name": "stockx", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "sumo logic", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "sumup", "market_cap": 7, "ceo": "", "country": "uk"}
 {"name": "symphony communication services", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "taimei technology", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "talkdesk", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "talkingdata", "market_cap": 7, "ceo": "", "country": "china"}
-{"name": "the honest company ", "market_cap": 7, "ceo": "", "country": "usa"}
-{"name": "tmon ", "market_cap": 7, "ceo": "", "country": "south korea"}
+{"name": "the honest company", "market_cap": 7, "ceo": "", "country": "usa"}
+{"name": "tmon", "market_cap": 7, "ceo": "", "country": "south korea"}
 {"name": "tradeshift", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "tresata", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "tricentis", "market_cap": 7, "ceo": "", "country": "austria"}
-{"name": "udacity ", "market_cap": 7, "ceo": "", "country": "usa"}
-{"name": "unisound ", "market_cap": 7, "ceo": "", "country": "china"}
+{"name": "udacity", "market_cap": 7, "ceo": "", "country": "usa"}
+{"name": "unisound", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "v linker", "market_cap": 7, "ceo": "", "country": "china"}
 {"name": "vacasa", "market_cap": 7, "ceo": "", "country": "usa"}
 {"name": "vast data", "market_cap": 7, "ceo": "", "country": "usa"}
@@ -10084,7 +10084,7 @@
 {"name": "kamaz publicly traded company", "market_cap": 1099000000, "ceo": "", "country": "russia"}
 {"name": "tokai holdings corporation", "market_cap": 1095000000, "ceo": "", "country": "japan"}
 {"name": "cewe stiftung & co kgaa", "market_cap": 1089000000, "ceo": "", "country": "germany"}
-{"name": "young & co's brewery ", "market_cap": 1081000000, "ceo": "", "country": "uk"}
+{"name": "young & co's brewery", "market_cap": 1081000000, "ceo": "", "country": "uk"}
 {"name": "kenda rubber industrial", "market_cap": 1080000000, "ceo": "", "country": "taiwan"}
 {"name": "synergie se", "market_cap": 1048000000, "ceo": "", "country": "france"}
 {"name": "dah sing financial holdings", "market_cap": 1038999999, "ceo": "", "country": "hong kong"}
