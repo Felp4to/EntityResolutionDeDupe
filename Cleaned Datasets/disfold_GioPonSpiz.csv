@@ -1,0 +1,1002 @@
+name,market_cap,stock,sector,industry,country
+apple inc,2825000000000.0,aapl,technology,consumer electronics,united states
+microsoft corporation,2328000000000.0,msft,technology,softwareinfrastructure,united states
+saudi arabian oil company,2297000000000.0,2222,energy,oil & gas integrated,saudi arabia
+alphabet inc,1825000000000.0,goog,communication services,internet content & information,united states
+amazoncom inc,1642000000000.0,amzn,consumer discretionary,internet retail,united states
+tesla inc,1016000000000.0,tsla,consumer discretionary,auto manufacturers,united states
+berkshire hathaway inc,798470000000.0,brk.a,financials,financial conglomerates,united states
+nvidia corporation,660380000000.0,nvda,technology,semiconductors,united states
+meta platforinc,617500000000.0,meta,communication services,internet content & information,united states
+taiwan semiconductor manufacturing company limited,527890000000.0,2330,technology,semiconductors,taiwan
+unitedhealth group incorporated,488520000000.0,unh,healthcare,healthcare plans,united states
+visa inc,486770000000.0,v,financials,credit services,united states
+johnson & johnson,475930000000.0,jnj,healthcare,drug manufacturersgeneral,united states
+tencent holdings ltd,441170000000.0,0700,communication services,internet content & information,china
+walmart inc,429050000000.0,wmt,consumer staples,discount stores,united states
+jpmorgan chase & co,410840000000.0,jpm,financials,banks,united states
+the procter & gamble company,384600000000.0,pg,consumer staples,household & personal products,united states
+samsung electronics co ltd,378350000000.0,005930,technology,consumer electronics,south korea
+lvmh moet hennessy - louis vuitton se,359260000000.0,mc,consumer discretionary,luxury goods,france
+mastercard incorporated,358600000000.0,ma,financials,credit services,united states
+bank of america corporation,350840000000.0,bac,financials,banks,united states
+roche holding ag,349500000000.0,rog,healthcare,drug manufacturersgeneral,switzerland
+exxon mobil corporation,348720000000.0,xom,energy,oil & gas integrated,united states
+kweichow moutai co ltd,348220000000.0,600519,consumer staples,beverageswineries & distilleries,china
+the home depot inc,321470000000.0,hd,consumer discretionary,home improvement retail,united states
+chevron corporation,315130000000.0,cvx,energy,oil & gas integrated,united states
+pfizer inc,300790000000.0,pfe,healthcare,drug manufacturersgeneral,united states
+abbvie inc,294270000000.0,abbv,healthcare,drug manufacturersgeneral,united states
+alibaba group holding limited,290400000000.0,9988,consumer discretionary,internet retail,china
+asml holding nv,274350000000.0,asml,technology,semiconductor equipment & materials,netherlands
+the coca-cola company,273200000000.0,ko,consumer staples,beveragesnon-alcoholic,united states
+eli lilly and company,273010000000.0,lly,healthcare,drug manufacturersgeneral,united states
+broadcom inc,265269999999.0,avgo,technology,semiconductors,united states
+costco wholesale corporation,258149999999.0,cost,consumer staples,discount stores,united states
+novo nordisk a/s,257240000000.0,novo.b,healthcare,biotechnology,denmark
+industrial & commercial bank of china ltd,250370000000.0,601398,financials,banks,china
+the walt disney company,247880000000.0,dis,communication services,entertainment,united states
+pepsico inc,241050000000.0,pep,consumer staples,beveragesnon-alcoholic,united states
+cisco systeinc,238450000000.0,csco,technology,communication equipment,united states
+thermo fisher scientific inc,236150000000.0,tmo,healthcare,diagnostics & research,united states
+oracle corporation,228180000000.0,orcl,technology,softwareinfrastructure,united states
+l'oreal sa,225240000000.0,or,consumer staples,household & personal products,france
+accenture plc,219030000000.0,acn,technology,information technology services,ireland
+comcast corporation,218900000000.0,cmcsa,communication services,entertainment,united states
+verizon communications inc,216680000000.0,vz,communication services,telecom services,united states
+abbott laboratories,215020000000.0,abt,healthcare,medical devices,united states
+nike inc,213600000000.0,nke,consumer discretionary,footwear & accessories,united states
+bhp group,211250000000.0,bhp,basic materials,other industrial metals & mining,australia
+merck & co inc,210380000000.0,mrk,healthcare,drug manufacturersgeneral,united states
+danaher corporation,208030000000.0,dhr,healthcare,diagnostics & research,united states
+sea limited,62660000000.0,se,communication services,electronic gaming & multimedia,singapore
+uber technologies inc,62660000000.0,uber,technology,softwareapplication,united states
+moody's corporation,62580000000.0,mco,financials,financial data & stock exchanges,united states
+nintendo co ltd,62200000000.0,7974,communication services,electronic gaming & multimedia,japan
+pioneer natural resources company,62190000000.0,pxd,energy,oil & gas e&p,united states
+eaton corporation plc,62170000000.0,etn,industrials,specialty industrial machinery,ireland
+analog devices inc,62000000000.0,adi,technology,semiconductors,united states
+fidelity national information services inc,61730000000.0,fis,technology,information technology services,united states
+banco santander sa,61670000000.0,san,financials,banks,spain
+hapag-lloyd ag,61460000000.0,hlag,industrials,marine shipping,germany
+adyen nv,61110000000.0,adyen,technology,softwareinfrastructure,netherlands
+atlas copco ab,60970000000.0,atco.a,industrials,specialty industrial machinery,sweden
+cnooc limited,60190000000.0,0883,energy,oil & gas e&p,hong kong
+nutrien ltd,60060000000.0,ntr,basic materials,agricultural inputs,canada
+block inc,59950000000.0,sq,technology,softwareinfrastructure,united states
+deutsche post ag,59800000000.0,dpwa,industrials,integrated freight & logistics,germany
+netease inc,59760000000.0,9999,communication services,internet content & information,china
+hong kong exchanges & clearing ltd,59750000000.0,0388,financials,financial data & stock exchanges,hong kong
+capital one financial corporation,59670000000.0,cof,financials,credit services,united states
+emerson electric co,59660000000.0,emr,industrials,specialty industrial machinery,united states
+palo alto networks inc,59650000000.0,panw,technology,softwareinfrastructure,united states
+australia and new zealand banking group limited,59550000000.0,anz,financials,banks,australia
+reckitt benckiser group plc,,rkt,consumer staples,household & personal products,united kingdom
+nongfu spring co ltd,59500000000.0,9633,consumer staples,beveragesnon-alcoholic,china
+saudi telecom company,59470000000.0,7010,communication services,telecom services,saudi arabia
+southern copper corporation,59460000000.0,scco,basic materials,copper,united states
+shenzhen mindray bio-medical electronics co ltd,59260000000.0,300760,healthcare,medical devices,china
+vinci sa,59010000000.0,dg,industrials,engineering & construction,france
+workday inc,58700000000.0,wday,technology,softwareapplication,united states
+relx plc,58530000000.0,rel,communication services,publishing,united kingdom
+marvell technology group ltd,58360000000.0,mrvl,,,
+air products and chemicals inc,57820000000.0,apd,basic materials,chemicals,united states
+pernod ricard sa,57750000000.0,ri,consumer staples,beverageswineries & distilleries,france
+schlumberger limited,57630000000.0,slb,energy,oil & gas equipment & services,united states
+marvell technology inc,57620000000.0,9mw,technology,semiconductors,united states
+itau unibanco holding sa,57450000000.0,itub,financials,banks,brazil
+enterprise products partners lp,57430000000.0,epd,energy,oil & gas midstream,united states
+foshan haitian flavouring and food company ltd,57400000000.0,603288,consumer staples,packaged foods,china
+mitsubishi corp,57230000000.0,8058,industrials,conglomerates,japan
+canadian imperial bank of commerce,57200000000.0,cm,financials,banks,canada
+marriott international inc,57180000000.0,mar,consumer discretionary,lodging,united states
+pinduoduo inc,57090000000.0,pdd,consumer discretionary,internet retail,china
+ihs markit ltd,,info,industrials,consulting services,united kingdom
+the saudi national bank,56890000000.0,1180,financials,banks,saudi arabia
+tc energy corporation,56770000000.0,trp,energy,oil & gas midstream,canada
+humana inc,56550000000.0,hum,healthcare,healthcare plans,united states
+kla corporation,56480000000.0,klac,technology,semiconductor equipment & materials,united states
+bank of communications co ltd,56380000000.0,601328,financials,banks,china
+bayerische motoren werke ag,56170000000.0,bmwb,consumer discretionary,auto manufacturers,germany
+macquarie group limited,55990000000.0,mqg,financials,capital markets,australia
+sony group corporation,126640000000.0,6758,technology,consumer electronics,japan
+rio tinto group,125840000000.0,rio,basic materials,other industrial metals & mining,united kingdom
+aia group ltd,125160000000.0,1299,financials,insurancelife,hong kong
+lockheed martin corporation,124980000000.0,lmt,industrials,aerospace & defense,united states
+caterpillar inc,124130000000.0,cat,industrials,farm & heavy construction machinery,united states
+anheuser-busch inbev sa/nv,,abi,consumer staples,beveragesbrewers,belgium
+equinor asa,122740000000.0,eqnr,,,
+christian dior se,122110000000.0,cdi,consumer discretionary,luxury goods,france
+prologis inc,121200000000.0,pld,real estate,reitindustrial,united states
+applied materials inc,121120000000.0,amat,technology,semiconductor equipment & materials,united states
+anthem inc,119800000000.0,antm,healthcare,healthcare plans,united states
+international business machines corporation,119200000000.0,ibm,technology,information technology services,united states
+unilever plc,117840000000.0,ulvr,consumer staples,household & personal products,united kingdom
+blackrock inc,115980000000.0,blk,financials,asset management,united states
+hdfc bank limited,115680000000.0,hdb,financials,banks,india
+diageo plc,115580000000.0,dge,consumer staples,beverageswineries & distilleries,united kingdom
+american tower corporation reit,115110000000.0,amt,real estate,reitspecialty,united states
+siemens ag,114660000000.0,sie,industrials,specialty industrial machinery,germany
+meituan,114280000000.0,3690,consumer discretionary,internet retail,china
+keyence corp,113200000000.0,6861,technology,scientific & technical instruments,japan
+the goldman sachs group inc,112710000000.0,gs,financials,capital markets,united states
+transurban group,110790000000.0,tcl,industrials,infrastructure operations,australia
+industria de diseno textil sa,,itx,consumer discretionary,apparel retail,spain
+the boeing company,110460000000.0,ba,industrials,aerospace & defense,united states
+glaxosmithkline plc,109980000000.0,gsk,healthcare,drug manufacturersgeneral,united kingdom
+citigroup inc,109560000000.0,c,financials,banks,united states
+volkswagen ag,108630000000.0,vow3,consumer discretionary,auto manufacturers,germany
+starbucks corporation,108190000000.0,sbux,consumer discretionary,restaurants,united states
+vale sa,107990000000.0,vale3,basic materials,other industrial metals & mining,brazil
+servicenow inc,107990000000.0,now,technology,softwareapplication,united states
+target corporation,106890000000.0,tgt,consumer staples,discount stores,united states
+infosys limited,106770000000.0,infy,technology,information technology services,india
+al rajhi banking and investment corp,106370000000.0,1120,financials,banks,saudi arabia
+airbnb inc,105070000000.0,abnb,communication services,internet content & information,united states
+charter communications inc,104970000000.0,chtr,communication services,entertainment,united states
+byd co ltd,104420000000.0,002594,consumer discretionary,auto manufacturers,china
+saudi basic industries corp,104000000000.0,2010,basic materials,chemicals,saudi arabia
+nippon telegraph & telephone corp,103750000000.0,9432,communication services,telecom services,japan
+altria group inc,102980000000.0,mo,consumer staples,tobacco,united states
+british american tobacco plc,101440000000.0,bats,consumer staples,tobacco,united kingdom
+stryker corporation,101410000000.0,syk,healthcare,medical devices,united states
+s&p global inc,100840000000.0,spgi,financials,financial data & stock exchanges,united states
+the estee lauder companies inc,100160000000.0,el,consumer staples,household & personal products,united states
+general electric company,99220000000.0,ge,industrials,specialty industrial machinery,united states
+daimler ag,,dai,consumer discretionary,auto manufacturers,germany
+chubb limited,98570000000.0,cb,financials,insuranceproperty & casualty,switzerland
+allianz se,98470000000.0,alv,financials,insurancediversified,germany
+petroleo brasileiro sa - petrobras,98370000000.0,pbr,energy,oil & gas integrated,brazil
+airbus se,97410000000.0,air,industrials,aerospace & defense,netherlands
+china life insurance company limited,97310000000.0,lfc,financials,insurancelife,china
+automatic data processing inc,96980000000.0,adp,industrials,staffing & employment services,united states
+bp plc,96240000000.0,bp.,energy,oil & gas integrated,united kingdom
+china shenhua energy company ltd,95340000000.0,601088,energy,thermal coal,china
+booking holdings inc,95020000000.0,bkng,consumer discretionary,travel services,united states
+canadian national railway company,94960000000.0,cnr,industrials,railroads,canada
+enbridge inc,94940000000.0,enb,energy,oil & gas midstream,canada
+schneider electric se,94340000000.0,su,industrials,specialty industrial machinery,france
+deutsche telekom ag,93010000000.0,dte,communication services,telecom services,germany
+merck kommanditgesellschaft auf aktien,90740000000.0,mrk,healthcare,drug manufacturersspecialty & generic,germany
+mondelez international inc,90670000000.0,mdlz,consumer staples,confectioners,united states
+jdcom inc,90460000000.0,9618,consumer discretionary,internet retail,china
+vulcan international corp,90340000000.0,vulc,basic materials,chemicals,united states
+zoetis inc,89820000000.0,zts,healthcare,drug manufacturersspecialty & generic,united states
+csl limited,89690000000.0,csl,healthcare,biotechnology,australia
+3m company,88770000000.0,mmm,industrials,specialty industrial machinery,united states
+duke energy corporation,88760000000.0,duk,utilities,utilitiesregulated electric,united states
+bank of nova scotia,87760000000.0,bns,financials,banks,canada
+the blackstone group inc,87640000000.0,bx,financials,asset management,united states
+brookfield asset management inc,87460000000.0,bam.a,financials,asset management,canada
+glencore plc,87310000000.0,glen,basic materials,other industrial metals & mining,switzerland
+cme group inc,87170000000.0,cme,financials,financial data & stock exchanges,united states
+marsh & mclennan companies inc,87160000000.0,mmc,financials,insurance brokers,united states
+micron technology inc,86490000000.0,mu,technology,semiconductors,united states
+mitsubishi ufj financial group inc,85030000000.0,8306,financials,banks,japan
+cigna corporation,84670000000.0,ci,healthcare,healthcare plans,united states
+shopify inc,83800000000.0,shop,technology,softwareapplication,canada
+air liquide sa,83240000000.0,ai,basic materials,chemicals,france
+hca healthcare inc,82600000000.0,hca,healthcare,medical care facilities,united states
+national australia bank limited,81030000000.0,nab,financials,banks,australia
+crown castle international corp reit,80920000000.0,cci,real estate,reitspecialty,united states
+essilorluxottica sa,80490000000.0,el,healthcare,medical instruments & supplies,france
+us bancorp,80160000000.0,usb,financials,banks,united states
+tokyo electron ltd,79620000000.0,8035,technology,semiconductor equipment & materials,japan
+bank of montreal,79220000000.0,bmo,financials,banks,canada
+kering sa,78660000000.0,ker,consumer discretionary,luxury goods,france
+china yangtze power co ltd,78420000000.0,600900,utilities,utilitiesindependent power producers,china
+china petroleum & chemical corporation,78390000000.0,600028,energy,oil & gas integrated,china
+the southern company,78380000000.0,so,utilities,utilitiesregulated electric,united states
+lam research corporation,77600000000.0,lrcx,technology,semiconductor equipment & materials,united states
+the pnc financial services group inc,77100000000.0,pnc,financials,banks,united states
+becton dickinson and company,76980000000.0,bdx,healthcare,medical instruments & supplies,united states
+gilead sciences inc,76150000000.0,gild,healthcare,drug manufacturersgeneral,united states
+regeneron pharmaceuticals inc,74910000000.0,regn,healthcare,biotechnology,united states
+truist financial corporation,74790000000.0,tfc,financials,banks,united states
+canadian natural resources limited,74780000000.0,cnq,energy,oil & gas e&p,canada
+intercontinental exchange inc,74170000000.0,ice,financials,financial data & stock exchanges,united states
+the tjx companies inc,73990000000.0,tjx,consumer discretionary,apparel retail,united states
+atlassian corporation plc,73720000000.0,team,technology,softwareapplication,australia
+zurich insurance group ag,73580000000.0,zurn,financials,insurancediversified,switzerland
+edwards lifesciences corporation,73380000000.0,ew,healthcare,medical devices,united states
+hitachi ltd,48920000000.0,6501,industrials,conglomerates,japan
+scentre group,48830000000.0,scg,real estate,reitretail,australia
+mediatek inc,48740000000.0,2454,technology,semiconductors,taiwan
+lululemon athletica inc,48520000000.0,lulu,consumer discretionary,apparel retail,canada
+dow inc,48500000000.0,dow,basic materials,chemicals,united states
+rosneft oil co pjsc,48500000000.0,rosn,energy,oil & gas integrated,russia
+mckesson corporation,48460000000.0,mck,healthcare,medical distribution,united states
+suncor energy inc,48270000000.0,su,energy,oil & gas integrated,canada
+vmware inc,48170000000.0,vmw,technology,softwareinfrastructure,united states
+johnson controls international plc,48150000000.0,jci,industrials,engineering & construction,ireland
+o'reilly automotive inc,48140000000.0,orly,consumer discretionary,specialty retail,united states
+grupo mexico sab de cv,48000000000.0,gmexicob,basic materials,other industrial metals & mining,mexico
+crowdstrike holdings inc,47890000000.0,crwd,technology,softwareinfrastructure,united states
+naspers ltd,47730000000.0,npn,communication services,internet content & information,south africa
+autodesk inc,47690000000.0,adsk,technology,softwareapplication,united states
+prudential financial inc,47170000000.0,pru,financials,insurancelife,united states
+open joint stock company omz,47150000000.0,omzzp,industrials,specialty industrial machinery,russia
+cognizant technology solutions corporation,47070000000.0,ctsh,technology,information technology services,united states
+nucor corporation,46860000000.0,nue,basic materials,steel,united states
+dexcom inc,46860000000.0,dxcm,healthcare,diagnostics & research,united states
+banco bradesco sa,46710000000.0,bbdc3,financials,banks,brazil
+nidec corp,46330000000.0,6594,industrials,specialty industrial machinery,japan
+adidas ag,46130000000.0,ads1,consumer discretionary,footwear & accessories,germany
+sika ag,46010000000.0,sika,basic materials,specialty chemicals,switzerland
+baidu inc,45980000000.0,9888,communication services,internet content & information,china
+takeda pharmaceutical company limited,45890000000.0,4502,healthcare,drug manufacturersspecialty & generic,japan
+the hershey company,45830000000.0,hsy,consumer staples,confectioners,united states
+amphenol corporation,45770000000.0,aph,technology,electronic components,united states
+vanjia corp,,vnja,consumer discretionary,residential construction,united states
+vodafone group plc,45740000000.0,vod,communication services,telecom services,united kingdom
+idexx laboratories inc,45640000000.0,idxx,healthcare,diagnostics & research,united states
+the travelers companies inc,45560000000.0,trv,financials,insuranceproperty & casualty,united states
+infineon technologies ag,45350000000.0,ifxa,technology,semiconductors,germany
+constellation brands inc,45210000000.0,stz,consumer staples,beverageswineries & distilleries,united states
+datadog inc,45130000000.0,ddog,technology,softwareapplication,united states
+mitsui & co ltd,45090000000.0,8031,energy,oil & gas e&p,japan
+saudi arabian mining company,45000000000.0,1211,basic materials,other industrial metals & mining,saudi arabia
+pjsc lukoil,44960000000.0,lkoh,energy,oil & gas integrated,russia
+intesa sanpaolo spa,44950000000.0,isp,financials,banks,italy
+te connectivity ltd,44780000000.0,tel,technology,electronic components,switzerland
+autozone inc,44390000000.0,azo,consumer discretionary,specialty retail,united states
+iqvia holdings inc,44320000000.0,iqv,healthcare,diagnostics & research,united states
+cintas corporation,44320000000.0,ctas,industrials,specialty business services,united states
+cadence design systeinc,44230000000.0,cdns,technology,softwareapplication,united states
+chipotle mexican grill inc,44110000000.0,cmg,consumer discretionary,restaurants,united states
+sumitomo mitsui financial group inc,44060000000.0,8316,financials,banks,japan
+samsung biologics coltd,44010000000.0,207940,healthcare,biotechnology,south korea
+wipro limited,43980000000.0,wipro,technology,information technology services,india
+zijin mining group co ltd,43930000000.0,601899,basic materials,gold,china
+hp inc,43900000000.0,hpq,technology,computer hardware,united states
+shell plc,207680000000.0,shel,energy,oil & gas integrated,united kingdom
+novartis ag,204130000000.0,novn,healthcare,drug manufacturersgeneral,switzerland
+astrazeneca plc,201750000000.0,azn,healthcare,drug manufacturersgeneral,united kingdom
+intel corporation,201720000000.0,intc,technology,semiconductors,united states
+wells fargo & company,200010000000.0,wfc,financials,banks,united states
+adobe inc,199570000000.0,adbe,technology,softwareinfrastructure,united states
+salesforcecom inc,193800000000.0,crm,technology,softwareapplication,united states
+united parcel service inc,190500000000.0,ups,industrials,integrated freight & logistics,united states
+china construction bank corp,189370000000.0,601939,financials,banks,china
+mcdonald's corporation,186570000000.0,mcd,consumer discretionary,restaurants,united states
+china merchants bank co ltd,185980000000.0,600036,financials,banks,china
+contemporary amperex technology co ltd,185670000000.0,300750,industrials,electrical equipment & parts,china
+union pacific corporation,184190000000.0,unp,industrials,railroads,united states
+at&t inc,175880000000.0,t,communication services,telecom services,united states
+qualcomm incorporated,172250000000.0,qcom,technology,semiconductors,united states
+texas instruments incorporated,171280000000.0,txn,technology,semiconductors,united states
+bristol-myers squibb company,170560000000.0,bmy,healthcare,drug manufacturersgeneral,united states
+prosus nv,170000000000.0,prx,communication services,internet content & information,netherlands
+linde plc,166070000000.0,lin,basic materials,specialty chemicals,united kingdom
+nextera energy inc,165530000000.0,nee,utilities,utilitiesregulated electric,united states
+agricultural bank of china ltd,165000000000.0,601288,financials,banks,china
+t-mobile us inc,164310000000.0,tmus,communication services,telecom services,united states
+morgan stanley,164050000000.0,ms,financials,capital markets,united states
+netflix inc,163190000000.0,nflx,communication services,entertainment,united states
+royal bank of canada,159740000000.0,ry,financials,banks,canada
+the charles schwab corporation,158060000000.0,schw,financials,capital markets,united states
+philip morris international inc,154710000000.0,pm,consumer staples,tobacco,united states
+medtronic plc,151060000000.0,mdt,healthcare,medical devices,ireland
+raytheon technologies corporation,150960000000.0,rtx,industrials,aerospace & defense,united states
+american express company,150760000000.0,axp,financials,credit services,united states
+hermes international sca,148980000000.0,rms,consumer discretionary,luxury goods,france
+toronto-dominion bank,145410000000.0,td,financials,banks,canada
+petrochina company limited,144500000000.0,601857,energy,oil & gas integrated,china
+commonwealth bank of australia,144320000000.0,cba,financials,banks,australia
+lowe's companies inc,143770000000.0,low,consumer discretionary,home improvement retail,united states
+amgen inc,141720000000.0,amgn,healthcare,drug manufacturersgeneral,united states
+bank of china ltd,141220000000.0,601988,financials,banks,china
+hsbc holdings plc,140150000000.0,hsba,financials,banks,united kingdom
+china mobile ltd,139300000000.0,0941,communication services,telecom services,hong kong
+totalenergies se,137500000000.0,tte,energy,oil & gas integrated,france
+honeywell international inc,136479999999.0,hon,industrials,specialty industrial machinery,united states
+conocophillips,136320000000.0,cop,energy,oil & gas e&p,united states
+cvs health corporation,135270000000.0,cvs,healthcare,healthcare plans,united states
+ping an insurance group company of china ltd,134250000000.0,601318,financials,insurancelife,china
+sap se,134190000000.0,sap,technology,softwareapplication,germany
+paypal holdings inc,133919999999.0,pypl,financials,credit services,united states
+sanofi,132289999999.0,san,healthcare,drug manufacturersgeneral,france
+deere & company,130310000000.0,de,industrials,farm & heavy construction machinery,united states
+advanced micro devices inc,128289999999.0,amd,technology,semiconductors,united states
+intuit inc,126770000000.0,intu,technology,softwareapplication,united states
+aon plc,73330000000.0,aon,financials,insurance brokers,united kingdom
+northrop grumman corporation,73250000000.0,noc,industrials,aerospace & defense,united states
+kddi corp,73120000000.0,9433,communication services,telecom services,japan
+norfolk southern corporation,72310000000.0,nsc,industrials,railroads,united states
+freeport-mcmoran inc,72160000000.0,fcx,basic materials,copper,united states
+wal-mart de mexico sab de cv,71960000000.0,walmex,consumer staples,discount stores,mexico
+pt bank central asia tbk,71910000000.0,bbca,financials,banks,indonesia
+eog resources inc,71900000000.0,eog,energy,oil & gas e&p,united states
+siemens healthineers ag,71500000000.0,shl,healthcare,diagnostics & research,germany
+anglo american plc,71480000000.0,aal,basic materials,other industrial metals & mining,united kingdom
+moderna inc,70810000000.0,mrna,healthcare,biotechnology,united states
+general dynamics corporation,70550000000.0,gd,industrials,aerospace & defense,united states
+axa sa,70200000000.0,cs,financials,insurancediversified,france
+dominion energy inc,70200000000.0,d,utilities,utilitiesdiversified,united states
+enel spa,70150000000.0,enel,utilities,utilitiesdiversified,italy
+bnp paribas sa,69900000000.0,bnp,financials,banks,france
+america movil sab de cv,,amxa,communication services,telecom services,mexico
+public storage,69310000000.0,psa,real estate,reitindustrial,united states
+ubs group ag,68930000000.0,ubsg,financials,banks,switzerland
+sberbank of russia pjsc,68690000000.0,sber,financials,banks,russia
+fiserv inc,68680000000.0,fisv,technology,information technology services,united states
+iberdrola sa,68230000000.0,ibe,utilities,utilitiesdiversified,spain
+recruit holdings co ltd,68110000000.0,6098,industrials,staffing & employment services,japan
+bayer ag,68090000000.0,bayn,healthcare,drug manufacturersgeneral,germany
+the sherwin-williacompany,67540000000.0,shw,basic materials,specialty chemicals,united states
+vertex pharmaceuticals incorporated,67489999999.0,vrtx,healthcare,biotechnology,united states
+illinois tool works inc,67489999999.0,itw,industrials,specialty industrial machinery,united states
+the progressive corporation,67310000000.0,pgr,financials,insuranceproperty & casualty,united states
+westpac banking corporation,67200000000.0,wbc,financials,banks,australia
+abb ltd,67190000000.0,abbn,industrials,electrical equipment & parts,switzerland
+waste management inc,66950000000.0,wm,industrials,waste management,united states
+industrial bank co ltd,66870000000.0,601166,financials,banks,china
+dbs group holdings ltd,66739999999.0,d05,financials,banks,singapore
+icici bank limited,66620000000.0,ibn,financials,banks,india
+equinix inc reit,66349999999.0,eqix,real estate,reitspecialty,united states
+newmont corporation,65890000000.0,nem,basic materials,gold,united states
+ford motor company,65739999999.0,f,consumer discretionary,auto manufacturers,united states
+colgate-palmolive company,65640000000.0,cl,consumer staples,household & personal products,united states
+exelon corporation,65530000000.0,exc,utilities,utilitiesdiversified,united states
+snowflake inc,65040000000.0,snow,technology,softwareapplication,united states
+oriental land co ltd,64660000000.0,4661,consumer discretionary,leisure,japan
+sk hynix inc,,000660,technology,semiconductors,south korea
+ap moller - maersk a-s,64400000000.0,maersk.b,industrials,marine shipping,denmark
+shin-etsu chemical co ltd,63430000000.0,4063,basic materials,chemicals,japan
+fedex corporation,63250000000.0,fdx,industrials,integrated freight & logistics,united states
+boston scientific corporation,63080000000.0,bsx,healthcare,medical devices,united states
+pacificorp,62870000000.0,ppwlm,utilities,utilitiesdiversified,united states
+dassault systemes se,62750000000.0,dsy,technology,softwareapplication,france
+metlife inc,62690000000.0,met,financials,insurancelife,united states
+general motors company,62690000000.0,gm,consumer discretionary,auto manufacturers,united states
+national grid plc,55880000000.0,ng.,utilities,utilitiesdiversified,united kingdom
+daikin industriesltd,55580000000.0,6367,industrials,building products & equipment,japan
+chugai pharmaceutical co ltd,55310000000.0,4519,healthcare,drug manufacturersgeneral,japan
+keurig pepper inc,55280000000.0,kdp,consumer staples,beveragesnon-alcoholic,united states
+ergo science corp,,ergn,industrials,staffing & employment services,united states
+softbank group corp,54930000000.0,9984,communication services,telecom services,japan
+heineken nv,54870000000.0,heia,consumer staples,beveragesbrewers,netherlands
+ambev sa,54690000000.0,abev3,consumer staples,beveragesbrewers,brazil
+canadian pacific railway limited,54590000000.0,cp,industrials,railroads,canada
+marathon petroleum corporation,54540000000.0,mpc,energy,oil & gas refining & marketing,united states
+american international group inc,54310000000.0,aig,financials,insurancediversified,united states
+dollar general corporation,54300000000.0,dg,consumer staples,discount stores,united states
+fortinet inc,53860000000.0,ftnt,technology,softwareinfrastructure,united states
+snap inc,53860000000.0,snap,communication services,internet content & information,united states
+ferrari nv,53780000000.0,race,consumer discretionary,auto manufacturers,italy
+lonza group ltd,53760000000.0,lonn,healthcare,diagnostics & research,switzerland
+london stock exchange group plc,53330000000.0,lseg,financials,financial data & stock exchanges,united kingdom
+thomson reuters corporation,53300000000.0,tri,industrials,consulting services,canada
+basf se,52760000000.0,bas,basic materials,chemicals,germany
+sempra energy,52470000000.0,sre,utilities,utilitiesdiversified,united states
+occidental petroleum corporation,52300000000.0,oxy,energy,oil & gas e&p,united states
+liberty bancshares inc oh,,lbsi,financials,banks,united states
+fast retailing co ltd,52290000000.0,9983,consumer discretionary,apparel retail,japan
+nxp semiconductors nv,52280000000.0,nxpi,technology,semiconductors,netherlands
+xilinx inc,,xlnx,technology,semiconductors,united states
+itochu corp,52190000000.0,8001,industrials,conglomerates,japan
+eni spa,52000000000.0,eni,energy,oil & gas integrated,italy
+stellantis nv,51800000000.0,stla,consumer discretionary,auto manufacturers,netherlands
+bce inc,51710000000.0,bce,communication services,telecom services,canada
+denso corp,51580000000.0,6902,consumer discretionary,auto parts,japan
+toyota motor corporation,51550000000.0,7203,consumer discretionary,auto manufacturers,japan
+l3harris technologies inc,51510000000.0,lhx,industrials,aerospace & defense,united states
+agribank fcb,,agrip,financials,credit services,united states
+general accident plc,51430000000.0,gaca,financials,insuranceproperty & casualty,united kingdom
+archer-daniels-midland company,51030000000.0,adm,consumer staples,farm products,united states
+american electric power company inc,50950000000.0,aep,utilities,utilitiesregulated electric,united states
+fortescue metals group limited,50760000000.0,fmg,basic materials,other industrial metals & mining,australia
+hon hai precision industry co ltd,50750000000.0,2317,technology,electronic components,taiwan
+china tourism group duty free corp ltd,50460000000.0,601888,consumer discretionary,travel services,china
+ecolab inc,50290000000.0,ecl,basic materials,specialty chemicals,united states
+novatek pjsc,50190000000.0,nvtk,energy,oil & gas e&p,russia
+synopsys inc,50180000000.0,snps,technology,softwareinfrastructure,united states
+safran sa,50020000000.0,saf,industrials,aerospace & defense,france
+illumina inc,49910000000.0,ilmn,healthcare,diagnostics & research,united states
+mercadolibre inc,49830000000.0,meli,consumer discretionary,internet retail,argentina
+roper technologies inc,49660000000.0,rop,industrials,specialty industrial machinery,united states
+the kraft heinz company,49420000000.0,khc,consumer staples,packaged foods,united states
+centene corporation,49320000000.0,cnc,healthcare,healthcare plans,united states
+paychex inc,49230000000.0,payx,industrials,staffing & employment services,united states
+honda motor co ltd,49110000000.0,7267,consumer discretionary,auto manufacturers,japan
+lloyds banking group plc,43700000000.0,lloy,financials,banks,united kingdom
+simon property group inc,43690000000.0,spg,real estate,reitretail,united states
+aflac incorporated,43590000000.0,afl,financials,insurancelife,united states
+barrick gold corporation,43500000000.0,abx,basic materials,gold,canada
+murata manufacturing co ltd,43410000000.0,6981,technology,electronic components,japan
+kinder morgan inc,43380000000.0,kmi,energy,oil & gas midstream,united states
+kimberly-clark corporation,43210000000.0,kmb,consumer staples,household & personal products,united states
+xiaomi corp,43100000000.0,1810,technology,consumer electronics,china
+wesfarmers limited,43090000000.0,wes,consumer discretionary,home improvement retail,australia
+republic services inc,42910000000.0,rsg,industrials,waste management,united states
+hoya corp,42880000000.0,7741,healthcare,medical instruments & supplies,japan
+yihai kerry arawana holdings co ltd,42840000000.0,300999,consumer staples,packaged foods,china
+monster beverage corporation,42810000000.0,mnst,consumer staples,beveragesnon-alcoholic,united states
+longi green energy technology co ltd,42680000000.0,601012,technology,semiconductor equipment & materials,china
+corteva inc,42660000000.0,ctva,basic materials,agricultural inputs,united states
+general mills inc,42650000000.0,gis,consumer staples,packaged foods,united states
+seven & i holdings co ltd,42530000000.0,3382,consumer staples,grocery stores,japan
+dsv panalpina a-s,42490000000.0,dsv,industrials,integrated freight & logistics,denmark
+hilton worldwide holdings inc,42390000000.0,hlt,consumer discretionary,lodging,united states
+wuxi apptec co ltd,42250000000.0,603259,healthcare,diagnostics & research,china
+sysco corporation,42220000000.0,syy,consumer staples,food distribution,united states
+the kroger co,42030000000.0,kr,consumer staples,grocery stores,united states
+manulife financial corporation,41980000000.0,mfc,financials,insurancelife,canada
+biontech se,41930000000.0,22ua,healthcare,biotechnology,germany
+stmicroelectronics nv,41910000000.0,stm,technology,semiconductors,switzerland
+devon energy corporation,41820000000.0,dvn,energy,oil & gas e&p,united states
+the williacompanies inc,41600000000.0,wmb,energy,oil & gas midstream,united states
+the allstate corporation,41540000000.0,all,financials,insuranceproperty & casualty,united states
+hang seng bank limited,41470000000.0,0011,financials,banks,hong kong
+valero energy corporation,41270000000.0,vlo,energy,oil & gas refining & marketing,united states
+ing groep nv,41250000000.0,inga,financials,banks,netherlands
+mmc norilsk nickel pjsc,41160000000.0,gmkn,basic materials,other industrial metals & mining,russia
+motorola solutions inc,40870000000.0,msi,technology,communication equipment,united states
+east money information coltd,40830000000.0,300059,communication services,internet content & information,china
+the bank of new york mellon corporation,40830000000.0,bk,financials,asset management,united states
+carrier global corporation,40790000000.0,carr,industrials,building products & equipment,united states
+oversea-chinese banking corp ltd,40770000000.0,o39,financials,banks,singapore
+digital realty trust inc,40640000000.0,dlr,real estate,reitoffice,united states
+walgreens boots alliance inc,40550000000.0,wba,healthcare,pharmaceutical retailers,united states
+agilent technologies inc,40490000000.0,a,healthcare,diagnostics & research,united states
+global payments inc,40350000000.0,gpn,industrials,specialty business services,united states
+citic securities company ltd,40170000000.0,600030,financials,capital markets,china
+baxter international inc,40130000000.0,bax,healthcare,medical instruments & supplies,united states
+boc hong kong holdings ltd,39990000000.0,2388,financials,banks,hong kong
+msci inc,39970000000.0,msci,financials,financial data & stock exchanges,united states
+welltower inc,39960000000.0,well,real estate,reithealthcare facilities,united states
+xcel energy inc,39760000000.0,xel,utilities,utilitiesregulated electric,united states
+united overseas bank ltd,39730000000.0,u11,financials,banks,singapore
+wanhua chemical group co ltd,39730000000.0,600309,basic materials,chemicals,china
+dupont de nemours inc,39720000000.0,dd,basic materials,chemicals,united states
+eqt ab,39710000000.0,6eq,financials,asset management,japan
+alimentation couche-tard inc,,atd.b,consumer staples,grocery stores,canada
+ebay inc,39340000000.0,ebay,consumer discretionary,internet retail,united states
+givaudan sa,39290000000.0,givn,basic materials,specialty chemicals,switzerland
+novozymes a-s,39030000000.0,nzym.b,basic materials,chemicals,denmark
+prudential plc,39000000000.0,pru,financials,insurancelife,united kingdom
+alcon inc,38900000000.0,alc,healthcare,medical instruments & supplies,switzerland
+ecopetrol sa,38690000000.0,ec,,,
+baker hughes company,38390000000.0,bkr,energy,oil & gas equipment & services,united states
+banco bilbao vizcaya argentaria sa,38250000000.0,bbva,financials,banks,spain
+dell technologies inc,38160000000.0,dell,technology,computer hardware,united states
+kuaishou technology,38150000000.0,1024,communication services,broadcasting,china
+ab volvo,38130000000.0,vol4,industrials,farm & heavy construction machinery,sweden
+credit agricole sa,38010000000.0,aca,financials,banks,france
+dollar tree inc,38000000000.0,dltr,consumer staples,discount stores,united states
+sba communications corporation,37930000000.0,sbac,real estate,reitspecialty,united states
+capgemini se,37820000000.0,cap,technology,information technology services,france
+daiichi sankyo company ltd,37790000000.0,4568,healthcare,drug manufacturersgeneral,japan
+compass group plc,37730000000.0,cpg,consumer discretionary,restaurants,united kingdom
+sartorius stedim biotech sa,37550000000.0,dim,healthcare,medical instruments & supplies,france
+pt bank rakyat indonesia persero tbk,,byra,financials,banks,indonesia
+phillips 66,37510000000.0,psx,energy,oil & gas refining & marketing,united states
+electronic arts inc,37380000000.0,ea,communication services,electronic gaming & multimedia,united states
+trane technologies plc,37360000000.0,tt,industrials,specialty industrial machinery,ireland
+smc corp,37080000000.0,6273,industrials,specialty industrial machinery,japan
+parker-hannifin corporation,37050000000.0,ph,industrials,specialty industrial machinery,united states
+tokio marine holdings inc,,8766,financials,insuranceproperty & casualty,japan
+jiangsu hengrui medicine co ltd,36900000000.0,600276,healthcare,drug manufacturersgeneral,china
+beijing-shanghai high-speed railway coltd,36900000000.0,601816,industrials,railroads,china
+munchener ruckversicherungs-gesellschaft aktiengesellschaft in munchen,36890000000.0,muv2,financials,insurancereinsurance,germany
+doordash inc,36740000000.0,dash,communication services,internet content & information,united states
+shanghai pudong development bank co ltd,36720000000.0,600000,financials,banks,china
+constellation software inc,36670000000.0,csu,technology,softwareapplication,canada
+inner mongolia yili industrial group co ltd,36610000000.0,600887,consumer staples,packaged foods,china
+telus corporation,36370000000.0,t,communication services,telecom services,canada
+public service enterprise group incorporated,36280000000.0,peg,utilities,utilitiesdiversified,united states
+transdigm group incorporated,36140000000.0,tdg,industrials,aerospace & defense,united states
+waste connections inc,36140000000.0,wcn,industrials,waste management,united states
+lyondellbasell industries nv,35960000000.0,lyb,basic materials,specialty chemicals,united states
+da sa,35930000000.0,bn,consumer staples,packaged foods,france
+cloudflare inc,35920000000.0,net,technology,softwareinfrastructure,united states
+nio limited,35860000000.0,nio,consumer discretionary,auto manufacturers,china
+coinbase global inc,35860000000.0,coin,technology,softwareapplication,united states
+shanxi xinghuacun fen wine factory coltd,35840000000.0,600809,consumer staples,beverageswineries & distilleries,china
+neste oyj,35570000000.0,neste,energy,oil & gas refining & marketing,finland
+resmed inc,35440000000.0,rmd,healthcare,medical instruments & supplies,united states
+experian plc,35400000000.0,expn,industrials,consulting services,ireland
+intuitive surgical inc,35370000000.0,isrg,healthcare,medical instruments & supplies,united states
+woolworths group limited,35330000000.0,wow,consumer staples,grocery stores,australia
+mplx lp,35270000000.0,mplx,energy,oil & gas midstream,united states
+telstra corporation limited,35240000000.0,tls,communication services,telecom services,australia
+hexagon ab,35210000000.0,hxg,technology,scientific & technical instruments,sweden
+assicurazioni generali,35200000000.0,g,financials,insurancediversified,italy
+avalonbay communities inc,35190000000.0,avb,real estate,reitresidential,united states
+imperial oil limited,35130000000.0,imo,energy,oil & gas integrated,canada
+yum brands inc,35120000000.0,yum,consumer discretionary,restaurants,united states
+sun hung kai properties ltd,35040000000.0,0016,real estate,real estatedevelopment,hong kong
+old dominion freight line inc,34940000000.0,odfl,industrials,trucking,united states
+cheniere energy inc,34920000000.0,lng,energy,oil & gas midstream,united states
+consolidated edison inc,34890000000.0,ed,utilities,utilitiesregulated electric,united states
+china citic bank corp ltd,34840000000.0,601998,financials,banks,china
+budweiser brewing company apac ltd,34730000000.0,1876,consumer staples,beveragesbrewers,hong kong
+arcelormittal,34660000000.0,mt,,,
+ameriprise financial inc,34640000000.0,amp,financials,asset management,united states
+fastenal company,34580000000.0,fast,industrials,industrial distribution,united states
+align technology inc,34490000000.0,algn,healthcare,medical devices,united states
+verbund ag,34440000000.0,oew,,,
+sydney airport limited,,syd,industrials,airports & air services,australia
+verisk analytics inc,34390000000.0,vrsk,industrials,consulting services,united states
+z holdings corp,34240000000.0,4689,consumer discretionary,internet retail,japan
+arthur j gallagher & co,34220000000.0,ajg,financials,insurance brokers,united states
+chongqing zhifei biological products co ltd,34130000000.0,300122,healthcare,biotechnology,china
+equity residential,34110000000.0,eqr,real estate,reitresidential,united states
+chunghwa telecom co ltd,34060000000.0,2412,communication services,telecom services,taiwan
+t rowe price group inc,34009999999.0,trow,financials,asset management,united states
+halliburton company,33950000000.0,hal,energy,oil & gas equipment & services,united states
+tyson foods inc,33729999999.0,tsn,consumer staples,farm products,united states
+discover financial services,33729999999.0,dfs,financials,credit services,united states
+kuehne nagel international ag,33689999999.0,knin,industrials,integrated freight & logistics,switzerland
+fanuc corp,33680000000.0,6954,industrials,specialty industrial machinery,japan
+mtr corp ltd,33659999999.0,0066,industrials,railroads,hong kong
+poly developments and holdings group co ltd,33640000000.0,600048,real estate,real estatedevelopment,china
+kkr & co inc,33490000000.0,kkr,financials,asset management,united states
+mizuho financial group inc,33470000000.0,8411,financials,banks,japan
+ptt pcl,33460000000.0,ptt,energy,oil & gas integrated,thailand
+koninklijke ahold delhaize nv,33430000000.0,ad,consumer staples,grocery stores,netherlands
+china vanke co ltd,33350000000.0,000002,real estate,real estatedevelopment,china
+international flavors & fragrances inc,33320000000.0,iff,basic materials,specialty chemicals,united states
+telefonaktiebolaget lm ericsson,33290000000.0,eric.a,technology,communication equipment,sweden
+china resources land ltd,33259999999.0,1109,real estate,real estatedevelopment,hong kong
+zoom video communications inc,33220000000.0,zm,communication services,telecom services,united states
+otis worldwide corporation,33090000000.0,otis,industrials,specialty industrial machinery,united states
+sun life financial inc,33080000000.0,slf,financials,insurancediversified,canada
+rockwell automation inc,33049999999.0,rok,industrials,specialty industrial machinery,united states
+aptiv plc,33020000000.0,aptv,consumer discretionary,auto parts,ireland
+cenovus energy inc,33020000000.0,cve,energy,oil & gas integrated,canada
+deutsche borse ag,32990000000.0,db1,financials,financial data & stock exchanges,germany
+orange sa,32840000000.0,ora,communication services,telecom services,france
+hess corporation,32810000000.0,hes,energy,oil & gas e&p,united states
+natwest group plc,32720000000.0,nwg,financials,banks,united kingdom
+ross stores inc,32710000000.0,rost,consumer discretionary,apparel retail,united states
+wec energy group inc,32540000000.0,wec,utilities,utilitiesregulated electric,united states
+amerisourcebergen corporation,32509999999.0,abc,healthcare,medical distribution,united states
+china overseas land & investment ltd,32490000000.0,0688,real estate,real estatedevelopment,hong kong
+wuxi biologics,32409999999.0,2269,healthcare,biotechnology,china
+citic ltd,32330000000.0,0267,industrials,conglomerates,hong kong
+cellnex telecom sa,32320000000.0,clnx,communication services,telecom services,spain
+haier smart home co ltd,32310000000.0,600690,consumer discretionary,"furnishings, fixtures & appliances",china
+singapore telecommunications ltd,32229999999.0,z74,communication services,telecom services,singapore
+anta sports products ltd,32200000000.0,2020,consumer discretionary,leisure,china
+barclays plc,32189999999.0,barc,financials,banks,united kingdom
+brown-forman corporation,32070000000.0,bf.b,consumer staples,beverageswineries & distilleries,united states
+weg sa,32049999999.0,wege3,industrials,specialty industrial machinery,brazil
+paccar inc,32040000000.0,pcar,industrials,farm & heavy construction machinery,united states
+great wall motor co ltd,32009999999.0,601633,consumer discretionary,auto manufacturers,china
+longfor group holdings ltd,31980000000.0,0960,real estate,real estatedevelopment,china
+japan post bank coltd,31930000000.0,7182,financials,banks,japan
+ppg industries inc,31890000000.0,ppg,basic materials,specialty chemicals,united states
+perusahaan perseroan persero pt telekomunikasi indonesia tbk,31780000000.0,tlk,communication services,telecom services,indonesia
+mettler-toledo international inc,31780000000.0,mtd,healthcare,diagnostics & research,united states
+oneok inc,31660000000.0,oke,energy,oil & gas midstream,united states
+goodman group,31640000000.0,gmg,real estate,reitdiversified,australia
+corning incorporated,31600000000.0,glw,technology,electronic components,united states
+japan tobacco inc,31590000000.0,2914,consumer staples,tobacco,japan
+foxconn industrial internet co ltd,31580000000.0,601138,technology,communication equipment,china
+eversource energy,31560000000.0,es,utilities,utilitiesregulated electric,united states
+china telecom corp ltd,31490000000.0,0728,communication services,telecom services,hong kong
+crh plc,31450000000.0,crh,basic materials,building materials,ireland
+japan post holdings co ltd,31410000000.0,6178,financials,banks,japan
+biogen inc,31350000000.0,biib,healthcare,drug manufacturersgeneral,united states
+swisscom ag,31260000000.0,scmn,communication services,telecom services,switzerland
+koninklijke dsm nv,31250000000.0,dsm,basic materials,specialty chemicals,netherlands
+formosa petrochemical corp,31220000000.0,6505,energy,oil & gas refining & marketing,taiwan
+zhangzhou pientzehuang pharmaceutical ltd,31170000000.0,600436,healthcare,drug manufacturersgeneral,china
+ametek inc,31150000000.0,ame,industrials,specialty industrial machinery,united states
+eon se,31120000000.0,eoaa,utilities,utilitiesdiversified,germany
+china pacific insurance,31040000000.0,601601,financials,insurancelife,china
+zscaler inc,31030000000.0,zs,technology,softwareinfrastructure,united states
+anhui conch cement company ltd,31020000000.0,600585,basic materials,building materials,china
+franco-nevada corporation,31000000000.0,fnv,basic materials,gold,canada
+engie sa,31000000000.0,engi,utilities,utilitiesdiversified,france
+state street corporation,30950000000.0,stt,financials,asset management,united states
+saic motor corp ltd,30930000000.0,600104,consumer discretionary,auto manufacturers,china
+nokia corporation,30910000000.0,nokia.sek,technology,communication equipment,finland
+twitter inc,30830000000.0,twtr,communication services,internet content & information,united states
+veeva systeinc,30760000000.0,veev,healthcare,health information services,united states
+loblaw companies limited,30700000000.0,l,consumer staples,grocery stores,canada
+energy transfer lp,30690000000.0,et,energy,oil & gas midstream,united states
+henkel ag & co kgaa,30530000000.0,hen,consumer staples,household & personal products,germany
+coupang inc,30530000000.0,cpng,consumer discretionary,internet retail,south korea
+ferguson plc,30520000000.0,ferg,industrials,industrial distribution,united kingdom
+bae systeplc,30510000000.0,ba.,industrials,aerospace & defense,united kingdom
+fifth third bancorp,30460000000.0,fitb,financials,banks,united states
+cbre group inc,30450000000.0,cbre,real estate,real estate services,united states
+american water works company inc,30430000000.0,awk,utilities,utilitiesregulated water,united states
+fujitsu ltd,30280000000.0,6702,technology,information technology services,japan
+west pharmaceutical services inc,30230000000.0,wst,healthcare,medical instruments & supplies,united states
+compagnie de saint-gobain sa,30160000000.0,sgo,industrials,building products & equipment,france
+alexandria real estate equities inc,30100000000.0,are,real estate,reitoffice,united states
+assa abloy ab,30050000000.0,alz,industrials,security & protection services,sweden
+cummins inc,29940000000.0,cmi,industrials,specialty industrial machinery,united states
+vestas wind systea-s,29930000000.0,vws,industrials,specialty industrial machinery,denmark
+riyad bank,29860000000.0,1010,financials,banks,saudi arabia
+willis towers watson plc,,wltw,financials,insurance brokers,united kingdom
+match group inc,29820000000.0,mtch,communication services,internet content & information,united states
+kbc group nv,29810000000.0,kdb,financials,banks,belgium
+unicredit spa,,ucg,financials,banks,italy
+cathay financial holding co ltd,29580000000.0,2882,financials,insurancelife,taiwan
+copart inc,29580000000.0,cprt,industrials,specialty business services,united states
+spotify technology sa,29560000000.0,spot,,,
+nasdaq inc,29520000000.0,ndaq,financials,financial data & stock exchanges,united states
+weyerhaeuser company,29420000000.0,wy,real estate,reitspecialty,united states
+saudi electricity company,29420000000.0,5110,utilities,utilitiesregulated electric,saudi arabia
+ball corporation,29400000000.0,bll,consumer discretionary,packaging & containers,united states
+keysight technologies inc,29400000000.0,keys,technology,scientific & technical instruments,united states
+astellas pharma inc,29220000000.0,4503,healthcare,drug manufacturersgeneral,japan
+amadeus it group sa,29190000000.0,ams,technology,information technology services,spain
+electricite de france sa,29170000000.0,edf,utilities,utilitiesdiversified,france
+rogers communications inc,29130000000.0,rci.b,communication services,telecom services,canada
+tongwei co ltd,29100000000.0,600438,consumer staples,farm products,china
+las vegas sands corp,29070000000.0,lvs,consumer discretionary,resorts & casinos,united states
+rwe ag,29060000000.0,rwe,utilities,utilitiesdiversified,germany
+cosco shipping holdings co ltd,28930000000.0,601919,industrials,marine shipping,china
+svb financial group,28910000000.0,sivb,financials,banks,united states
+csx corporation,28900000000.0,csx,industrials,railroads,united states
+techtronic industries company ltd,28750000000.0,0669,industrials,tools & accessories,hong kong
+naturgy energy group sa,28710000000.0,ntgy,utilities,utilitiesregulated gas,spain
+apa group,28550000000.0,apa,utilities,utilitiesregulated gas,australia
+hormel foods corporation,28520000000.0,hrl,consumer staples,packaged foods,united states
+cerner corporation,28310000000.0,cern,healthcare,health information services,united states
+ashtead group plc,28280000000.0,aht,industrials,rental & leasing services,united kingdom
+equifax inc,28240000000.0,efx,industrials,consulting services,united states
+semiconductor manufacturing international corp,28240000000.0,688981,technology,semiconductors,china
+porsche automobil holding se,28150000000.0,paha,consumer discretionary,auto manufacturers,germany
+tesco plc,28110000000.0,tsco,consumer staples,grocery stores,united kingdom
+sirius xm holdings inc,28050000000.0,siri,communication services,broadcasting,united states
+airports of thailand public company ltd,28000000000.0,aot,industrials,airports & air services,thailand
+ck hutchison holdings ltd,27940000000.0,0001,industrials,conglomerates,hong kong
+the people's insurance company group of china ltd,27930000000.0,601319,financials,insuranceproperty & casualty,china
+expedia group inc,27910000000.0,expe,consumer discretionary,travel services,united states
+first republic bank,27900000000.0,frc,financials,banks,united states
+koninklijke philips nv,27890000000.0,phia,healthcare,diagnostics & research,netherlands
+great-west lifeco inc,27850000000.0,gwo,financials,insurancelife,canada
+thai beverage public company ltd,27810000000.0,y92,consumer staples,beverageswineries & distilleries,thailand
+swiss re ag,27800000000.0,sren,financials,insurancereinsurance,switzerland
+edison international,27670000000.0,eix,utilities,utilitiesregulated electric,united states
+wolters kluwer nv,27650000000.0,wkl,communication services,publishing,netherlands
+on semiconductor corporation,27630000000.0,on,technology,semiconductors,united states
+caixabank sa,27580000000.0,cabk,financials,banks,spain
+sampo oyj,27460000000.0,sampo,financials,insurancediversified,finland
+extra space storage inc,27370000000.0,exr,real estate,reitindustrial,united states
+sartorius ag,27350000000.0,srt,healthcare,medical instruments & supplies,germany
+dr horton inc,27340000000.0,dhi,consumer discretionary,residential construction,united states
+ww grainger inc,27330000000.0,gww,industrials,industrial distribution,united states
+nari technology co ltd,27330000000.0,600406,industrials,specialty industrial machinery,china
+kone oyj,27290000000.0,knebv,industrials,specialty industrial machinery,finland
+mccormick & company incorporated,27290000000.0,mkc,consumer staples,packaged foods,united states
+ntt data corp,27260000000.0,9613,technology,information technology services,japan
+ganfeng lithium co ltd,27250000000.0,002460,basic materials,chemicals,china
+will semiconductor co ltd,27240000000.0,603501,technology,semiconductors,china
+interactive brokers group inc,27220000000.0,ibkr,financials,capital markets,united states
+gazprom neft pjsc,27140000000.0,sibn,energy,oil & gas integrated,russia
+fubon financial holding co ltd,27130000000.0,2881,financials,insurancelife,taiwan
+tractor supply company,27090000000.0,tsco,consumer discretionary,specialty retail,united states
+chocoladefabriken lindt & sprungli ag,27080000000.0,lisn,consumer staples,confectioners,switzerland
+ansys inc,26980000000.0,anss,technology,softwareapplication,united states
+shaanxi coal industry company ltd,26950000000.0,601225,energy,thermal coal,china
+aier eye hospital group co ltd,26950000000.0,300015,healthcare,medical care facilities,china
+zimmer biomet holdings inc,26940000000.0,zbh,healthcare,medical devices,united states
+bridgestone corp,26880000000.0,5108,consumer discretionary,auto parts,japan
+evolution gaming group ab,26820000000.0,evo,consumer discretionary,gambling,sweden
+beijing wantai biological pharmacy enterprise co ltd,26800000000.0,603392,healthcare,biotechnology,china
+vonovia se,26780000000.0,vna,real estate,real estate services,germany
+sandvik ab,26710000000.0,sand,industrials,specialty industrial machinery,sweden
+cheniere energy partners lp,26680000000.0,cqp,energy,oil & gas midstream,united states
+pg&e corporation,26660000000.0,pcg,utilities,utilitiesregulated electric,united states
+kansas city southern,,ksu,industrials,railroads,united states
+unity software inc,26560000000.0,u,technology,softwareapplication,united states
+thales sa,26550000000.0,ho,industrials,aerospace & defense,france
+southwest airlines co,26520000000.0,luv,industrials,airlines,united states
+dte energy company,26410000000.0,dte,utilities,utilitiesregulated electric,united states
+intact financial corporation,26400000000.0,ifc,financials,insuranceproperty & casualty,canada
+deutsche bank ag,26380000000.0,dbk,financials,banks,germany
+canon inc,26380000000.0,7751,technology,computer hardware,japan
+lyondellbasell advanced polymers inc,26380000000.0,slmnp,basic materials,chemicals,united states
+national bank of canada,26290000000.0,na,financials,banks,canada
+sonova holding ag,26220000000.0,soon,healthcare,medical instruments & supplies,switzerland
+realty income corporation,26180000000.0,o,real estate,reitretail,united states
+china everbright bank company ltd,26130000000.0,601818,financials,banks,china
+twilio inc,26090000000.0,twlo,communication services,internet content & information,united states
+roblox corp,26050000000.0,rblx,communication services,electronic gaming & multimedia,united states
+telefonica sa,26040000000.0,tef,communication services,telecom services,spain
+central japan railway co,26000000000.0,9022,industrials,railroads,japan
+li auto inc,25830000000.0,li,consumer discretionary,auto manufacturers,china
+enbw energie baden-wuerttemberg ag,25820000000.0,ebk,utilities,utilitiesdiversified,germany
+the hartford financial services group inc,25760000000.0,hig,financials,insurancediversified,united states
+laboratory corporation of america holdings,25750000000.0,lh,healthcare,diagnostics & research,united states
+mongodb inc,25730000000.0,mdb,technology,softwareinfrastructure,united states
+mitsubishi electric corporation,25610000000.0,6503,industrials,electrical equipment & parts,japan
+banco santander brasil sa,25590000000.0,sanb11,financials,banks,brazil
+axis bank ltd,25540000000.0,axisbank,financials,banks,india
+united rentals inc,25460000000.0,uri,industrials,rental & leasing services,united states
+nan ya plastics corp,25410000000.0,1303,basic materials,specialty chemicals,taiwan
+lennar corporation,25340000000.0,len,consumer discretionary,residential construction,united states
+straumann holding ag,25310000000.0,stmn,healthcare,medical instruments & supplies,switzerland
+clp holdings ltd,25290000000.0,0002,utilities,utilitiesregulated electric,hong kong
+yanzhou coal mining company ltd,25260000000.0,600188,energy,thermal coal,china
+firstenergy corp,25260000000.0,fe,utilities,utilitiesdiversified,united states
+albemarle corporation,25250000000.0,alb,basic materials,specialty chemicals,united states
+ck asset holdings limited,25210000000.0,1113,real estate,real estatedevelopment,hong kong
+enphase energy inc,25200000000.0,enph,technology,solar,united states
+legrand sa,25190000000.0,lr,industrials,specialty industrial machinery,france
+galaxy entertainment group ltd,25170000000.0,0027,consumer discretionary,resorts & casinos,hong kong
+skandinaviska enskilda banken ab,25150000000.0,seb.a,financials,banks,sweden
+the mosaic company,25090000000.0,mos,basic materials,agricultural inputs,united states
+cdw corporation,25040000000.0,cdw,technology,information technology services,united states
+gartner inc,25030000000.0,it,technology,information technology services,united states
+edp renovaveis sa,,edpr,utilities,utilitiesrenewable,spain
+delta air lines inc,24920000000.0,dal,industrials,airlines,united states
+palantir technologies inc,24910000000.0,pltr,technology,softwareinfrastructure,united states
+seagen inc,24870000000.0,sgen,healthcare,biotechnology,united states
+diamondback energy inc,24840000000.0,fang,energy,oil & gas e&p,united states
+verisign inc,24810000000.0,vrsn,technology,softwareinfrastructure,united states
+church & dwight co inc,24810000000.0,chd,consumer staples,household & personal products,united states
+ameren corporation,24790000000.0,aee,utilities,utilitiesregulated electric,united states
+china minsheng banking corp ltd,24650000000.0,600016,financials,banks,china
+live nation entertainment inc,24610000000.0,lyv,communication services,entertainment,united states
+woodside petroleum ltd,24600000000.0,wpl,energy,oil & gas e&p,australia
+evergreen marine corp,24490000000.0,2603,industrials,marine shipping,taiwan
+aena sme sa,24450000000.0,aena,industrials,airports & air services,spain
+xpeng inc,24440000000.0,xpev,consumer discretionary,auto manufacturers,china
+northern trust corporation,24420000000.0,ntrs,financials,asset management,united states
+slack technologies inc,,work,technology,softwareapplication,united states
+mid-america apartment communities inc,24180000000.0,maa,real estate,reitresidential,united states
+fresenius se & co kgaa,24120000000.0,fre,healthcare,medical care facilities,germany
+fujifilm holdings corp,24120000000.0,4901,industrials,business equipment & supplies,japan
+bt group plc,24090000000.0,bt.a,communication services,telecom services,united kingdom
+vulcan materials company,24080000000.0,vmc,basic materials,building materials,united states
+epiroc ab,24080000000.0,3ad2,industrials,farm & heavy construction machinery,sweden
+delta electronics inc,24050000000.0,2308,technology,electronic components,taiwan
+public joint stock company polyus,,plzl,basic materials,gold,russia
+schindler holding ag,24020000000.0,schn,industrials,specialty industrial machinery,switzerland
+orix corporation,23970000000.0,8591,financials,credit services,japan
+martin marietta materials inc,23940000000.0,mlm,basic materials,building materials,united states
+csc financial co ltd,23940000000.0,601066,financials,capital markets,china
+best buy co inc,23930000000.0,bby,consumer discretionary,specialty retail,united states
+steris plc,23930000000.0,ste,healthcare,medical instruments & supplies,ireland
+entergy corporation,23920000000.0,etr,utilities,utilitiesdiversified,united states
+m3 inc,23890000000.0,2413,healthcare,health information services,japan
+splunk inc,23840000000.0,splk,technology,softwareinfrastructure,united states
+eve energy co ltd,23820000000.0,300014,industrials,electrical equipment & parts,china
+ventas inc,23810000000.0,vtr,real estate,reithealthcare facilities,united states
+endesa sa,23780000000.0,ele,utilities,utilitiesregulated electric,spain
+sse plc,23730000000.0,sse,utilities,utilitiesdiversified,united kingdom
+compagnie generale des etablissements michelin sca,23650000000.0,ml,consumer discretionary,auto parts,france
+horizon therapeutics public limited company,23640000000.0,hznp,healthcare,drug manufacturersgeneral,ireland
+baoshan iron & steel co ltd,23590000000.0,600019,basic materials,steel,china
+stanley black & decker inc,23570000000.0,swk,industrials,tools & accessories,united states
+sungrow power supply co ltd,23550000000.0,300274,industrials,electrical equipment & parts,china
+beiersdorf ag,23510000000.0,bei,consumer staples,household & personal products,germany
+pt bank mandiri persero tbk,,pq9,financials,banks,indonesia
+first quantum minerals ltd,23470000000.0,fm,basic materials,copper,canada
+kubota corp,23460000000.0,6326,industrials,farm & heavy construction machinery,japan
+mtn group ltd,23450000000.0,mtn,communication services,telecom services,south africa
+maxim integrated products inc,,mxim,technology,semiconductors,united states
+rocket companies inc,23440000000.0,rkt,financials,mortgage finance,united states
+fortis inc,23430000000.0,fts,utilities,utilitiesregulated electric,canada
+formosa plastics corp,23420000000.0,1301,basic materials,specialty chemicals,taiwan
+liberty broadband corporation,23400000000.0,lbrdk,communication services,entertainment,united states
+united microelectronics corporation,23350000000.0,2303,technology,semiconductors,taiwan
+garmin ltd,23350000000.0,grmn,technology,scientific & technical instruments,switzerland
+huazhu group limited,23340000000.0,htht,consumer discretionary,lodging,china
+carnival corporation & plc,23290000000.0,ccl,consumer discretionary,travel services,united states
+sany heavy industry co ltd,23270000000.0,600031,industrials,farm & heavy construction machinery,china
+fox corporation,23260000000.0,foxa,communication services,broadcasting,united states
+wens foodstuff group co ltd,23200000000.0,300498,consumer staples,farm products,china
+societe generale sa,23180000000.0,gle,financials,banks,france
+terumo corp,23160000000.0,4543,healthcare,medical instruments & supplies,japan
+china international capital corp ltd,23130000000.0,601995,financials,capital markets,china
+invitation homes inc,23090000000.0,invh,real estate,reitresidential,united states
+royalty pharma plc,23040000000.0,rprx,healthcare,biotechnology,united states
+olympus corp,23000000000.0,7733,healthcare,medical instruments & supplies,japan
+vf corporation,22960000000.0,vfc,consumer discretionary,apparel manufacturing,united states
+dover corporation,22940000000.0,dov,industrials,specialty industrial machinery,united states
+ppl corporation,22870000000.0,ppl,utilities,utilitiesregulated electric,united states
+hengli petrochemical coltd,22860000000.0,600346,consumer discretionary,textile manufacturing,china
+genmab a/s,22830000000.0,gmab,healthcare,biotechnology,denmark
+sabic agri-nutrients company,22780000000.0,2020,basic materials,agricultural inputs,saudi arabia
+heineken holding nv,22780000000.0,heio,consumer staples,beveragesbrewers,netherlands
+east japan railway company,22780000000.0,9020,industrials,railroads,japan
+sociedad quimica y minera de chile sa,22770000000.0,sqm,basic materials,chemicals,chile
+eurofins scientific se,,erf,,,
+panasonic corp,22730000000.0,6752,technology,consumer electronics,japan
+ucb sa,22710000000.0,ucb,healthcare,biotechnology,belgium
+shanghai international port,22650000000.0,600018,industrials,marine shipping,china
+hewlett packard enterprise company,22650000000.0,hpe,technology,communication equipment,united states
+kellogg company,22630000000.0,k,consumer staples,packaged foods,united states
+picc property and casualty company ltd,22620000000.0,2328,financials,insuranceproperty & casualty,china
+grupo financiero banorte sab de cv,22600000000.0,gfnorteo,financials,banks,mexico
+komatsu ltd,22560000000.0,6301,industrials,farm & heavy construction machinery,japan
+the hong kong and china gas company ltd,22540000000.0,0003,utilities,utilitiesregulated gas,hong kong
+coca-cola europacific partners plc,22530000000.0,ccep,consumer staples,beveragesnon-alcoholic,united kingdom
+essex property trust inc,22510000000.0,ess,real estate,reitresidential,united states
+ems-chemie holding ag,22480000000.0,emsn,basic materials,specialty chemicals,switzerland
+okta inc,22450000000.0,okta,technology,softwareinfrastructure,united states
+china national nuclear power co ltd,22420000000.0,601985,utilities,utilitiesindependent power producers,china
+sumitomo corp,22420000000.0,8053,industrials,conglomerates,japan
+tata motors limited,22380000000.0,ttm,consumer discretionary,auto manufacturers,india
+banco do brasil sa,22360000000.0,bbas3,financials,banks,brazil
+hennes & mauritz ab,22330000000.0,hm.b,consumer discretionary,apparel manufacturing,sweden
+bio-rad laboratories inc,,bio,healthcare,medical devices,united states
+teleperformance se,22300000000.0,tep,industrials,consulting services,france
+fomento economico mexicano sab de cv,,femsaub,consumer staples,beveragesbrewers,mexico
+huntington bancshares inc,22260000000.0,hu3,financials,banks,united states
+continental resources inc,22250000000.0,clr,energy,oil & gas e&p,united states
+crrc corp ltd,22210000000.0,601766,industrials,railroads,china
+skyworks solutions inc,22170000000.0,swks,technology,semiconductors,united states
+xp inc,,xpbr31,financials,capital markets,brazil
+unicharm corp,22080000000.0,8113,consumer staples,household & personal products,japan
+zto express cayman inc,22050000000.0,zto,industrials,integrated freight & logistics,china
+geberit ag,22030000000.0,gebn,industrials,building products & equipment,switzerland
+toyota industries corp,21990000000.0,6201,consumer discretionary,auto manufacturers,japan
+cincinnati financial corporation,21990000000.0,cinf,financials,insuranceproperty & casualty,united states
+cf industries holdings inc,21950000000.0,cf,basic materials,agricultural inputs,united states
+nibe industrier ab,21930000000.0,njb,industrials,building products & equipment,sweden
+cnh industrial nv,21930000000.0,cnhi,industrials,farm & heavy construction machinery,united kingdom
+huntington bancshares incorporated,21930000000.0,hban,financials,banks,united states
+duke realty corporation,21930000000.0,dre,real estate,reitindustrial,united states
+restaurant brands international limited partnership,,qsp.un,consumer discretionary,restaurants,canada
+monolithic power systeinc,21870000000.0,mpwr,technology,semiconductors,united states
+zebra technologies corporation,21870000000.0,zbra,technology,communication equipment,united states
+ulta beauty inc,21820000000.0,ulta,consumer discretionary,specialty retail,united states
+dai-ichi life holdings inc,21760000000.0,8750,financials,insurancelife,japan
+m&t bank corporation,21740000000.0,mtb,financials,banks,united states
+keycorp,21710000000.0,key,financials,banks,united states
+teledyne technologies incorporated,21650000000.0,tdy,technology,scientific & technical instruments,united states
+b3 sa - brasil bolsa balcao,21580000000.0,b3sa3,financials,financial data & stock exchanges,brazil
+contura energy inc,21570000000.0,ctra,energy,thermal coal,united states
+shimano inc,21510000000.0,7309,consumer discretionary,leisure,japan
+power corporation of canada,21480000000.0,pow,financials,insurancelife,canada
+jb hunt transport services inc,21480000000.0,jbht,industrials,integrated freight & logistics,united states
+mitsui fudosan co ltd,21460000000.0,8801,real estate,real estatediversified,japan
+the saudi british bank,21450000000.0,1060,financials,banks,saudi arabia
+sgs sa,21430000000.0,sgsn,industrials,consulting services,switzerland
+teck resources limited,21410000000.0,teck.b,basic materials,other industrial metals & mining,canada
+rede d'or sao luiz sa,21400000000.0,rdor3,healthcare,medical care facilities,brazil
+nexon co ltd,21360000000.0,3659,communication services,electronic gaming & multimedia,japan
+the cooper companies inc,21350000000.0,coo,healthcare,medical instruments & supplies,united states
+legal & general group plc,21340000000.0,lgen,financials,insurancelife,united kingdom
+regions financial corporation,21320000000.0,rf,financials,banks,united states
+wheaton precious metals corp,21260000000.0,wpm,basic materials,gold,canada
+zoominfo technologies inc,21230000000.0,zi,technology,softwareapplication,united states
+viacomcbs inc,,viaca,communication services,entertainment,united states
+china northern rare earth,21210000000.0,600111,basic materials,other industrial metals & mining,china
+seagate technology plc,21210000000.0,stx,technology,computer hardware,ireland
+china mengniu dairy co ltd,21170000000.0,2319,consumer staples,packaged foods,hong kong
+ingersoll rand inc,21130000000.0,ir,industrials,specialty industrial machinery,united states
+segro plc,21080000000.0,sgro,real estate,reitindustrial,united kingdom
+yandex nv,,yndx,communication services,internet content & information,netherlands
+microchip technology incorporated,21030000000.0,mchp,technology,semiconductors,united states
+hubspot inc,20930000000.0,hubs,technology,softwareapplication,united states
+fleetcor technologies inc,20920000000.0,flt,technology,information technology services,united states
+fortive corporation,20880000000.0,ftv,technology,scientific & technical instruments,united states
+applovin corp,20860000000.0,app,technology,softwareapplication,united states
+royal caribbean cruises ltd,20810000000.0,rcl,consumer discretionary,travel services,united states
+repsol sa,20800000000.0,rep,energy,oil & gas integrated,spain
+marubeni corp,20780000000.0,8002,industrials,conglomerates,japan
+standard chartered plc,20780000000.0,stan,financials,banks,united kingdom
+li ning co ltd,20750000000.0,2331,consumer discretionary,leisure,china
+cenergy corporation,20730000000.0,cms,utilities,utilitiesregulated electric,united states
+steris corp,,s1te34,healthcare,medical devices,united states
+advanced info service pcl,20650000000.0,advanc,communication services,telecom services,thailand
+kyocera corp,20620000000.0,6971,technology,consumer electronics,japan
+pembina pipeline corporation,20610000000.0,ppl,energy,oil & gas midstream,canada
+flutter entertainment plc,20580000000.0,fltr,consumer discretionary,gambling,ireland
+sojitz corp,20550000000.0,2768,industrials,conglomerates,japan
+boston properties inc,20540000000.0,bxp,real estate,reitoffice,united states
+synchrony financial,20430000000.0,syf,financials,credit services,united states
+alinma bank,20410000000.0,1150,financials,banks,saudi arabia
+investment ab latour,20390000000.0,lato.b,financials,asset management,sweden
+mitsubishi estate co ltd,20390000000.0,8802,real estate,real estatediversified,japan
+guotai junan securities co ltd,20390000000.0,601211,financials,capital markets,china
+nippon paint holdings co ltd,20380000000.0,4612,basic materials,specialty chemicals,japan
+carvana co,20330000000.0,cvna,consumer discretionary,internet retail,united states
+markel corporation,20300000000.0,mkl,financials,insuranceproperty & casualty,united states
+brown & brown inc,20270000000.0,bro,financials,insurance brokers,united states
+nomura research institute ltd,20260000000.0,4307,technology,information technology services,japan
+mgm resorts international,20220000000.0,mgm,consumer discretionary,resorts & casinos,united states
+mega financial holding co ltd,20210000000.0,2886,financials,banks,taiwan
+telefonica brasil sa,20190000000.0,viv,communication services,telecom services,brazil
+swiss life holding ag,20160000000.0,slhn,financials,insurancediversified,switzerland
+telenor asa,20150000000.0,tel,,,
+china railway group ltd,20150000000.0,0390,industrials,engineering & construction,hong kong
+ctbc financial holding co ltd,20150000000.0,2891,financials,insurancelife,taiwan
+imperial brands plc,20140000000.0,imb,consumer staples,tobacco,united kingdom
+principal financial group inc,20130000000.0,pfg,financials,insurancediversified,united states
+norsk hyasa,20100000000.0,nhy,,,
+perkinelmer inc,20050000000.0,pki,healthcare,diagnostics & research,united states
+hannover ruck se,20020000000.0,hnrb,financials,insurancereinsurance,germany
+sun communities inc,19980000000.0,sui,real estate,reitresidential,united states
+tradeweb markets inc,19980000000.0,tw,financials,capital markets,united states
+trina solar co ltd,19940000000.0,688599,technology,solar,china
+vedanta limited,19930000000.0,vedl,basic materials,other industrial metals & mining,india
+paycom software inc,19870000000.0,payc,technology,softwareapplication,united states
+klabin sa,,klbn11,basic materials,paper & paper products,brazil
+kao corp,19850000000.0,4452,consumer staples,household & personal products,japan
+teradyne inc,19850000000.0,ter,technology,semiconductor equipment & materials,united states
+china resources beer holdings company ltd,19840000000.0,0291,consumer staples,beveragesbrewers,hong kong
+china communications construction co ltd,19830000000.0,601800,industrials,engineering & construction,china
+aviva plc,19820000000.0,av.,financials,insurancediversified,united kingdom
+standard bank group ltd,19820000000.0,sbk,financials,banks,south africa
+ryanair holdings plc,,ry4c,industrials,airlines,ireland
+hologic inc,19750000000.0,holx,healthcare,medical instruments & supplies,united states
+kerry group plc,19740000000.0,krz,consumer staples,packaged foods,ireland
+renesas electronics corp,19730000000.0,6723,technology,semiconductors,japan
+brookfield infrastructure partners lp,19700000000.0,bip.un,,,
+shiseido co ltd,19690000000.0,4911,consumer staples,household & personal products,japan
+cgi inc,19670000000.0,gib.a,technology,information technology services,canada
+henderson land development co ltd,19670000000.0,0012,real estate,real estate services,hong kong
+billcom holdings inc,19650000000.0,bill,technology,softwareapplication,united states
+shanghai fosun pharmaceutical,19630000000.0,600196,healthcare,drug manufacturersspecialty & generic,china
+akamai technologies inc,19590000000.0,akam,technology,softwareinfrastructure,united states
+china tower corp ltd,19550000000.0,0788,communication services,telecom services,china
+huatai securities co ltd,19550000000.0,601688,financials,capital markets,china
+marathon oil corporation,19540000000.0,mro,energy,oil & gas e&p,united states
+arch capital group ltd,19540000000.0,acgl,,,
+transunion,19530000000.0,tru,industrials,consulting services,united states
+jbs sa,19530000000.0,jbss3,consumer staples,packaged foods,brazil
+shenzhou international group holdings ltd,19500000000.0,2313,consumer discretionary,textile manufacturing,hong kong
+avantor inc,19480000000.0,avtr,basic materials,specialty chemicals,united states
+molina healthcare inc,19460000000.0,moh,healthcare,healthcare plans,united states
+ferrovial sa,19440000000.0,fer,industrials,infrastructure operations,spain
+edp - energias de portugal sa,19430000000.0,edp,,,
+fresenius medical care ag & co kgaa,19420000000.0,fme,healthcare,medical care facilities,germany
+svenska handelsbanken ab,19420000000.0,shb.a,financials,banks,sweden
+kb financial group inc,19390000000.0,105560,financials,banks,south korea
+magna international inc,19360000000.0,mg,consumer discretionary,auto parts,canada
+snam spa,19270000000.0,srg,utilities,utilitiesregulated gas,italy
+cgn power co ltd,19250000000.0,003816,utilities,utilitiesindependent power producers,china
+croda international plc,,crda,basic materials,specialty chemicals,united kingdom
+warner music group corp,19210000000.0,wmg,communication services,entertainment,united states
+zhejiang huayou cobalt co ltd,19200000000.0,603799,basic materials,other industrial metals & mining,china
+ss&c technologies holdings inc,19150000000.0,ssnc,technology,softwareapplication,united states
+carlsberg a-s,19120000000.0,carl.a,consumer staples,beveragesbrewers,denmark
+nice ltd,,nice,technology,softwareapplication,israel
+waters corporation,19110000000.0,wat,healthcare,diagnostics & research,united states
+otsuka holdings co ltd,19030000000.0,4578,healthcare,drug manufacturersgeneral,japan
+tenaris sa,18980000000.0,ten,,,
+citizens financial group inc,18950000000.0,cfg,financials,banks,united states
+check point software technologies ltd,18940000000.0,chkp,technology,softwareinfrastructure,israel
+toshiba corp,18930000000.0,6502,industrials,specialty industrial machinery,japan
+lg electronics inc,18910000000.0,066570,technology,consumer electronics,south korea
+astra international tbk pt,18900000000.0,asja,consumer discretionary,auto parts,indonesia
+omnicom group inc,18800000000.0,omc,communication services,advertising agencies,united states
+aecc aviation power coltd,18790000000.0,600893,industrials,aerospace & defense,china
+international paper company,,inpap,consumer discretionary,packaging & containers,united states
+scottish mortgage investment trust plc,18780000000.0,smt,financials,asset management,united kingdom
+george weston limited,18770000000.0,wn,consumer staples,grocery stores,canada
+netapp inc,18760000000.0,ntap,technology,computer hardware,united states
+healthpeak properties inc,18760000000.0,peak,real estate,reithealthcare facilities,united states
+ms&ad insurance group holdings inc,18750000000.0,8725,financials,insuranceproperty & casualty,japan
+the liberty siriusxm group,18740000000.0,lsxmb,communication services,broadcasting,united states
+credit suisse group ag,18720000000.0,csgn,financials,banks,switzerland
+air china ltd,18720000000.0,601111,industrials,airlines,china
+power construction corp of china ltd,18690000000.0,601669,industrials,engineering & construction,china
+jd health international inc,18690000000.0,8zn,healthcare,medical care facilities,china
+south32 limited,18670000000.0,s32,basic materials,other industrial metals & mining,australia
+huaneng power international inc,18570000000.0,600011,utilities,utilitiesindependent power producers,china
+sands china ltd,18520000000.0,1928,,,
+heico corporation,18490000000.0,hei,industrials,aerospace & defense,united states
+gf securities co ltd,18440000000.0,000776,financials,capital markets,china
+genuine parts company,18410000000.0,gpc,consumer discretionary,specialty retail,united states
+vodacom group ltd,18410000000.0,vod,communication services,telecom services,south africa
+take-two interactive software inc,18350000000.0,ttwo,communication services,electronic gaming & multimedia,united states
+china merchants securities co ltd,18350000000.0,600999,financials,capital markets,china
+alnylam pharmaceuticals inc,18330000000.0,alny,healthcare,biotechnology,united states
+aeon co ltd,18320000000.0,8267,consumer discretionary,department stores,japan
+link real estate investment trust,18270000000.0,0823,real estate,reitretail,hong kong
+shionogi & co ltd,18270000000.0,4507,healthcare,drug manufacturersspecialty & generic,japan
+ubiquiti inc,18250000000.0,ui,technology,communication equipment,united states
+quanta services inc,18250000000.0,pwr,industrials,engineering & construction,united states
+catalent inc,18240000000.0,ctlt,healthcare,drug manufacturersspecialty & generic,united states
+haitong securities co ltd,18230000000.0,600837,financials,capital markets,china
+asahi group holdings ltd,18210000000.0,2502,consumer staples,beveragesbrewers,japan
+capitec bank holdings ltd,18210000000.0,cpi,financials,banks,south africa
+restaurant brands international inc,18190000000.0,qsr,consumer discretionary,restaurants,canada
+yum china holdings inc,18180000000.0,yumc,consumer discretionary,restaurants,china
+cez as,,cez,,,
+veolia environnement sa,18140000000.0,vie,industrials,waste management,france
+avis budget group inc,18120000000.0,car,industrials,rental & leasing services,united states
+

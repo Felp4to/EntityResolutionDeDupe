@@ -1,0 +1,1002 @@
+ipo_year,number_of_employees,country,ceo,founded_year,market_value,name
+,"154,000",usa,tim cook,,"2,825.00 billion usd",apple
+,"220,000",usa,satya nadella,,"2,358.00 billion usd",microsoft corporation
+,"79,800",saudi arabia,amin h al-nasser,,"1,889.60 billion usd",saudi arabian oil company saudi aramco
+,"156,500",usa,sundar pichai,,"1,820.00 billion usd",alphabet
+,"1,335,000",usa,andy jassy,,"1,649.00 billion usd",amazoncom
+,"99,290",usa,elon musk,,"1,031.00 billion usd",tesla
+,"77,805",usa,mark zuckerberg,,922960000000,meta platforms
+,"372,000",usa,warren buffett,,711750000000,berkshire hathaway
+,"18,975",usa,jensen huang,,679000000000,nvidia corporation
+,"65,152",taiwan,c c wei,,640480000000,taiwan semiconductor manufacturing company tsmc
+,"112,771",china,ma huateng,,545360000000,tencent
+,"271,025",usa,jamie dimon,,494000000000,j p morgan chase & co
+,"21,500",usa,alfred f kelly jr,,471630000000,visa
+,"141,700",usa,joaquin duato,,457940000000,johnson & johnson
+,"113,753",south korea,kim hyun suk koh dong-jin kim ki nam,,438840000000,samsung electronics
+,"350,000",usa,andrew witty,,431930000000,unitedhealth group
+,"500,000",usa,craig menear,,411020000000,home depot
+,"150,000",france,bernard arnault,,409480000000,lvmh
+,"208,000",usa,brian moynihan,,402490000000,bank of america corporation
+,"2,300,000",usa,doug mcmillon,,401910000000,walmart
+,"101,000",usa,jon r moeller,,393820000000,procter & gamble company
+,"29,031",china,li bao fang,,382350000000,kweichow moutai
+,"276,000",switzerland,ulf mark schneider,,372720000000,nestle ag
+,"24,000",usa,michael miebach,,363200000000,mastercard
+,"100,920",switzerland,severin schwan,,356150000000,roche holding ag
+,"251,462",china,daniel zhang,,351900000000,alibaba group holding
+,"78,500",usa,albert bourla,,312750000000,pfizer
+,"28,000",netherlands,peter wennink,,307330000000,asml holding
+,"64,000",usa,darren woods,,291610000000,exxon mobil corporation
+,"190,000",usa,bob chapek,,286880000000,the walt disney company
+,"366,283",japan,akio toyoda,,276740000000,toyota motor corporation
+,"80,300",usa,james quincey,,260589999999,coca-cola company
+,"79,500",usa,chuck robbins,,257820000000,cisco systems
+,"20,000",usa,hock e tan,,255630000000,broadcom
+,"23,874",netherlands,bob van dijk,,254550000000,prosus
+,"434,798",china,nicolas jimenez,,252550000000,icbc
+,"85,392",france,jean paul agon,,249140000000,l'oreal
+,"73,300",usa,john donahoe,,248460000000,nike
+,"35,000",usa,david a ricks,,248240000000,eli lilly and company
+,"25,988",usa,shantanu narayen,,242990000000,adobe
+,"42,595",usa,michael wirth,,241020000000,chevron corporation
+,"309,000",usa,ramon laguarta,,240690000000,pepsico
+,"113,000",usa,robert ford,,239710000000,abbott laboratories
+,"12,135",usa,ted sarandos reed hastings,,239660000000,netflix
+,"750,000",india,,,,tata group
+,"130,000",usa,marc n casper,,239220000000,thermo fisher scientific
+,"50,000",usa,richard a gonzalez,,238450000000,abbvie
+,"288,000",usa,w craig jelinek,,237760000000,costco wholesale corporation
+,"699,000",ireland,julie sweet,,234500000000,accenture
+,"132,000",usa,safra a catz,,233690000000,oracle corporation
+,"45,971",denmark,lars fruergaard jorgensen,,231350000000,novo nordisk a/s
+,"189,000",usa,brian l roberts,,228670000000,comcast corporation
+,"118,400",usa,hans vestberg,,227690000000,verizon communications
+,"56,606",usa,marc benioff,,224880000000,salesforcecom
+,"236,330",india,mukesh ambani,,220760000000,reliance industries
+,"30,900",usa,daniel schulman,,220420000000,paypal holdings
+,"253,871",usa,charles w scharf,,218380000000,wells fargo & company
+,"121,100",usa,patrick p gelsinger,,217340000000,intel corporation
+,"78,000",usa,rainer m blair,,211280000000,danaher corporation
+,"68,000",usa,robert m davis,,202830000000,merck & co
+,"45,000",usa,cristiano r aman,,202060000000,qualcomm
+,"104,323",switzerland,vasant narasimhan,,201260000000,novartis ag
+,"90,867",china,huiyu tian,,199860000000,china merchants bank
+,"200,000",usa,chris kempczinski,,199560000000,mcdonald's corporation
+,"33,078",china,zeng yuqun,,197130000000,contemporary amperex technology
+,"606,331",india,rajesh gopinathan,,193870000000,tata consultancy services tcs
+,"534,000",usa,carol b tome,,189610000000,united parcel service ups
+,"203,000",usa,john t stankey,,187740000000,at&t
+,"68,097",usa,james p gorman,,186710000000,morgan stanley
+,"349,671",china,,,182170000000,china construction bank corporation
+,"86,000",netherlands,ben van beurden,,181560000000,royal dutch shell
+,"83,100",uk,pascal soriot,,178120000000,astrazeneca
+,"32,000",usa,walter w bettinger ii,,173440000000,the charles schwab corporation
+,"15,417",france,axel dumas,,172040000000,hermes international
+,"74,207",uk,sanjiv lamba,,171940000000,linde ag
+,"9,700",usa,james l robo,,169550000000,nextera energy
+,"220,000",usa,marvin ellison,,169170000000,lowe's companies
+,"31,000",usa,richard k templeton,,165720000000,texas instruments
+,"32,124",usa,lance m fritz,,163790000000,union pacific corporation
+,"80,000",australia,mike henry,,162910000000,bhp group
+,"107,415",germany,christian klein,,162540000000,sap se
+,"459,000",china,,,160760000000,agricultural bank of china
+,"13,500",usa,sasan k goodarzi,,160710000000,intuit
+,"58,390",china,wang xing,,160510000000,meituan dianping
+,"85,301",canada,david i mckay,,159750000000,royal bank of canada
+,"15,500",usa,lisa su,,159410000000,advanced micro devices amd
+,"109,700",japan,kenichiro yoshida,,156010000000,sony corporation
+,"69,900",usa,jacek olczak,,154340000000,philip morris international
+,"362,000",china,ma mingzhe,,150120000000,ping an insurance group company of china
+,"99,000",usa,darius adamczyk,,148530000000,honeywell international
+,"89,464",canada,bharat masrani,,144320000000,toronto-dominion bank
+,"476,223",china,wang dongjin,,143700000000,petrochina company
+,"128,339",france,pietro beccari,,143380000000,christian dior
+,"7,000",canada,tobias lutke,,143340000000,shopify
+,"8,380",japan,yu nakata,,142420000000,keyence corporation
+,"90,000",ireland,geoffrey s martha,,141390000000,medtronic
+,"32,200",usa,giovanni caforio,,139460000000,bristol-myers squibb company
+,"303,000",germany,roland busch,,138710000000,siemens
+,"105,476",france,patrick pouyanne,,138010000000,totalenergies se
+,"295,000",usa,karen s lynch,,137540000000,cvs health corporation
+,"149,000",netherlands,alan jope,,137220000000,unilever group
+,"75,000",usa,mike sievert,,137070000000,t-mobile us
+,"306,322",china,gao yingxin,,135639999999,bank of china
+,"16,500",usa,larry fink,,135550000000,blackrock
+,"500,000",germany,,,,schwarz group
+,"174,000",usa,gregory hayes,,135370000000,raytheon technologies corporation
+,"64,000",usa,stephen squeri,,135070000000,american express company
+,"662,575",germany,herbert diess,,134250000000,volkswagen
+,"27,000",usa,gary e dickerson,,134000000000,applied materials
+,"223,448",uk,noel quinn,,132940000000,hsbc holdings
+,"43,900",usa,david m solomon,,132600000000,the goldman sachs group
+,"26,348",china,chen lin,,132389999999,wuliangye yibin
+,"223,400",usa,jane fraser,,130530000000,citi group
+,"454,332",china,li yue,,130509999999,china mobile
+,"24,200",usa,robert a bradway,,128030000000,amgen
+,,usa,susan wojcicki,,,youtube
+,"62,000",usa,fabrizio freda,,127760000000,estee lauder companies
+,"141,014",usa,dave calhoun,,126650000000,boeing company
+,"95,442",france,paul hudson,,126370000000,sanofi
+,"383,000",usa,laxman narasimhan,,126200000000,starbucks corporation
+,"49,245",australia,matt comyn,,125770000000,commonwealth bank of australia
+,"23,000",hong kong,lee yuan siong,,125620000000,aia group
+,"28,025",uk,ivan menezes,,123290000000,diageo
+,"5,618",usa,tom bartlett,,121400000000,american tower corporation reit
+,"107,700",usa,jim umpleby,,121270000000,caterpillar
+,"375,300",usa,arvind krishna,,120850000000,ibm
+,"49,000",uk,jakob stausholm,,116980000000,rio tinto group
+,"75,600",usa,john c may,,116400000000,deere & company
+,"9,793",usa,gary s guthart,,115850000000,intuitive surgical
+,"161,027",india,sashidhar jagdishan,,114330000000,hdfc bank
+,"2,053",usa,hamid moghadam,,113660000000,prologis
+,"16,881",usa,bill mcdermott,,112710000000,servicenow
+,"168,000",usa,h lawrence culp jr,,111350000000,general electric company
+,"409,000",usa,brian cornell,,110570000000,target corporation
+,"99,000",uk,dame emma walmsley,,110320000000,glaxosmithkline
+,"104,160",china,dairen lin,,109770000000,china life insurance company
+,"164,000",belgium,michel doukeris,,109500000000,anheuser-busch inbev
+,"93,700",usa,thomas m rutledge,,109450000000,charter communications
+,"473,800",russia,alexey miller,,108150000000,gazprom
+,"22,850",usa,douglas l peterson,,107670000000,s&p global
+,"166,025",france,jean-pascal tricoire,,107120000000,schneider electric
+,"26,037",usa,,,,ingram micro
+,"18,800",usa,,,,vanguard group
+,"10,100",usa,ryan lance,,106360000000,conocophillips company
+,"314,906",china,liu qiangdong,,106000000000,jdcom
+,"43,000",usa,sanjay mehrotra,,105800000000,micron technology
+,"63,900",usa,gail koziara boudreaux,,105580000000,anthem
+,"6,132",usa,brian chesky,,105510000000,airbnb
+,"125,888",netherlands,guillaume faury,,105090000000,airbus
+,"122,000",usa,,,,koch industries
+,"60,000",china,,,,bytedance
+,"33,800",singapore,forrest li,,104350000000,sea limited
+,"95,000",usa,mike roman,,103700000000,3m company
+,"150,269",germany,oliver bate,,103280000000,allianz se
+,"345,218",india,salil parekh,,102720000000,infosys
+,"58,408",germany,belen garijo,,102500000000,merck kgaa on
+,"303,350",japan,jun sawada,,101570000000,nippon telegraph and telephone corporation
+,"27,558",japan,motoyuki ii,,101260000000,ntt docomo
+,"38,553",france,francois-henri pinault,,101130000000,kering
+,"56,000",usa,carlos a rodriguez,,100640000000,automatic data processing adp
+,"19,400",usa,glenn d fogel,,99970000000,booking holdings
+,"12,100",usa,juan ramon alaix,,99870000000,zoetis
+,"43,000",usa,kevin a lobo,,99430000000,stryker corporation
+,"114,000",usa,james d taiclet,,99320000000,lockheed martin corporation
+,"144,116",spain,pablo isla,,98660000000,inditex industria de diseno textil
+,"183,000",usa,jim farley,,97670000000,ford motor company
+,"60,000",uk,bernard looney,,97620000000,bp plc
+,"25,000",australia,paul perreault,,97070000000,csl
+,"13,716",saudi arabia,waleed a al-mogbel,,94930000000,al rajhi banking and investment corporation
+,"400,000",germany,,,,robert bosch
+,"59,426",usa,william s demchak,,94560000000,the pnc financial services group
+,"32,721",saudi arabia,yousef al-benyan,,94400000000,saudi basic industries corporation sabic
+,"14,100",usa,timothy m archer,,94240000000,lam research corporation
+,"79,000",usa,dirk van de put,,94230000000,mondelez international
+,"224,300",china,,,92260000000,byd company
+,"226,291",germany,timotheus hottges,,92030000000,deutsche telekom ag
+,"2,495",usa,frank slootman,,91790000000,snowflake
+,"6,000",usa,billy gifford,,91430000000,altria group
+,"90,640",germany,markus duesmann,,82150000000,audi ag
+,"300,000",uk,anders dons,,,deloitte
+,"190,000",france,jean-laurent bonnafe,,90460000000,bnp paribas
+,"68,796",usa,andrew cecere,,90450000000,us bancorp
+,"157,000",usa,mary barra,,90410000000,general motors company
+,"155,000",usa,,,,cargill
+,"49,370",japan,hisayuki idekoba,,90240000000,recruit holdings
+,"152,000",canada,bruce flatt,,89970000000,brookfield asset management
+,"21,245",norway,anders opedal,,89920000000,equinor asa
+,"55,000",uk,jack bowles,,89470000000,british american tobacco
+,"288,481",germany,ola kallenius,,89410000000,mercedec benz group ag
+,"14,400",usa,daniel o'day,,89390000000,gilead sciences
+,"151,017",france,francesco milleri,,89050000000,essilor luxottica
+,"320,000",usa,ernie herrman,,88730000000,the tjx companies
+,"24,700",usa,vincent roche,,88700000000,analog devices
+,"89,488",canada,brian j porter,,87960000000,bank of nova scotia
+,"14,479",japan,toshiki kawai,,87400000000,tokyo electron limited
+,"22,604",canada,tracy robinson,,87200000000,canadian national railway company
+,"52,641",usa,william h bill rogers jr,,86770000000,truist financial corporation
+,"1,800",usa,stephane bancel,,86710000000,moderna
+,"31,000",switzerland,evan g greenberg,,86660000000,chubb
+,"271,025",usa,jamie dimon,,494000000000,j p morgan chase & co
+,"149,239",china,paul fang,,85140000000,midea group
+,"61,626",usa,john g morikis,,84750000000,sherwin-williacompany
+,"295,371",uk,,,,pricewaterhousecoopers
+,"34,760",switzerland,jerome lambert,,84500000000,compagnie financiere richemont sa
+,"67,000",france,francois jackow,,84260000000,air liquide
+,"5,000",usa,jay a brown,,84160000000,crown castle international corporation
+,"285,555",russia,herman gref,,83760000000,sberbank of russia
+,"20,919",usa,james m foote,,83200000000,csx corporation
+,"3,795",usa,stephen a schwarzman,,82930000000,blackstone group
+,"17,400",ireland,brenton l saunders,,62840000000,allergan
+,"81,000",usa,daniel s glaser,,82710000000,marsh & mclennan companies
+,"232,000",usa,,,,publix
+,"11,200",canada,al monaco,,82220000000,enbridge
+,"58,786",japan,masayoshi son,,81220000000,softbank group
+,"52,000",germany,bernd montag,,81180000000,siemens healthineers ag
+,"4,370",usa,terrence a duffy,,80880000000,cme group
+,"29,300",usa,dara khosrowshahi,,80530000000,uber technologies
+,"27,605",usa,lynn good,,80400000000,duke energy corporation
+,"13,334",saudi arabia,faisal omar al-sakkaf,,79840000000,national commercial bank
+,"114,000",india,,,,life insurance corporation of india
+,"66,438",italy,francesco starace,,79770000000,enel
+,"194,527",china,lv jiajin,,79130000000,psbc postal savings bank of china
+,"4,077",china,lei mingshan,,78970000000,china yangtze power
+,"132,700",japan,hironori kamezawa,,78840000000,mitsubishi ufj financial group
+,"571,974",germany,frank appel,,78470000000,deutsche post ag
+,,india,,,,reliance jio
+,"235,000",usa,samuel n hazen,,78440000000,hca healthcare
+,"40,000",sweden,mats rahmstrom,,78380000000,atlas copco ab
+,"384,065",china,,,77720000000,china petroleum & chemical corporation sinopec
+,"20,054",sweden,johan forssell,,77330000000,investor ab publ
+,"73,800",usa,david cordani,,77280000000,cigna corporation
+,"45,000",usa,ernest scott santi,,77260000000,illinois tool works
+,"6,433",australia,mike cannon-brookes,,76760000000,atlassian corporation
+,"15,700",usa,michael a mussallem,,76360000000,edwards lifesciences corporation
+,"21,000",india,sanjiv mehta,,76090000000,hindustan unilever
+,"7,000",usa,rj scaringe,,76220000000,rivian automotive inc
+,"105,000",switzerland,bjorn rosengren,,76040000000,abb
+,"315,000",russia,igor sechin,,75450000000,rosneft oil company
+,"1,750",netherlands,pieter van der,,75410000000,adyen
+,"8,858",usa,jeffrey c sprecher,,75070000000,intercontinental exchange
+,"96,595",france,thomas buberl,,74590000000,axa
+,"43,863",canada,darryl white,,73370000000,bank of montreal
+,"130,170",india,sandeep bakhshi,,73330000000,icici bank
+,"2,372",hong kong,nicolas aguzin,,73040000000,hong kong exchanges and clearing hkex
+,"42,685",china,hongjia gong,,72960000000,hangzhou hikvision digital technology
+,"29,008",south korea,lee seok-hee,,72830000000,sk hynix
+,"27,300",usa,thomas a fanning,,72750000000,the southern company
+,"75,000",usa,thomas polen,,72440000000,becton dickinson and company
+,"18,100",usa,james a squires,,72230000000,norfolk southern corporation
+,"6,058",china,pang kang,,72140000000,foshan haitian flavouring and food company
+,"45,000",spain,jose ignacio sanchez galan,,72100000000,iberdrola
+,"44,000",usa,frank bisignano,,71850000000,fiserv
+,"74,316",brazil,eduardo bartolomeo,,71750000000,vale sa
+,"65,000",usa,gary a norcross,,71640000000,fidelity national information services
+,"24,069",japan,yasuhiko saito,,71310000000,shin-etsu chemical
+,"19,789",france,bernard charles,,71220000000,dassault systemes
+,"33,800",usa,noel r wallace,,71170000000,colgate-palmolive company
+,"134,878",switzerland,gary nagle,,70870000000,glencore
+,"120,726",germany,,,70510000000,bayerische motoren werke bmw
+,"11,834",canada,keith creel,,70400000000,canadian pacific railway
+,"312,250",uk,,,,ernst & young
+,"5,633",bermuda,matthew murphy,,70130000000,marvell technology group
+,"7,986",china,colin huang zheng,,70060000000,pinduoduo
+,"289,000",usa,raj subramaniam,,69950000000,fedex corporation
+,"10,944",usa,charles j meyers,,69780000000,equinix
+,"16,821",russia,leonid viktorovich mikhelson,,69390000000,novatek
+,"13,023",usa,rob fauber,,69230000000,moody's corporation
+,"2,000",usa,,,69120000000,lucid group inc
+,"34,944",australia,ross mcewan,,69040000000,national australia bank
+,"110,302",germany,,,68990000000,basf se
+,"80,000",denmark,soren skou,,68830000000,ap moller - maersk a/s
+,"49,050",brazil,roberto castello branco,,68810000000,petroleo brasileiro - petrobras
+,"25,000",germany,,,,aldi
+,"47,320",japan,takashi tanaka,,68129999999,kddi corporation
+,"32,873",china,,,68090000000,longi green energy technology
+,"52,930",switzerland,mario greco,,67910000000,zurich insurance group ag
+,"48,500",usa,james c fish jr,,67670000000,waste management
+,,china,,,66970000000,nongfu spring
+,"85,947",ireland,craig arnold,,66910000000,eaton corporation
+,"28,239",china,ding lei,,66900000000,netease
+,"168,391",japan,koji arima,,66750000000,denso corporation
+,"71,551",switzerland,ralph hamers,,66670000000,ubs group ag
+,"5,661",usa,evan spiegel,,66580000000,snap inc
+,"60,500",china,doyle mitchell jr,,66410000000,industrial bank
+,"186,851",mexico,daniel hajj aboumrad,,66200000000,america movil
+,"26,123",indonesia,jahja setiaatmadja,,66010000000,pt bank central asia tbk
+,"20,875",usa,seifi ghasemi,,65930000000,air products and chemicals
+,"47,000",usa,christophe beck,,65870000000,ecolab
+,"50,800",usa,richard fairbank,,65840000000,capital one financial corporation
+,"117,356",japan,jun seki,,65390000000,nidec corporation
+,"80,369",japan,masanori togawa,,65360000000,daikin industries
+,"8,521",usa,jack dorsey,,65290000000,block inc
+,"29,000",singapore,piyush gupta,,65120000000,dbs group holdings
+,55,usa,,,,whatsapp
+,"76,182",china,yang jiping,,64989999999,china shenhua energy company
+,"17,100",usa,robert m blue,,64959999999,dominion energy
+,"10,368",usa,leonard schleifer,,64930000000,regeneron pharmaceuticals
+,"189,512",netherlands,carlos tavares,,64800000000,stellantis nv
+,"49,000",usa,tricia griffith,,63810000000,progressive corporation
+,"10,780",china,,,63570000000,china tourism group duty free corporation limited
+,"17,377",taiwan,rick tsai,,63350000000,mediatek
+,"11,550",usa,richard p wallace,,63210000000,kla corporation
+,"88,000",usa,kathy warden,,63000000000,northrop grumman corporation
+,"4,556",italy,benedetto vigna,,62960000000,ferrari
+,"239,000",mexico,guilherme loureiro,,62570000000,wal-mart de mexico
+,"12,500",usa,chano fernandez,,62560000000,workday
+,"9,819",china,,,62480000000,shenzhen mindray bio-medical electronics
+,"5,800",usa,joseph d russell jr,,62410000000,public storage
+,"3,226",india,sashidhar jagdishan,,62400000000,hdfc
+,"50,000",usa,gregory c case,,62310000000,aon
+,"43,000",uk,laxman narasimhan,,62300000000,reckitt benckiser group
+,"26,969",india,sanjiv bajaj,,61950000000,bajaj finance
+,"24,700",usa,richard adkerson,,61500000000,freeport-mcmoran
+,"191,189",spain,jose antonio alvarez,,61030000000,banco santander
+,"3,730",usa,brian armstrong,,60850000000,coinbase global inc
+,"95,850",sweden,martin lundstedt,,60850000000,ab volvo
+,"217,731",france,xavier huillard,,60650000000,vinci
+,"18,500",france,alexanricard,,60060000000,pernod ricard
+,"41,000",usa,michael f mahoney,,60010000000,boston scientific corporation
+,"17,000",saudi arabia,olayan m alwetaid,,59860000000,saudi telecom company stc
+,"90,000",uk,duncan wanblad,,59390000000,anglo american
+,"50,288",germany,reinhard ploss,,59350000000,infineon technologies ag
+,"101,000",russia,vagit alekperov,,59250000000,pjsc lukoil
+,"47,313",japan,masayoshi son,,59240000000,softbank corp
+,"103,100",usa,phebe novakovic,,59220000000,general dynamics corporation
+,"2,700",australia,peter kenneth allen,,59070000000,scentre group
+,"31,000",netherlands,kurt sievers richard l clemmer,,58860000000,nxp semiconductors
+,"245,642",india,vinay m tonse,,58770000000,state bank of india
+,"33,500",uk,erik engstrom,,58740000000,relx
+,"33,427",china,lei jun,,58450000000,xiaomi corporation
+,"17,209",australia,shemara wikramanayake,,116670000000,macquarie group
+,"7,800",usa,francis desouza,,57890000000,illumina
+,"11,500",usa,andrew anagnost,,57700000000,autodesk
+,"16,218",switzerland,pierre-alain ruffieux,,57620000000,lonza group
+,"37,506",australia,shayne elliott,,57480000000,anz banking group
+,"2,800",usa,ezra yacob,,57430000000,eog resources
+,"281,192",china,jie yang,,57140000000,china telecom corporation
+,"40,143",australia,peter king,,57030000000,westpac banking corporation
+,"86,700",usa,lal karsanbhai,,57000000000,emerson electric company
+,"43,000",usa,michel a khalaf,,56580000000,metlife
+,"3,900",usa,reshma kewalramani,,56410000000,vertex pharmaceuticals
+,"9,276",china,,,56400000000,shanxi xinghuacun fen wine factory
+,"57,000",netherlands,steven van rijswijk,,56180000000,ing group
+,"380,714",japan,toshiaki higashihara,,56150000000,hitachi
+,"14,100",germany,rolf habben jansen,,56000000000,hapag-lloyd
+,"45,282",canada,victor g dodig,,55940000000,canadian imperial bank of commerce
+,"101,000",usa,george oliver,,55830000000,johnson controls international
+,,china,,,55660000000,yihai kerry arawana holdings co ltd
+,"9,709",canada,tim s mckay,,55650000000,canadian natural resources
+,"2,980",austria,michael strugl,,55640000000,verbund ag
+,"24,848",switzerland,paul schuler,,55610000000,sika ag
+,"31,518",usa,christopher m crane,,55410000000,exelon corporation
+,,russia,,,55250000000,open joint stock company omz
+,"158,000",usa,todd j vasos,,55210000000,dollar general corporation
+,"5,451",uae,hana al rostamani,,55050000000,first abu dhabi bank
+,"5,300",usa,stefan bird,,55000000000,pacificorp
+,"45,000",canada,steve hasker,,54850000000,thomson reuters corporation
+,"62,285",germany,kasper rorsted,,54840000000,adidas
+,"4,553",china,,,54820000000,east money information
+,"15,500",argentina,stelleo passos tolda,,54770000000,mercadolibre
+,"6,574",japan,shuntaro furukawa,,54630000000,nintendo
+,"99,538",germany,werner baumann,,54460000000,bayer
+,"76,800",france,olivier andries,,54380000000,safran
+,"3,228",china,,,54320000000,luzhou laojiao
+,"120,000",usa,anthony capuano,,54280000000,marriott international
+,"231,671",india,thierry delaporte,,54260000000,wipro
+,"105,615",italy,carlo messina,,53950000000,intesa sanpaolo
+,"63,174",china,,,53660000000,great wall motor company
+,"57,727",japan,tadashi yanai,,53640000000,fast retailing
+,"24,158",uk,david schwimmer,,53540000000,london stock exchange group
+,"601,276",taiwan,yang-wei liu,,53430000000,hon hai precision industry
+,"41,000",china,robin li,,53370000000,baidu
+,"7,664",japan,tatsuro kosaka,,53000000000,chugai pharmaceutical
+,"3,300",usa,david simon,,53000000000,simon property group
+,"27,500",usa,robert gamgort,,52890000000,keurig pepper
+,"121,925",china,,,52740000000,sf holding
+,"211,000",usa,,,,ikea
+,"56,000",denmark,jens bjorn andersen,,52510000000,dsv panalpina
+,"38,600",china,xie yonglin,,52300000000,ping an bank
+,"23,683",uk,john pettigrew,,52120000000,national grid transco
+,"10,473",usa,nikesh arora,,51850000000,palo alto networks
+,"89,000",switzerland,terrence curtin,,51740000000,te connectivity
+,"31,495",italy,claudio descalzi,,51730000000,eni spa
+,"137,284",china,,,51650000000,luxshare precision industry
+,"17,917",india,gopal vittal,,51520000000,bharti airtel
+,"49,100",usa,thomas p gibbons,,51470000000,the bank of new york mellon corporation
+,"9,700",usa,ken xie,,51450000000,fortinet
+,"1,941",germany,,,51380000000,biontech se
+,"37,245",japan,hiroshi suzuki,,51220000000,hoya corporation
+,"28,000",qatar,abdulla mubarak al-khalifa,,51150000000,qatar national bank
+,"6,269",usa,eric yuan,,51140000000,zoom video communications
+,"7,130",usa,a james teague,,51060000000,enterprise products partners
+,"87,828",china,deqi ren,,51060000000,bank of communications
+,"24,431",china,,,51000000000,jiangsu hengrui medicine
+,"61,576",uk,charlie nunn,,51000000000,lloyds banking group
+,"211,374",japan,toshihiro mibe,,50890000000,honda motor
+,"75,184",japan,tsuneo murata,,50870000000,murata manufacturing
+,"16,361",usa,chi-foon chan,,50690000000,synopsys
+,"15,392",china,,,50600000000,wanhua chemical group
+,"34,000",usa,rangarajan raghuram,,50550000000,vmware
+,"8,034",japan,toshio kagami,,50540000000,oriental land
+,"71,000",india,uday kotak,,50490000000,kotak mahinbank
+,"36,600",usa,peter zaffino,,50430000000,american international group aig
+,"16,000",uk,lance uggla,,50250000000,ihs markit
+,"33,305",china,,,50140000000,wuxi apptec
+,"9,800",usa,bobby kotick,,49880000000,activision blizzard
+,"4,092",usa,hilton schlosberg,,49770000000,monster beverage corporation
+,,uae,,,,first gulf bank
+,"13,777",mexico,oscar gonzalez rocha,,49750000000,southern copper corporation
+,"28,051",finland,frank vang-jensen casper von koskull,,49610000000,nordea bank abp
+,"18,687",uk,charles f lowrey,,49340000000,prudential
+,"86,800",japan,makoto takashima,,49240000000,sumitomo mitsui financial group
+,"18,703",china,yang hua,,49170000000,cnooc limited
+,"92,000",usa,olivier le peuch,,49130000000,schlumberger
+,"90,000",usa,richard adam norwitt,,49110000000,amphenol corporation
+,"79,000",usa,ari bousbib,,49080000000,iqvia holdings
+,"1,600",usa,david baszucki,,48840000000,roblox corp
+,"11,380",china,,,48790000000,citic securities company
+,"18,400",usa,neil hunn,,48670000000,roper technologies
+,"1,932",usa,scott d sheffield,,48600000000,pioneer natural resources company
+,"45,000",usa,michael d hsu,,48400000000,kimberly-clark corporation
+,710,sweden,christian sinding,,48280000000,eqt ab publ
+,"4,891",usa,victor peng,,48220000000,xilinx
+,"82,997",japan,takehiko kakiuchi,,48170000000,mitsubishi corporation
+,"7,283",canada,francois poirier,,47880000000,tc energy corporation
+,"402,000",germany,,,,edeka group
+,"122,000",australia,rob scott,,47590000000,wesfarmers
+,"83,000",uk,c s venkatakrishnan,,47540000000,barclays plc
+,"52,100",canada,mirko bibic,,47390000000,bce bell canada enterprises
+,"14,400",usa,tom palmer,,47390000000,newmont corporation
+,282,uk,simon a borrows,,47300000000,3i group
+,"75,901",russia,vladimir potanin,,47230000000,mmc norilsk nickel
+,"210,966",india,c vijayakumar,,46930000000,hcl technologies
+,"6,429",denmark,mads nipper,,46810000000,orsted a/s
+,"95,500",usa,bruce d broussard,,46680000000,humana
+,"10,350",usa,jay mazelsky,,46660000000,idexx laboratories
+,"7,763",china,,,46600000000,nio inc
+,"2,730",south korea,john rim,,46570000000,samsung biologics
+,"277,000",usa,rosalind brewer,,46520000000,walgreens boots alliance
+,"15,000",usa,martin mucci,,46480000000,paychex
+,"50,319",china,,,46400000000,muyuan foods
+,"73,037",france,philippe brassac,,46250000000,credit agricole
+,"9,300",usa,bill newlands,,46220000000,constellation brands
+,"16,842",switzerland,gilles andrier,,46070000000,givaudan sa
+,"9,300",usa,anirudh devgan,,46010000000,cadence design systems
+,"83,636",usa,gregory d johnson,,45970000000,o'reilly automotive
+,"7,600",india,amit syngle,,45950000000,asian paints
+,"25,000",canada,,,45930000000,lululemon athletica
+,"9,500",usa,,,,spacex
+,"7,802",usa,,,,stripe
+,"330,600",usa,brian humphries,,45920000000,cognizant technology solutions
+,"128,146",japan,masahiro okafuji,,45880000000,itochu corporation
+,"151,000",ireland,kevin p clark,,45840000000,aptiv
+,"36,000",usa,miguel patricio,,45720000000,kraft heinz company
+,"3,030",usa,a william stein,,45710000000,digital realty trust
+,"7,000",usa,kevin r sayer,,45700000000,dexcom
+,"4,303",usa,henry a fernandez,,45510000000,msci
+,"50,000",south korea,bom suk kim,,45490000000,coupang inc
+,"19,500",usa,ganesh moorthy,,45460000000,microchip technology
+,"48,254",switzerland,jean-marc chery,,45430000000,stmicroelectronics
+,"8,600",usa,tony xu,,45380000000,doordash
+,"16,688",usa,nick akins,,45070000000,american electric power company
+,"10,164",australia,elizabeth gaines,,45030000000,fortescue metals group
+,"97,660",usa,brian niccol,,44960000000,chipotle mexican grill
+,"8,619",usa,,,,trafigura
+,"37,000",ireland,,,44960000000,trane technologies plc
+,"18,000",usa,,,,linkedin
+,"58,000",usa,david gitlin,,44920000000,carrier global
+,"3,200",usa,olivier pomel,,44870000000,datadog
+,"72,500",usa,michael f neidorff,,44550000000,centene corporation
+,"403,000",bermuda,benjamin william keswick,,44510000000,jardine matheson holdings
+,"158,000",usa,michael s dell,,44300000000,dell technologies
+,"12,561",south korea,hak cheol shin,,44150000000,lg chem
+,"4,537",usa,jeffrey w martin,,44140000000,sempra energy
+,"61,531",indonesia,,,44010000000,pt bank rakyat indonesia persero tbk
+,"7,529",usa,william j stromberg,,43910000000,t rowe price group
+,"17,000",usa,michael r mcmullen,,43840000000,agilent technologies
+,"60,000",usa,jose e almeida,,43790000000,baxter international
+,"35,700",usa,fitterling,,43710000000,dow inc
+,"17,700",usa,michael j hennigan,,43660000000,marathon petroleum corporation
+,"5,544",china,,,43630000000,wuxi biologics cayman
+,"25,000",usa,jeffrey s sloan,,43580000000,global payments
+,"26,852",china,,,43540000000,cosco shipping holdings
+,"40,916",usa,charles f lowrey,,43390000000,prudential financial
+,"464,000",hong kong,david hsu,,37910000000,jardine strategic holdings
+,"3,394",usa,george kurtz,,43340000000,crowdstrike holdings
+,"99,299",china,,,43250000000,haier smart home
+,"21,456",japan,katsunori maruyama,,43220000000,smc corporation
+,"39,642",germany,joachim wenning,,43180000000,munchener ruckversicherungs-gesellschaft
+,,brazil,david velez osorno,,43140000000,nu holdings ltd
+,"22,540",usa,joseph m hogan,,43130000000,align technology
+,"47,000",usa,chris kubasik,,43120000000,l3harris technologies
+,"28,000",usa,edward d breen,,43100000000,dupont de nemours
+,"47,000",japan,christophe weber,,43090000000,takeda pharmaceutical company
+,"6,567",usa,gregory w becker,,43030000000,svb financial group
+,"105,000",uk,nick read,,43010000000,vodafone group
+,"6,617",sweden,daniel ek,,42830000000,spotify technology
+,"17,800",ireland,brian cassin,,42820000000,experian
+,"18,700",usa,greg brown,,42660000000,motorola solutions
+,"35,000",usa,jon vander ark,,42420000000,republic services
+,"142,000",usa,christopher j nassetta,,42370000000,hilton worldwide holdings
+,"131,000",canada,brian p hannasch,,42170000000,alimentation couche-tard
+,"4,076",south korea,choi soo-yeon,,42080000000,naver corporation
+,"12,874",japan,kentaro kawabe,,41970000000,z holdings corporation
+,"10,622",germany,rolf eberhard buch,,41880000000,vonovia se
+,"51,000",usa,enrique lores,,41850000000,hp inc
+,"191,752",uk,,,36500000000,fiat chrysler automobiles
+,"54,640",usa,thomas l williams,,41610000000,parker-hannifin corporation
+,"110,432",spain,onur genc,,41590000000,banco bilbao vizcaya argentaria
+,"100,000",usa,william c rhodes iii,,41570000000,autozone
+,"10,800",usa,jamie ian,,41520000000,ebay
+,"2,153",usa,marc rowan,,41380000000,apollo global management
+,"35,000",usa,jeff harmening,,41360000000,general mills
+,"58,000",usa,kevin hourican,,41250000000,sysco corporation
+,"40,000",usa,todd m schneider,,41230000000,cintas corporation
+,"8,256",japan,yoshiharu inaba,,41130000000,fanuc corporation
+,"12,447",usa,dan amos,,41120000000,aflac
+,"478,070",uk,dominic blakemore,,41110000000,compass group
+,"1,567",india,ignatius navil noronha,,41070000000,avenue supermarts
+,"7,867",usa,jeff lawson,,41050000000,twilio
+,"79,200",ireland,albert manifold,,41040000000,crh plc
+,"71,504",south korea,chang jae-hoon,,41030000000,hyundai motor company
+,"41,101",japan,satoru komiya,,40960000000,tokio marine holdings
+,"30,800",usa,alan d schnitzer,,40900000000,the travelers companies
+,"101,911",switzerland,veronique penchienati bosetta,,40800000000,da
+,"16,033",japan,sunao manabe,,40770000000,daiichi sankyo company
+,"50,479",brazil,jean jereissati,,40760000000,ambev
+,"17,337",china,,,40670000000,bank of ningbo
+,"3,238",usa,henry r kravis,,40660000000,kkr & co
+,"20,532",sweden,ola rollen,,40650000000,hexagon ab publ
+,"1,519",switzerland,david layton,,40540000000,partners group holding ag
+,371,usa,sumit roy,,40400000000,realty income corporation
+,"18,990",usa,michele buck,,40350000000,the hershey company
+,"59,052",china,,,40250000000,inner mongolia yili industrial group
+,"3,676",china,,,40180000000,xpeng motors
+,"58,200",china,ji xiaohui,,40060000000,shanghai pudong development bank
+,"27,500",usa,michael h mcgarry,,39820000000,ppg industries
+,"2,993",usa,jayshree ullal,,39790000000,arista networks
+,"23,655",switzerland,david j endicott,,39770000000,alcon
+,"36,000",usa,david gibbs,,39680000000,yum brands
+,"23,100",canada,,,39460000000,nutrien
+,"140,565",china,yu liang,,39430000000,china vanke
+,"30,538",singapore,helen wong,,39370000000,oversea-chinese banking corporation
+,"37,000",canada,roy gori,,39260000000,manulife financial corporation
+,"10,529",usa,steven j kean,,39160000000,kinder morgan
+,"4,825",finland,peter vanacker,,39110000000,neste oyj
+,"138,808",japan,ryuichi isaka,,39100000000,seven & i holdings
+,"44,509",japan,tatsuo yasunaga,,39070000000,mitsui & co
+,"41,000",usa,juan ricardo luciano,,39060000000,archer-daniels-midland company
+,"3,837",usa,ludwig n hantson,,39000000000,alexion pharmaceuticals
+,"96,500",brazil,milton maluhy filho,,38920000000,itau unibanco holding
+,"15,026",china,,,38890000000,jiangsu yanghe brewery joint-stock
+,"289,501",france,aiman ezzat,,38880000000,capgemini se
+,"12,591",canada,mark s little,,38700000000,suncor energy
+,"9,016",germany,joachim kreuzburg,,38530000000,sartorius stedim biotech
+,"111,247",china,kong qingwei,,38510000000,china pacific insurance group cpic
+,"167,552",france,benoit bazin,,38480000000,compagnie de saint-gobain
+,"78,249",switzerland,detlef trefzger,,38470000000,kuehne nagel international ag
+,"34,352",uk,kevin murphy,,38470000000,ferguson
+,"23,663",usa,greg c gantt,,38250000000,old dominion freight line
+,464,usa,shankh mitra,,38230000000,welltower
+,"76,000",usa,brian s tyler,,38130000000,mckesson corporation
+,"33,300",china,,,38110000000,will semiconductor
+,"24,500",usa,blake d moret,,38040000000,rockwell automation
+,"33,916",belgium,johan thijs,,38020000000,kbc group nv
+,"1,967",usa,jeff green,,37940000000,the trade desk
+,37,china,,,37940000000,beijing-shanghai high-speed railway coltd
+,"26,969",india,sanjiv bajaj,,37860000000,bajaj finserv
+,"1,596",usa,jeffrey stoops,,37850000000,sba communications corporation
+,"204,815",china,chen hong,,37820000000,saic motor corporation
+,"14,915",hong kong,gao yingxin,,37820000000,boc hong kong
+,"59,900",uk,alison rose,,37790000000,natwest group
+,,china,,,37730000000,kuaishou technolocy
+,"101,322",sweden,borje ekholm,,37530000000,ericsson
+,"41,000",china,,,37360000000,anta sports products
+,,china,,,37280000000,zhangzhou pientzehuang pharmaceutical ltd
+,"11,000",usa,andrew wilson,,37270000000,electronic arts
+,"11,321",usa,bob frenzel,,37220000000,xcel energy
+,"88,846",china,dong mingzhu,,37200000000,gree electric appliances
+,"23,127",netherlands,dimitri de vreeze,,37190000000,dsm
+,"39,000",usa,ronald p o'hanley,,37170000000,state street corporation
+,"24,315",usa,,,,bloomberg lp
+,"10,000",hong kong,louisa cheang wai wan,,37160000000,hang seng bank
+,"93,700",usa,barbara rentler,,37100000000,ross stores
+,"34,523",germany,,,27560000000,innogy se
+,"20,477",france,jean-bernard levy,,37060000000,edf electricite de france
+,"196,159",usa,roger c hochschild,,36840000000,discover financial services
+,"803,126",china,,,36830000000,foxconn industrial internet
+,"61,380",finland,henrik ehrnrooth,,36770000000,kone oyj
+,"19,386",uk,brendan horgan,,36700000000,ashtead group
+,"36,860",china,,,36680000000,zijin mining group company
+,"9,200",norway,kjerstin braathen,,36680000000,dnb asa
+,"3,153",usa,jay chaudhry,,36640000000,zscaler
+,"6,295",usa,hafize gaye erkan,,36590000000,first republic bank
+,"245,472",japan,masatsugu nagato,,36470000000,japan post bank
+,"171,000",france,catherine macgregor,,36440000000,engie
+,"28,546",hong kong,jan craps,,36330000000,budweiser brewing company apac
+,"2,837",south korea,yeo min-soo,,36170000000,kakao
+,"3,400",usa,andreas fibig,,36140000000,international flavors & fragrances
+,"13,300",usa,w nicholas howley,,36140000000,transdigm group
+,"70,000",usa,,,36130000000,otis worldwide corporation
+,"54,700",usa,thomas j wilson,,36110000000,allstate corporation
+,"36,500",india,sanjiv puri,,36020000000,itc
+,"20,500",canada,,,35940000000,constellation software
+,"14,000",usa,greg c garland,,35920000000,phillips 66
+,"52,600",germany,carsten knobel,,35830000000,henkel ag
+,"45,268",india,s n subrahmanyan,,35830000000,larsen & toubro
+,"58,300",japan,eddy pirard,,35810000000,japan tobacco
+,"90,836",italy,andrea orcel,,35780000000,unicredit
+,"12,000",usa,james cracchiolo,,35730000000,ameriprise financial
+,"87,927",finland,pekka lundmark,,35650000000,nokia corporation
+,"4,506",usa,peter gassner,,35590000000,veeva systems
+,"2,540",usa,shar dubey,,35460000000,match group
+,"17,800",usa,patrick kaltenbach,,35450000000,mettler-toledo international
+,"465,000",usa,rodney mcmullen,,35380000000,kroger
+,"21,000",usa,james c collins jr,,35290000000,corteva
+,"37,125",sweden,stefan widing,,35190000000,sandvik ab
+,"5,245",usa,john riccitiello,,35180000000,unity software inc
+,"27,015",australia,andy penn,,35120000000,telstra corporation
+,"11,107",south korea,jun young-hyun,,35110000000,samsung sdi
+,"105,000",usa,robert e sulentic,,35070000000,cbre group
+,"232,000",netherlands,frans muller,,35060000000,ahold delhaize
+,"24,346",singapore,wee ee cheong,,35000000000,united overseas bank
+,"39,500",hong kong,raymond kwok,,34960000000,sun hung kai properties
+,"78,126",germany,leonhard birnbaum,,34940000000,eon se
+,"20,507",usa,daniel l florness,,34870000000,fastenal company
+,"3,090",usa,timothy j naughton,,34780000000,avalonbay communities
+,"89,575",brazil,octavio de lazari junior,,34590000000,banco bradesco
+,"7,970",usa,michael j farrell,,34570000000,resmed
+,"12,568",denmark,kristian villumsen,,34560000000,coloplast a/s
+,"30,263",mexico,,,34470000000,grupo mexico
+,"51,426",hong kong,,,34450000000,techtronic industries company
+,"2,440",usa,matthew prince,,34430000000,cloudflare
+,"14,300",usa,,,34410000000,keysight technologies
+,"47,486",china,bin wu,,34360000000,anhui conch cement company
+,"39,000",usa,j patrick gallagher jr,,34280000000,arthur j gallagher
+,"2,877",spain,tobias martinez gimeno,,34189999999,cellnex telecom
+,"9,610",usa,michel vounatsos,,34170000000,biogen
+,"69,801",japan,tatsufumi sakai,,34090000000,mizuho financial group
+,"4,783",usa,alan s armstrong,,34030000000,williacompanies
+,"18,933",canada,worthing f jackman,,33930000000,waste connections
+,"11,788",usa,david v auld,,33920000000,dr horton
+,"12,684",usa,ralph izzo,,33880000000,public service enterprise group
+,"34,209",hong kong,jacob kam,,33750000000,mtr corporation
+,596,australia,,,33720000000,sydney airport
+,"2,400",usa,mark j parrell,,33619999999,equity residential
+,"13,977",taiwan,mihn tsao,,33549999999,formosa petrochemical corporation
+,"59,900",usa,tom linebarger,,33520000000,cummins
+,559,usa,joel s marcus,,33409999999,alexandria real estate equities
+,"19,112",usa,greg d carmichael,,33310000000,fifth third bancorp
+,"9,367",usa,scott g stephenson,,33299999999,verisk analytics
+,"48,000",sweden,nico delvaux,,33270000000,assa abloy ab publ
+,"81,592",netherlands,frans van houten,,33229999999,philips
+,"72,644",italy,philippe donnet,,33229999999,assicurazioni generali
+,"2,733",usa,alex karp,,33200000000,palantir technologies
+,"9,964",usa,joseph w gorder,,33119999999,valero energy corporation
+,"1,600",usa,david a hager,,33100000000,devon energy corporation
+,"38,087",china,tang yong,,33090000000,china resources land
+,"137,000",usa,donnie d king,,33040000000,tyson foods
+,"24,586",china,,,33020000000,sany heavy industry co ltd
+,"18,500",usa,david zapico,,32939999999,ametek
+,"10,875",thailand,auttapol rerkpiboon,,32880000000,ptt public company
+,"24,589",canada,dean a connor,,32869999999,sun life financial
+,"36,000",china,,,32810000000,aier eye hospital group
+,"10,400",usa,ernest garcia iii,,32799999999,carvana
+,"1,000",australia,gregory leith goodman,,32740000000,goodman group
+,"28,800",usa,leon topalian,,32710000000,nucor corporation
+,"28,445",south africa,bob van dijk,,32700000000,naspers
+,"12,700",usa,mark begor,,32630000000,equifax
+,"32,218",taiwan,chi-mau sheih,,32560000000,chunghwa telecom
+,"215,000",australia,bradford banducci,,32509999999,woolworths group
+,"19,200",netherlands,bhavesh v patel,,32479999999,lyondellbasell industries
+,"28,500",usa,preston feight,,32430000000,paccar
+,"61,200",usa,wendell weeks,,32400000000,corning
+,"8,600",usa,jay adair,,32360000000,copart
+,"5,814",usa,laurel hurd,,32360000000,nasdaq
+,"45,174",taiwan,ming chung daniel,,32290000000,fubon financial holding
+,"21,869",canada,mark bristow,,32210000000,barrick gold corporation
+,"2,571",usa,milan galik,,32189999999,interactive brokers group
+,"67,409",switzerland,jan jenisch,,32100000000,holcim ltd
+,450,usa,,,,instagram
+,"153,000",sweden,helena helmersson,,32080000000,h & m hennes & mauritz ab
+,"129,071",japan,hirotaka hara,,32030000000,fujitsu
+,"15,945",india,kenichi ayukawa,,31990000000,maruti suzuki india
+,"19,000",spain,luis maroto,,31940000000,amadeus it group
+,"8,211",china,,,31940000000,nari technology
+,"90,800",canada,darren entwistle,,31930000000,telus corporation
+,"15,000",usa,thomas caulfield,,31920000000,globalfoundries inc
+,"4,700",usa,lawson whiting,,31800000000,brown-forman corporation
+,"59,258",china,mingqiang bi,,31760000000,china citic bank corporation
+,"5,836",usa,,,31740000000,mplx lp
+,"167,743",luxembourg,lakshmi mittal,,31730000000,arcelormittal
+,"7,500",usa,parag agarwal,,31720000000,twitter
+,"199,327",usa,michael a witynski,,31710000000,dollar tree
+,,china,,,31590000000,yunnan energy new material
+,"5,100",usa,ajei gopal,,31590000000,ansys
+,"58,824",usa,arkadiy dobkin,,31580000000,epam systems
+,"6,400",usa,susan hardwick,,31500000000,american water works company
+,"7,340",switzerland,guillaume daniellot,,31430000000,straumann holding ag
+,916,germany,hans dieter potsch,,31390000000,porsche automobil holding se
+,"69,000",south africa,natascha viljoen,,31370000000,anglo american platinum
+,,china,,,31350000000,eve energy co ltd
+,"152,050",france,,,31340000000,societe generale
+,"24,374",china,,,31270000000,sunny optical technology group company
+,"245,472",japan,hiroya masuda,,31250000000,japan post holdings
+,"10,753",usa,jonathan m jaffe,,31190000000,lennar corporation
+,"26,316",china,,,31190000000,longfor group holdings
+,"6,200",hong kong,zhang zhichao,,31150000000,china overseas land and investment
+,"10,540",spain,francisco miguel reynes massanet,,31140000000,naturgy energy group
+,"117,500",france,florent menegaux,,31130000000,michelin
+,"36,726",france,benoit coquart,,31080000000,legrand sa
+,"13,500",switzerland,dieter weisskopf,,31020000000,chocoladefabriken lindt & sprungli ag
+,"11,678",usa,vicki hollub,,31020000000,occidental petroleum corporation
+,"138,036",japan,shuichi ishibashi,,30970000000,bridgestone corporation
+,"135,304",china,stanley ching,,30950000000,citic
+,"71,300",usa,james m loree,,30860000000,stanley black & decker
+,"9,227",usa,joseph r nolan jr,,30830000000,eversource energy
+,"4,181",china,,,30810000000,li auto inc
+,"65,017",china,,,30700000000,boe technology group company
+,"6,938",usa,scott j lauber,,30660000000,wec energy group
+,"7,235",india,c k venkataraman,,30620000000,titan company
+,"5,030",usa,todd mckinnon,,30590000000,okta
+,"15,500",sweden,johan torgeby,,30550000000,skandinaviska enskilda banken ab publ
+,"7,238",germany,theodor weimer,,30350000000,deutsche borse
+,"14,071",usa,john mcavoy,,30310000000,consolidated edison
+,"56,811",china,,,30290000000,poly developments and holdings group
+,"9,372",usa,devin w stockfish,,30220000000,weyerhaeuser company
+,"73,275",japan,shigetaka komoris,,30150000000,fujifilm holdings corporation
+,"367,321",uk,ken murphy,,30120000000,tesco
+,"1,594",usa,adam foroughi,,30110000000,applovin corp
+,,china,,,29960000000,semiconductor manufacturing international corporation
+,"78,300",india,amitabh chaudhry,,29960000000,axis bank
+,"7,127",japan,aki tomaru,,29930000000,m3 inc
+,,china,,,29860000000,sungrow power supply
+,"1,340",india,vneet s jaain,,29830000000,adani green energy
+,"18,700",sweden,gerteric lindquist,,29790000000,nibe industrier ab publ
+,"15,883",japan,yoshihiko hatanaka,,29740000000,astellas pharma
+,"23,635",china,,,29700000000,tongwei
+,,kazakhstan,mikhail lomtadze,,29700000000,kaspi bank joint stock company
+,"13,189",switzerland,christian mumenthaler,,29680000000,swiss re
+,"57,848",taiwan,,,29560000000,cathay financial holding
+,"84,512",germany,christian sewing,,29520000000,deutsche bank
+,"13,962",china,,,29420000000,rongsheng petrochemical
+,"12,558",usa,thomas e long,,29400000000,energy transfer lp
+,"198,951",china,jianjun zhang,,29370000000,picc group people's insurance company group of china
+,"24,300",usa,john a hayes,,29320000000,ball corporation
+,"26,438",japan,,,29180000000,terumo corporation
+,"22,000",india,ashish dwivedi,,29170000000,ultratech cement
+,"52,488",south korea,song ho-sung,,29020000000,kia motors corporation
+,"13,840",sweden,helena hedblom,,29020000000,epiroc ab publ
+,"2,096",hong kong,,,28990000000,hong kong and china gas company
+,"44,700",usa,robert glen goldstein,,28960000000,las vegas sands corp
+,"9,000",australia,scott charlton,,28950000000,transurban group
+,"10,065",usa,eric m green,,28930000000,west pharmaceutical services
+,"19,062",switzerland,urs schaeppi,,28910000000,swisscom ag
+,"46,600",uk,carl hess,,28850000000,willis towers watson public company
+,"11,908",switzerland,christian buhl,,28740000000,geberit ag
+,"24,272",indonesia,ririek adriansyah,,28720000000,pt telekomunikasi indonesia tbk
+,"2,539",usa,dev ittycheria,,28680000000,mongodb
+,"2,972",china,,,28640000000,chongqing zhifei biological products
+,"19,169",netherlands,nancy mckinstry,,28490000000,wolters kluwer
+,"320,618",mexico,eduardo padilla silva,,28480000000,fomento economico mexicanob de cv femsa
+,"40,000",usa,steve rendle,,28470000000,vf corporation
+,"4,742",usa,andrew c florance,,28390000000,costar group
+,"9,800",usa,anders gustafsson,,28370000000,zebra technologies corporation
+,"24,500",canada,paul a mahon,,28250000000,great-west lifeco
+,"142,150",france,stephane richard,,28200000000,orange sa
+,"26,000",usa,jay farner,,28140000000,rocket companies
+,"31,653",japan,yasuo takeuchi,,28090000000,olympus corporation
+,"29,378",denmark,henrik andersen,,28080000000,vestas wind systea/s
+,"66,674",switzerland,thomas oetterli,,28050000000,schindler holding ag
+,"5,054",sweden,martin carlesund,,27960000000,evolution gaming group ab publ
+,"22,892",singapore,kuan moon yuen,,27940000000,singapore telecommunications singtel
+,"93,300",usa,,,,mercadona
+,"4,013",usa,joseph margolis,,27910000000,extra space storage
+,"9,813",finland,torbjorn magnusson,,27890000000,sampo oyj
+,"139,677",japan,yo honma,,27860000000,ntt data corporation
+,"2,847",usa,pierce h norton ii,,27850000000,oneok
+,"33,300",usa,hassane el-khoury,,27820000000,on semiconductor corporation
+,"146,518",japan,takeshi sugiyama,,27730000000,mitsubishi electric corporation
+,"42,000",usa,steven h collis,,27710000000,amerisourcebergen corporation
+,"2,545",usa,stewart butterfield,,27700000000,slack technologies
+,"2,413",canada,alex pourbaix,,27660000000,cenovus energy
+,"87,346",china,,,27620000000,goertek
+,"6,000",usa,j kent masters,,27610000000,albemarle corporation
+,"11,912",usa,j thomas hill,,27590000000,vulcan materials company
+,"1,550",usa,jack a fusco,,27520000000,cheniere energy
+,"15,000",colombia,felipe bayon,,27470000000,ecopetrol
+,"26,000",usa,patricia k poppe,,27470000000,pacific gas & electric corporation
+,"11,216",china,,,27410000000,shenzhen inovance technology
+,"5,500",china,,,27340000000,ganfeng lithium
+,"75,000",usa,adam h schechter,,27300000000,laboratory corporation of america holdings
+,"26,000",ireland,edmond scanlon,,27280000000,kerry group
+,"209,000",france,,,24160000000,peugeot
+,"19,285",taiwan,stan hung,,27280000000,united microelectronics corporation
+,"14,800",usa,peter m kern,,27260000000,expedia group
+,"85,700",china,,,27210000000,shenzhou international group holdings
+,,china,,,27200000000,qinghai salt lake industry
+,"7,082",usa,patrick j ottensmeyer,,27200000000,kansas city southern
+,"43,293",japan,masatoshi kimata,,27150000000,kubota corporation
+,"200,000",canada,galen g weston,,27070000000,loblaw companies
+,"46,316",china,zhang jinliang,,27050000000,china everbright bank company
+,"20,000",usa,jim snee,,27050000000,hormel foods corporation
+,,china,,,,webank
+,"311,269",germany,stephan sturm,,27030000000,fresenius se
+,"26,400",usa,david t feinberg,,26980000000,cerner corporation
+,"14,802",ireland,peter jackson,,26930000000,flutter entertainment
+,"37,769",saudi arabia,fahad bin hussein al-sudairi,,26930000000,saudi electricity company
+,"9,900",usa,christine a leahy,,26930000000,cdw corporation
+,"25,000",usa,michael g o'grady,,26930000000,northern trust corporation
+,,taiwan,,,26910000000,evergreen marine corporation taiwan
+,"5,630",usa,dan springer,,26900000000,docusign
+,"84,000",netherlands,dolf van den brink,,26890000000,heineken holding
+,"9,372",china,,,26880000000,china international capital corporation
+,"55,100",usa,robert e jordan,,26840000000,southwest airlines
+,"1,545",usa,john b hess,,26830000000,hess corporation
+,"1,900",usa,greg maffei,,26770000000,liberty broadband corporation
+,"20,000",usa,bryan c hanson,,26770000000,zimmer biomet holdings
+,"8,700",usa,c howard nye,,26770000000,martin marietta materials
+,"5,800",canada,brad corson,,26730000000,imperial oil
+,"5,700",qatar,,,26690000000,industries qatar
+,"26,920",canada,laurent ferreira,,26660000000,national bank of canada
+,"36,000",india,kirti ganorkar,,26640000000,sun pharmaceutical industries
+,"80,000",taiwan,ping zheng,,26610000000,delta electronics
+,"30,000",india,,,,flipkart
+,"52,323",china,,,26590000000,baoshan iron & steel
+,"26,506",china,,,26580000000,hengli petrochemical
+,"259,385",japan,kazuhiro tsuga,,26570000000,panasonic corporation
+,"83,000",usa,ed bastian,,26570000000,delta air lines
+,"19,498",germany,markus krebber,,26490000000,rwe
+,"30,105",india,subhash kumar,,26470000000,ongc
+,"2,100",poland,,,23310000000,allegro
+,"33,200",uk,damian paul gammell,,26440000000,coca-cola europacific partners plc
+,902,usa,d james bidzos,,26400000000,verisign
+,"18,000",usa,brian d doubles,,26380000000,synchrony financial
+,"23,000",usa,richard j tobin,,26340000000,dover corporation
+,,china,,,,jd digits
+,,india,suresh manglani,,26340000000,adani total gas limited
+,"15,016",ireland,michael o'leary,,26290000000,ryanair holdings
+,"8,000",saudi arabia,mosaed al ohali,,26290000000,saudi arabian mining company ma'aden
+,"2,675",usa,clay b siegall,,26280000000,seagen
+,"19,933",finland,markus rauramo,,26200000000,fortum oyj
+,"66,478",japan,hisahiro koketsu,,26100000000,toyota industries corporation
+,,china,,,26090000000,smoore international holdings
+,"11,980",india,,,26060000000,adani transmissions
+,"22,700",usa,donald g macpherson,,26050000000,ww grainger
+,"383,233",france,daniel julien,,26040000000,teleperformance se
+,"172,907",hong kong,li,,26030000000,ck hutchison holdings
+,"10,500",usa,michael rapino,,26030000000,live nation entertainment
+,"7,230",thailand,,,25990000000,airports of thailand
+,"46,000",usa,hal lawton,,25990000000,tractor supply company
+,"2,653",switzerland,magdalena martullo-blocher,,25920000000,ems-chemie holding ag
+,"1,800",australia,,,25900000000,apa group
+,"5,100",usa,matthew farrell,,25900000000,church & dwight
+,"171,450",france,antoine frerot,,25900000000,veolia environnement
+,"18,000",usa,jim lico,,25800000000,fortive corporation
+,"5,900",usa,mark e jagiela,,25800000000,teradyne
+,"7,600",india,suresh narayanan,,25740000000,nestle india
+,"154,000",canada,seetarama kotagiri,,25730000000,magna international
+,"164,177",china,,,25710000000,crrc corporation
+,"14,000",usa,lawrence e kurzius,,25680000000,mccormick & company
+,"59,262",china,zheng wanchun,,25650000000,china minsheng banking
+,"1,240",usa,dallas b tanner,,25610000000,invitation homes
+,"30,000",usa,arnold w donald,,25530000000,carnival corporation
+,"11,300",usa,liam griffin,,25500000000,skyworks solutions
+,"27,318",japan,masaaki tanaka,,25480000000,nippon paint holdings
+,"3,625",china,,,25460000000,li ning company
+,"25,377",japan,fujio mitarai,,25380000000,canon
+,"33,153",japan,makoto inoue,,25380000000,orix corporation
+,"114,042",spain,jose maria alvarez-pallete lopez,,25320000000,telefonica sa
+,"7,959",hong kong,,,25310000000,clp holdings
+,"18,700",usa,clifton a pemble,,25190000000,garmin
+,"29,603",japan,hiroto takeuchi,,25180000000,central japan railway company
+,"16,665",japan,takahisa takahara,,25160000000,unicharm corporation
+,529,japan,,,25150000000,lasertec corporation
+,"15,500",ireland,,,25070000000,kingspan group
+,"2,042",india,,,25060000000,adani enterprises
+,"38,000",hong kong,,,24970000000,geely automobile holdings
+,"13,876",uk,nigel wilson,,24970000000,legal & general group
+,"2,429",usa,h eric bolton jr,,24920000000,mid-america apartment communities
+,"25,693",usa,stephen d steinour,,24910000000,huntington bancshares
+,"27,000",hong kong,,,24870000000,china resources beer holdings company
+,"11,697",taiwan,,,24830000000,nan ya plastics corporation
+,"5,590",usa,jennifer c witz,,24800000000,sirius xm holdings
+,"7,000",brazil,fabio schvartsman,,24770000000,klabin
+,"40,000",usa,dave mosley,,24700000000,seagate technology
+,"13,003",usa,pej pizarro,,24690000000,edison international
+,"23,500",canada,tony staffieri,,24670000000,rogers communications
+,"102,000",usa,corie barry,,24660000000,best buy
+,"16,600",usa,eugene a hall,,24620000000,gartner
+,"8,771",spain,maurici lucena betriu,,24610000000,aena sme
+,,china,,,24570000000,sanan optoelectronics
+,"18,500",usa,christopher j swift,,24530000000,hartford financial services group
+,"18,180",usa,beth e mooney,,24530000000,keycorp
+,"33,603",japan,yoshihiro hasebe,,24510000000,kao corporation
+,"40,010",denmark,cees 't hart,,24430000000,carlsberg a/s
+,"119,658",china,,,24420000000,ke holdings inc
+,"12,244",japan,yozo shimano,,24400000000,shimano
+,"48,770",switzerland,thomas gottstein,,24380000000,credit suisse group
+,"1,414",australia,susan lloyd-hurwitz,,24370000000,mirvac group
+,38,canada,paul j brink,,24340000000,franco-nevada corporation
+,"12,307",china,,,24320000000,gf securities
+,"2,900",taiwan,,,24310000000,formosa plastics corporation
+,"22,000",germany,niklas oestberg,,24270000000,delivery hero se
+,"3,000",usa,anthony wood,,24240000000,roku
+,"94,000",switzerland,frankie ng,,24210000000,sgs sa
+,,sweden,johan hjertonsson,,24170000000,investment ab latour publ
+,"15,900",ireland,vicente reynal,,24170000000,ingersoll-rand ireland
+,"7,500",usa,,,,capital group
+,,china,,,24160000000,naura technology group
+,"22,467",china,,,24160000000,wingtech technology
+,"45,000",malaysia,abdul farid alias,,24110000000,malayan banking berhad
+,"5,895",usa,yamini rangan,,24080000000,hubspot
+,"36,597",spain,gonzalo gortazar rotaeche,,24070000000,caixabank
+,"90,500",uk,,,24020000000,bae systems
+,"19,406",usa,john m turner jr,,23950000000,regions financial corporation
+,,china,,,23910000000,china northern rare earth group high-tech
+,"20,962",japan,hidetoshi shibata,,23780000000,renesas electronics corporation
+,736,japan,,,23770000000,dai-ichi life holdings
+,"99,700",uk,philip jansen,,23730000000,bt group
+,781,denmark,jan g j van de winkel,,23700000000,genmab a/s
+,"3,073",germany,,,23680000000,hannover ruck se
+,"12,489",uk,alistair phillips-davies,,23670000000,sse plc
+,"61,564",japan,hiroyuki ogawa,,23640000000,komatsu
+,"12,395",usa,steven e strah,,23610000000,firstenergy
+,"20,400",usa,matthew john flannery,,23600000000,united rentals
+,"6,970",kuwait,isam jasem al sager,,23560000000,national bank of kuwait
+,,uk,,,23530000000,scottish mortgage investment trust
+,"13,000",ireland,dan carestio,,23490000000,steris
+,"1,400",usa,josh silverman,,23470000000,etsy
+,,china,,,23470000000,aecc aviation power
+,"9,591",spain,jose d bogas galvez,,23400000000,endesa
+,"23,293",germany,frank mastiaux,,23390000000,enbw energie baden-wurttemberg ag
+,"43,397",hong kong,,,23390000000,china mengniu dairy company
+,"40,000",usa,jeff miller,,23290000000,halliburton company
+,"5,300",china,,,23270000000,beigene
+,"10,000",china,,,23230000000,jd health international inc
+,"10,300",usa,jerry norcia,,23190000000,dte energy company
+,"15,000",kuwait,abdulwahab iesa alrushood,,23130000000,kuwait finance house
+,"17,463",usa,,,23110000000,citizens financial group
+,"20,465",germany,vincent warnery,,23060000000,beiersdorf
+,"22,965",usa,robert m bakish,,23060000000,viacom cbs
+,"14,000",uae,shayne nelson,,23040000000,emirates nbd
+,"14,508",switzerland,arnd kaldowski,,23020000000,sonova holding ag
+,"45,361",china,,,23010000000,weichai power
+,"58,000",hong kong,,,23010000000,ck asset holdings
+,"8,200",japan,hisashi ietsugu,,23010000000,sysmex corporation
+,"38,247",indonesia,,,23010000000,pt bank mandiri persero tbk
+,"72,584",china,,,22980000000,zte corporation
+,"16,000",canada,charles brindamour,,22970000000,intact financial corporation
+,,china,,,22970000000,zto express cayman
+,340,usa,james jim connor,,22930000000,duke realty corporation
+,"15,000",usa,prahlad singh,,22920000000,perkinelmer
+,"15,198",china,,,22910000000,guotai junan securities
+,"157,288",philippines,frederic dybuncio,,22820000000,sm investments corporation
+,"17,373",sweden,jens henriksson,,22820000000,swedbank ab publ
+,"10,516",china,,,22810000000,huatai securities
+,"17,569",usa,rene f jones,,22770000000,m&t bank corporation
+,"5,961",usa,gary a shiffman,,22760000000,sun communities
+,"9,116",usa,warner l baxter,,22730000000,ameren corporation
+,"31,000",usa,steve cahillane,,22720000000,kellogg company
+,"54,000",usa,lorenzo simonelli,,22720000000,baker hughes company
+,"5,607",usa,vincent sorgi,,22710000000,ppl corporation
+,"29,900",canada,,,22680000000,power corporation of canada
+,"49,233",south africa,alan pullinger,,22660000000,firstrand
+,"22,000",hong kong,francis lui,,22550000000,galaxy entertainment group
+,"46,000",sweden,magnus groth,,22550000000,essity ab publ
+,"12,369",usa,leo p denault,,22540000000,entergy corporation
+,"15,000",usa,paul reilly,,22490000000,raymond james financial
+,"1,757",usa,michael j schall,,22410000000,essex property trust
+,"14,068",china,,,22400000000,shanghai international port group
+,"6,825",usa,,,,epic games
+,"1,641",usa,max levchin,,22370000000,affirm holdings inc
+,"37,960",ireland,steve cutler,,22370000000,icon public company
+,"13,500",usa,michael stubblefield,,22310000000,avantor
+,"290,000",china,,,22300000000,china railway group
+,"78,490",japan,,,22290000000,kyocera corporation
+,"14,000",usa,,,16899999999,wellcare health plans
+,"71,812",japan,tetsuro tomita,,22270000000,east japan railway company
+,"1,395",ireland,timothy p walbert,,22270000000,horizon therapeutics public company
+,"6,147",saudi arabia,tareq a al-sadhan,,22200000000,riyad bank
+,"1,854",usa,joseph j depaolo,,22170000000,signature bank
+,"60,400",usa,antonio neri,,22160000000,hewlett packard enterprise company
+,"13,430",japan,shingo konomoto,,22120000000,nomura research institute
+,"31,700",uk,amanda blanc,,22110000000,aviva
+,"9,000",usa,linda rendle,,22100000000,the clorox company
+,"22,000",sweden,carina akerstrom,,22070000000,svenska handelsbanken ab publ
+,"128,000",uk,george g weston,,22070000000,associated british foods
+,"125,236",india,c p gurnani,,22060000000,tech mahindra
+,870,usa,travis d stice,,22020000000,diamondback energy
+,"8,961",canada,ashutosh raghuvanshi,,22010000000,fortis
+,"9,230",china,,,22000000000,china merchants securities
+,"236,386",germany,,,21980000000,continental ag
+,"20,000",russia,pavel sergeevich grachev,,21980000000,pjsc polyus
+,"39,035",japan,masahiko uotani,,21970000000,shiseido company
+,"18,000",norway,sigve brekke,,21970000000,telenor asa
+,355,uk,,,21950000000,segro
+,"18,515",spain,ignacio madridejos fernandez,,21930000000,ferrovial
+,"6,527",denmark,ester baiget,,21910000000,novozymes a/s
+,"33,342",brazil,harry schmelzer jr,,21890000000,weg
+
