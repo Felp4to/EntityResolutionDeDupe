@@ -1,0 +1,609 @@
+Link Score,name,headquarters,country,address,founded,employees,ceo,founders,market_cap,share_price,categories,sector,link,type,Label
+0.71434385,truist financial,,usa,,,,,,63110000000,,,,,,601
+0.71434385,becton dickinson,,usa,,,,,,72720000000,,,,,,602
+0.7137581,digital realty,,usa,,,,,,31140000000,,,,,,603
+0.71295154,schlumberger,,usa,,,,,,82640000000,,,,,,604
+0.71295154,weyerhaeuser,,usa,,,,,,23410000000,,,,,,605
+0.71295154,baker hughes,,usa,,,,,,31890000000,,,,,,606
+0.710788,hilton worldwide,,usa,,,,,,37020000000,,,,,,607
+0.71026605,royal caribbean,,usa,,,,,,16190000000,,,,,,608
+0.71026605,southern copper,,usa,,,,,,59570000000,,,,,,609
+0.71026605,cheniere energy,,usa,,,,,,38910000000,,,,,,610
+0.71026605,bank of america,,usa,,,,,,281720000000,,,,,,611
+0.71026605,lockheed martin,,usa,,,,,,117880000000,,,,,,612
+0.7098742,catalent,,usa,,,,,,8830000000,,,,,,613
+0.7098742,ubiquiti,,usa,,,,,,17660000000,,,,,,614
+0.7098742,teradyne,,usa,,,,,,15170000000,,,,,,615
+0.7098742,verisign,,usa,,,,,,22670000000,,,,,,616
+0.7098742,kkr & co,,usa,,,,,,60600000000,,,,,,617
+0.7098742,doordash,,usa,,,,,,20310000000,,,,,,618
+0.7098742,illumina,,usa,,,,,,31630000000,,,,,,619
+0.7098742,synopsys,,usa,,,,,,50750000000,,,,,,620
+0.7098742,fortinet,,usa,,,,,,38170000000,,,,,,621
+0.7098742,broadcom,,usa,,,,,,241950000000,,,,,,622
+0.7098742,autozone,,usa,,,,,,44450000000,,,,,,623
+0.7098742,autodesk,,usa,,,,,,43280000000,,,,,,624
+0.7098742,prologis,,usa,,,,,,112520000000,,,,,,625
+0.70841926,carvana,,usa,,,,,,1240000000,,,,,,626
+0.7071225,halliburton,,usa,,,,,,38730000000,,,,,,627
+0.7058946,salesforce,,usa,,,,,,149500000000,,,,,,628
+0.70574087,northern trust,,usa,,,,,,20460000000,,,,,,629
+0.70574087,otis worldwide,,usa,,,,,,34680000000,,,,,,630
+0.70574087,parker-hannifin,,usa,,,,,,40760000000,,,,,,631
+0.70574087,dollar general,,usa,,,,,,52200000000,,,,,,632
+0.70353884,t rowe price,,usa,,,,,,26480000000,,,,,,633
+0.7030928,martin marietta,,usa,,,,,,22060000000,,,,,,634
+0.7023698,applovin,,usa,,,,,,4010000000,,,,,,635
+0.70069176,realty income,,usa,,,,,,43700000000,,,,,,636
+0.70069176,valero energy,,usa,,,,,,52480000000,,,,,,637
+0.70069176,kimberly-clark,,usa,,,,,,46170000000,,,,,,638
+0.7003765,dte energy,,usa,,,,,,22840000000,,,,,,639
+0.69971037,avantor,,usa,,,,,,14890000000,,,,,,640
+0.69971037,hologic,,usa,,,,,,19650000000,,,,,,641
+0.69971037,hubspot,,usa,,,,,,15330000000,,,,,,642
+0.69971037,workday,,usa,,,,,,42950000000,,,,,,643
+0.69971037,gartner,,usa,,,,,,26550000000,,,,,,644
+0.69971037,mongodb,,usa,,,,,,13680000000,,,,,,645
+0.69971037,equifax,,usa,,,,,,26570000000,,,,,,646
+0.69971037,cummins,,usa,,,,,,35620000000,,,,,,647
+0.69971037,zscaler,,usa,,,,,,15470000000,,,,,,648
+0.69971037,corteva,,usa,,,,,,44810000000,,,,,,649
+0.69971037,paychex,,usa,,,,,,43360000000,,,,,,650
+0.69971037,pepsico,,usa,,,,,,241420000000,,,,,,651
+0.69971037,metlife,,usa,,,,,,56420000000,,,,,,652
+0.69971037,moderna,,usa,,,,,,73760000000,,,,,,653
+0.69971037,netflix,,usa,,,,,,148110000000,,,,,,654
+0.69971037,datadog,,usa,,,,,,22370000000,,,,,,655
+0.69971037,walmart,,usa,,,,,,391810000000,,,,,,656
+0.6983756,lyondellbasell,,usa,,,,,,30520000000,,,,,,657
+0.6973723,wells fargo,,usa,,,,,,168490000000,,,,,,658
+0.6968313,cf industries,,usa,,,,,,17050000000,,,,,,659
+0.6968313,zimmer biomet,,usa,,,,,,25890000000,,,,,,660
+0.6960524,sse,,uk,,,,,,22060000000,,,,,,661
+0.6960524,aon,,uk,,,,,,65599999999,,,,,,662
+0.69502395,marathon oil,,usa,,,,,,17140000000,,,,,,663
+0.69502395,hormel foods,,usa,,,,,,25190000000,,,,,,664
+0.69502395,devon energy,,usa,,,,,,41560000000,,,,,,665
+0.69502395,lam research,,usa,,,,,,64590000000,,,,,,666
+0.69107574,saudi electricity,,s. arabia,,,,,,25500000000,,,,,,667
+0.6890569,best buy,,usa,,,,,,18980000000,,,,,,668
+0.6886186,exxon mobil,,usa,,,,,,465980000000,,,,,,669
+0.6886186,duke energy,,usa,,,,,,80840000000,,,,,,670
+0.6883945,american tower,,usa,,,,,,108390000000,,,,,,671
+0.68672484,netapp,,usa,,,,,,13930000000,,,,,,672
+0.68672484,humana,,usa,,,,,,62200000000,,,,,,673
+0.68672484,ventas,,usa,,,,,,19580000000,,,,,,674
+0.68672484,splunk,,usa,,,,,,14530000000,,,,,,675
+0.68672484,seagen,,usa,,,,,,24530000000,,,,,,676
+0.68672484,twilio,,usa,,,,,,9950000000,,,,,,677
+0.68672484,nasdaq,,usa,,,,,,31120000000,,,,,,678
+0.68672484,copart,,usa,,,,,,29920000000,,,,,,679
+0.68672484,ametek,,usa,,,,,,33549999999,,,,,,680
+0.68672484,biogen,,usa,,,,,,41470000000,,,,,,681
+0.68672484,paccar,,usa,,,,,,35700000000,,,,,,682
+0.68672484,resmed,,usa,,,,,,31940000000,,,,,,683
+0.68672484,ecolab,,usa,,,,,,43980000000,,,,,,684
+0.68672484,fiserv,,usa,,,,,,65120000000,,,,,,685
+0.68672484,intuit,,usa,,,,,,110460000000,,,,,,686
+0.68672484,abbvie,,usa,,,,,,271630000000,,,,,,687
+0.68672484,pfizer,,usa,,,,,,268589999999,,,,,,688
+0.68672484,dexcom,,usa,,,,,,42570000000,,,,,,689
+0.68672484,vmware,,usa,,,,,,53410000000,,,,,,690
+0.68672484,zoetis,,usa,,,,,,75000000000,,,,,,691
+0.68672484,airbnb,,usa,,,,,,63550000000,,,,,,692
+0.68589115,kb financial group,,s. korea,,,,,,17870000000,,,,,,693
+0.68466073,hsbc,,uk,,,,,,144370000000,,,,,,694
+0.684571,crowdstrike,,usa,,,,,,23320000000,,,,,,695
+0.6831308,fastenal,,usa,,,,,,27960000000,,,,,,696
+0.6820998,synchrony,,usa,,,,,,15070000000,,,,,,697
+0.68132544,cvs health,,usa,,,,,,118150000000,,,,,,698
+0.6807225,mgm resorts,,usa,,,,,,15180000000,,,,,,699
+0.6798443,mettler-toledo,,usa,,,,,,34720000000,,,,,,700
+0.6798443,philip morris,,usa,,,,,,157650000000,,,,,,701
+0.678447,roblox,,usa,,,,,,19950000000,,,,,,702
+0.6772022,mastercard,,usa,,,,,,361040000000,,,,,,703
+0.673931,lg electronics,,s. korea,,,,,,13000000000,,,,,,704
+0.6729513,albemarle,,usa,,,,,,28370000000,,,,,,705
+0.6729513,eli lilly,,usa,,,,,,343600000000,,,,,,706
+0.6729513,starbucks,,usa,,,,,,123070000000,,,,,,707
+0.6729513,microsoft,,usa,,,,,,1783000000000,,,,,,708
+0.67283213,samsung biologics,,s. korea,,,,,,46420000000,,,,,,709
+0.67188406,keycorp keybank,,usa,,,,,,16960000000,,,,,,710
+0.67076534,unitedhealth,,usa,,,,,,457420000000,,,,,,711
+0.6695912,ansys,,usa,,,,,,22130000000,,,,,,712
+0.6695912,block,,usa,,,,,,42850000000,,,,,,713
+0.6695912,oneok,,usa,,,,,,31650000000,,,,,,714
+0.6695912,tesla,,usa,,,,,,386500000000,,,,,,715
+0.6695912,amgen,,usa,,,,,,144980000000,,,,,,716
+0.6695912,adobe,,usa,,,,,,160100000000,,,,,,717
+0.6695912,apple,,usa,,,,,,2142999999999,,,,,,718
+0.6687756,sirius xm,,usa,,,,,,23180000000,,,,,,719
+0.6677169,coinbase,,usa,,,,,,13080000000,,,,,,720
+0.66705966,live nation,,usa,,,,,,17230000000,,,,,,721
+0.6662873,equinix,,usa,,,,,,66800000000,,,,,,722
+0.66425043,amazon,,usa,,,,,,1000000000000,,,,,,723
+0.6632443,tradeweb,,usa,,,,,,16540000000,,,,,,724
+0.6632443,m&t bank,,usa,,,,,,25810000000,,,,,,725
+0.6632443,amphenol,,usa,,,,,,47820000000,,,,,,726
+0.6632443,mckesson,,usa,,,,,,54130000000,,,,,,727
+0.6611154,omnicom,,usa,,,,,,17140000000,,,,,,728
+0.6590536,qualcomm,,usa,,,,,,134780000000,,,,,,729
+0.6590536,mcdonald,,usa,,,,,,196940000000,,,,,,730
+0.657374,crown castle,,usa,,,,,,65319999999,,,,,,731
+0.65566695,capital one,,usa,,,,,,39250000000,,,,,,732
+0.65566695,mplx,,usa,,,,,,34210000000,,,,,,733
+0.6518707,cenergy,,usa,,,,,,18550000000,,,,,,734
+0.6518707,fortive,,usa,,,,,,23850000000,,,,,,735
+0.6518707,entergy,,usa,,,,,,22480000000,,,,,,736
+0.6518707,emerson,,usa,,,,,,57010000000,,,,,,737
+0.6518707,danaher,,usa,,,,,,199180000000,,,,,,738
+0.6518707,comcast,,usa,,,,,,168310000000,,,,,,739
+0.6518707,centene,,usa,,,,,,43620000000,,,,,,740
+0.6518707,newmont,,usa,,,,,,43130000000,,,,,,741
+0.6518707,chevron,,usa,,,,,,343330000000,,,,,,742
+0.65109503,honeywell,,usa,,,,,,145630000000,,,,,,743
+0.6480896,transdigm,,usa,,,,,,37180000000,,,,,,744
+0.64772445,billcom,,usa,,,,,,10910000000,,,,,,745
+0.64772445,corning,,usa,,,,,,30500000000,,,,,,746
+0.64765036,bp,,uk,,,,,,107460000000,,,,,,747
+0.646321,the hartford,,usa,,,,,,24390000000,,,,,,748
+0.64603364,okta,,usa,,,,,,11170000000,,,,,,749
+0.64603364,nike,,usa,,,,,,199780000000,,,,,,750
+0.64603364,ebay,,usa,,,,,,25100000000,,,,,,751
+0.64603364,msci,,usa,,,,,,40390000000,,,,,,752
+0.64603364,snap,,usa,,,,,,15800000000,,,,,,753
+0.64603364,at&t,,usa,,,,,,139330000000,,,,,,754
+0.64603364,visa,,usa,,,,,,472350000000,,,,,,755
+0.6452314,principal,,usa,,,,,,21850000000,,,,,,756
+0.6446475,fleetcor,,usa,,,,,,14350000000,,,,,,757
+0.6446475,zoominfo,,usa,,,,,,11450000000,,,,,,758
+0.6446475,palantir,,usa,,,,,,14470000000,,,,,,759
+0.6446475,keysight,,usa,,,,,,32290000000,,,,,,760
+0.64154035,carnival,,usa,,,,,,13660000000,,,,,,761
+0.64154035,mondelez,,usa,,,,,,91570000000,,,,,,762
+0.6383801,markel,,usa,,,,,,19360000000,,,,,,763
+0.6383801,ameren,,usa,,,,,,23300000000,,,,,,764
+0.6383801,lennar,,usa,,,,,,28150000000,,,,,,765
+0.6383801,nvidia,,usa,,,,,,421120000000,,,,,,766
+0.6383801,moody's,,usa,,,,,,57620000000,,,,,,767
+0.6383801,oracle,,usa,,,,,,240500000000,,,,,,768
+0.6383801,cintas,,usa,,,,,,45610000000,,,,,,769
+0.6383801,target,,usa,,,,,,75760000000,,,,,,770
+0.63671553,sk hynix,,s. korea,,,,,,47680000000,,,,,,771
+0.63554233,merck,,usa,,,,,,284590000000,,,,,,772
+0.63554233,cisco,,usa,,,,,,200800000000,,,,,,773
+0.63437206,paycom,,usa,,,,,,18270000000,,,,,,774
+0.63437206,paypal,,usa,,,,,,90600000000,,,,,,775
+0.63434666,coca-cola,,usa,,,,,,265649999999,,,,,,776
+0.6296072,the people's insurance company picc,,china,,,,,,31030000000,,,,,,777
+0.6278299,verizon,,usa,,,,,,175800000000,,,,,,778
+0.6278299,carrier,,usa,,,,,,38350000000,,,,,,779
+0.6253415,coupang,,s. korea,,,,,,29930000000,,,,,,780
+0.62215215,heico,,usa,,,,,,19580000000,,,,,,781
+0.62215215,dover,,usa,,,,,,20260000000,,,,,,782
+0.62215215,sysco,,usa,,,,,,40700000000,,,,,,783
+0.62215215,fedex,,usa,,,,,,47600000000,,,,,,784
+0.62215215,intel,,usa,,,,,,124260000000,,,,,,785
+0.62215215,nucor,,usa,,,,,,40420000000,,,,,,786
+0.62215215,cigna,,usa,,,,,,96060000000,,,,,,787
+0.6217453,teledyne,,usa,,,,,,19500000000,,,,,,788
+0.6209732,akamai,,usa,,,,,,13940000000,,,,,,789
+0.6187614,al rajhi bank,,s. arabia,,,,,,83110000000,,,,,,790
+0.61843103,aflac,,usa,,,,,,45290000000,,,,,,791
+0.61843103,iqvia,,usa,,,,,,41260000000,,,,,,792
+0.6181576,baxter,,usa,,,,,,22600000000,,,,,,793
+0.6118483,dow,,usa,,,,,,41290000000,,,,,,794
+0.6084926,costco,,usa,,,,,,215310000000,,,,,,795
+0.60473686,advanced info service ais,,thailand,,,,,,18320000000,,,,,,796
+0.6023141,hess,,usa,,,,,,46920000000,,,,,,797
+0.5962057,ford,,usa,,,,,,51140000000,,,,,,798
+0.5888363,uber,,usa,,,,,,58710000000,,,,,,799
+0.5888363,dell,,usa,,,,,,28770000000,,,,,,800
+0.5776095,kla,,usa,,,,,,59520000000,,,,,,801
+0.5776095,ppl,,usa,,,,,,22530000000,,,,,,802
+0.5756381,zoom,,usa,,,,,,20310000000,,,,,,803
+0.55854166,hp,,usa,,,,,,27410000000,,,,,,804
+0.5507842,fifth third bank,,usa,,,,,,23660000000,,,,,,805
+0.5503131,3m,,usa,,,,,,71580000000,,,,,,806
+0.5471797,samsung,,s. korea,,,,,,331690000000,,,,,,807
+0.5447328,sabic,,s. arabia,,,,,,76000000000,,,,,,808
+0.52271825,china gas,,china,,,,,,8270000000,,,,,,
+0.5101874,link reit,,hong kong,,,,,,17190000000,,,,,,810
+0.4808154,monolithic power systems,,usa,,,,,,18700000000,,,,,,811
+0.44961685,cadence design systems,,usa,,,,,,46430000000,,,,,,812
+0.43682128,ingersoll rand india,,india,,,,,,780000000,,,,,,813
+0.4256492,china railway group,,china,,,,,,19230000000,,,,,,814
+0.42114967,canadian tire,,canada,,,,,,7070000000,,,,,,815
+0.40604606,murata manufacturing murata seisakusho,,japan,,,,,,34470000000,,,,,,816
+0.40027684,china mobile,,china,,,,,,154540000000,,,,,,817
+0.39234313,merck kgaa,,germany,,,,,,94030000000,,,,,,818
+0.38837966,taiwan cement,,taiwan,,,,,,8620000000,,,,,,
+0.3882352,energy transfer partners,,usa,,,,,,39220000000,,,,,,820
+0.3745361,china telecom,,china,,,,,,58050000000,,,,,,821
+0.36879215,budweiser apac,,hong kong,,,,,,43580000000,,,,,,822
+0.35558125,kellogg's,,usa,,,,,,23880000000,,,,,,823
+0.3526005,continental,,germany,,,,,,14560000000,,,,,,824
+0.3171397,daimler truck,,germany,,,,,,26110000000,,,,,,825
+0.31468332,meta platforfacebook,,usa,,,,,,359180000000,,,,,,826
+0.3004269,cnooc,,china,,,,,,66989999999,,,,,,827
+0.29808614,norsk hydro,,norway,,,,,,16050000000,,,,,,
+0.2825526,petro rio,,brazil,,,,,,6500000000,,,,,,
+0.28030008,united,,japan,,,,,,180000000,,,,,,
+0.27993977,booking holdings bookingcom,,usa,,,,,,89260000000,,,,,,831
+0.270345,singapore post,,singapore,,,,,,900000000,,,,,,
+0.24962266,intertek,,uk,,,,,,8550000000,,,,,,
+0.24312775,shenzhen zqgame,,china,,,,,,760000000,,,,,,
+0.24104376,nippon steel,,japan,,,,,,17900000000,,,,,,
+0.23901236,beijing airport,,china,,,,,,3670000000,,,,,,
+0.23142885,grupo bimbo,,mexico,,,,,,21570000000,,,,,,
+0.2267647,veeva systems,,usa,,,,,,25570000000,,,,,,838
+0.2199716,cez group,,czech republic,,,,,,19560000000,,,,,,839
+0.21654977,maximus,,usa,,,,,,4450000000,,,,,,
+0.2144003,bae systems,,uk,,,,,,31490000000,,,,,,841
+0.21212606,generali,,italy,,,,,,29810000000,,,,,,
+0.20440957,compass,,usa,,,,,,1560000000,,,,,,
+0.19153161,chongqing changan,,china,,,,,,17050000000,,,,,,
+0.17772005,eqt,,sweden,,,,,,29590000000,,,,,,
+0.16473332,the bancorp,,usa,,,,,,1690000000,,,,,,
+0.16140912,edp group,,portugal,,,,,,20830000000,,,,,,
+0.14300208,pacific premier bancorp,,usa,,,,,,3020000000,,,,,,
+0.13953498,saudi aramco,,s. arabia,,,,,,1878000000000,,,,,,
+0.12792447,banco santander mexico,,mexico,,,,,,8510000000,,,,,,
+0.113751285,itochu techno-solutions,,japan,,,,,,5450000000,,,,,,851
+0.113306984,brown forman,,usa,,,,,,32159999999,,,,,,852
+0.10919057,electrica,,romania,,,,,,620000000,,,,,,853
+0.10557684,j b hunt,,usa,,,,,,18600000000,,,,,,854
+0.09626315,advansix,,usa,,,,,,1190000000,,,,,,
+0.09321081,china state construction engineering,,china,,,,,,34170000000,,,,,,
+0.090112925,woodside energy,,australia,,,,,,49020000000,,,,,,
+0.085564524,shanghai airport,,china,,,,,,23390000000,,,,,,858
+0.084783055,china unicom,,hong kong,,,,,,21350000000,,,,,,
+0.08061589,investec,,uk,,,,,,5870000000,,,,,,
+0.075869925,alphabet google,,usa,,,,,,1195000000000,,,,,,
+0.0751741,schindler group,,switzerland,,,,,,22320000000,,,,,,862
+0.072542086,china zheshang bank,,china,,,,,,8840000000,,,,,,
+0.06447924,mtr corporation,,hong kong,,,,,,33549999999,,,,,,864
+0.06255621,w w grainger,,usa,,,,,,28990000000,,,,,,865
+0.05913636,the rgroup,,usa,,,,,,490000000,,,,,,
+0.05845903,china steel,,taiwan,,,,,,15880000000,,,,,,
+0.04809568,bank ozk,,usa,,,,,,4890000000,,,,,,
+0.048078436,weg on,,brazil,,,,,,32140000000,,,,,,
+0.042827424,the honest company,,usa,,,,,,280000000,,,,,,
+0.042826332,saudi arabian fertilizer company,,s. arabia,,,,,,17570000000,,,,,,
+0.038774934,archer daniels midland adm,,usa,,,,,,48560000000,,,,,,872
+0.037345923,teleflex,,usa,,,,,,11300000000,,,,,,
+0.034571774,marvelous,,japan,,,,,,310000000,,,,,,
+0.033669338,liberty media,,usa,,,,,,13450000000,,,,,,
+0.032390185,citic limited,,china,,,,,,33220000000,,,,,,876
+0.031985335,d r horton,,usa,,,,,,32930000000,,,,,,877
+0.031698395,china lesso group,,china,,,,,,3660000000,,,,,,
+0.027882373,industrial direct,,usa,,,,,,4490000000,,,,,,
+0.025586847,the toro company,,usa,,,,,,12080000000,,,,,,
+0.024212586,publicis groupe,,france,,,,,,17230000000,,,,,,
+0.022202965,china southern airlines,,china,,,,,,19020000000,,,,,,
+0.020984033,the realreal,,usa,,,,,,140000000,,,,,,
+0.020925514,huazhu hotels,,china,,,,,,15100000000,,,,,,
+0.020794142,the vita coco company,,usa,,,,,,750000000,,,,,,
+0.018493278,shangri-la,,hong kong,,,,,,3040000000,,,,,,
+0.018311696,the azek company,,usa,,,,,,3420000000,,,,,,
+0.016507432,the andersons,,usa,,,,,,1200000000,,,,,,
+0.01623779,power assets,,hong kong,,,,,,11950000000,,,,,,
+0.014053499,the trade desk,,usa,,,,,,23020000000,,,,,,
+0.013379917,the glimpse group,,usa,,,,,,48260000,,,,,,
+0.013036184,restaurant brands new zealand,,new zealand,,,,,,440000000,,,,,,
+0.012925358,the greenbrier companies,,usa,,,,,,960000000,,,,,,
+0.011063849,the original bark company,,usa,,,,,,340000000,,,,,,
+0.01082869,shenzhen inovance,,china,,,,,,26680000000,,,,,,
+0.010515427,overstockcom,,usa,,,,,,930000000,,,,,,
+0.0104857525,clp group,,hong kong,,,,,,18570000000,,,,,,
+0.009944576,willscot,,usa,,,,,,9640000000,,,,,,
+0.009276308,the joint corp,,usa,,,,,,260000000,,,,,,
+0.009046513,indusind bank,,india,,,,,,11820000000,,,,,,
+0.008690684,mitsui bussan,,japan,,,,,,45360000000,,,,,,
+0.008427935,the weir group,,uk,,,,,,5690000000,,,,,,
+0.0070335967,novatek microelectronics,,taiwan,,,,,,6930000000,,,,,,
+0.006667242,stericycle,,usa,,,,,,4870000000,,,,,,
+0.006031801,scottsmiracle-gro,,usa,,,,,,3330000000,,,,,,
+0.0057109436,open lending,,usa,,,,,,1010000000,,,,,,
+0.0047874725,the arena group,,usa,,,,,,150000000,,,,,,
+0.0044715838,boc aviation,,singapore,,,,,,5990000000,,,,,,
+0.0040849,sandstorm gold,,canada,,,,,,1750000000,,,,,,
+0.0033560311,china airlines,,taiwan,,,,,,3780000000,,,,,,
+0.0026475873,zhejiang jinke tom culture industry,,china,,,,,,1620000000,,,,,,
+0.002415158,kansai paint,,japan,,,,,,2990000000,,,,,,
+0.0023963521,the tinplate company of india,,india,,,,,,450000000,,,,,,
+0.0022381425,mega uranium,,canada,,,,,,61670000,,,,,,
+0.002126627,the beachbody company,,usa,,,,,,210000000,,,,,,
+0.0019431277,the shyft group,,usa,,,,,,1060000000,,,,,,
+0.0017345488,huntington ingalls industries,,usa,,,,,,8900000000,,,,,,
+0.001497222,saudi international petrochemical company sipchem,,s. arabia,,,,,,7010000000,,,,,,
+0.0012888199,ihs towers,,uk,,,,,,2520000000,,,,,,
+0.0011881352,the ensign group,,usa,,,,,,5460000000,,,,,,
+0.0011497543,the pennant group,,usa,,,,,,320000000,,,,,,
+0.0009341953,pge polska,,poland,,,,,,3530000000,,,,,,
+0.00088219217,seven group holdings sgh,,australia,,,,,,5680000000,,,,,,
+0.00087545783,sea garena,,singapore,,,,,,33770000000,,,,,,
+0.00074219593,china securities,,china,,,,,,25730000000,,,,,,
+0.00051365356,the beauty health company,,usa,,,,,,1410000000,,,,,,
+0.00046218376,the cheesecake factory,,usa,,,,,,1980000000,,,,,,
+0.0003520137,kerry properties,,hong kong,,,,,,3410000000,,,,,,
+0.00024568924,bayer crop science,,india,,,,,,2610000000,,,,,,
+0.00022484067,contextlogic wishcom,,usa,,,,,,470000000,,,,,,
+0.0001924151,laboratorios farmaceuticos rovi,,spain,,,,,,2029999999,,,,,,
+0.000102815735,innergex renewable energy,,canada,,,,,,2500000000,,,,,,
+3.5024124e-05,cgn mining company,,hong kong,,,,,,910000000,,,,,,
+9.839414e-06,eve air mobility,,usa,,,,,,2089999999,,,,,,
+,tsmc,,taiwan,,,,,,450140000000,,,,,,
+,procter & gamble,,usa,,,,,,357540000000,,,,,,
+,nestle,,switzerland,,,,,,339240000000,,,,,,
+,home depot,,usa,,,,,,337560000000,,,,,,
+,international holding company,,uae,,,,,,242290000000,,,,,,
+,icbc,,china,,,,,,221130000000,,,,,,
+,reliance industries,,india,,,,,,203520000000,,,,,,
+,walt disney,,usa,,,,,,181260000000,,,,,,
+,catl,,china,,,,,,162800000000,,,,,,
+,charles schwab,,usa,,,,,,154900000000,,,,,,
+,cm bank,,china,,,,,,152130000000,,,,,,
+,dior,,france,,,,,,151160000000,,,,,,
+,tata consultancy services,,india,,,,,,150140000000,,,,,,
+,ibm,,usa,,,,,,130759999999,,,,,,
+,boeing,,usa,,,,,,127610000000,,,,,,
+,goldman sachs,,usa,,,,,,126640000000,,,,,,
+,wuliangye yibin,,china,,,,,,119630000000,,,,,,
+,elevance health,,usa,,,,,,115350000000,,,,,,
+,amd,,usa,,,,,,114470000000,,,,,,
+,jingdong mall,,china,,,,,,113480000000,,,,,,
+,taqa,,uae,,,,,,107750000000,,,,,,
+,ntt nippon telegraph & telephone,,japan,,,,,,100550000000,,,,,,
+,estee lauder,,usa,,,,,,95340000000,,,,,,
+,tjx companies,,usa,,,,,,94200000000,,,,,,
+,inditex,,spain,,,,,,93010000000,,,,,,
+,lg energy solution,,s. korea,,,,,,90870000000,,,,,,
+,compagnie financiere richemont,,switzerland,,,,,,84480000000,,,,,,
+,progressive,,usa,,,,,,78180000000,,,,,,
+,mercedes-benz,,germany,,,,,,77970000000,,,,,,
+,sinopec,,china,,,,,,76560000000,,,,,,
+,southern company,,usa,,,,,,76550000000,,,,,,
+,hindustan unilever,,india,,,,,,75100000000,,,,,,
+,petrobras,,brazil,,,,,,70690000000,,,,,,
+,alpha dhabi,,uae,,,,,,70460000000,,,,,,
+,walmex,,mexico,,,,,,69250000000,,,,,,
+,bank central asia,,indonesia,,,,,,66360000000,,,,,,
+,state bank of india,,india,,,,,,66230000000,,,,,,
+,pnc financial services,,usa,,,,,,66140000000,,,,,,
+,postal savings bank of china,,china,,,,,,65920000000,,,,,,
+,bmw,,germany,,,,,,65620000000,,,,,,
+,sherwin-williams,,usa,,,,,,63710000000,,,,,,
+,mindray,,china,,,,,,61860000000,,,,,,
+,investor ab,,sweden,,,,,,61790000000,,,,,,
+,scotiabank,,canada,,,,,,61610000000,,,,,,
+,blackstone group,,usa,,,,,,61390000000,,,,,,
+,midea,,china,,,,,,60250000000,,,,,,
+,emirates telecom etisalat group,,uae,,,,,,60230000000,,,,,,
+,activision blizzard,,usa,,,,,,59990000000,,,,,,
+,housing development finance corporation,,india,,,,,,58330000000,,,,,,
+,santander,,spain,,,,,,56750000000,,,,,,
+,bharti airtel,,india,,,,,,55700000000,,,,,,
+,life insurance corporation of india lic,,india,,,,,,55210000000,,,,,,
+,united heavy machinery,,russia,,,,,,53580000000,,,,,,
+,anz bank,,australia,,,,,,52080000000,,,,,,
+,kraft heinz,,usa,,,,,,51960000000,,,,,,
+,adani enterprises,,india,,,,,,50780000000,,,,,,
+,edf electricite de france,,france,,,,,,50670000000,,,,,,
+,adani total gas,,india,,,,,,50520000000,,,,,,
+,itc,,india,,,,,,50440000000,,,,,,
+,hikvision,,china,,,,,,48790000000,,,,,,
+,munich re munchener ruck,,germany,,,,,,48760000000,,,,,,
+,first abu dhabi bank,,uae,,,,,,48240000000,,,,,,
+,maaden,,s. arabia,,,,,,48120000000,,,,,,
+,universal music group,,netherlands,,,,,,46620000000,,,,,,
+,itochu shoji,,japan,,,,,,45790000000,,,,,,
+,bank rakyat indonesia,,indonesia,,,,,,45310000000,,,,,,
+,foxconn hon hai precision industry,,taiwan,,,,,,44900000000,,,,,,
+,bajaj finance,,india,,,,,,44780000000,,,,,,
+,sf express,,china,,,,,,44630000000,,,,,,
+,bayan resources,,indonesia,,,,,,44250000000,,,,,,
+,ping an bank,,china,,,,,,43670000000,,,,,,
+,kotak mahinbank,,india,,,,,,43620000000,,,,,,
+,ocbc bank,,singapore,,,,,,42990000000,,,,,,
+,nordea bank,,finland,,,,,,42530000000,,,,,,
+,yanghe,,china,,,,,,41890000000,,,,,,
+,apollo global management,,usa,,,,,,41820000000,,,,,,
+,rsted,,denmark,,,,,,41360000000,,,,,,
+,7-eleven,,japan,,,,,,41020000000,,,,,,
+,muyuan foods,,china,,,,,,40830000000,,,,,,
+,adani green energy,,india,,,,,,40740000000,,,,,,
+,williacompanies,,usa,,,,,,39970000000,,,,,,
+,bank of new york mellon,,usa,,,,,,39630000000,,,,,,
+,cibc,,canada,,,,,,39620000000,,,,,,
+,volvo group,,sweden,,,,,,39240000000,,,,,,
+,maersk,,denmark,,,,,,38220000000,,,,,,
+,lg chem,,s. korea,,,,,,38030000000,,,,,,
+,uob,,singapore,,,,,,37550000000,,,,,,
+,bank of china hong kong,,hong kong,,,,,,37430000000,,,,,,
+,adani transmission,,india,,,,,,37170000000,,,,,,
+,larsen & toubro,,india,,,,,,36960000000,,,,,,
+,haleon,,uk,,,,,,36890000000,,,,,,
+,allstate,,usa,,,,,,36850000000,,,,,,
+,hcl technologies,,india,,,,,,36520000000,,,,,,
+,jardine matheson,,hong kong,,,,,,36440000000,,,,,,
+,arista networks,,usa,,,,,,35330000000,,,,,,
+,asian paints,,india,,,,,,34410000000,,,,,,
+,cement roadstone holding,,ireland,,,,,,33979999999,,,,,,
+,pacific gas and electric,,usa,,,,,,33720000000,,,,,,
+,samsung sdi,,s. korea,,,,,,33710000000,,,,,,
+,bank of ningbo,,china,,,,,,33700000000,,,,,,
+,holcim group,,switzerland,,,,,,33630000000,,,,,,
+,costar group,,usa,,,,,,32960000000,,,,,,
+,citic bank,,china,,,,,,32700000000,,,,,,
+,kroger,,usa,,,,,,32360000000,,,,,,
+,globalfoundries,,usa,,,,,,32229999999,,,,,,
+,vici properties,,usa,,,,,,31920000000,,,,,,
+,yili group,,china,,,,,,31890000000,,,,,,
+,warner bros discovery,,usa,,,,,,31620000000,,,,,,
+,luxshare precision,,china,,,,,,31620000000,,,,,,
+,vanke,,china,,,,,,31360000000,,,,,,
+,pseg,,usa,,,,,,31260000000,,,,,,
+,hyundai,,s. korea,,,,,,31190000000,,,,,,
+,maruti suzuki india,,india,,,,,,31150000000,,,,,,
+,singtel,,singapore,,,,,,30970000000,,,,,,
+,peoples insurance company of china,,china,,,,,,30730000000,,,,,,
+,sun pharmaceutical,,india,,,,,,30570000000,,,,,,
+,ahold delhaize,,netherlands,,,,,,30010000000,,,,,,
+,gree electric appliances,,china,,,,,,29810000000,,,,,,
+,dnb,,norway,,,,,,29360000000,,,,,,
+,dmart,,india,,,,,,29320000000,,,,,,
+,kuhne nagel,,switzerland,,,,,,28730000000,,,,,,
+,beigene,,china,,,,,,28130000000,,,,,,
+,constellation energy,,usa,,,,,,27840000000,,,,,,
+,bank mandiri,,indonesia,,,,,,27830000000,,,,,,
+,bajaj finserv,,india,,,,,,27130000000,,,,,,
+,mobileye,,israel,,,,,,26440000000,,,,,,
+,titan company,,india,,,,,,26280000000,,,,,,
+,coloplast,,denmark,,,,,,25900000000,,,,,,
+,smic,,china,,,,,,25880000000,,,,,,
+,ultratech cement,,india,,,,,,25840000000,,,,,,
+,coca-cola european partners,,uk,,,,,,25730000000,,,,,,
+,agnico eagle mines,,canada,,,,,,25500000000,,,,,,
+,partners group,,switzerland,,,,,,24970000000,,,,,,
+,raymond james,,usa,,,,,,24970000000,,,,,,
+,lindt,,switzerland,,,,,,24750000000,,,,,,
+,telkom indonesia,,indonesia,,,,,,24670000000,,,,,,
+,ke holdings,,china,,,,,,24620000000,,,,,,
+,maybank,,malaysia,,,,,,24480000000,,,,,,
+,naver,,s. korea,,,,,,24330000000,,,,,,
+,banorte,,mexico,,,,,,24210000000,,,,,,
+,tripcom,,china,,,,,,24080000000,,,,,,
+,nestle india,,india,,,,,,23410000000,,,,,,
+,btg pactual,,brazil,,,,,,23330000000,,,,,,
+,ingersoll rand,,ireland,,,,,,23290000000,,,,,,
+,michelin,,france,,,,,,22880000000,,,,,,
+,ares management,,usa,,,,,,22880000000,,,,,,
+,oil & natural gas,,india,,,,,,22850000000,,,,,,
+,kakao,,s. korea,,,,,,22760000000,,,,,,
+,jsw steel,,india,,,,,,22510000000,,,,,,
+,borouge,,uae,,,,,,22420000000,,,,,,
+,yankuang energy yanzhou coal mining,,china,,,,,,22410000000,,,,,,
+,didi,,china,,,,,,22320000000,,,,,,
+,labcorp,,usa,,,,,,22300000000,,,,,,
+,argenx,,netherlands,,,,,,22210000000,,,,,,
+,boe technology,,china,,,,,,21990000000,,,,,,
+,uapartments,,usa,,,,,,21910000000,,,,,,
+,chow tai fook,,hong kong,,,,,,21760000000,,,,,,
+,firstrand,,south africa,,,,,,21430000000,,,,,,
+,insulet,,usa,,,,,,21240000000,,,,,,
+,xylem,,usa,,,,,,21070000000,,,,,,
+,antofagasta,,uk,,,,,,21020000000,,,,,,
+,biomarin pharmaceutical,,usa,,,,,,20940000000,,,,,,
+,kia,,s. korea,,,,,,20930000000,,,,,,
+,adani ports & sez,,india,,,,,,20920000000,,,,,,
+,ptt exploration and production,,thailand,,,,,,20700000000,,,,,,
+,atlantia,,italy,,,,,,20440000000,,,,,,
+,swedbank,,sweden,,,,,,20350000000,,,,,,
+,h&m,,sweden,,,,,,20280000000,,,,,,
+,ericsson,,sweden,,,,,,20200000000,,,,,,
+,cardinal health,,usa,,,,,,20150000000,,,,,,
+,copel,,brazil,,,,,,20110000000,,,,,,
+,epam systems,,usa,,,,,,19880000000,,,,,,
+,ntpc limited,,india,,,,,,19800000000,,,,,,
+,coterra energy,,usa,,,,,,19790000000,,,,,,
+,essity,,sweden,,,,,,19760000000,,,,,,
+,centerpoint energy,,usa,,,,,,19710000000,,,,,,
+,mahin& mahindra,,india,,,,,,19600000000,,,,,,
+,steel dynamics,,usa,,,,,,19570000000,,,,,,
+,wilmar international,,singapore,,,,,,19540000000,,,,,,
+,w r berkley,,usa,,,,,,19470000000,,,,,,
+,celltrion,,s. korea,,,,,,19450000000,,,,,,
+,aker bp,,norway,,,,,,19420000000,,,,,,
+,upm-kymmene,,finland,,,,,,19250000000,,,,,,
+,first solar,,usa,,,,,,19200000000,,,,,,
+,mengniu dairy,,china,,,,,,19160000000,,,,,,
+,conagra brands,,usa,,,,,,19020000000,,,,,,
+,wabtec,,usa,,,,,,18930000000,,,,,,
+,kanzhun,,china,,,,,,18880000000,,,,,,
+,centrais electricas brasileiras,,brazil,,,,,,18800000000,,,,,,
+,tsingtao,,china,,,,,,18750000000,,,,,,
+,posco,,s. korea,,,,,,18630000000,,,,,,
+,aes,,usa,,,,,,18600000000,,,,,,
+,rollins,,usa,,,,,,18600000000,,,,,,
+,cp all,,thailand,,,,,,18560000000,,,,,,
+,chewy,,usa,,,,,,18520000000,,,,,,
+,powergrid corporation of india,,india,,,,,,18520000000,,,,,,
+,porsche se,,germany,,,,,,18450000000,,,,,,
+,eisai,,japan,,,,,,18350000000,,,,,,
+,lpl financial,,usa,,,,,,18330000000,,,,,,
+,icon plc,,ireland,,,,,,18320000000,,,,,,
+,hong kong and china gas,,hong kong,,,,,,18300000000,,,,,,
+,wharf reic,,hong kong,,,,,,18250000000,,,,,,
+,darden restaurants,,usa,,,,,,18230000000,,,,,,
+,brookfield renewable partners,,bermuda,,,,,,18120000000,,,,,,
+,pinterest,,usa,,,,,,18100000000,,,,,,
+,exor,,netherlands,,,,,,18060000000,,,,,,
+,amcor,,switzerland,,,,,,18060000000,,,,,,
+,tata steel,,india,,,,,,18020000000,,,,,,
+,clorox,,usa,,,,,,18020000000,,,,,,
+,idex,,usa,,,,,,18010000000,,,,,,
+,incyte,,usa,,,,,,17980000000,,,,,,
+,icahn enterprises,,usa,,,,,,17920000000,,,,,,
+,hindustan zinc,,india,,,,,,17910000000,,,,,,
+,lasertec,,japan,,,,,,17800000000,,,,,,
+,zte,,china,,,,,,17800000000,,,,,,
+,danske bank,,denmark,,,,,,17790000000,,,,,,
+,vantage towers,,germany,,,,,,17640000000,,,,,,
+,take 2 interactive,,usa,,,,,,17620000000,,,,,,
+,associated british foods,,uk,,,,,,17610000000,,,,,,
+,solaredge,,israel,,,,,,17600000000,,,,,,
+,dollarama,,canada,,,,,,17540000000,,,,,,
+,expeditors,,usa,,,,,,17330000000,,,,,,
+,w p carey,,usa,,,,,,17290000000,,,,,,
+,cooper companies,,usa,,,,,,17290000000,,,,,,
+,blue owl capital,,usa,,,,,,17250000000,,,,,,
+,nu holdings,,brazil,,,,,,17240000000,,,,,,
+,abiomed,,usa,,,,,,17180000000,,,,,,
+,3i group,,uk,,,,,,17140000000,,,,,,
+,abu dhabi commercial bank adcb,,uae,,,,,,17140000000,,,,,,
+,shinhan financial group,,s. korea,,,,,,17070000000,,,,,,
+,targa resources,,usa,,,,,,17059999999,,,,,,
+,pkn orlen,,poland,,,,,,17000000000,,,,,,
+,broadridge financial solutions,,usa,,,,,,16950000000,,,,,,
+,santos,,australia,,,,,,16940000000,,,,,,
+,etsy,,usa,,,,,,16920000000,,,,,,
+,ajinomoto,,japan,,,,,,16910000000,,,,,,
+,bollore,,france,,,,,,16910000000,,,,,,
+,united airlines holdings,,usa,,,,,,16879999999,,,,,,
+,howmet aerospace,,usa,,,,,,16850000000,,,,,,
+,quest diagnostics,,usa,,,,,,16840000000,,,,,,
+,omv,,austria,,,,,,16809999999,,,,,,
+,avangrid,,usa,,,,,,16770000000,,,,,,
+,itausa,,brazil,,,,,,16770000000,,,,,,
+,tourmaline oil,,canada,,,,,,16670000000,,,,,,
+,hyone,,canada,,,,,,16660000000,,,,,,
+,texas pacific land trust,,usa,,,,,,16620000000,,,,,,
+,china merchants shekou industrial zone,,china,,,,,,16590000000,,,,,,
+,swedish match,,sweden,,,,,,16590000000,,,,,,
+,bank of jiangsu,,china,,,,,,16550000000,,,,,,
+,jm smucker company,,usa,,,,,,16460000000,,,,,,
+,campbell soup,,usa,,,,,,16450000000,,,,,,
+,fmc,,usa,,,,,,16370000000,,,,,,
+,bank of nanjing,,china,,,,,,16360000000,,,,,,
+,coal india,,india,,,,,,16210000000,,,,,,
+,atmos energy,,usa,,,,,,16180000000,,,,,,
+,moncler,,italy,,,,,,16160000000,,,,,,
+,hyundai mobis,,s. korea,,,,,,16140000000,,,,,,
+,rentokil initial,,uk,,,,,,16120000000,,,,,,
+,factset,,usa,,,,,,16110000000,,,,,,
+,swire properties,,hong kong,,,,,,16059999999,,,,,,
+,sbi life insurance,,india,,,,,,16030000000,,,,,,
+,swatch,,switzerland,,,,,,16030000000,,,,,,
+,hdfc life,,india,,,,,,15980000000,,,,,,
+,terna,,italy,,,,,,15970000000,,,,,,
+,nvr,,usa,,,,,,15950000000,,,,,,
+,jacobs engineering,,usa,,,,,,15950000000,,,,,,
+,symrise,,germany,,,,,,15860000000,,,,,,
+,avery dennison,,usa,,,,,,15810000000,,,,,,
+,wsp global,,canada,,,,,,15800000000,,,,,,
+,pchem petronas chemicals group,,malaysia,,,,,,15680000000,,,,,,
+,coles group,,australia,,,,,,15670000000,,,,,,
+,suzuki motor,,japan,,,,,,15640000000,,,,,,
+,lkq corporation,,usa,,,,,,15630000000,,,,,,
+,aercap,,ireland,,,,,,15610000000,,,,,,
